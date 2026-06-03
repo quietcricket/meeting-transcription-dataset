@@ -166,7 +166,7 @@ def extract_json(text: str) -> str:
     return text
 
 
-def analyze_with_llm(meeting_id: str, turns: list, retries: int = 3) -> dict:
+def analyze_with_llm(meeting_id: str, turns: list, retries: int = 5) -> dict:
     transcript = build_transcript_text(turns)
     prompt = ANALYSIS_PROMPT_TEMPLATE.format(
         meeting_id=meeting_id,
@@ -197,6 +197,16 @@ def analyze_with_llm(meeting_id: str, turns: list, retries: int = 3) -> dict:
             wait = 2 ** attempt * 5
             print(f"  [!] Rate limit, waiting {wait}s...")
             time.sleep(wait)
+        except openai.APIStatusError as e:
+            if e.status_code == 503:
+                wait = 15 * (attempt + 1)  # 15s, 30s, 45s ...
+                print(f"  [!] 503 model loading on attempt {attempt+1}, waiting {wait}s...")
+                time.sleep(wait)
+            else:
+                print(f"  [!] API status error on attempt {attempt+1}: {e}")
+                if attempt == retries - 1:
+                    return {"error": str(e)}
+                time.sleep(5)
         except Exception as e:
             print(f"  [!] API error on attempt {attempt+1}: {e}")
             if attempt == retries - 1:
@@ -267,30 +277,35 @@ def main():
                     print(f"Skipping malformed line: {e}")
 
     # Load already-processed results from cache (resume support)
-    done_keys: set = set()
-    cached: list   = []
+    # Deduplicate by meetingId alone — same meeting appearing under multiple dialogIds is skipped.
+    done_meeting_ids: set = set()
+    cached: list          = []
     if os.path.exists(cache_path):
         with open(cache_path) as f:
             for line in f:
                 line = line.strip()
                 if line:
                     r = json.loads(line)
-                    key = (r.get("dialogId",""), r.get("meetingId",""))
-                    done_keys.add(key)
+                    done_meeting_ids.add(r.get("meetingId", ""))
                     cached.append(r)
         print(f"Resuming: {len(cached)} already done, {len(records)-len(cached)} remaining\n")
     else:
         print(f"Processing {len(records)} meetings...\n")
 
-    cache_fh = open(cache_path, "a")
+    cache_fh  = open(cache_path, "a")
+    dedup_lock = __import__("threading").Lock()
 
     def process_one(args):
         i, record = args
         meeting_id = record.get("meeting", {}).get("meetingId", "?")
-        dialog_id  = record.get("dialogId", "?")
-        key = (dialog_id, meeting_id)
-        if key in done_keys:
-            return None  # already done
+        # Skip covid meetings
+        if meeting_id.lower().startswith("covid"):
+            return None
+        # Thread-safe dedup: claim the meetingId before doing any work
+        with dedup_lock:
+            if meeting_id in done_meeting_ids:
+                return None
+            done_meeting_ids.add(meeting_id)
         try:
             result = process_meeting(record)
             return (i, meeting_id, result)
