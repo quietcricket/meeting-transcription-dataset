@@ -1,0 +1,2680 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1651.486
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "N_SPK8021"
+		xmin = 0
+		xmax = 1651.486
+		intervals: size = 390
+		intervals [1]:
+			xmin = 0.49
+			xmax = 1.0
+			text = "小雪。"
+		intervals [2]:
+			xmin = 1.6
+			xmax = 4.38
+			text = "我们公司那个下个月的超市就要开业了。"
+		intervals [3]:
+			xmin = 4.84
+			xmax = 8.02
+			text = "然后过来今天过来叫你过来，问一下就是我们现在的。"
+		intervals [4]:
+			xmin = 8.02
+			xmax = 10.79
+			text = "他们社保的话，新员工的话是怎么购买的？"
+		intervals [5]:
+			xmin = 19.87
+			xmax = 20.86
+			text = "百分之六十左右。"
+		intervals [6]:
+			xmin = 21.4
+			xmax = 25.26
+			text = "啊他们大概他们现在我们给他定的基本工资是多少？"
+		intervals [7]:
+			xmin = 28.96
+			xmax = 30.27
+			text = "之前过来对吧？"
+		intervals [8]:
+			xmin = 39.61
+			xmax = 41.8
+			text = "那我们准备是什么时候？是"
+		intervals [9]:
+			xmin = 41.8
+			xmax = 44.58
+			text = "购买是多久时间段给他们购买？"
+		intervals [10]:
+			xmin = 54.97
+			xmax = 58.7
+			text = "那那那个，它是当月购买啊，比如说我下个月转正啊。"
+		intervals [11]:
+			xmin = 58.7
+			xmax = 60.84
+			text = "我是下个月就买？还是下下个月买？"
+		intervals [12]:
+			xmin = 66.33
+			xmax = 66.69
+			text = "嗯。"
+		intervals [13]:
+			xmin = 77.11
+			xmax = 82.02
+			text = "现在多少个人大概预计的话招了多少个人了，然可能还会有多少个人？"
+		intervals [14]:
+			xmin = 89.5
+			xmax = 90.36
+			text = "四十个人。"
+		intervals [15]:
+			xmin = 91.09
+			xmax = 93.38
+			text = "那那个店铺的管理层呢？"
+		intervals [16]:
+			xmin = 93.38
+			xmax = 94.5
+			text = "还会招吗？"
+		intervals [17]:
+			xmin = 100.48
+			xmax = 102.9
+			text = "因为我们现在开四家新店，然后。"
+		intervals [18]:
+			xmin = 103.63
+			xmax = 110.52
+			text = "可能话就需要还是卖社保吧，社保主要是哪哪五险啊，我之前听到说五险五险是哪五险啊？"
+		intervals [19]:
+			xmin = 119.38
+			xmax = 123.1
+			text = "哦是他那个比如说有男员工的话，他的生育。"
+		intervals [20]:
+			xmin = 123.79
+			xmax = 126.0
+			text = "是必须买吗？还是怎样？"
+		intervals [21]:
+			xmin = 130.1
+			xmax = 133.84
+			text = "哦因为在我的理解中，可能男员工的话不需要买，他是因为。"
+		intervals [22]:
+			xmin = 133.84
+			xmax = 137.46
+			text = "会就是有妻子的话，会有小孩就还会买这个。"
+		intervals [23]:
+			xmin = 142.68
+			xmax = 143.08
+			text = "嗯。"
+		intervals [24]:
+			xmin = 146.14
+			xmax = 146.57
+			text = "嗯"
+		intervals [25]:
+			xmin = 160.24
+			xmax = 164.22
+			text = "啊，公积金的话可以买，一般我觉得的话公积金他们，比如说。"
+		intervals [26]:
+			xmin = 164.62
+			xmax = 167.76
+			text = "呃转正之后，比如三个月转正之后再购买嘛，因为。"
+		intervals [27]:
+			xmin = 167.76
+			xmax = 169.69
+			text = "因为现毕竟说实话。"
+		intervals [28]:
+			xmin = 169.69
+			xmax = 171.19
+			text = "就是找工作的人。"
+		intervals [29]:
+			xmin = 171.19
+			xmax = 172.27
+			text = "他们的那种。"
+		intervals [30]:
+			xmin = 173.58
+			xmax = 174.54
+			text = "离对离职。"
+		intervals [31]:
+			xmin = 174.54
+			xmax = 176.22
+			text = "对对对动性比较大。"
+		intervals [32]:
+			xmin = 176.22
+			xmax = 179.15
+			text = "然后可能话需要他们稳定一段时间。再买吧。"
+		intervals [33]:
+			xmin = 179.15
+			xmax = 187.1
+			text = "呃，公积金的话这块就是我们这边是必须购买，还就是政策的话是必须购买还是有可那个？"
+		intervals [34]:
+			xmin = 194.75
+			xmax = 195.4
+			text = "嗯对。"
+		intervals [35]:
+			xmin = 198.85
+			xmax = 199.2
+			text = "嗯"
+		intervals [36]:
+			xmin = 201.76
+			xmax = 203.15
+			text = "不是特别，对吧？嗯"
+		intervals [37]:
+			xmin = 209.57
+			xmax = 209.97
+			text = "嗯"
+		intervals [38]:
+			xmin = 210.76
+			xmax = 211.47
+			text = "嗯嗯。"
+		intervals [39]:
+			xmin = 212.47
+			xmax = 220.26
+			text = "那这个大概买多少钱啊，比如说我们需要承担多少他们员工，我知道是两部分，一个是企业承担，一个是员工承担。"
+		intervals [40]:
+			xmin = 220.26
+			xmax = 221.68
+			text = "那这个比例大概是多少？"
+		intervals [41]:
+			xmin = 221.68
+			xmax = 222.39
+			text = "正常的话。"
+		intervals [42]:
+			xmin = 224.8
+			xmax = 225.25
+			text = "对半。"
+		intervals [43]:
+			xmin = 227.75
+			xmax = 230.19
+			text = "我们现在给他们交多少钱？如果要购买的话。"
+		intervals [44]:
+			xmin = 234.81
+			xmax = 235.24
+			text = "嗯"
+		intervals [45]:
+			xmin = 241.93
+			xmax = 244.1
+			text = "那就比较高了，对吧？其实可以。"
+		intervals [46]:
+			xmin = 245.91
+			xmax = 246.38
+			text = "嗯。"
+		intervals [47]:
+			xmin = 250.48
+			xmax = 251.71
+			text = "百八十块左右。对吧？"
+		intervals [48]:
+			xmin = 252.15
+			xmax = 253.13
+			text = "像我们三千块钱。"
+		intervals [49]:
+			xmin = 253.99
+			xmax = 255.2
+			text = "还是可以。"
+		intervals [50]:
+			xmin = 255.2
+			xmax = 255.94
+			text = "然后。"
+		intervals [51]:
+			xmin = 255.94
+			xmax = 256.88
+			text = "他们。"
+		intervals [52]:
+			xmin = 256.88
+			xmax = 262.78
+			text = "医保这块，他们报账的话需要找我们还是怎样。比如说他有些员工，他去医院看了病之后。"
+		intervals [53]:
+			xmin = 263.36
+			xmax = 266.14
+			text = "需要一些报销是要通过我们报吗？还是？"
+		intervals [54]:
+			xmin = 266.65
+			xmax = 269.1
+			text = "呃，通过就是找国家报这块。"
+		intervals [55]:
+			xmin = 272.29
+			xmax = 273.51
+			text = "不找我们？对。"
+		intervals [56]:
+			xmin = 280.73
+			xmax = 282.45
+			text = "因为现在医院的话，我知道。"
+		intervals [57]:
+			xmin = 282.45
+			xmax = 283.24
+			text = "有些。"
+		intervals [58]:
+			xmin = 283.24
+			xmax = 286.92
+			text = "比如说他是自自己购买的话，就是医院直接报销了嘛。然后如果是。"
+		intervals [59]:
+			xmin = 287.98
+			xmax = 288.51
+			text = "就是。"
+		intervals [60]:
+			xmin = 288.51
+			xmax = 290.41
+			text = "单位代买的好像。"
+		intervals [61]:
+			xmin = 291.01
+			xmax = 294.79
+			text = "好像的话也需要找我们交给资料交给我们对吧？因为。"
+		intervals [62]:
+			xmin = 294.79
+			xmax = 298.26
+			text = "以后的话可能会有一些女员工，她比如生小孩，这些。"
+		intervals [63]:
+			xmin = 298.26
+			xmax = 300.44
+			text = "我觉得需要可以前期去了解一下。"
+		intervals [64]:
+			xmin = 311.59
+			xmax = 313.37
+			text = "那现在五险主要是他。"
+		intervals [65]:
+			xmin = 313.37
+			xmax = 314.81
+			text = "就是比如说养老。"
+		intervals [66]:
+			xmin = 314.81
+			xmax = 316.76
+			text = "失业这块的话，它是。"
+		intervals [67]:
+			xmin = 316.76
+			xmax = 318.39
+			text = "主要他是什么东西？"
+		intervals [68]:
+			xmin = 318.39
+			xmax = 319.23
+			text = "就是里面他。"
+		intervals [69]:
+			xmin = 319.87
+			xmax = 321.81
+			text = "主要是涵盖了什么东西，里面。"
+		intervals [70]:
+			xmin = 324.36
+			xmax = 326.16
+			text = "养老的话，我知道可能是那个。"
+		intervals [71]:
+			xmin = 326.95
+			xmax = 330.67
+			text = "比如说他以后退休了之后，就说买够多少年就。"
+		intervals [72]:
+			xmin = 330.67
+			xmax = 331.41
+			text = "就是。"
+		intervals [73]:
+			xmin = 332.02
+			xmax = 335.38
+			text = "我们就就是国家就可以给给予他比例的一些。"
+		intervals [74]:
+			xmin = 335.95
+			xmax = 337.34
+			text = "赔付就是。"
+		intervals [75]:
+			xmin = 337.34
+			xmax = 338.75
+			text = "这方面东西，然后。"
+		intervals [76]:
+			xmin = 338.75
+			xmax = 344.33
+			text = "工伤的话是怎么样个性质，工伤还有，比如说我们有些员工，他自己买也买有。"
+		intervals [77]:
+			xmin = 344.33
+			xmax = 346.06
+			text = "买了一些社会型的保险。"
+		intervals [78]:
+			xmin = 346.06
+			xmax = 347.48
+			text = "他跟这个。"
+		intervals [79]:
+			xmin = 347.48
+			xmax = 348.35
+			text = "会有那种。"
+		intervals [80]:
+			xmin = 349.54
+			xmax = 351.18
+			text = "冲突吗？或者这跟这个。"
+		intervals [81]:
+			xmin = 363.97
+			xmax = 366.83
+			text = "那失业这块了？因为我现在了解到很多失业。"
+		intervals [82]:
+			xmin = 367.38
+			xmax = 370.89
+			text = "就是员工，他找工作之间的失业金是。"
+		intervals [83]:
+			xmin = 370.89
+			xmax = 373.14
+			text = "不容易领的是怎样的一个情况？"
+		intervals [84]:
+			xmin = 379.57
+			xmax = 380.91
+			text = "然后去看一看，对吧？"
+		intervals [85]:
+			xmin = 382.06
+			xmax = 383.7
+			text = "因为，嗯。"
+		intervals [86]:
+			xmin = 385.87
+			xmax = 391.8
+			text = "嗯因为我们现在的才正式我们这个企业才正式成立不久吗？然后需要给。"
+		intervals [87]:
+			xmin = 392.26
+			xmax = 394.53
+			text = "员工去做些东西，然后我也希望。"
+		intervals [88]:
+			xmin = 395.66
+			xmax = 398.68
+			text = "就是一些保障的话，给他们更好的保障这块。"
+		intervals [89]:
+			xmin = 408.55
+			xmax = 411.43
+			text = "那像我们这边本地的话就是。"
+		intervals [90]:
+			xmin = 411.43
+			xmax = 414.2
+			text = "女员工的产假大概是多多少天？现在是啊？"
+		intervals [91]:
+			xmin = 422.5
+			xmax = 426.23
+			text = "我看现在好像是看了一下，好像是一百五十天左右，对吧？"
+		intervals [92]:
+			xmin = 426.23
+			xmax = 427.93
+			text = "然后这用一百五十天的话，我们。"
+		intervals [93]:
+			xmin = 428.56
+			xmax = 430.64
+			text = "还是需要给他们付基本工资的？对吧？"
+		intervals [94]:
+			xmin = 431.91
+			xmax = 432.32
+			text = "嗯"
+		intervals [95]:
+			xmin = 436.69
+			xmax = 437.79
+			text = "基本工资还是要付。"
+		intervals [96]:
+			xmin = 440.05
+			xmax = 442.7
+			text = "他那个男员工还要陪产假现在是多少天？"
+		intervals [97]:
+			xmin = 452.04
+			xmax = 453.66
+			text = "十五天是不是啊？现在那个。"
+		intervals [98]:
+			xmin = 455.98
+			xmax = 458.5
+			text = "啊，这个比如说现在生二胎的话，应该。"
+		intervals [99]:
+			xmin = 458.5
+			xmax = 461.82
+			text = "跟之一胎一二胎应该是一样的吧，应该是。"
+		intervals [100]:
+			xmin = 461.82
+			xmax = 463.7
+			text = "说他有个女员工生的。"
+		intervals [101]:
+			xmin = 464.47
+			xmax = 467.71
+			text = "二胎的话，他的产假应该也是一百多天，对吧？"
+		intervals [102]:
+			xmin = 469.12
+			xmax = 471.88
+			text = "那这个的话其实对我们公司的话还是。"
+		intervals [103]:
+			xmin = 471.88
+			xmax = 473.44
+			text = "说实话，还是不是很。"
+		intervals [104]:
+			xmin = 473.44
+			xmax = 474.16
+			text = "那种对吗？"
+		intervals [105]:
+			xmin = 480.31
+			xmax = 481.46
+			text = "哦，这样对吧。"
+		intervals [106]:
+			xmin = 486.04
+			xmax = 486.85
+			text = "对对对对。"
+		intervals [107]:
+			xmin = 487.45
+			xmax = 491.8
+			text = "现在我们现在招的员工比例里面男生多一点还是女生会多一点？"
+		intervals [108]:
+			xmin = 496.44
+			xmax = 497.24
+			text = "嗯嗯嗯"
+		intervals [109]:
+			xmin = 499.72
+			xmax = 502.65
+			text = "大概的年龄年龄年龄阶段是在多大啊？"
+		intervals [110]:
+			xmin = 506.56
+			xmax = 510.69
+			text = "哦那像对这个他们其实过来的话，更多需要一个稳定的机会。"
+		intervals [111]:
+			xmin = 510.69
+			xmax = 511.82
+			text = "我的工作，然后。"
+		intervals [112]:
+			xmin = 512.83
+			xmax = 515.42
+			text = "然后可能对生育这块的话，可能。"
+		intervals [113]:
+			xmin = 515.42
+			xmax = 517.34
+			text = "会少一点可能二胎会比较多。"
+		intervals [114]:
+			xmin = 521.83
+			xmax = 523.36
+			text = "唉，那他们知不知道。"
+		intervals [115]:
+			xmin = 523.36
+			xmax = 525.76
+			text = "这些怎么用啊？就比如说他们怎么去。"
+		intervals [116]:
+			xmin = 526.29
+			xmax = 528.5
+			text = "查询他们每个月缴费比例。"
+		intervals [117]:
+			xmin = 528.5
+			xmax = 532.65
+			text = "然后公积金的缴费比例一些用途，其实我觉得你可以。"
+		intervals [118]:
+			xmin = 533.23
+			xmax = 536.13
+			text = "下来给他们组织一个比如新员工培训。"
+		intervals [119]:
+			xmin = 536.13
+			xmax = 539.66
+			text = "给他们告诉他们，像比如说我们公积金社保医保。"
+		intervals [120]:
+			xmin = 539.66
+			xmax = 540.65
+			text = "如何查询。"
+		intervals [121]:
+			xmin = 541.31
+			xmax = 546.63
+			text = "然后让他们知道，就是让他们心里有个数，至至少让他们知道我们公司给他们交了。"
+		intervals [122]:
+			xmin = 547.18
+			xmax = 550.04
+			text = "然后怎么去查询怎么去使用，还是我觉得还。"
+		intervals [123]:
+			xmin = 550.04
+			xmax = 553.62
+			text = "给他们做一个简单的一个培训和介绍，我觉得是这个还是有必要的。"
+		intervals [124]:
+			xmin = 560.5
+			xmax = 561.2
+			text = "嗯嗯。"
+		intervals [125]:
+			xmin = 563.71
+			xmax = 565.38
+			text = "现在是不是可以手机上查这个。"
+		intervals [126]:
+			xmin = 568.97
+			xmax = 569.23
+			text = "嗯"
+		intervals [127]:
+			xmin = 571.47
+			xmax = 579.9
+			text = "嗯但是可能他们年那些年龄比较大的员工，可能在对这块的话可能就了解比较少对吧，就手机APP的一个使用这块。"
+		intervals [128]:
+			xmin = 583.97
+			xmax = 584.42
+			text = "嗯"
+		intervals [129]:
+			xmin = 593.23
+			xmax = 594.61
+			text = "用途了，比如说。"
+		intervals [130]:
+			xmin = 594.61
+			xmax = 597.23
+			text = "现在社保卡的话，比如说我。"
+		intervals [131]:
+			xmin = 597.23
+			xmax = 598.31
+			text = "比如我家里面。"
+		intervals [132]:
+			xmin = 598.84
+			xmax = 601.72
+			text = "我的老婆没有社保，我有社保。"
+		intervals [133]:
+			xmin = 601.72
+			xmax = 604.99
+			text = "这块的话，比如说她生孩子的话，生育啊。"
+		intervals [134]:
+			xmin = 605.82
+			xmax = 608.98
+			text = "医就医疗跟生育这块可不可以互通？现在。"
+		intervals [135]:
+			xmin = 608.98
+			xmax = 609.9
+			text = "这块有没有。"
+		intervals [136]:
+			xmin = 612.7
+			xmax = 613.49
+			text = "嗯，对对。"
+		intervals [137]:
+			xmin = 616.96
+			xmax = 618.03
+			text = "哦这样的对吧。"
+		intervals [138]:
+			xmin = 619.39
+			xmax = 624.0
+			text = "那现在比如说他去医院看门诊，他拿家属的卡也可以去刷，对吧？"
+		intervals [139]:
+			xmin = 632.65
+			xmax = 635.87
+			text = "那这样的话其实就可以解决他们家里面的一些问题。"
+		intervals [140]:
+			xmin = 636.97
+			xmax = 637.7
+			text = "那我们。"
+		intervals [141]:
+			xmin = 637.7
+			xmax = 640.91
+			text = "我看一其他的一些大型的，其实像那种。"
+		intervals [142]:
+			xmin = 640.91
+			xmax = 644.08
+			text = "大的超市像那种沃尔玛或者是这种家乐福。"
+		intervals [143]:
+			xmin = 644.08
+			xmax = 645.54
+			text = "他们还会给员工。"
+		intervals [144]:
+			xmin = 645.54
+			xmax = 649.02
+			text = "购买的这种商业保险，这这个划算嘛？现在你了解过吗？"
+		intervals [145]:
+			xmin = 649.51
+			xmax = 651.39
+			text = "就是比如说一些意外险这块。"
+		intervals [146]:
+			xmin = 657.26
+			xmax = 657.75
+			text = "嗯"
+		intervals [147]:
+			xmin = 661.97
+			xmax = 662.95
+			text = "嗯嗯嗯"
+		intervals [148]:
+			xmin = 669.43
+			xmax = 670.41
+			text = "工伤险对吧。"
+		intervals [149]:
+			xmin = 683.23
+			xmax = 686.43
+			text = "现在我们现在新新招四十人。"
+		intervals [150]:
+			xmin = 686.43
+			xmax = 689.15
+			text = "确实人还是比较多，因为我们现在其实。"
+		intervals [151]:
+			xmin = 689.15
+			xmax = 692.46
+			text = "我们的老总的话，也想把公司做的更正规一点。"
+		intervals [152]:
+			xmin = 693.03
+			xmax = 696.5
+			text = "更好一点还是想给员工之后的一些后顾之忧，解决。"
+		intervals [153]:
+			xmin = 698.98
+			xmax = 703.87
+			text = "然后，然后他比如他的一个医保的社保的话，比如他。"
+		intervals [154]:
+			xmin = 703.87
+			xmax = 711.17
+			text = "他现在成都公司工作嘛，然后以后她比如去重庆，或者去其他省外的地方，它这个互通的还是可以。"
+		intervals [155]:
+			xmin = 711.17
+			xmax = 711.96
+			text = "这样的这个。"
+		intervals [156]:
+			xmin = 717.65
+			xmax = 718.03
+			text = "嗯。"
+		intervals [157]:
+			xmin = 719.04
+			xmax = 719.33
+			text = "嗯。"
+		intervals [158]:
+			xmin = 722.66
+			xmax = 723.03
+			text = "嗯"
+		intervals [159]:
+			xmin = 724.37
+			xmax = 724.79
+			text = "嗯"
+		intervals [160]:
+			xmin = 726.91
+			xmax = 733.14
+			text = "因为后期我们老总的话，也想在，比如说周边的县城重庆啊，昆明这些大的地方还是开一些分店。"
+		intervals [161]:
+			xmin = 733.14
+			xmax = 734.72
+			text = "然后这个可能会了解一下。"
+		intervals [162]:
+			xmin = 735.19
+			xmax = 737.09
+			text = "然后我们缴纳的话是。"
+		intervals [163]:
+			xmin = 737.09
+			xmax = 740.79
+			text = "他们所有人在本地缴纳就成都缴纳，还是可以去。"
+		intervals [164]:
+			xmin = 741.82
+			xmax = 745.77
+			text = "还是在外地，比如他现在重新上班，他就在重庆缴纳这块。"
+		intervals [165]:
+			xmin = 751.04
+			xmax = 751.79
+			text = "嗯对对"
+		intervals [166]:
+			xmin = 754.84
+			xmax = 757.11
+			text = "以后呢比如说他派出去之后呢？"
+		intervals [167]:
+			xmin = 763.58
+			xmax = 764.74
+			text = "帮我转过去对吧？"
+		intervals [168]:
+			xmin = 764.74
+			xmax = 766.5
+			text = "对他们的话，应该也没有影响。"
+		intervals [169]:
+			xmin = 768.34
+			xmax = 772.02
+			text = "我觉得话其实有些公司的话，我，知道他们还是。"
+		intervals [170]:
+			xmin = 772.02
+			xmax = 776.36
+			text = "本地购买社保对对员工的话，还是比较的合适一点。"
+		intervals [171]:
+			xmin = 780.55
+			xmax = 784.49
+			text = "嗯，那还有第二个那个公积金的问题，我这我想了解一下，比如说公积金。"
+		intervals [172]:
+			xmin = 785.02
+			xmax = 787.21
+			text = "他现在，比如在我们公司。"
+		intervals [173]:
+			xmin = 787.21
+			xmax = 789.72
+			text = "假如说工作了一年左右。他。"
+		intervals [174]:
+			xmin = 790.54
+			xmax = 794.11
+			text = "比如他或者租房或者买房，他这个怎么提取。"
+		intervals [175]:
+			xmin = 794.11
+			xmax = 798.78
+			text = "我觉得还是跟员工说一下，大概的情况是怎样的？对流程提取啲流程怎样的？"
+		intervals [176]:
+			xmin = 801.48
+			xmax = 802.11
+			text = "嗯嗯"
+		intervals [177]:
+			xmin = 807.81
+			xmax = 808.27
+			text = "嗯"
+		intervals [178]:
+			xmin = 810.01
+			xmax = 810.47
+			text = "嗯"
+		intervals [179]:
+			xmin = 813.0
+			xmax = 817.45
+			text = "租房我听好现在，比如他是外地打工的，这种应应该也可以提提取。"
+		intervals [180]:
+			xmin = 818.44
+			xmax = 821.16
+			text = "我之前看一下好像可以成。"
+		intervals [181]:
+			xmin = 822.22
+			xmax = 824.06
+			text = "成都这边应该可以就是租房。"
+		intervals [182]:
+			xmin = 824.71
+			xmax = 831.37
+			text = "应该是带租房合同和那个就是公积金缴纳的一个手续，好像可以提取一定的公积金比例。"
+		intervals [183]:
+			xmin = 832.36
+			xmax = 835.54
+			text = "装修好像现也可以，你可以后下来去那个。"
+		intervals [184]:
+			xmin = 836.11
+			xmax = 838.19
+			text = "公积金大厅去了解一下这一块。"
+		intervals [185]:
+			xmin = 838.19
+			xmax = 838.96
+			text = "然后也给工。"
+		intervals [186]:
+			xmin = 840.64
+			xmax = 846.78
+			text = "因为我们这边的员工更多的是来这边就成都外地来成都工作的嘛，可能需要租房这块。"
+		intervals [187]:
+			xmin = 846.78
+			xmax = 847.73
+			text = "如果这个。"
+		intervals [188]:
+			xmin = 847.73
+			xmax = 849.14
+			text = "租房的一些。"
+		intervals [189]:
+			xmin = 849.14
+			xmax = 849.83
+			text = "就是。"
+		intervals [190]:
+			xmin = 849.83
+			xmax = 855.63
+			text = "费用可以给他们解决的话，其实还是对他们有很多的就稳定，可以在公司里面去工作，还是。"
+		intervals [191]:
+			xmin = 856.15
+			xmax = 857.55
+			text = "很稳定的一个。"
+		intervals [192]:
+			xmin = 857.55
+			xmax = 860.64
+			text = "好好处吧，对于他们其实还可以了解一下。"
+		intervals [193]:
+			xmin = 860.64
+			xmax = 861.02
+			text = "如果。"
+		intervals [194]:
+			xmin = 862.03
+			xmax = 866.72
+			text = "比如说他们就是告诉他们整个的流程让他们知道，其实这个也是。"
+		intervals [195]:
+			xmin = 867.55
+			xmax = 872.54
+			text = "我们可以给他们想到一个隐形福利嘛，让更更好的去稳定的工作。"
+		intervals [196]:
+			xmin = 873.61
+			xmax = 877.0
+			text = "啊，现在招人的情况现在好招吗？现在这些员工。"
+		intervals [197]:
+			xmin = 882.52
+			xmax = 888.56
+			text = "他们现在对，就是公司是否比如我们单位是否购买五险一金，他们会看重吗？这块。"
+		intervals [198]:
+			xmin = 890.91
+			xmax = 891.32
+			text = "嗯"
+		intervals [199]:
+			xmin = 895.32
+			xmax = 895.76
+			text = "嗯"
+		intervals [200]:
+			xmin = 899.36
+			xmax = 900.84
+			text = "嗯购买五险一金。"
+		intervals [201]:
+			xmin = 901.3
+			xmax = 903.18
+			text = "他们会问吗？在面试的时候。"
+		intervals [202]:
+			xmin = 904.57
+			xmax = 906.27
+			text = "他们会主动问这块吗？"
+		intervals [203]:
+			xmin = 906.27
+			xmax = 910.38
+			text = "嗯，那还是其实现在年轻人还是很看重这块还是稳定比较看重。"
+		intervals [204]:
+			xmin = 913.29
+			xmax = 914.35
+			text = "嗯可以。"
+		intervals [205]:
+			xmin = 914.35
+			xmax = 915.15
+			text = "那现在。"
+		intervals [206]:
+			xmin = 915.15
+			xmax = 916.92
+			text = "我看一下公积金的话。"
+		intervals [207]:
+			xmin = 916.92
+			xmax = 917.59
+			text = "医保。"
+		intervals [208]:
+			xmin = 919.1
+			xmax = 919.38
+			text = "嗯"
+		intervals [209]:
+			xmin = 922.52
+			xmax = 922.88
+			text = "嗯"
+		intervals [210]:
+			xmin = 925.65
+			xmax = 926.15
+			text = "嗯"
+		intervals [211]:
+			xmin = 930.36
+			xmax = 931.05
+			text = "嗯嗯"
+		intervals [212]:
+			xmin = 936.46
+			xmax = 937.0
+			text = "嗯"
+		intervals [213]:
+			xmin = 944.1
+			xmax = 947.21
+			text = "嗯现在我们买了那买到成都哪个区的？"
+		intervals [214]:
+			xmin = 947.21
+			xmax = 948.65
+			text = "社保买到成都哪个区？"
+		intervals [215]:
+			xmin = 948.65
+			xmax = 949.53
+			text = "我去对吧。"
+		intervals [216]:
+			xmin = 950.35
+			xmax = 952.52
+			text = "他这个没有影响比如他有些。"
+		intervals [217]:
+			xmin = 952.52
+			xmax = 957.06
+			text = "我听现在外面说市社保，区社保这块应该没有什么影响吧。"
+		intervals [218]:
+			xmin = 960.11
+			xmax = 961.17
+			text = "没有什么影响对吧。"
+		intervals [219]:
+			xmin = 962.74
+			xmax = 969.8
+			text = "我们刚刚听到说，你可能我们现在有些是四十多岁的员工比较老稍微年龄大的一些员工，打新招进来。"
+		intervals [220]:
+			xmin = 970.54
+			xmax = 974.59
+			text = "他比如说以后他退休的话，需要我们公司提供怎样的一个证明。"
+		intervals [221]:
+			xmin = 974.59
+			xmax = 976.6
+			text = "这个你了了解过吗？因为。"
+		intervals [222]:
+			xmin = 976.6
+			xmax = 978.49
+			text = "也会涉及到退休的一些办理。"
+		intervals [223]:
+			xmin = 978.49
+			xmax = 981.77
+			text = "对可能也差不多四十岁到到五十岁的话。"
+		intervals [224]:
+			xmin = 982.69
+			xmax = 988.91
+			text = "可能差不多就几年七八年的这个时间，或者更短，四五年他们有了解吗？这块。"
+		intervals [225]:
+			xmin = 998.56
+			xmax = 1001.86
+			text = "现在国家规定的话，最低是多少年就可以。"
+		intervals [226]:
+			xmin = 1001.86
+			xmax = 1004.65
+			text = "就是就退休的补贴的政策。"
+		intervals [227]:
+			xmin = 1007.81
+			xmax = 1009.37
+			text = "嗯嗯"
+		intervals [228]:
+			xmin = 1011.73
+			xmax = 1013.38
+			text = "就最低是。嗯"
+		intervals [229]:
+			xmin = 1015.75
+			xmax = 1016.13
+			text = "嗯"
+		intervals [230]:
+			xmin = 1018.41
+			xmax = 1018.86
+			text = "嗯"
+		intervals [231]:
+			xmin = 1020.97
+			xmax = 1021.82
+			text = "为什么要？"
+		intervals [232]:
+			xmin = 1021.82
+			xmax = 1024.9
+			text = "为什么会多十年这块啊？嗯嗯。"
+		intervals [233]:
+			xmin = 1027.76
+			xmax = 1028.0
+			text = "就。"
+		intervals [234]:
+			xmin = 1028.92
+			xmax = 1030.99
+			text = "补齐二十就要补齐二十五年。"
+		intervals [235]:
+			xmin = 1033.5
+			xmax = 1038.8
+			text = "为什么这个会差十年你这个了解过吗？或者以后给员工也可以讲清楚你了解过吗？这个。"
+		intervals [236]:
+			xmin = 1040.56
+			xmax = 1040.91
+			text = "哦。"
+		intervals [237]:
+			xmin = 1042.82
+			xmax = 1045.62
+			text = "医保现在我们一个月，比如他三千块钱的话，大概。"
+		intervals [238]:
+			xmin = 1045.62
+			xmax = 1049.12
+			text = "我们公司会承担多少？你算过吗？比如说他每一个。"
+		intervals [239]:
+			xmin = 1049.12
+			xmax = 1050.5
+			text = "比例比如说。"
+		intervals [240]:
+			xmin = 1050.5
+			xmax = 1052.81
+			text = "比如说我们现在基本工资三千。"
+		intervals [241]:
+			xmin = 1052.81
+			xmax = 1057.89
+			text = "然后他比如说我们养老要承担多少比例？就公司会交多少钱，一个员工？然后。"
+		intervals [242]:
+			xmin = 1058.35
+			xmax = 1059.5
+			text = "医疗。"
+		intervals [243]:
+			xmin = 1059.5
+			xmax = 1060.73
+			text = "是那个。"
+		intervals [244]:
+			xmin = 1060.73
+			xmax = 1065.27
+			text = "生育失业，工伤这块，我们大概会缴多少钱你算过吗？"
+		intervals [245]:
+			xmin = 1072.3
+			xmax = 1072.78
+			text = "嗯"
+		intervals [246]:
+			xmin = 1082.97
+			xmax = 1083.37
+			text = "嗯"
+		intervals [247]:
+			xmin = 1089.46
+			xmax = 1091.92
+			text = "你就相当一个员工，我们招进的话，其实他的。"
+		intervals [248]:
+			xmin = 1092.59
+			xmax = 1094.95
+			text = "最低的一个用人什么的，将近四千块钱。"
+		intervals [249]:
+			xmin = 1099.38
+			xmax = 1099.77
+			text = "嗯"
+		intervals [250]:
+			xmin = 1102.48
+			xmax = 1104.11
+			text = "我们那这块的话还是。"
+		intervals [251]:
+			xmin = 1104.83
+			xmax = 1106.97
+			text = "对我们新开公司虽然说。"
+		intervals [252]:
+			xmin = 1106.97
+			xmax = 1110.64
+			text = "就是公司老板的话，实力还是可以，但是。"
+		intervals [253]:
+			xmin = 1111.39
+			xmax = 1112.43
+			text = "还是一个比较。"
+		intervals [254]:
+			xmin = 1113.44
+			xmax = 1115.75
+			text = "大的一个问题，因为现在你知道。"
+		intervals [255]:
+			xmin = 1115.75
+			xmax = 1118.99
+			text = "就最近一两年，这个疫情吧还是有一定问题。"
+		intervals [256]:
+			xmin = 1118.99
+			xmax = 1122.39
+			text = "公积金的话，我觉得还是就是转正之后再购买。"
+		intervals [257]:
+			xmin = 1122.39
+			xmax = 1123.8
+			text = "还是可以的，因为。"
+		intervals [258]:
+			xmin = 1124.36
+			xmax = 1125.14
+			text = "或者更。"
+		intervals [259]:
+			xmin = 1125.14
+			xmax = 1128.15
+			text = "可以更长的时间，还是可以的。"
+		intervals [260]:
+			xmin = 1133.53
+			xmax = 1134.65
+			text = "一年过后。"
+		intervals [261]:
+			xmin = 1134.65
+			xmax = 1135.86
+			text = "就入职一年之后。"
+		intervals [262]:
+			xmin = 1137.8
+			xmax = 1139.99
+			text = "现在我们又没有什么奖励制度啊？比如说他。"
+		intervals [263]:
+			xmin = 1140.59
+			xmax = 1141.52
+			text = "比如有些。"
+		intervals [264]:
+			xmin = 1141.52
+			xmax = 1145.73
+			text = "单位正规的大的一些连锁超市，它会有，就是每年。"
+		intervals [265]:
+			xmin = 1145.73
+			xmax = 1146.9
+			text = "他会有四。"
+		intervals [266]:
+			xmin = 1146.9
+			xmax = 1149.75
+			text = "多一个月工资就基本工资，我们现在这块有吗？"
+		intervals [267]:
+			xmin = 1153.46
+			xmax = 1153.92
+			text = "嗯"
+		intervals [268]:
+			xmin = 1156.23
+			xmax = 1157.45
+			text = "哦，年终奖的问题对吧？"
+		intervals [269]:
+			xmin = 1158.77
+			xmax = 1159.88
+			text = "现在我们。"
+		intervals [270]:
+			xmin = 1159.88
+			xmax = 1163.67
+			text = "医保社保嗯，那像我像我了解一下就是。"
+		intervals [271]:
+			xmin = 1163.67
+			xmax = 1165.22
+			text = "医保的话，他去。"
+		intervals [272]:
+			xmin = 1166.05
+			xmax = 1169.48
+			text = "做一些就是比如现在，比如说我们现在就那个。"
+		intervals [273]:
+			xmin = 1169.48
+			xmax = 1173.53
+			text = "会有那个新冠接种疫苗，或者他接种一些疫苗医保的话。"
+		intervals [274]:
+			xmin = 1173.53
+			xmax = 1175.72
+			text = "他直接刷卡就可以还是这样的这块。"
+		intervals [275]:
+			xmin = 1177.3
+			xmax = 1178.4
+			text = "可以报销的对吧？"
+		intervals [276]:
+			xmin = 1178.78
+			xmax = 1179.08
+			text = "哦。"
+		intervals [277]:
+			xmin = 1182.62
+			xmax = 1184.86
+			text = "员工这块的话，应问题不大。"
+		intervals [278]:
+			xmin = 1184.86
+			xmax = 1188.77
+			text = "然后你知道，现在我们对接就是武侯区的的一个社保局。"
+		intervals [279]:
+			xmin = 1189.77
+			xmax = 1192.02
+			text = "对接的流程性现在很麻烦吗？这块。"
+		intervals [280]:
+			xmin = 1195.18
+			xmax = 1195.55
+			text = "嗯"
+		intervals [281]:
+			xmin = 1205.31
+			xmax = 1210.88
+			text = "我知道武侯区现在他的那个社保大厅，在那个西部智谷那个方那个位置。"
+		intervals [282]:
+			xmin = 1210.88
+			xmax = 1214.9
+			text = "像我们公司在这个城里面，这个位置还是过去还是比较远，对吧？"
+		intervals [283]:
+			xmin = 1215.65
+			xmax = 1216.73
+			text = "你去过那个位置吗？"
+		intervals [284]:
+			xmin = 1222.53
+			xmax = 1223.49
+			text = "我建议你。"
+		intervals [285]:
+			xmin = 1223.49
+			xmax = 1226.32
+			text = "因为你是主管着人事这一块的话，我觉得你还是。"
+		intervals [286]:
+			xmin = 1226.83
+			xmax = 1229.15
+			text = "你还是要先把这块业务熟悉起来。"
+		intervals [287]:
+			xmin = 1229.15
+			xmax = 1235.14
+			text = "呃，对接的人员因为公积金又是另一块公积金的话，我们是交到是哪个，如果交的话，是交到哪个部门？"
+		intervals [288]:
+			xmin = 1235.78
+			xmax = 1237.36
+			text = "是跟哪个部门对接？"
+		intervals [289]:
+			xmin = 1241.2
+			xmax = 1241.74
+			text = "嗯嗯嗯"
+		intervals [290]:
+			xmin = 1248.03
+			xmax = 1252.71
+			text = "需要要呃，需要比如说我们因为是新开户吗？因为我们社保这块是。"
+		intervals [291]:
+			xmin = 1253.29
+			xmax = 1256.31
+			text = "然后它需要我们公司和企业提供什么东西，你知道吗？"
+		intervals [292]:
+			xmin = 1261.39
+			xmax = 1262.43
+			text = "嗯，还有什么呢？"
+		intervals [293]:
+			xmin = 1268.32
+			xmax = 1269.43
+			text = "找老板要意见。"
+		intervals [294]:
+			xmin = 1270.96
+			xmax = 1273.02
+			text = "户口需要吗？需要老板的户口吗？"
+		intervals [295]:
+			xmin = 1281.76
+			xmax = 1285.77
+			text = "工商管理注册这一块，他们就是那些相关的证明他们需要吗？"
+		intervals [296]:
+			xmin = 1288.81
+			xmax = 1289.81
+			text = "那我拿营业执照。"
+		intervals [297]:
+			xmin = 1294.84
+			xmax = 1297.15
+			text = "现在这个麻烦吗？办这个的流程。"
+		intervals [298]:
+			xmin = 1299.07
+			xmax = 1301.82
+			text = "大概有多少天大概正常情况下，多少天办下来。"
+		intervals [299]:
+			xmin = 1306.87
+			xmax = 1308.24
+			text = "一个月左右那，还是？"
+		intervals [300]:
+			xmin = 1308.76
+			xmax = 1312.36
+			text = "那比如说我们下个月就四家超市开业。"
+		intervals [301]:
+			xmin = 1315.36
+			xmax = 1315.72
+			text = "嗯"
+		intervals [302]:
+			xmin = 1318.61
+			xmax = 1319.08
+			text = "嗯"
+		intervals [303]:
+			xmin = 1321.53
+			xmax = 1324.51
+			text = "但现在员工的话，才招了一半多一点。"
+		intervals [304]:
+			xmin = 1324.51
+			xmax = 1330.51
+			text = "呃，招人的话需要你们人力下面的人就是专门管这块的专员的话，尽快去招吧，还是。"
+		intervals [305]:
+			xmin = 1331.32
+			xmax = 1333.58
+			text = "然后我刚刚说的，可能你说这个。"
+		intervals [306]:
+			xmin = 1334.11
+			xmax = 1337.63
+			text = "就办理对接社保还有公积金的话大概一个月我算一下。"
+		intervals [307]:
+			xmin = 1338.24
+			xmax = 1344.31
+			text = "可能之后他们可能要入职两个月之后才会购买社保，但我这个希望你们还是。"
+		intervals [308]:
+			xmin = 1344.79
+			xmax = 1345.46
+			text = "就跟。"
+		intervals [309]:
+			xmin = 1345.46
+			xmax = 1348.09
+			text = "员工去交流清楚，嗯因为。"
+		intervals [310]:
+			xmin = 1348.09
+			xmax = 1350.95
+			text = "第一个我们公司是新开的，第二个的话。"
+		intervals [311]:
+			xmin = 1350.95
+			xmax = 1352.88
+			text = "因为对接社保的一些。"
+		intervals [312]:
+			xmin = 1352.88
+			xmax = 1357.97
+			text = "流程的话也需要一个月，可能就会晚约，晚一个月给他们交那社保。"
+		intervals [313]:
+			xmin = 1357.97
+			xmax = 1359.03
+			text = "五险一金这一块。"
+		intervals [314]:
+			xmin = 1360.15
+			xmax = 1360.74
+			text = "然后。"
+		intervals [315]:
+			xmin = 1360.74
+			xmax = 1362.48
+			text = "社保可以补交吗？比如说。"
+		intervals [316]:
+			xmin = 1363.0
+			xmax = 1364.62
+			text = "这块的话，比如他。"
+		intervals [317]:
+			xmin = 1364.62
+			xmax = 1367.49
+			text = "这个月可以交上个月的吗？补交的。"
+		intervals [318]:
+			xmin = 1367.49
+			xmax = 1369.16
+			text = "补交的话可以吗？这个了解过吗？"
+		intervals [319]:
+			xmin = 1371.76
+			xmax = 1373.55
+			text = "应该是可以的，可以问一下。"
+		intervals [320]:
+			xmin = 1375.12
+			xmax = 1378.44
+			text = "我看一下现在我之前了解到，像社保的话，它。"
+		intervals [321]:
+			xmin = 1378.44
+			xmax = 1379.45
+			text = "交费的话。"
+		intervals [322]:
+			xmin = 1379.45
+			xmax = 1380.28
+			text = "就是。"
+		intervals [323]:
+			xmin = 1380.28
+			xmax = 1384.16
+			text = "直接是税务部门对接，税务这块的话需要跑一下吗？你们。"
+		intervals [324]:
+			xmin = 1387.49
+			xmax = 1390.51
+			text = "那我们现在也要去武侯区税务局。"
+		intervals [325]:
+			xmin = 1390.51
+			xmax = 1393.87
+			text = "去走一趟，他们现在在一起的嘛？就是他的办事大厅。"
+		intervals [326]:
+			xmin = 1393.87
+			xmax = 1395.99
+			text = "税务跟那个社保是在一起的吗？"
+		intervals [327]:
+			xmin = 1396.9
+			xmax = 1398.01
+			text = "不在一块儿的吗？"
+		intervals [328]:
+			xmin = 1398.01
+			xmax = 1399.68
+			text = "还是很麻烦的这块。"
+		intervals [329]:
+			xmin = 1399.68
+			xmax = 1400.97
+			text = "那就辛苦你了！小雪。"
+		intervals [330]:
+			xmin = 1402.39
+			xmax = 1405.14
+			text = "你看这边还有什么就是需要我们？"
+		intervals [331]:
+			xmin = 1405.14
+			xmax = 1406.05
+			text = "公司。"
+		intervals [332]:
+			xmin = 1406.05
+			xmax = 1406.7
+			text = "这边。"
+		intervals [333]:
+			xmin = 1406.7
+			xmax = 1409.88
+			text = "总经办或者老总支持的东西需要吗？就是。"
+		intervals [334]:
+			xmin = 1409.88
+			xmax = 1410.92
+			text = "社保这一块。"
+		intervals [335]:
+			xmin = 1415.24
+			xmax = 1415.8
+			text = "嗯"
+		intervals [336]:
+			xmin = 1418.78
+			xmax = 1419.39
+			text = "嗯嗯"
+		intervals [337]:
+			xmin = 1423.07
+			xmax = 1424.1
+			text = "嗯嗯好"
+		intervals [338]:
+			xmin = 1424.83
+			xmax = 1425.63
+			text = "好的好的。"
+		intervals [339]:
+			xmin = 1429.72
+			xmax = 1430.85
+			text = "啊，现在他们还需"
+		intervals [340]:
+			xmin = 1431.24
+			xmax = 1436.94
+			text = "我们准备给他们定一些什么福利？你们有没有就是清楚的一个，比如他们年假现在多少天？"
+		intervals [341]:
+			xmin = 1436.94
+			xmax = 1439.09
+			text = "这块然后一些比如说他们。"
+		intervals [342]:
+			xmin = 1439.68
+			xmax = 1448.04
+			text = "结婚的话可能可以休息多少天？或者是他们一些比如结亲的话，会给他们发一些购物卡，这一块嘛？就是你们人事定了。"
+		intervals [343]:
+			xmin = 1448.04
+			xmax = 1448.91
+			text = "定出来一个。"
+		intervals [344]:
+			xmin = 1450.0
+			xmax = 1451.23
+			text = "那个列表出来没有？"
+		intervals [345]:
+			xmin = 1460.35
+			xmax = 1460.97
+			text = "嗯嗯"
+		intervals [346]:
+			xmin = 1462.0
+			xmax = 1463.71
+			text = "嗯，年假是多少天啊？现在。"
+		intervals [347]:
+			xmin = 1465.43
+			xmax = 1466.21
+			text = "七天对吧。"
+		intervals [348]:
+			xmin = 1467.83
+			xmax = 1471.73
+			text = "七天的话也我们公司的话，也是正常的给他购买社保，然后。"
+		intervals [349]:
+			xmin = 1472.65
+			xmax = 1474.09
+			text = "然后那个。"
+		intervals [350]:
+			xmin = 1474.09
+			xmax = 1476.12
+			text = "基本工资也是照发的，对吧。"
+		intervals [351]:
+			xmin = 1483.93
+			xmax = 1486.81
+			text = "哦工资对对对，因为超市肯定。"
+		intervals [352]:
+			xmin = 1487.32
+			xmax = 1489.35
+			text = "越是这个时候，越生意好。"
+		intervals [353]:
+			xmin = 1495.9
+			xmax = 1496.56
+			text = "嗯，可以。"
+		intervals [354]:
+			xmin = 1497.63
+			xmax = 1502.07
+			text = "像那个看一下，现在社保刚也想到一个问题，社保的话，它。"
+		intervals [355]:
+			xmin = 1502.78
+			xmax = 1504.09
+			text = "自己员工。"
+		intervals [356]:
+			xmin = 1504.09
+			xmax = 1505.26
+			text = "比如他自己。"
+		intervals [357]:
+			xmin = 1505.26
+			xmax = 1507.28
+			text = "以前自己购买了，他需要。"
+		intervals [358]:
+			xmin = 1507.28
+			xmax = 1509.8
+			text = "去怎么停办这块还是怎样的？"
+		intervals [359]:
+			xmin = 1509.8
+			xmax = 1512.11
+			text = "有公司重新给他购买这块。"
+		intervals [360]:
+			xmin = 1512.11
+			xmax = 1512.92
+			text = "你了解过吗？"
+		intervals [361]:
+			xmin = 1518.1
+			xmax = 1519.17
+			text = "嗯，嗯嗯。"
+		intervals [362]:
+			xmin = 1520.56
+			xmax = 1521.36
+			text = "那这个。"
+		intervals [363]:
+			xmin = 1522.11
+			xmax = 1525.08
+			text = "之后你去社保大厅的话，也了解一下这个流程。"
+		intervals [364]:
+			xmin = 1525.42
+			xmax = 1527.16
+			text = "告告诉他们怎么做这块，因为。"
+		intervals [365]:
+			xmin = 1527.97
+			xmax = 1530.42
+			text = "可能那些员工有些年龄的话。"
+		intervals [366]:
+			xmin = 1530.42
+			xmax = 1535.31
+			text = "他自己以前也会自己去购买社保，因为他现在有可以灵活保险这一块。"
+		intervals [367]:
+			xmin = 1537.53
+			xmax = 1537.93
+			text = "嗯"
+		intervals [368]:
+			xmin = 1542.47
+			xmax = 1542.92
+			text = "嗯"
+		intervals [369]:
+			xmin = 1547.64
+			xmax = 1548.34
+			text = "嗯嗯"
+		intervals [370]:
+			xmin = 1553.63
+			xmax = 1554.38
+			text = "嗯嗯"
+		intervals [371]:
+			xmin = 1557.42
+			xmax = 1557.86
+			text = "嗯"
+		intervals [372]:
+			xmin = 1563.78
+			xmax = 1564.22
+			text = "嗯"
+		intervals [373]:
+			xmin = 1569.61
+			xmax = 1575.17
+			text = "这块的话你可以跟因为你现在负责人知这块吗。你可以自己直接跟他说可以了，不需要通过我。"
+		intervals [374]:
+			xmin = 1575.17
+			xmax = 1576.14
+			text = "而且我之前。"
+		intervals [375]:
+			xmin = 1576.14
+			xmax = 1578.18
+			text = "刚你说的很对，因为我之前也。"
+		intervals [376]:
+			xmin = 1578.49
+			xmax = 1578.88
+			text = "就是。"
+		intervals [377]:
+			xmin = 1579.58
+			xmax = 1584.45
+			text = "跟公司的法务聊过这个问题，就是五险这个五险的话是国家必须购买的。"
+		intervals [378]:
+			xmin = 1584.94
+			xmax = 1587.66
+			text = "就算你员工提出来不想买还是。"
+		intervals [379]:
+			xmin = 1588.27
+			xmax = 1592.41
+			text = "我们公司就必须给你购买，就是没有什么补贴之处，就是直接给他购买了。"
+		intervals [380]:
+			xmin = 1594.03
+			xmax = 1598.32
+			text = "那你了解过他们情况的，他们是年限最低年限交够了还是。因为什么原因？"
+		intervals [381]:
+			xmin = 1598.32
+			xmax = 1598.93
+			text = "还是。"
+		intervals [382]:
+			xmin = 1598.93
+			xmax = 1599.69
+			text = "本来就。"
+		intervals [383]:
+			xmin = 1599.69
+			xmax = 1600.77
+			text = "不想买对这块了。"
+		intervals [384]:
+			xmin = 1605.04
+			xmax = 1608.51
+			text = "他的年限是买够了吗？你有了解过这个情况。他的就是。"
+		intervals [385]:
+			xmin = 1608.85
+			xmax = 1609.48
+			text = "他的那个。"
+		intervals [386]:
+			xmin = 1610.53
+			xmax = 1615.27
+			text = "那个医疗跟那个养老的年限是买够了吗？还是什么原因你了解过吗？"
+		intervals [387]:
+			xmin = 1623.09
+			xmax = 1623.52
+			text = "嗯"
+		intervals [388]:
+			xmin = 1624.98
+			xmax = 1625.58
+			text = "嗯"
+		intervals [389]:
+			xmin = 1633.97
+			xmax = 1639.83
+			text = "那下来的话，其实你还是跟他们说清楚这个事，第一个是国家必须购买的，第二个的话是因为，"
+		intervals [390]:
+			xmin = 1640.62
+			xmax = 1645.17
+			text = "也是公司给与的福利嘛，其实他们个人的话也不需要承担。"
+	item [2]:
+		class = "IntervalTier"
+		name = "N_SPK8022"
+		xmin = 0
+		xmax = 1651.486
+		intervals: size = 275
+		intervals [1]:
+			xmin = 1.34
+			xmax = 2.24
+			text = "嗯。嗯"
+		intervals [2]:
+			xmin = 4.66
+			xmax = 4.93
+			text = "哦。"
+		intervals [3]:
+			xmin = 11.61
+			xmax = 19.76
+			text = "就是，社保这一块的话，我们是计划给他们，就是，觉得现在是按那个最低比例嘛，买个百分之六十左右。"
+		intervals [4]:
+			xmin = 20.67
+			xmax = 21.15
+			text = "嗯，对。"
+		intervals [5]:
+			xmin = 21.71
+			xmax = 21.94
+			text = "嗯。"
+		intervals [6]:
+			xmin = 25.33
+			xmax = 29.03
+			text = "基本工资目前是。平均工资在三千块左右。"
+		intervals [7]:
+			xmin = 29.75
+			xmax = 34.7
+			text = "嗯然后百分之六十的话，我们缴存百分之四十三点几。"
+		intervals [8]:
+			xmin = 34.7
+			xmax = 37.51
+			text = "剩下的部分就由他们自己，自己去。"
+		intervals [9]:
+			xmin = 38.23
+			xmax = 39.23
+			text = "付交付。"
+		intervals [10]:
+			xmin = 45.2
+			xmax = 51.57
+			text = "就是一般的话，是，以员工转正就应该是要买社保的。我们目前的转正时间是在三十日。"
+		intervals [11]:
+			xmin = 52.12
+			xmax = 54.82
+			text = "就一个月，过后，转正过后就开始购买社保。"
+		intervals [12]:
+			xmin = 61.24
+			xmax = 66.89
+			text = "嗯就是，比如这个月入职的，下个月转正过后，就就下个月就开始购买。"
+		intervals [13]:
+			xmin = 67.45
+			xmax = 69.33
+			text = "差不多的话，也就是在。"
+		intervals [14]:
+			xmin = 70.14
+			xmax = 76.55
+			text = "即将转正前，一周左右，我们就要开始收集他们的资料，就要往那边，我们要去需要提交资料。"
+		intervals [15]:
+			xmin = 82.48
+			xmax = 86.69
+			text = "目前的话是，交了有，二十七八人左右了。"
+		intervals [16]:
+			xmin = 87.05
+			xmax = 89.44
+			text = "嗯预计是，我们需要招四十人。"
+		intervals [17]:
+			xmin = 90.18
+			xmax = 90.74
+			text = "嗯，对。"
+		intervals [18]:
+			xmin = 94.85
+			xmax = 100.28
+			text = "嗯，这个的话，后期可能还需要再，增加两个，两到三个左右。"
+		intervals [19]:
+			xmin = 110.72
+			xmax = 117.21
+			text = "嗯那个五险的话，主要是，医疗保险，是嗯养老保险，还有失业保险，工伤险。"
+		intervals [20]:
+			xmin = 117.21
+			xmax = 119.89
+			text = "还有生育险。这，这五个险，险种。"
+		intervals [21]:
+			xmin = 125.32
+			xmax = 131.02
+			text = "嗯这个是，必须买的，就是，男员工也是要买的，因为他在五险之内。含在五险。"
+		intervals [22]:
+			xmin = 137.54
+			xmax = 139.46
+			text = "嗯对对对，这个是必须购买的。"
+		intervals [23]:
+			xmin = 140.55
+			xmax = 146.67
+			text = "然后。就是，还有一个问题就是，现在，因为我们公司新进来的员工的话。"
+		intervals [24]:
+			xmin = 147.13
+			xmax = 149.34
+			text = "大多都是，年轻人比较多一些。"
+		intervals [25]:
+			xmin = 149.34
+			xmax = 151.76
+			text = "可能，在公积金，这一块的话。"
+		intervals [26]:
+			xmin = 151.76
+			xmax = 154.87
+			text = "应该也是，比较有所需要的。租房公积金。"
+		intervals [27]:
+			xmin = 155.62
+			xmax = 159.51
+			text = "就，嗯，到时候我们公司看，有没有计划这一块。"
+		intervals [28]:
+			xmin = 160.69
+			xmax = 162.04
+			text = "嗯，就是。"
+		intervals [29]:
+			xmin = 173.28
+			xmax = 174.78
+			text = "这样流动性会比较大嘛。"
+		intervals [30]:
+			xmin = 176.09
+			xmax = 176.49
+			text = "嗯。"
+		intervals [31]:
+			xmin = 179.35
+			xmax = 179.86
+			text = "嗯。"
+		intervals [32]:
+			xmin = 186.69
+			xmax = 187.94
+			text = "这个是呃。"
+		intervals [33]:
+			xmin = 187.94
+			xmax = 190.57
+			text = "公积金是可以购买。可不购买。"
+		intervals [34]:
+			xmin = 190.57
+			xmax = 194.91
+			text = "但是就是，主要是考虑，就是，让他们会做得更长久一些吧。"
+		intervals [35]:
+			xmin = 194.91
+			xmax = 197.01
+			text = "因为现在招人还是比较困难，而且。"
+		intervals [36]:
+			xmin = 197.01
+			xmax = 198.92
+			text = "我们，公司的那个。"
+		intervals [37]:
+			xmin = 198.92
+			xmax = 201.69
+			text = "薪资水平，也不是，特别高嘛。"
+		intervals [38]:
+			xmin = 202.38
+			xmax = 207.89
+			text = "嗯就是，比较，这是一个，年轻人毕竟是比较有需求的一个部分就是。"
+		intervals [39]:
+			xmin = 207.89
+			xmax = 212.55
+			text = "就，前几天招人的时候，他们有提议到这一块，所以就跟你商量一下。"
+		intervals [40]:
+			xmin = 216.44
+			xmax = 216.95
+			text = "他们。"
+		intervals [41]:
+			xmin = 218.34
+			xmax = 218.63
+			text = "嗯。"
+		intervals [42]:
+			xmin = 222.6
+			xmax = 228.15
+			text = "就是。也就是对半的嘛，就是嗯嗯我们百分之五十，他们百分之五十。"
+		intervals [43]:
+			xmin = 230.66
+			xmax = 235.09
+			text = "购买的话，它，现在，平均的那个薪资是，三千左右。"
+		intervals [44]:
+			xmin = 235.09
+			xmax = 241.66
+			text = "我们是计划交，总共是百分之十二，然后，我们承担百分之六，他们承担百分之六。"
+		intervals [45]:
+			xmin = 243.3
+			xmax = 243.6
+			text = "嗯。"
+		intervals [46]:
+			xmin = 244.53
+			xmax = 246.32
+			text = "差不多的话，就是，每个人。"
+		intervals [47]:
+			xmin = 246.32
+			xmax = 250.55
+			text = "平均下下来，就是我们跟他们付百一百八十块左右。"
+		intervals [48]:
+			xmin = 251.64
+			xmax = 252.01
+			text = "嗯"
+		intervals [49]:
+			xmin = 253.54
+			xmax = 253.94
+			text = "嗯"
+		intervals [50]:
+			xmin = 269.58
+			xmax = 271.45
+			text = "这一块的话，他补。嗯"
+		intervals [51]:
+			xmin = 271.45
+			xmax = 272.29
+			text = "不找我们。"
+		intervals [52]:
+			xmin = 272.29
+			xmax = 276.51
+			text = "这个嗯，因为，这一块是他们到时候自己去那个。"
+		intervals [53]:
+			xmin = 276.51
+			xmax = 280.06
+			text = "嗯医院的，那个。去咨询吧，就。"
+		intervals [54]:
+			xmin = 285.05
+			xmax = 285.4
+			text = "嗯。"
+		intervals [55]:
+			xmin = 298.23
+			xmax = 298.61
+			text = "嗯"
+		intervals [56]:
+			xmin = 300.57
+			xmax = 308.58
+			text = "嗯对这个的话，这现在目前我们，因为刚刚开始嘛，还不是特别了解，后面，后期我们会去再去了解一下。"
+		intervals [57]:
+			xmin = 308.58
+			xmax = 310.82
+			text = "他具体是。那个怎么。"
+		intervals [58]:
+			xmin = 346.11
+			xmax = 346.42
+			text = "嗯"
+		intervals [59]:
+			xmin = 351.67
+			xmax = 356.82
+			text = "这个是，不冲突的吧，那个，工伤的话是，他平时在上班的时候。"
+		intervals [60]:
+			xmin = 356.82
+			xmax = 357.92
+			text = "就是说。"
+		intervals [61]:
+			xmin = 357.92
+			xmax = 363.13
+			text = "如果发生了什么意外的话，这个是，我们公司要去跟他报销的一个险种。"
+		intervals [62]:
+			xmin = 374.33
+			xmax = 377.37
+			text = "失业金。这块儿我还要那个。"
+		intervals [63]:
+			xmin = 379.66
+			xmax = 385.83
+			text = "我，我可能需要去，了解一下。嗯因为目前还不是很了解那个领取的，条件。"
+		intervals [64]:
+			xmin = 390.93
+			xmax = 391.3
+			text = "嗯"
+		intervals [65]:
+			xmin = 398.98
+			xmax = 404.0
+			text = "嗯对就是因为因为就是我们也需要去，多去了解，然后，后面后期。"
+		intervals [66]:
+			xmin = 404.0
+			xmax = 406.37
+			text = "需要跟他们办理的时候，可能就会。"
+		intervals [67]:
+			xmin = 406.37
+			xmax = 408.13
+			text = "也就，更加顺畅一些嘛。"
+		intervals [68]:
+			xmin = 414.58
+			xmax = 417.23
+			text = "产假，目前是，定。"
+		intervals [69]:
+			xmin = 417.23
+			xmax = 420.3
+			text = "就是按，这个还是按照国家的，那个一个。"
+		intervals [70]:
+			xmin = 420.81
+			xmax = 422.48
+			text = "嗯嗯标准吧。"
+		intervals [71]:
+			xmin = 422.48
+			xmax = 423.04
+			text = "就是。"
+		intervals [72]:
+			xmin = 424.68
+			xmax = 424.95
+			text = "嗯"
+		intervals [73]:
+			xmin = 431.14
+			xmax = 435.88
+			text = "对，就是，基本工资的话，我们是要付的，就是那个，提成的话就。"
+		intervals [74]:
+			xmin = 435.88
+			xmax = 436.65
+			text = "没有嘛。"
+		intervals [75]:
+			xmin = 437.72
+			xmax = 439.83
+			text = "嗯基本工资是我们是要必须付的。"
+		intervals [76]:
+			xmin = 444.62
+			xmax = 446.27
+			text = "陪产假是。"
+		intervals [77]:
+			xmin = 447.42
+			xmax = 450.49
+			text = "五十一还是六个呃六。"
+		intervals [78]:
+			xmin = 453.99
+			xmax = 455.33
+			text = "哦哎，对对对。"
+		intervals [79]:
+			xmin = 457.96
+			xmax = 458.21
+			text = "嗯"
+		intervals [80]:
+			xmin = 468.06
+			xmax = 468.88
+			text = "嗯对对对。"
+		intervals [81]:
+			xmin = 474.79
+			xmax = 479.77
+			text = "但是这个是嗯就是，也是男人，避免很避免的一个问题嘛。"
+		intervals [82]:
+			xmin = 480.96
+			xmax = 485.97
+			text = "毕竟像，这种。生育也不是，也不是说特别多，也就那么一两次哈。"
+		intervals [83]:
+			xmin = 486.79
+			xmax = 487.1
+			text = "嗯。"
+		intervals [84]:
+			xmin = 492.57
+			xmax = 496.69
+			text = "嗯目前的话，男生是在十七人左右。"
+		intervals [85]:
+			xmin = 496.69
+			xmax = 499.9
+			text = "嗯女生应该也就十一。个左右，差不多吧。"
+		intervals [86]:
+			xmin = 500.61
+			xmax = 502.06
+			text = "可能还是，男生要多些。"
+		intervals [87]:
+			xmin = 502.96
+			xmax = 506.78
+			text = "年龄阶段，就是，三十到四十五之间。"
+		intervals [88]:
+			xmin = 510.75
+			xmax = 511.27
+			text = "嗯对"
+		intervals [89]:
+			xmin = 517.56
+			xmax = 518.2
+			text = "嗯对"
+		intervals [90]:
+			xmin = 540.83
+			xmax = 541.1
+			text = "嗯"
+		intervals [91]:
+			xmin = 554.01
+			xmax = 562.25
+			text = "对，这个的话，他们是，肯定嘛，因为员工他肯定每个月还是必须要查付我们有到底有没有跟他缴付，有没有跟他买购买。"
+		intervals [92]:
+			xmin = 562.25
+			xmax = 564.21
+			text = "他是可以在那个，支付。"
+		intervals [93]:
+			xmin = 564.87
+			xmax = 573.53
+			text = "对对对对，就那个支付宝或者是天府市民云都是可以查到的，就我们跟他缴付的那个详细明细，他都是可以在上面，嗯。"
+		intervals [94]:
+			xmin = 577.98
+			xmax = 578.29
+			text = "嗯"
+		intervals [95]:
+			xmin = 580.08
+			xmax = 588.76
+			text = "到时候就方便就是，嗯我们都会告知他们的，就是每个月查询我们单位有没有为他们购买的话，他们需要到哪里去查询我们"
+		intervals [96]:
+			xmin = 588.76
+			xmax = 591.79
+			text = "就是，到时候开员工会的时候，会跟他们说一下。"
+		intervals [97]:
+			xmin = 609.25
+			xmax = 609.97
+			text = "其实。"
+		intervals [98]:
+			xmin = 609.97
+			xmax = 617.16
+			text = "因为你是购买的了那个五险一金的嘛，这个生育基金的话，其实也就包括，你的家属了。"
+		intervals [99]:
+			xmin = 617.16
+			xmax = 620.62
+			text = "到时候它是，它也是可以报销的。就你家属。"
+		intervals [100]:
+			xmin = 626.49
+			xmax = 627.88
+			text = "这个，暂时还。"
+		intervals [101]:
+			xmin = 628.77
+			xmax = 634.04
+			text = "嗯好，目前应该是可以的，听说是可以的。然后到时候再想想嗯。"
+		intervals [102]:
+			xmin = 652.27
+			xmax = 659.24
+			text = "我觉得这个的话，就，我们可以就是平时开会的时候，跟他们就是去沟通一下。"
+		intervals [103]:
+			xmin = 659.24
+			xmax = 662.49
+			text = "看他们自己，自身有没有这个需求，商业险。"
+		intervals [104]:
+			xmin = 663.0
+			xmax = 668.7
+			text = "因为在我们的那个五险里面。也其中就包括了有那个工伤险的"
+		intervals [105]:
+			xmin = 670.07
+			xmax = 674.25
+			text = "呃，对，然后他的意外险的话，还是，就建议他们就是他们自己。"
+		intervals [106]:
+			xmin = 674.25
+			xmax = 677.38
+			text = "由他们自己去买吧，因为商业险，这个的话。"
+		intervals [107]:
+			xmin = 677.38
+			xmax = 679.7
+			text = "确实也会跟公司，就是。"
+		intervals [108]:
+			xmin = 679.7
+			xmax = 681.43
+			text = "增加一定的那个开支嘛。"
+		intervals [109]:
+			xmin = 682.55
+			xmax = 684.45
+			text = "嗯，也不是太必要。"
+		intervals [110]:
+			xmin = 686.46
+			xmax = 686.84
+			text = "嗯"
+		intervals [111]:
+			xmin = 692.6
+			xmax = 693.0
+			text = "嗯"
+		intervals [112]:
+			xmin = 696.84
+			xmax = 697.12
+			text = "嗯"
+		intervals [113]:
+			xmin = 705.83
+			xmax = 706.16
+			text = "嗯"
+		intervals [114]:
+			xmin = 712.49
+			xmax = 719.13
+			text = "就是他现在的话，目前社保，刷卡的话，他大不多数地方还是都可以刷的。"
+		intervals [115]:
+			xmin = 719.68
+			xmax = 727.23
+			text = "到时候如果说，公司有所调动，人员调动他需要调动到其他城市，我们再跟他转到其他城市就可以了这个。"
+		intervals [116]:
+			xmin = 731.61
+			xmax = 731.89
+			text = "嗯"
+		intervals [117]:
+			xmin = 733.36
+			xmax = 733.59
+			text = "嗯"
+		intervals [118]:
+			xmin = 735.08
+			xmax = 735.61
+			text = "这个到时候"
+		intervals [119]:
+			xmin = 736.95
+			xmax = 737.26
+			text = "嗯"
+		intervals [120]:
+			xmin = 746.69
+			xmax = 751.06
+			text = "他，目前的话，因为我们，目前的人员都是在成都嘛。"
+		intervals [121]:
+			xmin = 751.43
+			xmax = 753.03
+			text = "我们总部都在成都。"
+		intervals [122]:
+			xmin = 753.03
+			xmax = 754.7
+			text = "他就统一都在成都购买。"
+		intervals [123]:
+			xmin = 755.05
+			xmax = 756.35
+			text = "就到时候如果。"
+		intervals [124]:
+			xmin = 757.1
+			xmax = 761.47
+			text = "对，以后如果我们就是，开分店需要派出去的时候，他们就是。"
+		intervals [125]:
+			xmin = 761.47
+			xmax = 763.28
+			text = "再跟他转，转过去吧。"
+		intervals [126]:
+			xmin = 764.35
+			xmax = 764.74
+			text = "嗯"
+		intervals [127]:
+			xmin = 766.38
+			xmax = 768.27
+			text = "对他们没有任何影响。"
+		intervals [128]:
+			xmin = 774.88
+			xmax = 776.18
+			text = "嗯，对。嗯"
+		intervals [129]:
+			xmin = 776.18
+			xmax = 780.71
+			text = "对，他到时候可以转过去的，转过去的话，他到时候用起来可能会方便一些嘛。"
+		intervals [130]:
+			xmin = 783.99
+			xmax = 784.24
+			text = "嗯"
+		intervals [131]:
+			xmin = 789.11
+			xmax = 789.47
+			text = "嗯"
+		intervals [132]:
+			xmin = 797.75
+			xmax = 804.62
+			text = "这个的话，嗯，因为那个公积金，平时他是不可以去提取的，到时候，他如果需要购房呢，他可以就。"
+		intervals [133]:
+			xmin = 805.07
+			xmax = 810.1
+			text = "嗯到时，购房的时候，他是可以去那个，公积金处去提取的。"
+		intervals [134]:
+			xmin = 810.7
+			xmax = 813.88
+			text = "到时候带着那个购房合同是可以去把它提取出来，嗯。"
+		intervals [135]:
+			xmin = 814.98
+			xmax = 815.18
+			text = "这"
+		intervals [136]:
+			xmin = 816.39
+			xmax = 817.69
+			text = "租房他用不了嘛。"
+		intervals [137]:
+			xmin = 818.61
+			xmax = 819.43
+			text = "是啊还有那。"
+		intervals [138]:
+			xmin = 820.29
+			xmax = 821.58
+			text = "有，有那种公租房。"
+		intervals [139]:
+			xmin = 822.36
+			xmax = 823.42
+			text = "公租的，嗯"
+		intervals [140]:
+			xmin = 832.02
+			xmax = 832.8
+			text = "呃他应该是。"
+		intervals [141]:
+			xmin = 838.05
+			xmax = 841.1
+			text = "嗯好的，好的，这个待会儿，我下去去就去办。"
+		intervals [142]:
+			xmin = 845.47
+			xmax = 845.78
+			text = "嗯"
+		intervals [143]:
+			xmin = 851.39
+			xmax = 851.68
+			text = "嗯"
+		intervals [144]:
+			xmin = 854.64
+			xmax = 854.92
+			text = "对"
+		intervals [145]:
+			xmin = 856.23
+			xmax = 856.81
+			text = "对对对。"
+		intervals [146]:
+			xmin = 859.39
+			xmax = 859.69
+			text = "嗯"
+		intervals [147]:
+			xmin = 870.39
+			xmax = 871.18
+			text = "嗯，对。"
+		intervals [148]:
+			xmin = 873.16
+			xmax = 873.48
+			text = "嗯"
+		intervals [149]:
+			xmin = 877.11
+			xmax = 879.29
+			text = "就是，目前的话。"
+		intervals [150]:
+			xmin = 879.29
+			xmax = 882.57
+			text = "招人好，这方面好像，就是有点困难。"
+		intervals [151]:
+			xmin = 889.14
+			xmax = 894.74
+			text = "嗯这个肯定也是，就是，对年轻人来说是一个很好的福利嘛，还是比较有吸引力的。"
+		intervals [152]:
+			xmin = 895.73
+			xmax = 899.22
+			text = "所以就是提取，就是尽量还是都跟他们购买五险一金。"
+		intervals [153]:
+			xmin = 903.14
+			xmax = 904.65
+			text = "就是面试的时候。"
+		intervals [154]:
+			xmin = 905.36
+			xmax = 906.51
+			text = "都都会主动问的。"
+		intervals [155]:
+			xmin = 907.02
+			xmax = 907.29
+			text = "嗯"
+		intervals [156]:
+			xmin = 910.48
+			xmax = 911.24
+			text = "嗯对对对。"
+		intervals [157]:
+			xmin = 917.8
+			xmax = 923.23
+			text = "就是后期，我想说，他们就是有部分，就是长期留下来的员工到时候他们。"
+		intervals [158]:
+			xmin = 923.23
+			xmax = 925.67
+			text = "我们目前就是，购买的话。"
+		intervals [159]:
+			xmin = 925.67
+			xmax = 930.97
+			text = "就，打算为了，就是公司成本的话。还是就买一个最低档吧毕竟。"
+		intervals [160]:
+			xmin = 931.43
+			xmax = 937.24
+			text = "嗯到后期他们做得比较优秀的员工，他们需要再往上提升。再买的时候。"
+		intervals [161]:
+			xmin = 937.24
+			xmax = 939.91
+			text = "超出部分他们可以就自己去付。"
+		intervals [162]:
+			xmin = 940.92
+			xmax = 944.49
+			text = "到时候跟我们，那个人力资源交一个申请表就可以了。"
+		intervals [163]:
+			xmin = 945.29
+			xmax = 946.04
+			text = "节约他们的成本"
+		intervals [164]:
+			xmin = 948.07
+			xmax = 948.82
+			text = "武侯区"
+		intervals [165]:
+			xmin = 949.5
+			xmax = 950.07
+			text = "嗯对"
+		intervals [166]:
+			xmin = 957.07
+			xmax = 959.73
+			text = "嗯没，这个嗯没什么影响的。"
+		intervals [167]:
+			xmin = 960.74
+			xmax = 961.28
+			text = "嗯对"
+		intervals [168]:
+			xmin = 967.17
+			xmax = 967.82
+			text = "嗯对"
+		intervals [169]:
+			xmin = 989.74
+			xmax = 993.28
+			text = "这个，到时候，他需要就是下去。"
+		intervals [170]:
+			xmin = 993.28
+			xmax = 998.31
+			text = "我们下去再去了解一下，具体的详细就是，办理退休流程是怎么样的。"
+		intervals [171]:
+			xmin = 1005.73
+			xmax = 1009.96
+			text = "这不是退休补贴多少政策，它那个社保的话，一般是。"
+		intervals [172]:
+			xmin = 1009.96
+			xmax = 1013.79
+			text = "购买年限十五年嘛，就是养老保险是十五年。"
+		intervals [173]:
+			xmin = 1013.79
+			xmax = 1015.82
+			text = "但是那个，就是上。"
+		intervals [174]:
+			xmin = 1016.63
+			xmax = 1020.73
+			text = "养养那个医疗保险是，必须是，买够二十五年。"
+		intervals [175]:
+			xmin = 1021.56
+			xmax = 1025.43
+			text = "就算他到时候到了那个退休年龄，他也是要。"
+		intervals [176]:
+			xmin = 1026.04
+			xmax = 1028.67
+			text = "就是还是要继续缴付。对。"
+		intervals [177]:
+			xmin = 1030.29
+			xmax = 1034.39
+			text = "对，因为它的规定，规定是这样的嘛。就是，医疗必须每个人"
+		intervals [178]:
+			xmin = 1038.79
+			xmax = 1041.98
+			text = "嗯哼这个是在政策上面是，有这样一个政策。"
+		intervals [179]:
+			xmin = 1043.23
+			xmax = 1043.53
+			text = "嗯"
+		intervals [180]:
+			xmin = 1067.46
+			xmax = 1073.23
+			text = "嗯这个接下下来再去算一下嘛，就是百分之六十左右，就是一千。"
+		intervals [181]:
+			xmin = 1073.71
+			xmax = 1078.69
+			text = "一千按他的那个基本工资三千，去买的话。就是百"
+		intervals [182]:
+			xmin = 1078.69
+			xmax = 1080.09
+			text = "一百，一千八。"
+		intervals [183]:
+			xmin = 1080.09
+			xmax = 1082.9
+			text = "一千八，然后我们付，百分之四十多。"
+		intervals [184]:
+			xmin = 1082.9
+			xmax = 1085.38
+			text = "我们差不多是跟他们付。"
+		intervals [185]:
+			xmin = 1085.38
+			xmax = 1089.29
+			text = "七百多，然后，再剩下的一部分就由他们自己去缴付。"
+		intervals [186]:
+			xmin = 1095.52
+			xmax = 1096.57
+			text = "对，就是。"
+		intervals [187]:
+			xmin = 1096.57
+			xmax = 1102.1
+			text = "因为公积金这一块，我们要交付，一百八，然后，这方面七百多差不多就是将近九百块。"
+		intervals [188]:
+			xmin = 1102.72
+			xmax = 1102.99
+			text = "对。"
+		intervals [189]:
+			xmin = 1117.7
+			xmax = 1118.02
+			text = "嗯"
+		intervals [190]:
+			xmin = 1118.73
+			xmax = 1119.67
+			text = "对这方面"
+		intervals [191]:
+			xmin = 1123.4
+			xmax = 1123.96
+			text = "嗯对。"
+		intervals [192]:
+			xmin = 1128.47
+			xmax = 1135.58
+			text = "对，如果是要想节约成本的话，也可以就是说推迟到，一年过后嘛，就是如此，嗯，对，都是可以的。"
+		intervals [193]:
+			xmin = 1136.53
+			xmax = 1136.77
+			text = "嗯"
+		intervals [194]:
+			xmin = 1150.72
+			xmax = 1155.92
+			text = "这个，他跟那个五险一金是没有关系的，然后，那个是一个年终奖的问题。"
+		intervals [195]:
+			xmin = 1157.18
+			xmax = 1157.5
+			text = "嗯"
+		intervals [196]:
+			xmin = 1175.91
+			xmax = 1178.54
+			text = "这个它是可以报销的。嗯对"
+		intervals [197]:
+			xmin = 1188.98
+			xmax = 1189.26
+			text = "嗯"
+		intervals [198]:
+			xmin = 1192.67
+			xmax = 1199.21
+			text = "嗯这个也还是比较麻烦，接下来的话就是我们让，人力资源这块去。"
+		intervals [199]:
+			xmin = 1199.21
+			xmax = 1201.55
+			text = "把这个事情，就尽早的去。"
+		intervals [200]:
+			xmin = 1201.55
+			xmax = 1203.34
+			text = "了解清楚，然后去。"
+		intervals [201]:
+			xmin = 1203.91
+			xmax = 1205.69
+			text = "尽早的去实施嘛。这个"
+		intervals [202]:
+			xmin = 1215.09
+			xmax = 1216.35
+			text = "嗯这个。"
+		intervals [203]:
+			xmin = 1217.24
+			xmax = 1220.93
+			text = "嗯没这个还目前没有去过，但是，这个也不是经常去嘛。"
+		intervals [204]:
+			xmin = 1220.93
+			xmax = 1222.85
+			text = "也，也没多大关系。"
+		intervals [205]:
+			xmin = 1222.85
+			xmax = 1223.98
+			text = "到时去跑一趟嘛。"
+		intervals [206]:
+			xmin = 1225.85
+			xmax = 1226.14
+			text = "嗯。"
+		intervals [207]:
+			xmin = 1228.87
+			xmax = 1229.37
+			text = "对。"
+		intervals [208]:
+			xmin = 1235.8
+			xmax = 1236.55
+			text = "公积金。"
+		intervals [209]:
+			xmin = 1237.59
+			xmax = 1244.69
+			text = "他是专门的一个那个公积金跟社保，它是，两个部门嘛，公积金有专门的那个公积金服务中心，到时候。"
+		intervals [210]:
+			xmin = 1244.69
+			xmax = 1246.22
+			text = "接下来，我去。"
+		intervals [211]:
+			xmin = 1246.49
+			xmax = 1248.06
+			text = "嗯都去跑一趟嘛。"
+		intervals [212]:
+			xmin = 1252.47
+			xmax = 1252.92
+			text = "嗯"
+		intervals [213]:
+			xmin = 1256.51
+			xmax = 1261.82
+			text = "到时候我们，可能会用到公司的那个，嗯，营业执照啊。"
+		intervals [214]:
+			xmin = 1261.82
+			xmax = 1271.46
+			text = "还有，那个，法人的身份证复印件这些，到时候。你都就这个就麻烦沙总啊你去把那个法人的，嗯对找老板要一个，他的复。"
+		intervals [215]:
+			xmin = 1273.94
+			xmax = 1281.27
+			text = "嗯嗯都找一个吧，尽量还是复印一个嘛，以备到时候需要用嘛。身份证复印件。还有户口簿"
+		intervals [216]:
+			xmin = 1286.04
+			xmax = 1290.58
+			text = "嗯营业执照的那个复印件还是需要的。啊这需要带一个的"
+		intervals [217]:
+			xmin = 1291.33
+			xmax = 1295.93
+			text = "到时候资料的话就，那个麻烦你去找老板要一份。让我这边"
+		intervals [218]:
+			xmin = 1297.73
+			xmax = 1298.85
+			text = "还是有点麻烦。"
+		intervals [219]:
+			xmin = 1302.06
+			xmax = 1303.83
+			text = "嗯应该是。"
+		intervals [220]:
+			xmin = 1304.51
+			xmax = 1306.84
+			text = "可能，估计预估是，要一个月左右。"
+		intervals [221]:
+			xmin = 1307.62
+			xmax = 1308.12
+			text = "嗯对。"
+		intervals [222]:
+			xmin = 1310.5
+			xmax = 1311.14
+			text = "因为"
+		intervals [223]:
+			xmin = 1312.49
+			xmax = 1318.71
+			text = "最近开因为我们也是刚刚才起步嘛，然后，人力资源啊，这一块，包括他们入职的这些。"
+		intervals [224]:
+			xmin = 1318.71
+			xmax = 1322.19
+			text = "资料啊，采集都还是，需要一定，过程。嗯。"
+		intervals [225]:
+			xmin = 1324.5
+			xmax = 1325.14
+			text = "嗯对。"
+		intervals [226]:
+			xmin = 1330.75
+			xmax = 1331.21
+			text = "嗯"
+		intervals [227]:
+			xmin = 1359.19
+			xmax = 1360.28
+			text = "嗯，好的。"
+		intervals [228]:
+			xmin = 1369.64
+			xmax = 1370.48
+			text = "这个。"
+		intervals [229]:
+			xmin = 1370.48
+			xmax = 1372.82
+			text = "应该是可以的吧。嗯"
+		intervals [230]:
+			xmin = 1385.07
+			xmax = 1387.03
+			text = "到时候也要去，这个也要去跑一下。"
+		intervals [231]:
+			xmin = 1389.06
+			xmax = 1389.51
+			text = "嗯"
+		intervals [232]:
+			xmin = 1396.01
+			xmax = 1397.82
+			text = "嗯不这一块，嗯"
+		intervals [233]:
+			xmin = 1401.02
+			xmax = 1402.42
+			text = "嗯没有没有应该的。"
+		intervals [234]:
+			xmin = 1411.69
+			xmax = 1419.06
+			text = "这一块，到时候就是让他就把那个需要的资料，到时候需要一些什么资料，我先去那个办证大厅了解一下。"
+		intervals [235]:
+			xmin = 1419.06
+			xmax = 1421.13
+			text = "然后把详细需要的资料。"
+		intervals [236]:
+			xmin = 1421.13
+			xmax = 1425.15
+			text = "就到时候直接发给你嘛，就麻烦你到时候发给我们老板一下。"
+		intervals [237]:
+			xmin = 1425.58
+			xmax = 1426.43
+			text = "提供一下。"
+		intervals [238]:
+			xmin = 1428.29
+			xmax = 1429.03
+			text = "资料就好了。"
+		intervals [239]:
+			xmin = 1451.95
+			xmax = 1455.61
+			text = "这，这方面，接下来会跟着去办，然后。"
+		intervals [240]:
+			xmin = 1455.61
+			xmax = 1461.14
+			text = "他那个，假期的话，休假了，我们就都按照就是国家劳动法去。"
+		intervals [241]:
+			xmin = 1461.14
+			xmax = 1462.95
+			text = "去休假嘛。嗯"
+		intervals [242]:
+			xmin = 1464.02
+			xmax = 1465.43
+			text = "年假是，七天嘛。"
+		intervals [243]:
+			xmin = 1466.11
+			xmax = 1468.56
+			text = "嗯目前是七天的，对的。"
+		intervals [244]:
+			xmin = 1471.29
+			xmax = 1474.22
+			text = "对，社保这些是正常购买，然后如果说。"
+		intervals [245]:
+			xmin = 1475.91
+			xmax = 1480.53
+			text = "嗯基本工资我们是要发的，到时候就如果遇到需要加班的情况下。"
+		intervals [246]:
+			xmin = 1480.53
+			xmax = 1483.52
+			text = "我们也是需要跟他们支付，三倍的。"
+		intervals [247]:
+			xmin = 1483.52
+			xmax = 1485.45
+			text = "节假日工资的，嗯，对。"
+		intervals [248]:
+			xmin = 1488.58
+			xmax = 1494.83
+			text = "对，因为我们年，年底的时候，可能会，休假的人比较少一些，需要去调整一个轮休嘛。"
+		intervals [249]:
+			xmin = 1514.1
+			xmax = 1514.94
+			text = "这个。"
+		intervals [250]:
+			xmin = 1516.28
+			xmax = 1518.39
+			text = "目前我因为我们也是新开。"
+		intervals [251]:
+			xmin = 1518.39
+			xmax = 1520.48
+			text = "所以这一块，还不是很了解。"
+		intervals [252]:
+			xmin = 1520.48
+			xmax = 1521.92
+			text = "需要到时候去了解一下。"
+		intervals [253]:
+			xmin = 1524.13
+			xmax = 1525.69
+			text = "嗯去问一下到时候嗯。"
+		intervals [254]:
+			xmin = 1535.74
+			xmax = 1538.19
+			text = "就是，还有一个问题就是他们那个。"
+		intervals [255]:
+			xmin = 1538.19
+			xmax = 1543.69
+			text = "可能就是有一有一部分的人，招进来的人应该年龄大了，他们可能就会。"
+		intervals [256]:
+			xmin = 1544.22
+			xmax = 1547.78
+			text = "嗯不太想买的，不是，不太想买社保。"
+		intervals [257]:
+			xmin = 1547.78
+			xmax = 1549.32
+			text = "就是要求我们公司。"
+		intervals [258]:
+			xmin = 1549.68
+			xmax = 1553.77
+			text = "跟他补贴的这这一块，因为我，最近招人的时候。"
+		intervals [259]:
+			xmin = 1553.77
+			xmax = 1555.09
+			text = "有一部分人就是。"
+		intervals [260]:
+			xmin = 1555.09
+			xmax = 1556.32
+			text = "觉得还是没有。"
+		intervals [261]:
+			xmin = 1556.32
+			xmax = 1558.3
+			text = "不需要嘛，可能不需要就补贴。"
+		intervals [262]:
+			xmin = 1559.12
+			xmax = 1562.22
+			text = "但是这，这一块，到时候，如果遇到你们还。"
+		intervals [263]:
+			xmin = 1563.85
+			xmax = 1567.76
+			text = "让那个人力资源，招人的，到时麻烦你跟他说一下。"
+		intervals [264]:
+			xmin = 1567.76
+			xmax = 1569.41
+			text = "我们是必须要购买的。"
+		intervals [265]:
+			xmin = 1574.32
+			xmax = 1575.58
+			text = "啊嗯"
+		intervals [266]:
+			xmin = 1581.73
+			xmax = 1581.98
+			text = "嗯"
+		intervals [267]:
+			xmin = 1587.3
+			xmax = 1587.59
+			text = "嗯"
+		intervals [268]:
+			xmin = 1592.62
+			xmax = 1593.39
+			text = "嗯，对。"
+		intervals [269]:
+			xmin = 1600.34
+			xmax = 1602.53
+			text = "本来就不想买吧，可能就是。"
+		intervals [270]:
+			xmin = 1602.85
+			xmax = 1605.13
+			text = "嗯那个，觉得年龄大了，没有必要啊。"
+		intervals [271]:
+			xmin = 1615.77
+			xmax = 1619.66
+			text = "嗯他们大多数可能还是，也不是买够了吧，是。"
+		intervals [272]:
+			xmin = 1620.11
+			xmax = 1624.64
+			text = "嗯主要还是就是为了，就是节约嘛，因为他们自己也要承担一部分。"
+		intervals [273]:
+			xmin = 1625.28
+			xmax = 1628.85
+			text = "觉得年龄大了，然后，可能也工作不了那么长时间了。"
+		intervals [274]:
+			xmin = 1630.29
+			xmax = 1632.1
+			text = "自己承担的部分，就会比较多一些。"
+		intervals [275]:
+			xmin = 1646.92
+			xmax = 1651.48
+			text = "哦，对了，我好像最近了解到有那个新，新规定，就是，说。"

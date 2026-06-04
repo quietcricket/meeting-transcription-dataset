@@ -1,0 +1,3104 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1858.993
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "N_SPK8066"
+		xmin = 0
+		xmax = 1858.993
+		intervals: size = 196
+		intervals [1]:
+			xmin = 1.48
+			xmax = 11.52
+			text = "大家好，欢迎来参加本次的讨论会啊，咱们这次讨论会呢主要是说一下短视频APP对我们的生活的一个影响以及体验的一个调查。"
+		intervals [2]:
+			xmin = 11.97
+			xmax = 24.0
+			text = "首先呢，咱们讲一下这个用户现在对短视频的这个需求点主要是在哪些方面，就我个人而言，对我来说短视频提供最多的是一些情感类的搞笑类的。"
+		intervals [3]:
+			xmin = 24.35
+			xmax = 34.09
+			text = "科普类以及适用于社交方面的还有一些提供技能方面的一些点，咱们可以对这些方面可以进行一些讨论。"
+		intervals [4]:
+			xmin = 45.31
+			xmax = 46.15
+			text = "就云购物。"
+		intervals [5]:
+			xmin = 47.46
+			xmax = 49.07
+			text = "也算是云购物现在对。"
+		intervals [6]:
+			xmin = 74.77
+			xmax = 81.47
+			text = "那像云购物像淘宝啊这种东西，其实也是可以提供这种服务的大。"
+		intervals [7]:
+			xmin = 88.62
+			xmax = 91.16
+			text = "啊他会把所有的功能给你展示出来。"
+		intervals [8]:
+			xmin = 98.77
+			xmax = 105.04
+			text = "就是他会把你所需求的东西的点给你整理完毕之后，告诉你这款是ok的然后你就可以去选择这一款。"
+		intervals [9]:
+			xmin = 114.9
+			xmax = 115.8
+			text = "就减少了你。"
+		intervals [10]:
+			xmin = 119.54
+			xmax = 124.06
+			text = "对这也是淘宝的一个APP的也算是属于短视频APP里的。"
+		intervals [11]:
+			xmin = 127.89
+			xmax = 130.56
+			text = "快手跟抖音是比较先出的对。"
+		intervals [12]:
+			xmin = 139.77
+			xmax = 140.04
+			text = "对。"
+		intervals [13]:
+			xmin = 145.56
+			xmax = 146.64
+			text = "当然对。"
+		intervals [14]:
+			xmin = 149.87
+			xmax = 162.21
+			text = "对，云购物这其实只是暂时短视频提供的其中的一个福利点之一，短视频最主要的还是提供一些短视频的一些分享，像一些搞笑的段子啊一些什么样的东西，对大家其实。"
+		intervals [15]:
+			xmin = 162.77
+			xmax = 172.92
+			text = "对我来言对我而言，我刚接触短视频的话是发现这个，呃搞笑的视频会比较多一些比较吸引我一些会比较减压所以会。"
+		intervals [16]:
+			xmin = 180.69
+			xmax = 181.66
+			text = "对也是其实。"
+		intervals [17]:
+			xmin = 185.29
+			xmax = 186.31
+			text = "情景剧是吗。"
+		intervals [18]:
+			xmin = 190.79
+			xmax = 192.05
+			text = "啊啊对对对。"
+		intervals [19]:
+			xmin = 195.46
+			xmax = 201.74
+			text = "一个爆款会出现相继的爆款，所有人不不一样的人会拍同一样的段子对。"
+		intervals [20]:
+			xmin = 202.82
+			xmax = 203.05
+			text = "就。"
+		intervals [21]:
+			xmin = 210.4
+			xmax = 214.39
+			text = "对千人千面他会推荐你相对应的一些事情啊。"
+		intervals [22]:
+			xmin = 230.83
+			xmax = 231.11
+			text = "对。"
+		intervals [23]:
+			xmin = 236.25
+			xmax = 236.63
+			text = "对。"
+		intervals [24]:
+			xmin = 249.19
+			xmax = 250.56
+			text = "是生活类的段子吗？"
+		intervals [25]:
+			xmin = 253.24
+			xmax = 254.3
+			text = "啊对客服的。"
+		intervals [26]:
+			xmin = 259.19
+			xmax = 260.3
+			text = "嗯对。"
+		intervals [27]:
+			xmin = 261.81
+			xmax = 263.1
+			text = "这些受众面。"
+		intervals [28]:
+			xmin = 264.53
+			xmax = 272.96
+			text = "对中老年人的受众面还是蛮大的，他们就会比较相信这一些算是伪科普的一些内容吧，但是相对于短视频来源。"
+		intervals [29]:
+			xmin = 273.75
+			xmax = 280.25
+			text = "除了伪科普，其实还有很多这种科普类型的博主，去分享呢一些科普的知识还是蛮多的。"
+		intervals [30]:
+			xmin = 284.11
+			xmax = 284.33
+			text = "对。"
+		intervals [31]:
+			xmin = 287.04
+			xmax = 287.84
+			text = "哦看过。"
+		intervals [32]:
+			xmin = 297.06
+			xmax = 298.76
+			text = "更新了新的视频就会看一下。"
+		intervals [33]:
+			xmin = 299.62
+			xmax = 299.89
+			text = "好。"
+		intervals [34]:
+			xmin = 309.74
+			xmax = 310.12
+			text = "是。"
+		intervals [35]:
+			xmin = 312.01
+			xmax = 317.1
+			text = "是电视剧的片段，还是说是那种类似于电视电影电视的那种解析呢。"
+		intervals [36]:
+			xmin = 322.58
+			xmax = 323.54
+			text = "一些精彩片段。"
+		intervals [37]:
+			xmin = 324.25
+			xmax = 324.54
+			text = "啊。"
+		intervals [38]:
+			xmin = 328.81
+			xmax = 329.21
+			text = "啊。"
+		intervals [39]:
+			xmin = 334.03
+			xmax = 334.35
+			text = "对。"
+		intervals [40]:
+			xmin = 339.71
+			xmax = 351.68
+			text = "是我有时候会比较喜欢看那种电影的解析，就是有些电影我没有时间去看一个多小时那么长时间，但是电影解析他会把那些精彩的点会告诉你，其实这也是一个在。"
+		intervals [41]:
+			xmin = 352.05
+			xmax = 357.42
+			text = "空闲时间的一个碎片化时间的利用，短视频也是很好的满足了大家的这个需求点。"
+		intervals [42]:
+			xmin = 362.3
+			xmax = 362.63
+			text = "对。"
+		intervals [43]:
+			xmin = 364.64
+			xmax = 365.04
+			text = "他讲。"
+		intervals [44]:
+			xmin = 366.57
+			xmax = 367.13
+			text = "是的。"
+		intervals [45]:
+			xmin = 368.18
+			xmax = 379.53
+			text = "因为很多视频博主他他从出发的点不一样，有些人是专门挑那种比较高能的点去对整个剧情解析，有些人是挑一些情感情感主线或者这些支线去解析。"
+		intervals [46]:
+			xmin = 380.13
+			xmax = 382.63
+			text = "对其实对大家来说，也是一种互补吧。"
+		intervals [47]:
+			xmin = 404.55
+			xmax = 406.15
+			text = "对的确是很气愤。"
+		intervals [48]:
+			xmin = 441.89
+			xmax = 445.62
+			text = "评论有时候会一针见血去讲一些事情。"
+		intervals [49]:
+			xmin = 452.72
+			xmax = 453.58
+			text = "看评论。"
+		intervals [50]:
+			xmin = 465.26
+			xmax = 466.3
+			text = "是的是的。"
+		intervals [51]:
+			xmin = 468.68
+			xmax = 469.89
+			text = "段子手无处不在。"
+		intervals [52]:
+			xmin = 482.17
+			xmax = 485.6
+			text = "是游戏的直播的那种直播吗还是。"
+		intervals [53]:
+			xmin = 494.5
+			xmax = 502.22
+			text = "啊所有的UI设计三D，呃模型之类的那种是吗，那那属于类似于机能的一种展示，也是相对于一个科普吧。"
+		intervals [54]:
+			xmin = 512.79
+			xmax = 515.92
+			text = "吸引大家来玩这个游戏，也相当于一种变相的。"
+		intervals [55]:
+			xmin = 517.55
+			xmax = 517.96
+			text = "广告。"
+		intervals [56]:
+			xmin = 534.04
+			xmax = 534.4
+			text = "是。"
+		intervals [57]:
+			xmin = 535.49
+			xmax = 545.27
+			text = "对目前短视频的需求对大家来说还是蛮多的，那如果是对于这些需求点，大家有没有什么一些新功能的一些意见比如说创新的功能。"
+		intervals [58]:
+			xmin = 555.09
+			xmax = 560.22
+			text = "啊后台有一个监控说这是真客服还是假客服，伪客服的话就相当于筛选出来。"
+		intervals [59]:
+			xmin = 567.22
+			xmax = 567.62
+			text = "对。"
+		intervals [60]:
+			xmin = 579.88
+			xmax = 581.76
+			text = "对也会有这种顾虑中老年人。"
+		intervals [61]:
+			xmin = 594.09
+			xmax = 600.35
+			text = "对这个就是像这种的，就是一个虚假的后台，就是监控的应该是加一个这种后台的监控。"
+		intervals [62]:
+			xmin = 608.66
+			xmax = 622.7
+			text = "是像那种评论似的，其大家现在都是在把那个是往上滑的一下才能看到评论，那对评论有没有什么一些新的创新的设计呢，比如说这评论往上滑的时候我可能去把那些底框啊或者什么东西做成透明的。"
+		intervals [63]:
+			xmin = 623.26
+			xmax = 623.43
+			text = "对。"
+		intervals [64]:
+			xmin = 623.76
+			xmax = 624.5
+			text = "或者是。"
+		intervals [65]:
+			xmin = 626.39
+			xmax = 636.97
+			text = "对或者是有一些优秀的那种评论，比如说段子手我回复得特别好，一针见血的点赞了之后，我可以直接把他弄到，弹幕形的弹幕的形式放到视频上呢。"
+		intervals [66]:
+			xmin = 652.76
+			xmax = 653.16
+			text = "对。"
+		intervals [67]:
+			xmin = 655.13
+			xmax = 662.14
+			text = "对对，他就是点赞多的我可以完成一个，比如说弹幕上墙类似的一个功能是也是一个创新的点。"
+		intervals [68]:
+			xmin = 662.5
+			xmax = 675.63
+			text = "其实我还觉得像现在因为需求点很多，所以说各种各样的类型的短视频也是很多的是不是可以做到把每一个需求分类明细化，比如说我想要刷某一个类型的，我可以点他整一个大概。"
+		intervals [69]:
+			xmin = 675.63
+			xmax = 688.66
+			text = "比如说我就搞笑的，我就分科普的武士技能的对，对分类会做一个明细的介绍呢，虽然说现在短视频但是有一种我刷过这一种类型的，他后续会给我推荐其他类型的视频的话。"
+		intervals [70]:
+			xmin = 688.66
+			xmax = 692.77
+			text = "那是不是分类，分类的话会更合理更合适一些呢。"
+		intervals [71]:
+			xmin = 696.88
+			xmax = 699.16
+			text = "啊，但是我要是想再看一下其他类型的呢。"
+		intervals [72]:
+			xmin = 707.99
+			xmax = 709.18
+			text = "对这也是一个。"
+		intervals [73]:
+			xmin = 712.13
+			xmax = 712.49
+			text = "对。"
+		intervals [74]:
+			xmin = 724.17
+			xmax = 726.44
+			text = "会出现一些其他类型的视频对。"
+		intervals [75]:
+			xmin = 728.34
+			xmax = 728.58
+			text = "对。"
+		intervals [76]:
+			xmin = 749.18
+			xmax = 750.66
+			text = "对平常没有时间。"
+		intervals [77]:
+			xmin = 752.5
+			xmax = 752.88
+			text = "可以。"
+		intervals [78]:
+			xmin = 755.89
+			xmax = 757.97
+			text = "对利用自己碎片化的时间。"
+		intervals [79]:
+			xmin = 767.2
+			xmax = 768.05
+			text = "对会会。"
+		intervals [80]:
+			xmin = 777.07
+			xmax = 777.53
+			text = "是。"
+		intervals [81]:
+			xmin = 782.09
+			xmax = 784.03
+			text = "对也是有这种情况，嗯。"
+		intervals [82]:
+			xmin = 796.84
+			xmax = 800.71
+			text = "对每个短视频，它有自己的一个功能的亮点啊。"
+		intervals [83]:
+			xmin = 811.97
+			xmax = 814.31
+			text = "是你要滑好多对这也算是。"
+		intervals [84]:
+			xmin = 815.57
+			xmax = 824.59
+			text = "对这也算是一个功能的一个设计吧，那刚才大家也说到那些伪科普的，这也算是作为现在一些短视频的一些乱象之一。"
+		intervals [85]:
+			xmin = 824.9
+			xmax = 832.77
+			text = "我认为就是短视频这个APP出现啊，是为了全民的娱乐，娱乐呢肯定是分为各种各样的点。"
+		intervals [86]:
+			xmin = 832.77
+			xmax = 839.25
+			text = "那现在出现这么多视频的乱象，嗯大家对这些会有一些什么样的看法呢。"
+		intervals [87]:
+			xmin = 856.37
+			xmax = 862.93
+			text = "就是做类似于做这种科普性质的，就是需要他们做一个验证，就是说我上传自己的。"
+		intervals [88]:
+			xmin = 863.32
+			xmax = 863.62
+			text = "嗯。"
+		intervals [89]:
+			xmin = 866.94
+			xmax = 867.2
+			text = "对。"
+		intervals [90]:
+			xmin = 870.03
+			xmax = 881.59
+			text = "对就是说现在的乱象其实包含了很多方面，第一就第一个就这种伪科普，第二个就是很多那种作假的去类似于做骗人的一些东西，然后再一个呢。"
+		intervals [91]:
+			xmin = 883.09
+			xmax = 887.12
+			text = "对谣言谣言也是一种比较大的乱象，其他的还有什么。"
+		intervals [92]:
+			xmin = 889.7
+			xmax = 893.52
+			text = "咱们今天主要是讲对短短视频上造成了这些乱象啊。"
+		intervals [93]:
+			xmin = 897.7
+			xmax = 899.37
+			text = "短视频这个面会覆盖的广。"
+		intervals [94]:
+			xmin = 910.36
+			xmax = 910.7
+			text = "对。"
+		intervals [95]:
+			xmin = 921.77
+			xmax = 923.79
+			text = "那还有什么其他方面的乱象吗。"
+		intervals [96]:
+			xmin = 927.1
+			xmax = 931.37
+			text = "就像前就前段时间，快手上出现的一些比较。"
+		intervals [97]:
+			xmin = 932.21
+			xmax = 933.12
+			text = "不文明的对。"
+		intervals [98]:
+			xmin = 943.83
+			xmax = 944.11
+			text = "对。"
+		intervals [99]:
+			xmin = 954.06
+			xmax = 954.34
+			text = "对。"
+		intervals [100]:
+			xmin = 954.95
+			xmax = 967.65
+			text = "我记得嗯对这是一个很严重的事情，青少年是一刚接触到青少年，在接触到网络之后接触到这些乱象，他们会认为这是一个价值观是会固定对。"
+		intervals [101]:
+			xmin = 968.24
+			xmax = 969.73
+			text = "对会影响了他们的三观。"
+		intervals [102]:
+			xmin = 972.93
+			xmax = 980.38
+			text = "对这也是其中的一个乱象那除了这样的话，其实短视频对我们用户有什么一些其他的影响呢。"
+		intervals [103]:
+			xmin = 989.62
+			xmax = 989.81
+			text = "就。"
+		intervals [104]:
+			xmin = 991.44
+			xmax = 996.88
+			text = "就是可以解压，可以在闲暇的时间提供一些碎片化的，这种零碎的时间去。"
+		intervals [105]:
+			xmin = 1015.98
+			xmax = 1016.18
+			text = "嗯。"
+		intervals [106]:
+			xmin = 1033.15
+			xmax = 1036.1
+			text = "也会推荐他们喜欢侧重点的东西啊。"
+		intervals [107]:
+			xmin = 1038.02
+			xmax = 1044.44
+			text = "对尤其是今年在疫情期间，我认为短视频的发展是做了一个前所未有的一个推广。"
+		intervals [108]:
+			xmin = 1047.0
+			xmax = 1050.05
+			text = "全民推广全民短视频全民在发短视频。"
+		intervals [109]:
+			xmin = 1053.84
+			xmax = 1054.14
+			text = "对。"
+		intervals [110]:
+			xmin = 1054.77
+			xmax = 1063.58
+			text = "健身啊食谱啊，这些会就是所有人都能够用得上的或者做到的是，会很风靡我记得前段时间。"
+		intervals [111]:
+			xmin = 1064.09
+			xmax = 1074.53
+			text = "我认为对对用户影响最大的就是前段时间菜谱出了一款什么新菜，然后所有人大家都在短视频里分享自己所做的这个新菜对。"
+		intervals [112]:
+			xmin = 1095.15
+			xmax = 1106.47
+			text = "但这的确是在疫情期间为大家提供了一些快感，在这个压抑比较压抑性的这个环境里边，大家还是，也能做到一个类似于自娱自乐吧。"
+		intervals [113]:
+			xmin = 1107.32
+			xmax = 1110.09
+			text = "这也是一对对对用户一个比较好的影响。"
+		intervals [114]:
+			xmin = 1113.18
+			xmax = 1114.53
+			text = "对至少我今天我是。"
+		intervals [115]:
+			xmin = 1115.4
+			xmax = 1118.99
+			text = "做到了一些什么东西，我有付出了对我有付出了。"
+		intervals [116]:
+			xmin = 1127.76
+			xmax = 1128.06
+			text = "对。"
+		intervals [117]:
+			xmin = 1141.71
+			xmax = 1142.21
+			text = "是的。"
+		intervals [118]:
+			xmin = 1149.03
+			xmax = 1150.49
+			text = "就类似于做到了一个。"
+		intervals [119]:
+			xmin = 1151.54
+			xmax = 1154.38
+			text = "对就做到了其实呃以前自己。"
+		intervals [120]:
+			xmin = 1155.34
+			xmax = 1157.06
+			text = "类似于私藏的一些比较。"
+		intervals [121]:
+			xmin = 1157.95
+			xmax = 1160.5
+			text = "精高精尖的一些内容也可以分享到。"
+		intervals [122]:
+			xmin = 1161.78
+			xmax = 1163.48
+			text = "对分享到这个短视频上去。"
+		intervals [123]:
+			xmin = 1164.5
+			xmax = 1165.68
+			text = "推广给所有人。"
+		intervals [124]:
+			xmin = 1173.39
+			xmax = 1174.46
+			text = "就种草给大家。"
+		intervals [125]:
+			xmin = 1179.34
+			xmax = 1179.97
+			text = "对是的。"
+		intervals [126]:
+			xmin = 1184.42
+			xmax = 1185.72
+			text = "对踩雷他会。"
+		intervals [127]:
+			xmin = 1196.05
+			xmax = 1202.59
+			text = "那像这种情况会对这个，分享带货的主播有一些什么看法吗。"
+		intervals [128]:
+			xmin = 1212.62
+			xmax = 1214.78
+			text = "还是要分别还是要分辨出。"
+		intervals [129]:
+			xmin = 1237.23
+			xmax = 1239.09
+			text = "对的确会出现这种情况。"
+		intervals [130]:
+			xmin = 1249.11
+			xmax = 1250.13
+			text = "是的确。"
+		intervals [131]:
+			xmin = 1255.11
+			xmax = 1255.44
+			text = "就是。"
+		intervals [132]:
+			xmin = 1256.11
+			xmax = 1259.0
+			text = "不要把太多的这种挂羊头卖狗肉的东西放的视。"
+		intervals [133]:
+			xmin = 1267.45
+			xmax = 1270.54
+			text = "限号限量限流或者是做一些。"
+		intervals [134]:
+			xmin = 1285.18
+			xmax = 1286.44
+			text = "快手上对。"
+		intervals [135]:
+			xmin = 1292.16
+			xmax = 1292.46
+			text = "啊。"
+		intervals [136]:
+			xmin = 1293.18
+			xmax = 1293.9
+			text = "这是平台。"
+		intervals [137]:
+			xmin = 1296.0
+			xmax = 1296.3
+			text = "平。"
+		intervals [138]:
+			xmin = 1307.66
+			xmax = 1315.45
+			text = "对每个人会知道这种情况呢，不光是出品方像商品方这种类型的也是会对做一些。"
+		intervals [139]:
+			xmin = 1323.55
+			xmax = 1323.92
+			text = "是。"
+		intervals [140]:
+			xmin = 1330.64
+			xmax = 1330.95
+			text = "啊。"
+		intervals [141]:
+			xmin = 1346.53
+			xmax = 1348.39
+			text = "这是一个资本的一个时代。"
+		intervals [142]:
+			xmin = 1363.72
+			xmax = 1364.14
+			text = "是。"
+		intervals [143]:
+			xmin = 1365.67
+			xmax = 1372.22
+			text = "当然了当然短视频这个主播，并不只并不只仅仅是存在于带货这一个途径。"
+		intervals [144]:
+			xmin = 1382.19
+			xmax = 1396.7
+			text = "对直播它是有一些人是可以做正常的那种，比如说存在社交我现在我疫情期间我出不去，那我可以在家存在云社交，就相当于主播在跟所有人做一个对话，那也是一个解压一个休闲的一个方式。"
+		intervals [145]:
+			xmin = 1397.16
+			xmax = 1406.69
+			text = "啊像这种也是可以被称为主播的，像那种刚才说的做保险对科普类型的，我科普保险我科普所有的植物啊或者动物啊之类的。"
+		intervals [146]:
+			xmin = 1407.95
+			xmax = 1408.26
+			text = "对。"
+		intervals [147]:
+			xmin = 1409.06
+			xmax = 1416.55
+			text = "这也是这也是主播，啊就是每一种主播他类型不一样，其实也是嗯对。"
+		intervals [148]:
+			xmin = 1417.92
+			xmax = 1421.13
+			text = "其实这也算是一个比较短视频的乱象吧。"
+		intervals [149]:
+			xmin = 1427.25
+			xmax = 1437.71
+			text = "对像疫情期间健身的这个是比较多一些，但是像健身里边也是有一些嗯就是说哎，我随便去做几个动作就相当于健身博主了，那那那也不是。"
+		intervals [150]:
+			xmin = 1442.88
+			xmax = 1452.74
+			text = "对其实当然了，这也是对所有的用户要提高用户自己的分辨分辨能力，并不是仅仅是平台一一方就是要做这个事情。"
+		intervals [151]:
+			xmin = 1456.97
+			xmax = 1457.25
+			text = "对。"
+		intervals [152]:
+			xmin = 1458.18
+			xmax = 1464.45
+			text = "成年人是有这种分辨意识的，像青少年跟中老年人对这些分辨就会相对于弱一些。"
+		intervals [153]:
+			xmin = 1484.14
+			xmax = 1484.87
+			text = "反馈信息。"
+		intervals [154]:
+			xmin = 1496.37
+			xmax = 1496.66
+			text = "对。"
+		intervals [155]:
+			xmin = 1503.53
+			xmax = 1511.69
+			text = "就相当于就是给一个回馈，就告诉大家，我我处理的结果我不处理，我为什么不处理是验证了它的真实性还是虚假性。"
+		intervals [156]:
+			xmin = 1523.05
+			xmax = 1524.91
+			text = "是对这个东西做一个限定。"
+		intervals [157]:
+			xmin = 1539.06
+			xmax = 1539.37
+			text = "对。"
+		intervals [158]:
+			xmin = 1550.95
+			xmax = 1557.95
+			text = "对这就相当于就是创新里边，其实咱们还可以再加一个类似于，这种举报以及类似于客服的一个。"
+		intervals [159]:
+			xmin = 1568.29
+			xmax = 1569.87
+			text = "可能是因为用户太多了。"
+		intervals [160]:
+			xmin = 1577.99
+			xmax = 1581.55
+			text = "谁手机里没有一两个不同类型的短视频的APP。"
+		intervals [161]:
+			xmin = 1584.14
+			xmax = 1585.39
+			text = "对快手。"
+		intervals [162]:
+			xmin = 1588.17
+			xmax = 1590.56
+			text = "对像现在就是比较多的这种。"
+		intervals [163]:
+			xmin = 1590.56
+			xmax = 1590.82
+			text = "你。"
+		intervals [164]:
+			xmin = 1591.88
+			xmax = 1592.31
+			text = "你走。"
+		intervals [165]:
+			xmin = 1592.31
+			xmax = 1598.66
+			text = "西瓜视频，火山小视频，刷宝，快手极速版什么抖音极速版像这种。"
+		intervals [166]:
+			xmin = 1603.75
+			xmax = 1608.65
+			text = "对下载之后，我刷多长时间的那个视频可以返给你多少钱，嗯。"
+		intervals [167]:
+			xmin = 1628.13
+			xmax = 1628.52
+			text = "嗯。"
+		intervals [168]:
+			xmin = 1632.33
+			xmax = 1637.88
+			text = "就是对于视频的这个时间的限定是每个平台每个APP是不一样的是吗。"
+		intervals [169]:
+			xmin = 1641.27
+			xmax = 1642.12
+			text = "因为抖音的。"
+		intervals [170]:
+			xmin = 1644.76
+			xmax = 1647.66
+			text = "对抖音最开始的利益就是短视频对。"
+		intervals [171]:
+			xmin = 1650.35
+			xmax = 1660.3
+			text = "是的因为短视频的话，其实用户没有很长时间，我做那么长时间去停留看这一个视频，现在大家生活节奏这么快我，就是我看到。"
+		intervals [172]:
+			xmin = 1661.15
+			xmax = 1664.87
+			text = "对我看到了我想看的东西几十秒，我看完了之后我就。"
+		intervals [173]:
+			xmin = 1665.49
+			xmax = 1665.87
+			text = "过来。"
+		intervals [174]:
+			xmin = 1666.95
+			xmax = 1668.06
+			text = "对还能多看一些。"
+		intervals [175]:
+			xmin = 1676.22
+			xmax = 1676.5
+			text = "对。"
+		intervals [176]:
+			xmin = 1679.09
+			xmax = 1679.47
+			text = "是的。"
+		intervals [177]:
+			xmin = 1689.58
+			xmax = 1690.02
+			text = "是。"
+		intervals [178]:
+			xmin = 1691.15
+			xmax = 1701.51
+			text = "对时间长的话，可能会稍微看一点点这种，对跟连续剧的似的我刷一下看完了我就完了，也不会说是就是无脑类型吧，休闲无脑就是解压的一个啊。"
+		intervals [179]:
+			xmin = 1711.33
+			xmax = 1711.79
+			text = "是。"
+		intervals [180]:
+			xmin = 1717.58
+			xmax = 1717.95
+			text = "对。"
+		intervals [181]:
+			xmin = 1720.21
+			xmax = 1726.76
+			text = "这就是说到了每个短视，每一个A短视频的APP他针对的用户以及他的点是不一样。"
+		intervals [182]:
+			xmin = 1730.44
+			xmax = 1739.39
+			text = "对像抖音，他主要是针对于这种一二线城市的，呃白领啊之类的就是我比我碎片化时间比较多，我看完了之后我是解压的。"
+		intervals [183]:
+			xmin = 1739.88
+			xmax = 1746.2
+			text = "像那个呃快手，我主要是二三线城市这种对线下的会比较多一些吧。"
+		intervals [184]:
+			xmin = 1756.69
+			xmax = 1756.98
+			text = "对。"
+		intervals [185]:
+			xmin = 1758.41
+			xmax = 1760.18
+			text = "对也是也是会有的。"
+		intervals [186]:
+			xmin = 1765.89
+			xmax = 1767.85
+			text = "对他会做的时间比较长啊。"
+		intervals [187]:
+			xmin = 1773.83
+			xmax = 1778.18
+			text = "对现在主要是做到了一个全民性的一个普及吧，应该是啊。"
+		intervals [188]:
+			xmin = 1782.26
+			xmax = 1782.63
+			text = "是。"
+		intervals [189]:
+			xmin = 1789.49
+			xmax = 1792.69
+			text = "是的，唉对也是会推的比较多一些。"
+		intervals [190]:
+			xmin = 1798.26
+			xmax = 1798.56
+			text = "是。"
+		intervals [191]:
+			xmin = 1808.53
+			xmax = 1822.41
+			text = "对是的，呃咱们总结一下啊，首先呢就是短视频APP呢给我们提供了各种各样的需求点是不是，然后需求点里边其实针对不一样的需求点，也是反馈给了不一样的用户。"
+		intervals [192]:
+			xmin = 1822.95
+			xmax = 1836.84
+			text = "那我们也是希望短视频呢，尽快就是有很多的这种视频的乱象呢，我们希望加大一些后台的监管，然后以及希望他出一些比较创新性的一些设计，一些功能然后。"
+		intervals [193]:
+			xmin = 1837.83
+			xmax = 1848.01
+			text = "对就是毕竟毕竟用户都是这全国人民，全国人民用起来会比较舒服了一些，这个普及度也会更高一些是吧。"
+		intervals [194]:
+			xmin = 1850.46
+			xmax = 1850.88
+			text = "对。"
+		intervals [195]:
+			xmin = 1851.47
+			xmax = 1852.11
+			text = "对是的。"
+		intervals [196]:
+			xmin = 1853.71
+			xmax = 1858.47
+			text = "行行好的那这次讨论就到到此为止，行谢谢大家。"
+	item [2]:
+		class = "IntervalTier"
+		name = "N_SPK8067"
+		xmin = 0
+		xmax = 1858.993
+		intervals: size = 170
+		intervals [1]:
+			xmin = 66.07
+			xmax = 74.92
+			text = "而且在抖音上或者这些短视频平台的话，都是一些主播带货，就是省去了我们自己挑款的时间，嗯。"
+		intervals [2]:
+			xmin = 81.72
+			xmax = 89.38
+			text = "就是我说的是主播带货，就是可以把挑款的时间交给主播，我们如果相信这个主播的话，就会从他那儿买东西。"
+		intervals [3]:
+			xmin = 90.82
+			xmax = 99.74
+			text = "对，如果要是我们在淘宝上买东西的话，还要自己挑款，自己挑看，挑质量，如果你相信那个主播的话，你就可以直接在那儿，在他那儿买。"
+		intervals [4]:
+			xmin = 104.02
+			xmax = 105.36
+			text = "对对对，可以。"
+		intervals [5]:
+			xmin = 108.61
+			xmax = 114.42
+			text = "因为现在上班时间都特别忙嘛，然后就会时，私下的时间比较少。"
+		intervals [6]:
+			xmin = 116.13
+			xmax = 116.42
+			text = "对。"
+		intervals [7]:
+			xmin = 130.23
+			xmax = 131.44
+			text = "对对对对对。"
+		intervals [8]:
+			xmin = 148.2
+			xmax = 150.06
+			text = "啊，是的是的是的。"
+		intervals [9]:
+			xmin = 160.7
+			xmax = 160.82
+			text = "嗯。"
+		intervals [10]:
+			xmin = 172.14
+			xmax = 175.14
+			text = "我刚我刚开始看的就是技术流的视频。"
+		intervals [11]:
+			xmin = 179.31
+			xmax = 181.51
+			text = "啊，对对我也是，嗯。"
+		intervals [12]:
+			xmin = 203.9
+			xmax = 204.3
+			text = "是。"
+		intervals [13]:
+			xmin = 211.76
+			xmax = 212.85
+			text = "对对对。"
+		intervals [14]:
+			xmin = 214.32
+			xmax = 214.62
+			text = "嗯。"
+		intervals [15]:
+			xmin = 218.25
+			xmax = 232.59
+			text = "但是我，有有时候就比较好，像那种解压的视频，如果咱们经常看，经常浏览的话，或者点赞之类的，他们就会经常给你推一些比较减压的视频，那种看起来还是比较舒服的。"
+		intervals [16]:
+			xmin = 236.56
+			xmax = 236.97
+			text = "还有。"
+		intervals [17]:
+			xmin = 244.71
+			xmax = 247.6
+			text = "对，中老年妇女都比较爱看，像我爸。"
+		intervals [18]:
+			xmin = 253.19
+			xmax = 255.08
+			text = "嗯，没错，没错。"
+		intervals [19]:
+			xmin = 262.33
+			xmax = 263.46
+			text = "这只嗯。"
+		intervals [20]:
+			xmin = 264.49
+			xmax = 265.52
+			text = "对对对。"
+		intervals [21]:
+			xmin = 280.41
+			xmax = 283.51
+			text = "我也比较喜欢看科普类的比较长长知识。"
+		intervals [22]:
+			xmin = 284.67
+			xmax = 285.05
+			text = "嗯。"
+		intervals [23]:
+			xmin = 286.92
+			xmax = 288.18
+			text = "看了，看过。"
+		intervals [24]:
+			xmin = 308.71
+			xmax = 311.53
+			text = "哦，那个片段是不是，嗯。"
+		intervals [25]:
+			xmin = 316.57
+			xmax = 317.53
+			text = "对对对。"
+		intervals [26]:
+			xmin = 346.17
+			xmax = 348.14
+			text = "哦，是的，我也看过。"
+		intervals [27]:
+			xmin = 357.62
+			xmax = 363.88
+			text = "而且有的时候可能是咱们看的时候没有看到的点，视频解析它会给你讲解到，就特别好。"
+		intervals [28]:
+			xmin = 374.21
+			xmax = 376.55
+			text = "哦，是的是的是的。"
+		intervals [29]:
+			xmin = 378.87
+			xmax = 380.81
+			text = "对对对，没错。"
+		intervals [30]:
+			xmin = 382.83
+			xmax = 383.41
+			text = "嗯。"
+		intervals [31]:
+			xmin = 433.38
+			xmax = 434.49
+			text = "我也喜欢看评论。"
+		intervals [32]:
+			xmin = 438.17
+			xmax = 442.02
+			text = "有时候段子可能没有那么有意思，但是评论都特别有意思。"
+		intervals [33]:
+			xmin = 444.84
+			xmax = 445.16
+			text = "啊。"
+		intervals [34]:
+			xmin = 451.47
+			xmax = 451.94
+			text = "嗯。"
+		intervals [35]:
+			xmin = 475.48
+			xmax = 476.01
+			text = "我也是。"
+		intervals [36]:
+			xmin = 485.49
+			xmax = 486.97
+			text = "直播教学。"
+		intervals [37]:
+			xmin = 502.58
+			xmax = 502.94
+			text = "对。"
+		intervals [38]:
+			xmin = 504.39
+			xmax = 504.98
+			text = "还可以有。"
+		intervals [39]:
+			xmin = 509.85
+			xmax = 512.56
+			text = "那就达到了一种宣传的目的呀，嗯。"
+		intervals [40]:
+			xmin = 513.84
+			xmax = 514.78
+			text = "对对对。"
+		intervals [41]:
+			xmin = 547.44
+			xmax = 548.34
+			text = "就是那个。"
+		intervals [42]:
+			xmin = 549.07
+			xmax = 561.85
+			text = "科普的，希望就是嗯博博主上传视频的时候，可以平台稍微的，对对对，对的，这样可以说减少一下对中老年人的误导。"
+		intervals [43]:
+			xmin = 580.1
+			xmax = 594.68
+			text = "像，像前段时间那个新闻，就是靳东的那个，一个中，大家都知道吧，一个中老年的妇女说要跟他谈恋爱，其实这，对就是一个，明显那个博主就是一个假的。"
+		intervals [44]:
+			xmin = 598.69
+			xmax = 608.42
+			text = "对，所以，没错，这个一定要加加强监管，这样是非常容易骗到中老年人，他们现在分辨能力比较弱。"
+		intervals [45]:
+			xmin = 609.24
+			xmax = 609.46
+			text = "嗯。"
+		intervals [46]:
+			xmin = 623.73
+			xmax = 624.03
+			text = "我先。"
+		intervals [47]:
+			xmin = 691.69
+			xmax = 696.89
+			text = "他现在就是如果你经常看同一种类型的视频，他会给你推荐这种类型的。"
+		intervals [48]:
+			xmin = 698.91
+			xmax = 707.34
+			text = "对，所以我也希望就是，比方说他可以给你推一段时间，或者多少条的相同类型的视频，然后接下来就可以恢复正常。"
+		intervals [49]:
+			xmin = 711.82
+			xmax = 712.93
+			text = "对对对。"
+		intervals [50]:
+			xmin = 720.84
+			xmax = 721.34
+			text = "而且。"
+		intervals [51]:
+			xmin = 725.94
+			xmax = 726.88
+			text = "对对对。"
+		intervals [52]:
+			xmin = 728.27
+			xmax = 728.54
+			text = "嗯。"
+		intervals [53]:
+			xmin = 742.42
+			xmax = 756.3
+			text = "哦，这个也可以，因为现在可能中午，我们上班族嘛，周末都想在家休息，可能上班的时候就是中午午休的时候，刷刷手机就可以稍微的追一下剧什么的。"
+		intervals [54]:
+			xmin = 757.82
+			xmax = 758.63
+			text = "对对对。"
+		intervals [55]:
+			xmin = 782.74
+			xmax = 790.67
+			text = "那那就可以说，比方说我们看到了这个视频，然后就去他主页，有时候去他主页找我们刚刚看到的这个视频也特别麻烦。"
+		intervals [56]:
+			xmin = 792.28
+			xmax = 793.36
+			text = "是不是就可以说。"
+		intervals [57]:
+			xmin = 796.62
+			xmax = 797.03
+			text = "对。"
+		intervals [58]:
+			xmin = 812.82
+			xmax = 815.51
+			text = "对，所以这一方面是需要改进的。"
+		intervals [59]:
+			xmin = 817.92
+			xmax = 818.34
+			text = "对。"
+		intervals [60]:
+			xmin = 840.32
+			xmax = 843.8
+			text = "希望，希望加强，后台加强监管。"
+		intervals [61]:
+			xmin = 849.29
+			xmax = 851.62
+			text = "对，有好多医生的科普。"
+		intervals [62]:
+			xmin = 865.54
+			xmax = 867.01
+			text = "是的是的是的。"
+		intervals [63]:
+			xmin = 886.25
+			xmax = 888.92
+			text = "传播谣言不只在短视频上啊。"
+		intervals [64]:
+			xmin = 891.41
+			xmax = 895.87
+			text = "但是，但是，但是如果通过短视频传播会传播的非常快。"
+		intervals [65]:
+			xmin = 900.14
+			xmax = 902.5
+			text = "对，因为用户受众都比较多。"
+		intervals [66]:
+			xmin = 924.98
+			xmax = 925.72
+			text = "黄赌毒。"
+		intervals [67]:
+			xmin = 931.37
+			xmax = 940.2
+			text = "不文明不太雅观的东西，还有，还有一些，宣传一些不太正能量的东西，比较负面的情绪之类的。"
+		intervals [68]:
+			xmin = 941.04
+			xmax = 942.92
+			text = "会影响到青少年。"
+		intervals [69]:
+			xmin = 954.05
+			xmax = 954.22
+			text = "的。"
+		intervals [70]:
+			xmin = 954.95
+			xmax = 955.21
+			text = "还。"
+		intervals [71]:
+			xmin = 965.06
+			xmax = 967.36
+			text = "他们还没有那么明确的分。"
+		intervals [72]:
+			xmin = 969.32
+			xmax = 972.91
+			text = "没有那个分辨能力，还不太，对对对。"
+		intervals [73]:
+			xmin = 974.64
+			xmax = 974.95
+			text = "嗯。"
+		intervals [74]:
+			xmin = 983.23
+			xmax = 984.46
+			text = "带给我们快乐。"
+		intervals [75]:
+			xmin = 985.73
+			xmax = 987.45
+			text = "对，带给我们快乐比较多。"
+		intervals [76]:
+			xmin = 1015.69
+			xmax = 1029.61
+			text = "或有时候你去网上搜都不见得有那么明确的分类，那么明确的呃视视视频介绍，所以我觉得这一点还是特别好的，然后对于中老年来说，他们也他们也有他们自己喜欢的东西。"
+		intervals [77]:
+			xmin = 1029.61
+			xmax = 1037.03
+			text = "然后各短视频APP根据他们的喜好，推荐他们，对对对，所以这一点都特别好。"
+		intervals [78]:
+			xmin = 1044.84
+			xmax = 1045.6
+			text = "是的。"
+		intervals [79]:
+			xmin = 1046.68
+			xmax = 1047.24
+			text = "没错。"
+		intervals [80]:
+			xmin = 1049.77
+			xmax = 1050.92
+			text = "全民都在用。"
+		intervals [81]:
+			xmin = 1073.07
+			xmax = 1074.12
+			text = "交作业。"
+		intervals [82]:
+			xmin = 1093.36
+			xmax = 1095.64
+			text = "一看就会，一学都，一学就废。"
+		intervals [83]:
+			xmin = 1102.18
+			xmax = 1102.37
+			text = "嗯。"
+		intervals [84]:
+			xmin = 1109.72
+			xmax = 1109.86
+			text = "呃。"
+		intervals [85]:
+			xmin = 1122.6
+			xmax = 1127.17
+			text = "短视频它之所以叫短视频是因为它每一个视频的时长都比较短。"
+		intervals [86]:
+			xmin = 1128.04
+			xmax = 1136.29
+			text = "对于咱们来说，就是用咱们碎片的时间，学习也好，娱乐也好，都特别方便。"
+		intervals [87]:
+			xmin = 1136.86
+			xmax = 1138.77
+			text = "另外一个就是可以。"
+		intervals [88]:
+			xmin = 1139.66
+			xmax = 1141.16
+			text = "每个人都有分享欲。"
+		intervals [89]:
+			xmin = 1142.57
+			xmax = 1146.83
+			text = "可以在短视频APP上就跟不同的人一起分享。"
+		intervals [90]:
+			xmin = 1147.65
+			xmax = 1148.84
+			text = "那种感觉特别好。"
+		intervals [91]:
+			xmin = 1160.33
+			xmax = 1160.6
+			text = "啊。"
+		intervals [92]:
+			xmin = 1165.86
+			xmax = 1174.07
+			text = "对，比方说咱们平时自己啊，买过的东西，可以跟大家一起分享，然后大家一。"
+		intervals [93]:
+			xmin = 1174.52
+			xmax = 1184.09
+			text = "对对对，因为毕竟是嗯我们都是真心实意在分享东西，可能很多人因为某一产某一款产品或者某样东西踩过雷，我们可以。"
+		intervals [94]:
+			xmin = 1185.53
+			xmax = 1188.48
+			text = "对，对所以我们可以通过这。"
+		intervals [95]:
+			xmin = 1191.5
+			xmax = 1195.82
+			text = "对我们可以通过这种嗯分享，然后告诉大家，都特别好。"
+		intervals [96]:
+			xmin = 1209.96
+			xmax = 1210.99
+			text = "对，不要是。"
+		intervals [97]:
+			xmin = 1213.59
+			xmax = 1215.76
+			text = "不要是个人就做主播。"
+		intervals [98]:
+			xmin = 1219.92
+			xmax = 1225.21
+			text = "希望后面就是那个，他们提升主播的时候，可以把把关。"
+		intervals [99]:
+			xmin = 1255.64
+			xmax = 1256.57
+			text = "希望平台。"
+		intervals [100]:
+			xmin = 1260.03
+			xmax = 1262.75
+			text = "希望平台可以保护这些打假的人。"
+		intervals [101]:
+			xmin = 1264.15
+			xmax = 1271.68
+			text = "因为他们经常被某些大牌或者背后的势力，被不，对会被。"
+		intervals [102]:
+			xmin = 1272.79
+			xmax = 1273.94
+			text = "对，所以希望。"
+		intervals [103]:
+			xmin = 1278.5
+			xmax = 1278.88
+			text = "对。"
+		intervals [104]:
+			xmin = 1291.54
+			xmax = 1293.7
+			text = "对，平台就自行删除了。"
+		intervals [105]:
+			xmin = 1310.2
+			xmax = 1311.29
+			text = "是的是的。"
+		intervals [106]:
+			xmin = 1314.43
+			xmax = 1323.08
+			text = "他们根本就不会跟发视频的博主去沟通，直接去跟APP的平台去沟通，然后平台后台就把别人的视频删了。"
+		intervals [107]:
+			xmin = 1328.47
+			xmax = 1330.68
+			text = "比较真诚，真实的博主。"
+		intervals [108]:
+			xmin = 1348.68
+			xmax = 1351.64
+			text = "是，还有就是主播，希望就是。"
+		intervals [109]:
+			xmin = 1352.93
+			xmax = 1363.44
+			text = "主播不在多，要精，不是说每个人都可以做主播，一定要是他有他有自己擅长，或者是自己这个敬业的精神。"
+		intervals [110]:
+			xmin = 1372.55
+			xmax = 1372.98
+			text = "对。"
+		intervals [111]:
+			xmin = 1396.04
+			xmax = 1397.2
+			text = "是的是的。"
+		intervals [112]:
+			xmin = 1399.99
+			xmax = 1400.25
+			text = "对。"
+		intervals [113]:
+			xmin = 1401.44
+			xmax = 1403.42
+			text = "科普类型的，嗯。"
+		intervals [114]:
+			xmin = 1406.94
+			xmax = 1407.41
+			text = "是的。"
+		intervals [115]:
+			xmin = 1409.07
+			xmax = 1409.3
+			text = "对。"
+		intervals [116]:
+			xmin = 1426.38
+			xmax = 1426.71
+			text = "啊。"
+		intervals [117]:
+			xmin = 1428.2
+			xmax = 1429.46
+			text = "健身的博主。"
+		intervals [118]:
+			xmin = 1437.86
+			xmax = 1440.84
+			text = "对，所以还是这个主播的质量一定要严格把关。"
+		intervals [119]:
+			xmin = 1441.23
+			xmax = 1441.49
+			text = "嗯。"
+		intervals [120]:
+			xmin = 1452.69
+			xmax = 1453.89
+			text = "大家共同努力。"
+		intervals [121]:
+			xmin = 1455.1
+			xmax = 1455.39
+			text = "对。"
+		intervals [122]:
+			xmin = 1456.29
+			xmax = 1457.01
+			text = "对对对。"
+		intervals [123]:
+			xmin = 1463.62
+			xmax = 1466.39
+			text = "所以还需要平台后台把关。"
+		intervals [124]:
+			xmin = 1471.61
+			xmax = 1481.46
+			text = "对，举报功能，一定要加强这一方面，我们看到，像我们有，我们分辨到了，不好的视频我们举报，希望它能及时的给我们反馈。"
+		intervals [125]:
+			xmin = 1485.32
+			xmax = 1486.17
+			text = "对，一定。"
+		intervals [126]:
+			xmin = 1488.69
+			xmax = 1490.1
+			text = "没信儿了嗯。"
+		intervals [127]:
+			xmin = 1491.61
+			xmax = 1491.85
+			text = "对。"
+		intervals [128]:
+			xmin = 1495.55
+			xmax = 1496.03
+			text = "是的。"
+		intervals [129]:
+			xmin = 1509.32
+			xmax = 1511.21
+			text = "对，是的是的是的。"
+		intervals [130]:
+			xmin = 1525.65
+			xmax = 1525.96
+			text = "对。"
+		intervals [131]:
+			xmin = 1528.3
+			xmax = 1528.5
+			text = "如。"
+		intervals [132]:
+			xmin = 1529.09
+			xmax = 1534.33
+			text = "如果举报的人数比较多的话，希望平台引起注视，重视。"
+		intervals [133]:
+			xmin = 1545.85
+			xmax = 1546.08
+			text = "对。"
+		intervals [134]:
+			xmin = 1558.18
+			xmax = 1559.09
+			text = "及时反馈。"
+		intervals [135]:
+			xmin = 1562.55
+			xmax = 1567.3
+			text = "客服有，但是，对对对，反馈不是很及时。"
+		intervals [136]:
+			xmin = 1574.77
+			xmax = 1575.66
+			text = "全民应用。"
+		intervals [137]:
+			xmin = 1578.05
+			xmax = 1578.93
+			text = "对，各个。"
+		intervals [138]:
+			xmin = 1580.76
+			xmax = 1581.73
+			text = "是的是的。"
+		intervals [139]:
+			xmin = 1584.54
+			xmax = 1587.66
+			text = "还有的，有的短视频可以分享赚钱。"
+		intervals [140]:
+			xmin = 1588.53
+			xmax = 1589.56
+			text = "有，领红包。"
+		intervals [141]:
+			xmin = 1592.09
+			xmax = 1592.31
+			text = "对。"
+		intervals [142]:
+			xmin = 1594.9
+			xmax = 1595.15
+			text = "是。"
+		intervals [143]:
+			xmin = 1598.86
+			xmax = 1599.19
+			text = "对。"
+		intervals [144]:
+			xmin = 1606.06
+			xmax = 1607.57
+			text = "是的，对。"
+		intervals [145]:
+			xmin = 1610.28
+			xmax = 1610.52
+			text = "还。"
+		intervals [146]:
+			xmin = 1611.37
+			xmax = 1611.47
+			text = "你。"
+		intervals [147]:
+			xmin = 1613.3
+			xmax = 1623.97
+			text = "还有的是那种，这是个短视频APP，有的是，有的那个主播可以分享比较短时长的视频，当他达到一定的粉丝量以后，就可以分享时长比较长的视频。"
+		intervals [148]:
+			xmin = 1623.97
+			xmax = 1633.51
+			text = "还有的平台是可以上传比较长的视频，比如西瓜视频，那个上面就会那个上传十分钟左右的视频，都是可以的。"
+		intervals [149]:
+			xmin = 1637.45
+			xmax = 1642.52
+			text = "对，因为，像抖音的话，它传不了时长比较长的，可能，它。"
+		intervals [150]:
+			xmin = 1643.28
+			xmax = 1645.4
+			text = "它是主打短视频嘛，嗯。"
+		intervals [151]:
+			xmin = 1647.28
+			xmax = 1649.92
+			text = "对，所以它是这个是，它平台的特色。"
+		intervals [152]:
+			xmin = 1650.83
+			xmax = 1651.07
+			text = "嗯。"
+		intervals [153]:
+			xmin = 1655.84
+			xmax = 1657.22
+			text = "是的是的是的。"
+		intervals [154]:
+			xmin = 1673.97
+			xmax = 1674.07
+			text = "是。"
+		intervals [155]:
+			xmin = 1678.0
+			xmax = 1678.77
+			text = "各个。"
+		intervals [156]:
+			xmin = 1711.07
+			xmax = 1719.98
+			text = "它，它每个视频平台有每个视频平台的特色，我们要想看短视频就在这个APP上看，如果我们想看稍微长一点的，就去另外一个上面看。"
+		intervals [157]:
+			xmin = 1724.83
+			xmax = 1725.94
+			text = "是的，对。"
+		intervals [158]:
+			xmin = 1728.27
+			xmax = 1729.99
+			text = "它们都有自己的优势。"
+		intervals [159]:
+			xmin = 1771.41
+			xmax = 1771.82
+			text = "嗯。"
+		intervals [160]:
+			xmin = 1773.8
+			xmax = 1774.08
+			text = "现。"
+		intervals [161]:
+			xmin = 1777.68
+			xmax = 1778.19
+			text = "它。"
+		intervals [162]:
+			xmin = 1778.97
+			xmax = 1786.55
+			text = "它它那个短视频APP都是有定位功能的，根据你在哪个城市，他会给你推一些相关的东西，就是相。"
+		intervals [163]:
+			xmin = 1788.19
+			xmax = 1798.7
+			text = "对，就是比方说在二线城市，它可能给你推荐一些比较，比较适合二线城市看的视频，对吧，因为他有定位的功能，我觉得这一点是比较好的，对。"
+		intervals [164]:
+			xmin = 1816.61
+			xmax = 1817.15
+			text = "是的。"
+		intervals [165]:
+			xmin = 1822.77
+			xmax = 1823.02
+			text = "对。"
+		intervals [166]:
+			xmin = 1828.24
+			xmax = 1830.46
+			text = "尽快的整改，嗯。"
+		intervals [167]:
+			xmin = 1836.76
+			xmax = 1839.89
+			text = "更好的服务我们，我们给它们更好的反馈。"
+		intervals [168]:
+			xmin = 1847.64
+			xmax = 1850.2
+			text = "还可以给平台带来更多的利益。"
+		intervals [169]:
+			xmin = 1851.21
+			xmax = 1853.14
+			text = "对，没错，大家一起进步。"
+		intervals [170]:
+			xmin = 1857.97
+			xmax = 1858.68
+			text = "谢谢。"
+	item [3]:
+		class = "IntervalTier"
+		name = "N_SPK8068"
+		xmin = 0
+		xmax = 1858.993
+		intervals: size = 201
+		intervals [1]:
+			xmin = 34.8
+			xmax = 45.85
+			text = "啊，个人而言的话，我这人用的就是娱乐的比较多，就是买衣服买包包啊鞋子呀这一类的，反正在上面都会买，因。"
+		intervals [2]:
+			xmin = 48.05
+			xmax = 60.73
+			text = "差不多吧，因为不光是我自己一个人买，属于入入坑的，然后因为是自己的那个闺蜜啊啥的在上面买衣服啊啥的，买完了之后质量比较好。"
+		intervals [3]:
+			xmin = 60.73
+			xmax = 66.87
+			text = "然后他们就会推荐推荐给我的话，我就会看着有兴趣，对对就是这样儿呢。"
+		intervals [4]:
+			xmin = 75.68
+			xmax = 75.9
+			text = "嗯。"
+		intervals [5]:
+			xmin = 81.13
+			xmax = 82.56
+			text = "不一样不一样的。"
+		intervals [6]:
+			xmin = 101.96
+			xmax = 102.65
+			text = "对，你。"
+		intervals [7]:
+			xmin = 104.12
+			xmax = 108.53
+			text = "是，觉得你需要这个东西，然后你就可以购入就可以买了。"
+		intervals [8]:
+			xmin = 124.61
+			xmax = 137.19
+			text = "先入为主嘛，就是开快手儿和那个抖音先，对出来，先出来的，然后大家，就是不光是你自己，你身边的朋友，所有人手机里都有。"
+		intervals [9]:
+			xmin = 137.19
+			xmax = 149.53
+			text = "抖音或者说是这个快手，然后你肯定就是，好看的然后他就会分享，分享了之后你就会看，然后你可能你觉得需要这个东西会下载，你就去找这个人儿去买这东西。"
+		intervals [10]:
+			xmin = 172.22
+			xmax = 172.38
+			text = "他。"
+		intervals [11]:
+			xmin = 173.41
+			xmax = 173.53
+			text = "的。"
+		intervals [12]:
+			xmin = 175.23
+			xmax = 177.3
+			text = "啊，我可我不是。"
+		intervals [13]:
+			xmin = 179.71
+			xmax = 179.94
+			text = "哦。"
+		intervals [14]:
+			xmin = 180.68
+			xmax = 191.49
+			text = "我就是看这种情景类的呀，这种有的时候儿他们就是拍的剧情，但是，对最近的话就是，就是模仿流比较高，就是你拍了这种情景的话。"
+		intervals [15]:
+			xmin = 192.15
+			xmax = 197.24
+			text = "又会有另外的几个人过来又拍同样的，我觉得就是比较，对。"
+		intervals [16]:
+			xmin = 202.48
+			xmax = 211.84
+			text = "对太多了模仿的然后，你可能，你因为现在这些的话就是你对什么感兴趣，他这个APP就对这个推的比较多。"
+		intervals [17]:
+			xmin = 214.09
+			xmax = 217.79
+			text = "对推的比较多就老看那一样的东西，所以有时候儿也挺烦这个的。"
+		intervals [18]:
+			xmin = 230.76
+			xmax = 231.01
+			text = "嗯。"
+		intervals [19]:
+			xmin = 232.23
+			xmax = 236.44
+			text = "就是那种和可就是划了肥皂的那些那个吗？"
+		intervals [20]:
+			xmin = 242.05
+			xmax = 242.19
+			text = "呃。"
+		intervals [21]:
+			xmin = 251.55
+			xmax = 252.03
+			text = "科普。"
+		intervals [22]:
+			xmin = 261.18
+			xmax = 262.51
+			text = "哎呀，那太多啦。"
+		intervals [23]:
+			xmin = 263.54
+			xmax = 264.82
+			text = "自己分辨比较好。"
+		intervals [24]:
+			xmin = 280.48
+			xmax = 280.84
+			text = "有。"
+		intervals [25]:
+			xmin = 283.74
+			xmax = 295.94
+			text = "对我看呢，鹤叔，我不知道你们看没看啊，我我一般看的话就是鹤叔，还有就是保险类的比较多，然后因为关注了他们，然后等到时候看的话就先看自己关注的。"
+		intervals [26]:
+			xmin = 295.94
+			xmax = 310.5
+			text = "谁更新了新的视频，你就先看了之后再去看其他的，反正我就是这样，而且再就是的话，我会看一些就电视剧的啊，像自己没看过电视剧的经典的出现了之后，你可能就点开他的主页把这一系列的看完。"
+		intervals [27]:
+			xmin = 310.5
+			xmax = 312.6
+			text = "对很经典的片段嘛。"
+		intervals [28]:
+			xmin = 316.12
+			xmax = 322.21
+			text = "都有啊，因为你看过了之后，就是他就会给你推荐一个从电视剧到电影都会有啊。"
+		intervals [29]:
+			xmin = 323.78
+			xmax = 324.15
+			text = "对。"
+		intervals [30]:
+			xmin = 329.09
+			xmax = 341.33
+			text = "我我觉得这个也是有利有弊啊，就是有的时候你没有看过的，然后你看了之后，比如说你再去电影院啊，或者哪儿看的话，就没有看的那个欲望了，就是看过的还好。"
+		intervals [31]:
+			xmin = 347.93
+			xmax = 348.66
+			text = "还要看完。"
+		intervals [32]:
+			xmin = 354.72
+			xmax = 356.92
+			text = "对这个也不错，我也经常看。"
+		intervals [33]:
+			xmin = 364.22
+			xmax = 365.08
+			text = "对反正我。"
+		intervals [34]:
+			xmin = 380.41
+			xmax = 380.72
+			text = "哎。"
+		intervals [35]:
+			xmin = 383.33
+			xmax = 396.4
+			text = "对但是，现在看的就是最近看的啊，就有的时候会看到有一些那种监控的，啊我觉得特别气人的那种，然后像这样儿这样儿的话，我我会经常点开他的评论去看啊。"
+		intervals [36]:
+			xmin = 397.21
+			xmax = 397.57
+			text = "对。"
+		intervals [37]:
+			xmin = 398.66
+			xmax = 412.86
+			text = "对有事事故的有不是的呀，就比如说各种不一样的呀，就比如说偷东西的或者什么的不一样的，还有比如说，还有比如特别看的比较多的就是什么呀，警察一眼之中就能把你认出来的那种看的太多了。"
+		intervals [38]:
+			xmin = 412.86
+			xmax = 427.23
+			text = "就是说这个逃犯在他们眼里就是，他们记得太多了，一看你一眼就知道你可能是犯事儿的，然后你有你带那种气质就，就得安排就得就得去逮你的那种，看的特别多的这种，然后有的时候觉得这样呢？"
+		intervals [39]:
+			xmin = 427.94
+			xmax = 433.81
+			text = "对觉得也很搞笑，然后这样的时候，我还会比较看评论啊，对。"
+		intervals [40]:
+			xmin = 434.92
+			xmax = 439.25
+			text = "唉对，我看评论大过于看她的那个呃视频。"
+		intervals [41]:
+			xmin = 454.81
+			xmax = 467.53
+			text = "对我反正看评论看的比较多，看评论大过于看视频，然后我觉得太有意思了，因为我觉得评论的话，都是神人，而且还有好多那种，特别合辙押韵的一段儿一段儿的话，我觉得就特别有意思。"
+		intervals [42]:
+			xmin = 468.56
+			xmax = 468.75
+			text = "嗯。"
+		intervals [43]:
+			xmin = 470.1
+			xmax = 482.54
+			text = "对，但是我平常的话，除了关注这些的话，再就是关注游戏比较多，因为对我玩儿游戏玩的比较多，基本上就是，什么吃鸡儿啊，或者还有什么还有那种，还有就是。"
+		intervals [44]:
+			xmin = 484.81
+			xmax = 487.54
+			text = "直播看到的就是看到的少，对。"
+		intervals [45]:
+			xmin = 496.77
+			xmax = 497.43
+			text = "呃，呃。"
+		intervals [46]:
+			xmin = 502.69
+			xmax = 502.98
+			text = "因。"
+		intervals [47]:
+			xmin = 510.07
+			xmax = 510.35
+			text = "嗯。"
+		intervals [48]:
+			xmin = 512.76
+			xmax = 514.68
+			text = "呃，有对，对。"
+		intervals [49]:
+			xmin = 516.47
+			xmax = 531.2
+			text = "在宣传这个的话，我觉得那个宣传比较多的肯定是他广告打得好，而且有的像宣传的话，他，就是你宣传的这个样，但是你真实下载了这个游戏了之后，他可能就不是这个样了。"
+		intervals [50]:
+			xmin = 531.2
+			xmax = 533.23
+			text = "所以他还是广告有的时候还是。"
+		intervals [51]:
+			xmin = 534.22
+			xmax = 535.22
+			text = "对，别信。"
+		intervals [52]:
+			xmin = 551.25
+			xmax = 553.44
+			text = "辟谣的把那些，对。"
+		intervals [53]:
+			xmin = 557.85
+			xmax = 558.39
+			text = "对。"
+		intervals [54]:
+			xmin = 561.96
+			xmax = 569.49
+			text = "啊，这个误导太多了，有的时候就说，啊，比如说这样千万别这么做，可能有毒可能影响一家子，太太太恶心了这。"
+		intervals [55]:
+			xmin = 574.61
+			xmax = 579.97
+			text = "但是你还不能说他说这是假的，他说假的能发出来吗？他们还会这样儿。"
+		intervals [56]:
+			xmin = 585.62
+			xmax = 586.13
+			text = "哦哦哦。"
+		intervals [57]:
+			xmin = 587.48
+			xmax = 588.29
+			text = "哦知道知道。"
+		intervals [58]:
+			xmin = 589.89
+			xmax = 590.6
+			text = "啊对。"
+		intervals [59]:
+			xmin = 594.89
+			xmax = 595.33
+			text = "对。"
+		intervals [60]:
+			xmin = 603.38
+			xmax = 603.56
+			text = "嗯。"
+		intervals [61]:
+			xmin = 606.21
+			xmax = 606.94
+			text = "啊，对。"
+		intervals [62]:
+			xmin = 608.5
+			xmax = 608.75
+			text = "嗯。"
+		intervals [63]:
+			xmin = 623.26
+			xmax = 626.03
+			text = "啊，跟弹幕似的，我觉得比较爽。"
+		intervals [64]:
+			xmin = 633.93
+			xmax = 636.52
+			text = "哦置顶的是吧？我觉得这样儿可以。"
+		intervals [65]:
+			xmin = 637.52
+			xmax = 648.06
+			text = "因为我看我看这个讨论好多人都比较看评论，我当然是希望这种评论比较好的比较高质量的这些在上边儿，然后先滑得到就不会。"
+		intervals [66]:
+			xmin = 648.06
+			xmax = 652.97
+			text = "往下滑了好多，然后看到一些没用的一一样的附议的那种。"
+		intervals [67]:
+			xmin = 661.13
+			xmax = 663.1
+			text = "唉，这个可以啊，我觉得这个可以有。"
+		intervals [68]:
+			xmin = 696.93
+			xmax = 697.18
+			text = "这。"
+		intervals [69]:
+			xmin = 700.44
+			xmax = 701.58
+			text = "可以这样，我觉得。"
+		intervals [70]:
+			xmin = 708.11
+			xmax = 722.0
+			text = "对我觉得这样儿比较好，因为你不可能你永远都看这一种类型儿的，然后你你对是会疲劳，但是你如果说分类的话，你还得单独点进去，然后找这个分类再弄，相对还是比较麻烦，你还不如就是。"
+		intervals [71]:
+			xmin = 722.0
+			xmax = 725.2
+			text = "刷几条儿一样的之后之后恢复正常，然后这样比较好。"
+		intervals [72]:
+			xmin = 725.99
+			xmax = 737.96
+			text = "对对对，是我也是觉得是这样，再就是我觉得像这个的话，呃，像咱们可能我可平常看剧啊或者看什么比较多，可以就说是跟那个什么似的。"
+		intervals [73]:
+			xmin = 737.96
+			xmax = 744.72
+			text = "就是做到就是可以跟电视剧啊什么的同步，那样的我觉得也挺好的，对嗯。"
+		intervals [74]:
+			xmin = 758.15
+			xmax = 758.49
+			text = "嗯。"
+		intervals [75]:
+			xmin = 767.14
+			xmax = 767.75
+			text = "会。"
+		intervals [76]:
+			xmin = 767.75
+			xmax = 779.37
+			text = "我会我会啊，我会点开他的主页看，有的时候会放，因为有的时候你点进去他并不告诉你这个电影叫什么名字，你得翻半天评论，你才知道这个电影儿，对。"
+		intervals [77]:
+			xmin = 781.82
+			xmax = 783.72
+			text = "对，会翻到很多很多。"
+		intervals [78]:
+			xmin = 791.35
+			xmax = 792.01
+			text = "哦对。"
+		intervals [79]:
+			xmin = 793.76
+			xmax = 798.76
+			text = "快手儿要好一点，但是抖音的话会比较麻烦，快手儿的话，你看。"
+		intervals [80]:
+			xmin = 800.27
+			xmax = 813.6
+			text = "对你像快手儿的话，你看的话，就是你这么过来的话，你就可以直接上下滑了就是这个，但是你要是抖音的话，你要是说是看到了他那个是他很早很早之前发的，那你就翻去吧，你可能要翻好久。"
+		intervals [81]:
+			xmin = 815.8
+			xmax = 816.02
+			text = "对。"
+		intervals [82]:
+			xmin = 817.9
+			xmax = 818.72
+			text = "对你可能要翻。"
+		intervals [83]:
+			xmin = 842.23
+			xmax = 842.83
+			text = "当然啦。"
+		intervals [84]:
+			xmin = 843.96
+			xmax = 856.34
+			text = "你看还有好多那些冒充医生的，你有没有医生那个资格证儿啊？或者什么之类的呀？你这个后台你为什么不给他就说是，呃，看看就比如他有没有资格出来说这一段话呀。"
+		intervals [85]:
+			xmin = 862.91
+			xmax = 869.4
+			text = "当然啦，就穿一个白大褂儿，都说自己是医生，那那真是那太假了。"
+		intervals [86]:
+			xmin = 883.16
+			xmax = 884.33
+			text = "哎呀，谣言。"
+		intervals [87]:
+			xmin = 897.85
+			xmax = 900.78
+			text = "对，看的比较多呀，你像。"
+		intervals [88]:
+			xmin = 912.15
+			xmax = 921.63
+			text = "对，他们对于这些消息的话还深信不疑，他太太那什么了，我觉得还是真的是这方面，是最需要整改的我觉得。"
+		intervals [89]:
+			xmin = 925.09
+			xmax = 925.39
+			text = "这都。"
+		intervals [90]:
+			xmin = 927.32
+			xmax = 927.59
+			text = "不。"
+		intervals [91]:
+			xmin = 940.59
+			xmax = 941.38
+			text = "嗯，对。"
+		intervals [92]:
+			xmin = 943.32
+			xmax = 955.17
+			text = "呃，这个倒是，但是他上边儿就是，我看像这个这上边宣传的这些，好多小孩儿在玩儿啊，然后什么的，我感觉它会影响他们对，很很。"
+		intervals [93]:
+			xmin = 966.55
+			xmax = 968.41
+			text = "三观会被扭曲。"
+		intervals [94]:
+			xmin = 970.6
+			xmax = 972.32
+			text = "对三观会被扭曲。"
+		intervals [95]:
+			xmin = 981.2
+			xmax = 984.96
+			text = "那影响比较大的就是去实体店买东西少了。"
+		intervals [96]:
+			xmin = 987.45
+			xmax = 988.02
+			text = "对。"
+		intervals [97]:
+			xmin = 997.64
+			xmax = 1011.53
+			text = "对就是省的我们去外边儿实体店买东西了，就是在上边什么需求都有了，吃的喝的啥的都有，而且上边的话还会有一些菜谱啊什么的，嘿，一看就会，一学就费的有好多。"
+		intervals [98]:
+			xmin = 1015.48
+			xmax = 1016.42
+			text = "啊，这个倒是。"
+		intervals [99]:
+			xmin = 1025.16
+			xmax = 1025.4
+			text = "对。"
+		intervals [100]:
+			xmin = 1038.12
+			xmax = 1038.46
+			text = "是。"
+		intervals [101]:
+			xmin = 1047.1
+			xmax = 1047.49
+			text = "对。"
+		intervals [102]:
+			xmin = 1053.04
+			xmax = 1056.26
+			text = "唉对，姐嘣的。"
+		intervals [103]:
+			xmin = 1074.48
+			xmax = 1085.81
+			text = "反正那一段儿时间，我朋友圈也好，或者是那个看的刷的好，全部都是什么凉皮啊，然后自己做的凉皮啊，自己蒸的什么，馒头花卷儿啊之类的，反正都是这一类的。"
+		intervals [104]:
+			xmin = 1088.91
+			xmax = 1091.66
+			text = "那就是一看就会一学就费吗？"
+		intervals [105]:
+			xmin = 1093.47
+			xmax = 1093.82
+			text = "我就。"
+		intervals [106]:
+			xmin = 1094.91
+			xmax = 1096.95
+			text = "对但是，很快乐。"
+		intervals [107]:
+			xmin = 1106.93
+			xmax = 1108.76
+			text = "对还是很快乐的觉得。"
+		intervals [108]:
+			xmin = 1109.9
+			xmax = 1112.21
+			text = "虽然做废了，但是心里还是很美的。"
+		intervals [109]:
+			xmin = 1113.21
+			xmax = 1114.07
+			text = "对自己动手儿。"
+		intervals [110]:
+			xmin = 1121.57
+			xmax = 1123.03
+			text = "对这个这个倒是。"
+		intervals [111]:
+			xmin = 1141.82
+			xmax = 1142.02
+			text = "嗯。"
+		intervals [112]:
+			xmin = 1151.85
+			xmax = 1152.16
+			text = "嗯。"
+		intervals [113]:
+			xmin = 1164.05
+			xmax = 1165.24
+			text = "对这个倒是。"
+		intervals [114]:
+			xmin = 1175.83
+			xmax = 1176.43
+			text = "嗯，好。"
+		intervals [115]:
+			xmin = 1179.45
+			xmax = 1180.46
+			text = "好好好，是。"
+		intervals [116]:
+			xmin = 1182.13
+			xmax = 1182.32
+			text = "我。"
+		intervals [117]:
+			xmin = 1183.58
+			xmax = 1189.54
+			text = "咱也踩雷的太多啦，这些个踩雷，买东西，真的是。"
+		intervals [118]:
+			xmin = 1191.92
+			xmax = 1192.81
+			text = "天差地别。"
+		intervals [119]:
+			xmin = 1203.15
+			xmax = 1213.95
+			text = "嗯，对于网红那一些的话，我觉得跟他们说，不要就说是他们给钱，你就得就给他们说，还是还还是，得是，对。"
+		intervals [120]:
+			xmin = 1215.41
+			xmax = 1217.06
+			text = "对对对，还是。"
+		intervals [121]:
+			xmin = 1221.74
+			xmax = 1223.15
+			text = "这个可以整改，就比如说。"
+		intervals [122]:
+			xmin = 1225.25
+			xmax = 1239.09
+			text = "对，可以为，反正是因为大家都是为了方便嘛，你你卖这个东西到时候买我们买回来就是，跟那个完全不一样，我们肯定也不会用，也就会就踩雷了嘛，但是，他但是。"
+		intervals [123]:
+			xmin = 1239.09
+			xmax = 1252.31
+			text = "肯定还会有其他的呀，像看那个打假的阿纯就说的，就说你用这个东西的话，你可能它过一段时间就会换一个包装，然后换一个名字过来，所以对一样的东西。"
+		intervals [124]:
+			xmin = 1252.31
+			xmax = 1255.98
+			text = "还还是希望他们都会把这一些能够分类一下。"
+		intervals [125]:
+			xmin = 1263.36
+			xmax = 1264.21
+			text = "对对对对。"
+		intervals [126]:
+			xmin = 1270.94
+			xmax = 1271.13
+			text = "嗯。"
+		intervals [127]:
+			xmin = 1272.94
+			xmax = 1286.02
+			text = "唉，他们什么在家里给人家寄这个寄那个，然后那个恐吓人家呀，然后而且就是像这种的话，就是像好多就说是快手的这些，他们好像还给人家把人家之前。"
+		intervals [128]:
+			xmin = 1286.02
+			xmax = 1291.77
+			text = "这，快手抖，快手也好抖音也好，把人家之前发过的视频，就给删对删除了。"
+		intervals [129]:
+			xmin = 1293.98
+			xmax = 1296.65
+			text = "对我觉得这个，这样儿不太好。"
+		intervals [130]:
+			xmin = 1298.49
+			xmax = 1310.54
+			text = "是啊，就是，你看他就是像我看的就说是打假的话，就是阿纯的，他就会说，啊，他说我我不知道这条视频视频能够存在多久，就是因为是出品方会把它这个视频会删掉。"
+		intervals [131]:
+			xmin = 1323.27
+			xmax = 1323.72
+			text = "对。"
+		intervals [132]:
+			xmin = 1324.31
+			xmax = 1329.38
+			text = "因为我们大家还是很需要有这样儿打假的，希望就说是平台可以保护这些。"
+		intervals [133]:
+			xmin = 1330.63
+			xmax = 1331.15
+			text = "对。"
+		intervals [134]:
+			xmin = 1335.47
+			xmax = 1349.53
+			text = "是有是有号儿，但是你可能存在不了多久，明白吗？就是他会就说是像那些大牌儿啊或什么的会找着，就比如说你你是在那个抖对你是在抖音上直播呀或，对，你。"
+		intervals [135]:
+			xmin = 1352.83
+			xmax = 1353.77
+			text = "不要昧着良心。"
+		intervals [136]:
+			xmin = 1355.16
+			xmax = 1355.55
+			text = "对。"
+		intervals [137]:
+			xmin = 1363.5
+			xmax = 1363.88
+			text = "嗯。"
+		intervals [138]:
+			xmin = 1365.8
+			xmax = 1366.06
+			text = "对。"
+		intervals [139]:
+			xmin = 1372.13
+			xmax = 1384.17
+			text = "对你像我看的就是说是，就保险之类的是人家也是定期直播，就是说比如说告诉你，保险的哪个点儿哪个点儿啊？避免你要是买他保险的，因为保险的话，我觉得以后。"
+		intervals [140]:
+			xmin = 1386.24
+			xmax = 1386.56
+			text = "对。"
+		intervals [141]:
+			xmin = 1396.91
+			xmax = 1398.3
+			text = "呃，这个也是是你。"
+		intervals [142]:
+			xmin = 1406.03
+			xmax = 1409.12
+			text = "啊，对你怎么养鱼什么的我也比较喜欢。"
+		intervals [143]:
+			xmin = 1409.12
+			xmax = 1409.47
+			text = "我。"
+		intervals [144]:
+			xmin = 1410.16
+			xmax = 1411.96
+			text = "虽然自己也，对。"
+		intervals [145]:
+			xmin = 1414.19
+			xmax = 1414.58
+			text = "嗯。"
+		intervals [146]:
+			xmin = 1419.19
+			xmax = 1427.1
+			text = "这一段时间就说是疫情期间的话，我看就说是教人怎么减肥，怎么蹦的那些是太多了。"
+		intervals [147]:
+			xmin = 1430.33
+			xmax = 1430.68
+			text = "对。"
+		intervals [148]:
+			xmin = 1437.57
+			xmax = 1437.99
+			text = "那。"
+		intervals [149]:
+			xmin = 1441.34
+			xmax = 1442.85
+			text = "对这个倒是，你像我看。"
+		intervals [150]:
+			xmin = 1454.37
+			xmax = 1458.12
+			text = "当然啦哈，肯定得大家共同努力了，你得努力分辨，你像。"
+		intervals [151]:
+			xmin = 1466.92
+			xmax = 1468.62
+			text = "对，双方的努力。"
+		intervals [152]:
+			xmin = 1482.02
+			xmax = 1483.39
+			text = "对这个倒是啊。"
+		intervals [153]:
+			xmin = 1485.04
+			xmax = 1495.38
+			text = "对你看你举报，你是举报啦，你看你过一阵儿这个，对他还在那，对他还在那，你没有进行处理，那我们举报不举报没有什么意义呀。"
+		intervals [154]:
+			xmin = 1496.35
+			xmax = 1505.87
+			text = "还是希望他就是我们举报了之后，就给你出了什么结果，你可以发给我们啊，或者说是，呃，不让他就是停改，让他先不开视频呀，或者什么。"
+		intervals [155]:
+			xmin = 1507.27
+			xmax = 1509.51
+			text = "对我在处理，您别不了。"
+		intervals [156]:
+			xmin = 1510.97
+			xmax = 1512.5
+			text = "你别不了了之啊。"
+		intervals [157]:
+			xmin = 1516.81
+			xmax = 1522.56
+			text = "跟电话那个人多人儿举报我，我觉得是他假的，对这样比较好啊，因为你要是说是你。"
+		intervals [158]:
+			xmin = 1527.37
+			xmax = 1531.42
+			text = "对对对，你如果好多人都举报，你看到啦，对。"
+		intervals [159]:
+			xmin = 1532.75
+			xmax = 1545.73
+			text = "是啊，你好多人都举报了，他看到了，那证明他肯定，好多人都不喜欢他，你对你一个人不喜欢那可能就是你这个人的问题，那所有人都不喜欢，那肯定就是这个人的问题了对不对？"
+		intervals [160]:
+			xmin = 1545.73
+			xmax = 1550.17
+			text = "所以还是加强这个举报功能，还是比我觉得比较好。"
+		intervals [161]:
+			xmin = 1559.09
+			xmax = 1559.42
+			text = "对。"
+		intervals [162]:
+			xmin = 1560.44
+			xmax = 1565.37
+			text = "客服有吧，我看他们也有客服，但就是不是很积极，是不是？"
+		intervals [163]:
+			xmin = 1571.24
+			xmax = 1585.02
+			text = "对确实是，因为你看嘛，现在这小视频，对，全民应用谁手机里没有，反正我，对，对你看我就有快手和抖音，起码我这两个我都有对。"
+		intervals [164]:
+			xmin = 1588.14
+			xmax = 1592.03
+			text = "哦对，火，是吗？火山小视频是吗？"
+		intervals [165]:
+			xmin = 1595.41
+			xmax = 1595.8
+			text = "那。"
+		intervals [166]:
+			xmin = 1597.3
+			xmax = 1604.92
+			text = "哎呀，太多了，就是你平常玩小游戏的时候，他们就会给你推荐出来，就比如什么快手急速版呀火山小视频呀什么的。"
+		intervals [167]:
+			xmin = 1608.08
+			xmax = 1608.6
+			text = "对。"
+		intervals [168]:
+			xmin = 1610.27
+			xmax = 1612.76
+			text = "但，哎你得攒到哪辈子去。"
+		intervals [169]:
+			xmin = 1624.19
+			xmax = 1625.03
+			text = "五分钟的。"
+		intervals [170]:
+			xmin = 1628.51
+			xmax = 1629.19
+			text = "哦对。"
+		intervals [171]:
+			xmin = 1632.66
+			xmax = 1633.75
+			text = "那个比较长。"
+		intervals [172]:
+			xmin = 1636.01
+			xmax = 1636.77
+			text = "不一样的。"
+		intervals [173]:
+			xmin = 1640.88
+			xmax = 1641.22
+			text = "嗯。"
+		intervals [174]:
+			xmin = 1641.22
+			xmax = 1643.51
+			text = "快手最多的话也就五分多钟。"
+		intervals [175]:
+			xmin = 1645.26
+			xmax = 1645.62
+			text = "对。"
+		intervals [176]:
+			xmin = 1647.95
+			xmax = 1648.28
+			text = "对。"
+		intervals [177]:
+			xmin = 1650.36
+			xmax = 1650.8
+			text = "嗯。"
+		intervals [178]:
+			xmin = 1667.34
+			xmax = 1680.82
+			text = "哎，对这个倒是啊，就是你像看这个短视频的时候，你想现在谁那么多时间你你，有的时候儿你去个厕所拿手机，可能就说是就看一两个，然后就就完事儿了，然后你像那个。"
+		intervals [179]:
+			xmin = 1680.82
+			xmax = 1693.93
+			text = "除非你休息的时间比较长的那种，你像午休的时候，你可能就是会看那些带情景的那种，就比如说你会连着看，把这一个片，对，把这个片段看完，跟刷电视剧似的。"
+		intervals [180]:
+			xmin = 1700.55
+			xmax = 1700.75
+			text = "啊。"
+		intervals [181]:
+			xmin = 1701.66
+			xmax = 1711.2
+			text = "对平常是就看这类的比较多，就是中午的时候看他这个，呃，剧情类的比较多，因为你中午的话，最多也就是一个多小时啊。"
+		intervals [182]:
+			xmin = 1720.36
+			xmax = 1722.27
+			text = "所以每个人手机里有好几个。"
+		intervals [183]:
+			xmin = 1730.54
+			xmax = 1730.84
+			text = "对。"
+		intervals [184]:
+			xmin = 1744.65
+			xmax = 1756.27
+			text = "不是不是啊，跟这没关系嘛，你看像抖音的话，我们一般关注的会也是他们像那个，什么李佳琪他们带货的这些还有呢？就是我们平常玩的游戏，是什么那个王者啊什么的时候。"
+		intervals [185]:
+			xmin = 1756.27
+			xmax = 1770.49
+			text = "他们就跟也是跟情景剧似的，就比如说他跟他师傅啊，或者怎么着的之类的，但是快手的话，他就是会有一些长的那些视频，五分多钟的呀，你就连续着刷着看嘛，不就是我感觉跟城市没有关系。"
+		intervals [186]:
+			xmin = 1771.27
+			xmax = 1773.9
+			text = "就是看你自己的需求你知道吗？"
+		intervals [187]:
+			xmin = 1777.86
+			xmax = 1778.16
+			text = "对。"
+		intervals [188]:
+			xmin = 1794.8
+			xmax = 1795.11
+			text = "嗯。"
+		intervals [189]:
+			xmin = 1796.84
+			xmax = 1797.89
+			text = "看你在哪了？"
+		intervals [190]:
+			xmin = 1800.89
+			xmax = 1808.1
+			text = "嗯，没关系吧，你看像现在我们这个年轻的大部分都出来上班儿，呃，一线城市二线城市的比较多嘛。"
+		intervals [191]:
+			xmin = 1809.55
+			xmax = 1809.93
+			text = "嗯。"
+		intervals [192]:
+			xmin = 1816.81
+			xmax = 1817.16
+			text = "嗯。"
+		intervals [193]:
+			xmin = 1822.58
+			xmax = 1822.88
+			text = "对。"
+		intervals [194]:
+			xmin = 1830.25
+			xmax = 1830.71
+			text = "对。"
+		intervals [195]:
+			xmin = 1835.39
+			xmax = 1835.72
+			text = "嗯。"
+		intervals [196]:
+			xmin = 1838.22
+			xmax = 1838.48
+			text = "对。"
+		intervals [197]:
+			xmin = 1840.43
+			xmax = 1840.76
+			text = "对。"
+		intervals [198]:
+			xmin = 1847.43
+			xmax = 1847.68
+			text = "对啊。"
+		intervals [199]:
+			xmin = 1851.24
+			xmax = 1852.91
+			text = "对，对因我们。"
+		intervals [200]:
+			xmin = 1853.9
+			xmax = 1855.55
+			text = "对，可以，嗯。"
+		intervals [201]:
+			xmin = 1858.1
+			xmax = 1858.98
+			text = "好的再见。"
+	item [4]:
+		class = "IntervalTier"
+		name = "N_SPK8069"
+		xmin = 0
+		xmax = 1858.993
+		intervals: size = 201
+		intervals [1]:
+			xmin = 64.13
+			xmax = 65.07
+			text = "就种草了。"
+		intervals [2]:
+			xmin = 81.72
+			xmax = 83.21
+			text = "淘宝的话。"
+		intervals [3]:
+			xmin = 109.52
+			xmax = 109.78
+			text = "但。"
+		intervals [4]:
+			xmin = 114.92
+			xmax = 120.69
+			text = "但是据我所知，淘宝现在也是有那个主播的就是卖东西。"
+		intervals [5]:
+			xmin = 122.86
+			xmax = 124.92
+			text = "是学他的这个。"
+		intervals [6]:
+			xmin = 159.3
+			xmax = 160.66
+			text = "有娱乐方面儿的。"
+		intervals [7]:
+			xmin = 175.11
+			xmax = 179.77
+			text = "对刚开始我接触短视频，也是因为为了娱乐搞笑。"
+		intervals [8]:
+			xmin = 198.33
+			xmax = 198.84
+			text = "就会。"
+		intervals [9]:
+			xmin = 200.46
+			xmax = 203.67
+			text = "模仿的这个，就很，嗯。"
+		intervals [10]:
+			xmin = 218.37
+			xmax = 218.59
+			text = "就是。"
+		intervals [11]:
+			xmin = 236.58
+			xmax = 244.73
+			text = "如果如果是我们家的话，我们家看短视频，最多的是我妈妈，然后她看的就是生活类的。"
+		intervals [12]:
+			xmin = 247.16
+			xmax = 262.92
+			text = "生活类的但是我发现他这个生活类的假科普的现象很严重，就比如说经常看完一个短视频，就跟我们说什么，床底下不让放鞋，卫生间不让放镜子，对这，就很无语。"
+		intervals [13]:
+			xmin = 271.56
+			xmax = 271.89
+			text = "嗯。"
+		intervals [14]:
+			xmin = 280.83
+			xmax = 281.31
+			text = "嗯嗯。"
+		intervals [15]:
+			xmin = 309.2
+			xmax = 311.58
+			text = "哦哦，那个对片段。"
+		intervals [16]:
+			xmin = 313.28
+			xmax = 314.63
+			text = "对，这这个也可以。"
+		intervals [17]:
+			xmin = 324.25
+			xmax = 329.53
+			text = "其实有时候也不是精彩片段，就是非常吸引人的一个片段，也也会。"
+		intervals [18]:
+			xmin = 335.67
+			xmax = 336.92
+			text = "就很，很想看。"
+		intervals [19]:
+			xmin = 347.44
+			xmax = 347.85
+			text = "嗯。"
+		intervals [20]:
+			xmin = 355.29
+			xmax = 356.85
+			text = "嗯，有这个需求，对。"
+		intervals [21]:
+			xmin = 364.02
+			xmax = 369.86
+			text = "对，讲解它会有一个你看不到的东西，他就会说出来，然后说出来发现，哇，原来这样。"
+		intervals [22]:
+			xmin = 382.74
+			xmax = 383.68
+			text = "嗯啊可以。"
+		intervals [23]:
+			xmin = 391.21
+			xmax = 392.48
+			text = "哦对，我也看过。"
+		intervals [24]:
+			xmin = 395.2
+			xmax = 400.02
+			text = "对，比如说事，事故平，事故现场是吗？对我也看过。"
+		intervals [25]:
+			xmin = 404.04
+			xmax = 404.29
+			text = "嗯。"
+		intervals [26]:
+			xmin = 405.66
+			xmax = 406.06
+			text = "嗯。"
+		intervals [27]:
+			xmin = 426.83
+			xmax = 427.75
+			text = "慧眼识人。"
+		intervals [28]:
+			xmin = 433.68
+			xmax = 434.72
+			text = "哦，对我也喜欢。"
+		intervals [29]:
+			xmin = 441.7
+			xmax = 454.31
+			text = "对有时候就是看视频，看着看，对看着看着就翻到那个评论，或者是看视频看几秒钟，一分钟，就开始点开那个视频，不是不是视频，就那个评论对对对。"
+		intervals [30]:
+			xmin = 462.05
+			xmax = 462.42
+			text = "对。"
+		intervals [31]:
+			xmin = 467.11
+			xmax = 468.19
+			text = "就段子。"
+		intervals [32]:
+			xmin = 469.87
+			xmax = 470.18
+			text = "嗯。"
+		intervals [33]:
+			xmin = 487.35
+			xmax = 496.28
+			text = "我看过那个关于游戏，就是页，那个人物制作得非常精美的，可能算是游戏的宣传。"
+		intervals [34]:
+			xmin = 497.25
+			xmax = 498.51
+			text = "对对三D模型。"
+		intervals [35]:
+			xmin = 502.59
+			xmax = 509.72
+			text = "然后我是没有玩儿过那种游戏，但是我看过那个短视频，我就想问这游戏是什么名字，是是游戏还是视频？"
+		intervals [36]:
+			xmin = 511.89
+			xmax = 512.49
+			text = "对对对。"
+		intervals [37]:
+			xmin = 527.62
+			xmax = 529.09
+			text = "他不愿意看广告。"
+		intervals [38]:
+			xmin = 531.1
+			xmax = 531.98
+			text = "哦对。"
+		intervals [39]:
+			xmin = 533.09
+			xmax = 534.08
+			text = "出入比较大。"
+		intervals [40]:
+			xmin = 545.29
+			xmax = 548.61
+			text = "我只希望界面更简洁一些，不要那么复杂。"
+		intervals [41]:
+			xmin = 552.65
+			xmax = 553.73
+			text = "呃，对辟谣的。"
+		intervals [42]:
+			xmin = 562.49
+			xmax = 563.26
+			text = "嗯嗯嗯。"
+		intervals [43]:
+			xmin = 566.32
+			xmax = 567.95
+			text = "对对对，就就很烦。"
+		intervals [44]:
+			xmin = 569.13
+			xmax = 574.33
+			text = "就我妈看一个视频跟我说，跟我弟说，跟我爸说，我我都受不了了。"
+		intervals [45]:
+			xmin = 578.8
+			xmax = 580.52
+			text = "对呀对对对。"
+		intervals [46]:
+			xmin = 587.58
+			xmax = 587.88
+			text = "哦。"
+		intervals [47]:
+			xmin = 590.16
+			xmax = 591.19
+			text = "哦，我不知道。"
+		intervals [48]:
+			xmin = 606.19
+			xmax = 607.27
+			text = "嗯对的确。"
+		intervals [49]:
+			xmin = 622.06
+			xmax = 626.52
+			text = "透明化对对对，就不要影响视频的。"
+		intervals [50]:
+			xmin = 630.79
+			xmax = 632.77
+			text = "唉对，点赞多的可以。"
+		intervals [51]:
+			xmin = 634.8
+			xmax = 636.18
+			text = "唉，可以可以可以。"
+		intervals [52]:
+			xmin = 651.13
+			xmax = 651.79
+			text = "嗯嗯嗯。"
+		intervals [53]:
+			xmin = 653.68
+			xmax = 655.52
+			text = "就好的评论直接置顶。"
+		intervals [54]:
+			xmin = 659.92
+			xmax = 660.4
+			text = "嗯嗯。"
+		intervals [55]:
+			xmin = 677.76
+			xmax = 678.76
+			text = "分类是吗？"
+		intervals [56]:
+			xmin = 691.89
+			xmax = 692.71
+			text = "嗯。"
+		intervals [57]:
+			xmin = 699.84
+			xmax = 700.19
+			text = "嗯。"
+		intervals [58]:
+			xmin = 705.47
+			xmax = 705.93
+			text = "然后再。"
+		intervals [59]:
+			xmin = 708.02
+			xmax = 714.09
+			text = "然后再给你，推别的不同的视频，对对对，就，会疲劳的。"
+		intervals [60]:
+			xmin = 745.92
+			xmax = 746.2
+			text = "嗯。"
+		intervals [61]:
+			xmin = 756.2
+			xmax = 764.02
+			text = "然后那个那个片段，对有时候那个片段，还可以看到，就以前没看过的，就比较有意思的电视剧，也想，也想看。"
+		intervals [62]:
+			xmin = 764.97
+			xmax = 766.67
+			text = "会引起自己的兴趣。"
+		intervals [63]:
+			xmin = 775.06
+			xmax = 775.97
+			text = "呃，对对对。"
+		intervals [64]:
+			xmin = 776.86
+			xmax = 781.84
+			text = "对还要还要，问别人这个电视剧叫什么名字，或者这个电影叫什么名字。"
+		intervals [65]:
+			xmin = 792.57
+			xmax = 795.8
+			text = "对或者是你，直接把那个视频。"
+		intervals [66]:
+			xmin = 824.36
+			xmax = 825.01
+			text = "嗯嗯嗯。"
+		intervals [67]:
+			xmin = 832.22
+			xmax = 833.33
+			text = "各种，对都有。"
+		intervals [68]:
+			xmin = 839.7
+			xmax = 841.41
+			text = "肯定是希望它整改啊。"
+		intervals [69]:
+			xmin = 844.59
+			xmax = 846.57
+			text = "不要什么样的视频都往上发。"
+		intervals [70]:
+			xmin = 850.23
+			xmax = 850.95
+			text = "嗯，是啊。"
+		intervals [71]:
+			xmin = 861.95
+			xmax = 862.73
+			text = "实名认证。"
+		intervals [72]:
+			xmin = 864.08
+			xmax = 865.39
+			text = "很，很必要的。"
+		intervals [73]:
+			xmin = 879.33
+			xmax = 880.42
+			text = "哦对对对对。"
+		intervals [74]:
+			xmin = 881.14
+			xmax = 882.02
+			text = "还有谣言。"
+		intervals [75]:
+			xmin = 883.27
+			xmax = 884.62
+			text = "其实，嗯嗯嗯。"
+		intervals [76]:
+			xmin = 896.01
+			xmax = 897.04
+			text = "呃对，的确。"
+		intervals [77]:
+			xmin = 900.56
+			xmax = 901.74
+			text = "而且尤其是。"
+		intervals [78]:
+			xmin = 902.64
+			xmax = 912.0
+			text = "对中老年人，他特别信那个，尤其是谣言，如果被一个中老年人看不透一传十十传百的，那种扩散的非常的快。"
+		intervals [79]:
+			xmin = 925.21
+			xmax = 925.7
+			text = "嗯。"
+		intervals [80]:
+			xmin = 932.66
+			xmax = 935.41
+			text = "哦对，有时候还粗话。"
+		intervals [81]:
+			xmin = 953.38
+			xmax = 954.55
+			text = "很危险是。"
+		intervals [82]:
+			xmin = 958.03
+			xmax = 959.87
+			text = "还有一个就是，那个。"
+		intervals [83]:
+			xmin = 966.66
+			xmax = 968.95
+			text = "他会会学习的，会学习。"
+		intervals [84]:
+			xmin = 981.66
+			xmax = 985.67
+			text = "对用户的影响肯定是娱乐。"
+		intervals [85]:
+			xmin = 987.55
+			xmax = 991.12
+			text = "闲暇的时间有可以消遣的那个。"
+		intervals [86]:
+			xmin = 992.54
+			xmax = 992.89
+			text = "对。"
+		intervals [87]:
+			xmin = 996.15
+			xmax = 997.61
+			text = "对还能学习一点儿东西。"
+		intervals [88]:
+			xmin = 1000.94
+			xmax = 1001.25
+			text = "对。"
+		intervals [89]:
+			xmin = 1008.1
+			xmax = 1009.04
+			text = "还能学做饭。"
+		intervals [90]:
+			xmin = 1010.43
+			xmax = 1015.65
+			text = "呃，比那个比那要，直接去学习，就买本书学习要来得快得多。"
+		intervals [91]:
+			xmin = 1023.39
+			xmax = 1024.04
+			text = "嗯嗯嗯。"
+		intervals [92]:
+			xmin = 1037.2
+			xmax = 1037.53
+			text = "嗯。"
+		intervals [93]:
+			xmin = 1045.28
+			xmax = 1046.57
+			text = "对都在家待着呢。"
+		intervals [94]:
+			xmin = 1050.56
+			xmax = 1054.58
+			text = "而且健身的视频还挺，蛮多的，自己在家健身。"
+		intervals [95]:
+			xmin = 1073.01
+			xmax = 1074.11
+			text = "哦哦哦哦。"
+		intervals [96]:
+			xmin = 1075.02
+			xmax = 1076.87
+			text = "自己做的，呃那个料理。"
+		intervals [97]:
+			xmin = 1084.96
+			xmax = 1088.63
+			text = "然然后发觉自己做的，跟视频里别人做的完全不一样。"
+		intervals [98]:
+			xmin = 1091.7
+			xmax = 1092.23
+			text = "对啊。"
+		intervals [99]:
+			xmin = 1093.44
+			xmax = 1094.33
+			text = "都是手残党。"
+		intervals [100]:
+			xmin = 1099.36
+			xmax = 1100.49
+			text = "对，娱乐。"
+		intervals [101]:
+			xmin = 1106.55
+			xmax = 1107.04
+			text = "嗯嗯。"
+		intervals [102]:
+			xmin = 1111.78
+			xmax = 1113.04
+			text = "对，很很高兴的。"
+		intervals [103]:
+			xmin = 1116.38
+			xmax = 1121.13
+			text = "对我有事儿要做，而且我我也做了，虽然我没做好。"
+		intervals [104]:
+			xmin = 1142.5
+			xmax = 1143.17
+			text = "你现在。"
+		intervals [105]:
+			xmin = 1147.18
+			xmax = 1147.63
+			text = "嗯嗯。"
+		intervals [106]:
+			xmin = 1149.4
+			xmax = 1151.13
+			text = "就是好东西，大家都要知道。"
+		intervals [107]:
+			xmin = 1160.85
+			xmax = 1161.3
+			text = "绝招。"
+		intervals [108]:
+			xmin = 1183.3
+			xmax = 1186.49
+			text = "嗯嗯，对呀踩雷的可多了。"
+		intervals [109]:
+			xmin = 1188.13
+			xmax = 1191.68
+			text = "有有的时候，真的是，到手的东西跟视频的东西不一样儿。"
+		intervals [110]:
+			xmin = 1194.7
+			xmax = 1196.28
+			text = "挂羊头卖狗肉。"
+		intervals [111]:
+			xmin = 1203.42
+			xmax = 1204.93
+			text = "主播的人品。"
+		intervals [112]:
+			xmin = 1210.03
+			xmax = 1211.24
+			text = "对呀，不要。"
+		intervals [113]:
+			xmin = 1213.93
+			xmax = 1215.23
+			text = "对呀，要有自己的。"
+		intervals [114]:
+			xmin = 1216.87
+			xmax = 1220.29
+			text = "人格问题不要为了挣钱，出卖良心。"
+		intervals [115]:
+			xmin = 1225.47
+			xmax = 1225.85
+			text = "对。"
+		intervals [116]:
+			xmin = 1227.03
+			xmax = 1228.11
+			text = "不要只看脸。"
+		intervals [117]:
+			xmin = 1249.07
+			xmax = 1251.55
+			text = "对对对，还是一样的东西。"
+		intervals [118]:
+			xmin = 1252.72
+			xmax = 1253.64
+			text = "不同的包装。"
+		intervals [119]:
+			xmin = 1256.07
+			xmax = 1260.3
+			text = "你，对你要卖东西的话，一定要把质量做好。"
+		intervals [120]:
+			xmin = 1265.53
+			xmax = 1266.29
+			text = "哦对。"
+		intervals [121]:
+			xmin = 1268.22
+			xmax = 1268.47
+			text = "对。"
+		intervals [122]:
+			xmin = 1269.81
+			xmax = 1272.8
+			text = "有的时候暗暗地被恐吓会。"
+		intervals [123]:
+			xmin = 1290.0
+			xmax = 1292.37
+			text = "再发一遍儿嗯，再删除。"
+		intervals [124]:
+			xmin = 1295.66
+			xmax = 1298.38
+			text = "这这个，我不知道是什么原因，真的很奇怪。"
+		intervals [125]:
+			xmin = 1321.43
+			xmax = 1321.97
+			text = "嗯嗯。"
+		intervals [126]:
+			xmin = 1323.58
+			xmax = 1324.15
+			text = "对啊。"
+		intervals [127]:
+			xmin = 1330.18
+			xmax = 1336.86
+			text = "对，或者让让打假人，自己弄一个号儿，然后专门发那个打假的视频，然后对我。"
+		intervals [128]:
+			xmin = 1339.33
+			xmax = 1339.95
+			text = "嗯嗯。"
+		intervals [129]:
+			xmin = 1345.0
+			xmax = 1346.05
+			text = "干不过人家昂。"
+		intervals [130]:
+			xmin = 1349.15
+			xmax = 1349.61
+			text = "对有。"
+		intervals [131]:
+			xmin = 1355.04
+			xmax = 1355.74
+			text = "哦对。"
+		intervals [132]:
+			xmin = 1363.12
+			xmax = 1365.37
+			text = "就是主播也要有自己的分辨能力。"
+		intervals [133]:
+			xmin = 1383.89
+			xmax = 1384.45
+			text = "嗯嗯。"
+		intervals [134]:
+			xmin = 1394.4
+			xmax = 1394.9
+			text = "嗯嗯。"
+		intervals [135]:
+			xmin = 1396.6
+			xmax = 1397.1
+			text = "嗯嗯。"
+		intervals [136]:
+			xmin = 1400.8
+			xmax = 1401.31
+			text = "嗯。"
+		intervals [137]:
+			xmin = 1407.0
+			xmax = 1409.06
+			text = "就各各种类型的主播。"
+		intervals [138]:
+			xmin = 1413.89
+			xmax = 1414.48
+			text = "嗯嗯。"
+		intervals [139]:
+			xmin = 1424.48
+			xmax = 1426.19
+			text = "对。对啊。"
+		intervals [140]:
+			xmin = 1430.33
+			xmax = 1430.74
+			text = "嗯。"
+		intervals [141]:
+			xmin = 1436.75
+			xmax = 1438.5
+			text = "呃，不是对对对。"
+		intervals [142]:
+			xmin = 1440.84
+			xmax = 1441.36
+			text = "嗯嗯。"
+		intervals [143]:
+			xmin = 1442.32
+			xmax = 1444.02
+			text = "就不要谁都能做主播。"
+		intervals [144]:
+			xmin = 1454.78
+			xmax = 1455.98
+			text = "嗯，嗯，嗯，嗯，嗯。"
+		intervals [145]:
+			xmin = 1460.16
+			xmax = 1462.26
+			text = "未成年人和中老年。"
+		intervals [146]:
+			xmin = 1467.35
+			xmax = 1469.51
+			text = "一个是还有用户的举报。"
+		intervals [147]:
+			xmin = 1470.39
+			xmax = 1471.33
+			text = "对对那个。"
+		intervals [148]:
+			xmin = 1472.34
+			xmax = 1473.61
+			text = "对举报那个。"
+		intervals [149]:
+			xmin = 1481.77
+			xmax = 1483.82
+			text = "嗯嗯嗯，对有一份反馈。"
+		intervals [150]:
+			xmin = 1484.94
+			xmax = 1488.42
+			text = "嗯，反馈信息对这个主主播是怎么处理的？"
+		intervals [151]:
+			xmin = 1490.39
+			xmax = 1491.13
+			text = "他还在。"
+		intervals [152]:
+			xmin = 1495.55
+			xmax = 1495.99
+			text = "对呀。"
+		intervals [153]:
+			xmin = 1505.57
+			xmax = 1506.33
+			text = "嗯嗯嗯。"
+		intervals [154]:
+			xmin = 1507.58
+			xmax = 1508.12
+			text = "嗯嗯。"
+		intervals [155]:
+			xmin = 1511.8
+			xmax = 1516.72
+			text = "而且还要最好有，有多少人举报？有一个那什么。"
+		intervals [156]:
+			xmin = 1519.52
+			xmax = 1519.78
+			text = "对。"
+		intervals [157]:
+			xmin = 1522.09
+			xmax = 1532.97
+			text = "对你要一个人举报，他可能就是说，就觉得你对这个主播有意见，什么的，然后如果很多人一起举报，那肯定是这个主播多少有点儿问题。"
+		intervals [158]:
+			xmin = 1538.26
+			xmax = 1539.46
+			text = "就肯定有问题。"
+		intervals [159]:
+			xmin = 1544.92
+			xmax = 1545.36
+			text = "嗯。"
+		intervals [160]:
+			xmin = 1558.47
+			xmax = 1558.84
+			text = "嗯。"
+		intervals [161]:
+			xmin = 1564.73
+			xmax = 1567.4
+			text = "哦对，或者是不是客服人太少了。"
+		intervals [162]:
+			xmin = 1578.59
+			xmax = 1579.18
+			text = "嗯嗯。"
+		intervals [163]:
+			xmin = 1580.7
+			xmax = 1581.41
+			text = "对对对。"
+		intervals [164]:
+			xmin = 1583.57
+			xmax = 1584.65
+			text = "得至少两个。"
+		intervals [165]:
+			xmin = 1588.32
+			xmax = 1590.05
+			text = "哦对对对，有对。"
+		intervals [166]:
+			xmin = 1593.07
+			xmax = 1594.65
+			text = "西瓜，快手都有。"
+		intervals [167]:
+			xmin = 1595.66
+			xmax = 1598.94
+			text = "赚赚钱的，它对对极速版的。"
+		intervals [168]:
+			xmin = 1606.56
+			xmax = 1606.99
+			text = "视频。"
+		intervals [169]:
+			xmin = 1608.33
+			xmax = 1609.8
+			text = "虽然只有几分几毛钱。"
+		intervals [170]:
+			xmin = 1611.18
+			xmax = 1612.57
+			text = "但是也是一个乐子。"
+		intervals [171]:
+			xmin = 1628.96
+			xmax = 1629.4
+			text = "哦。"
+		intervals [172]:
+			xmin = 1636.65
+			xmax = 1637.04
+			text = "哦。"
+		intervals [173]:
+			xmin = 1644.96
+			xmax = 1647.01
+			text = "我觉得只有几十秒的呀。"
+		intervals [174]:
+			xmin = 1650.46
+			xmax = 1651.0
+			text = "嗯嗯。"
+		intervals [175]:
+			xmin = 1658.94
+			xmax = 1661.26
+			text = "对，一个课间才十分钟。"
+		intervals [176]:
+			xmin = 1665.44
+			xmax = 1666.62
+			text = "还能多看几个呢。"
+		intervals [177]:
+			xmin = 1675.29
+			xmax = 1675.66
+			text = "对呀。"
+		intervals [178]:
+			xmin = 1689.57
+			xmax = 1691.4
+			text = "呃，时间长一点儿的时候。"
+		intervals [179]:
+			xmin = 1693.41
+			xmax = 1693.81
+			text = "嗯。"
+		intervals [180]:
+			xmin = 1695.43
+			xmax = 1695.77
+			text = "嗯。"
+		intervals [181]:
+			xmin = 1700.06
+			xmax = 1700.74
+			text = "嗯嗯嗯。"
+		intervals [182]:
+			xmin = 1711.51
+			xmax = 1712.18
+			text = "哦对。"
+		intervals [183]:
+			xmin = 1725.16
+			xmax = 1728.44
+			text = "或者是你可以根据时长，进行分期也行。"
+		intervals [184]:
+			xmin = 1743.22
+			xmax = 1743.96
+			text = "嗯，对对对。"
+		intervals [185]:
+			xmin = 1757.04
+			xmax = 1758.27
+			text = "呃，游戏视频。"
+		intervals [186]:
+			xmin = 1766.28
+			xmax = 1767.01
+			text = "啊对对对。"
+		intervals [187]:
+			xmin = 1771.57
+			xmax = 1773.93
+			text = "可，可能现在都已经全民化了。"
+		intervals [188]:
+			xmin = 1777.22
+			xmax = 1779.58
+			text = "嗯，就已经不分城市大小。"
+		intervals [189]:
+			xmin = 1786.21
+			xmax = 1788.15
+			text = "呃，自己城市里的那个视频。"
+		intervals [190]:
+			xmin = 1790.96
+			xmax = 1792.43
+			text = "呃，周围周围的。"
+		intervals [191]:
+			xmin = 1797.33
+			xmax = 1799.99
+			text = "哦或者或者在农村的就。"
+		intervals [192]:
+			xmin = 1801.28
+			xmax = 1802.56
+			text = "推一些那些。"
+		intervals [193]:
+			xmin = 1809.03
+			xmax = 1809.32
+			text = "嗯。"
+		intervals [194]:
+			xmin = 1816.31
+			xmax = 1816.94
+			text = "嗯嗯嗯。"
+		intervals [195]:
+			xmin = 1822.74
+			xmax = 1823.31
+			text = "哦，对。"
+		intervals [196]:
+			xmin = 1829.11
+			xmax = 1830.0
+			text = "整改一下。"
+		intervals [197]:
+			xmin = 1835.46
+			xmax = 1836.1
+			text = "嗯嗯。"
+		intervals [198]:
+			xmin = 1847.0
+			xmax = 1847.56
+			text = "嗯嗯。"
+		intervals [199]:
+			xmin = 1849.66
+			xmax = 1850.28
+			text = "收益。"
+		intervals [200]:
+			xmin = 1853.13
+			xmax = 1854.14
+			text = "都，嗯。"
+		intervals [201]:
+			xmin = 1857.96
+			xmax = 1858.36
+			text = "嗯。"

@@ -1,0 +1,2954 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 2235.5
+tiers? <exists>
+size = 3
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "N_SPK8047"
+		xmin = 0
+		xmax = 2235.5
+		intervals: size = 252
+		intervals [1]:
+			xmin = 9.14
+			xmax = 21.8
+			text = "好，那就由我来先分析一下餐饮行业的现状，嗯随着我国国民经济的快速发展，居民的收入水平越来越高，餐饮消费需求日益旺盛。"
+		intervals [2]:
+			xmin = 22.23
+			xmax = 25.73
+			text = "餐饮营业额一直保持着较强的增长势头。"
+		intervals [3]:
+			xmin = 32.65
+			xmax = 41.02
+			text = "对，然后呢也有数据统计，说近五年来我国餐饮业每年都以百分之十八左右的速度增增长。"
+		intervals [4]:
+			xmin = 41.43
+			xmax = 47.92
+			text = "是GDP发展速度的两倍，可以说整个餐饮市场发展态势良好。"
+		intervals [5]:
+			xmin = 54.26
+			xmax = 56.11
+			text = "对对前景。"
+		intervals [6]:
+			xmin = 58.43
+			xmax = 67.16
+			text = "嗯，然后主要体现在连锁经营，品牌培育，技术创新管理科学化为代表的现代餐饮企业。"
+		intervals [7]:
+			xmin = 67.78
+			xmax = 80.69
+			text = "逐步替代了传统餐饮业的手工随意性生产，单店作坊式，人为经验管理型，快步向企业化集团化连连锁化和现代化迈进。"
+		intervals [8]:
+			xmin = 91.83
+			xmax = 92.31
+			text = "对。"
+		intervals [9]:
+			xmin = 93.95
+			xmax = 94.37
+			text = "然后。"
+		intervals [10]:
+			xmin = 97.42
+			xmax = 104.51
+			text = "对的，然后呢，让餐饮业引入电子商务也是势在必行餐饮业的发展态势。"
+		intervals [11]:
+			xmin = 106.61
+			xmax = 114.42
+			text = "然后因为这样子把两者联合起来，就可能会提高餐饮业的发展，他前景就会越来越好。"
+		intervals [12]:
+			xmin = 116.17
+			xmax = 121.71
+			text = "呃然后餐饮企业的连锁化集团化是我国餐饮业发展的主流。"
+		intervals [13]:
+			xmin = 123.52
+			xmax = 133.89
+			text = "大众消费也成为餐饮消费的主要力量，餐饮文化成为餐饮竞争的分水岭，品牌成为餐饮企业的核心竞争力。"
+		intervals [14]:
+			xmin = 144.9
+			xmax = 151.21
+			text = "对，然后我们科学化，营养化也成为餐饮业的重要指向标。"
+		intervals [15]:
+			xmin = 153.12
+			xmax = 156.07
+			text = "对，就我们餐饮就得科学化，营养化嘛。"
+		intervals [16]:
+			xmin = 159.28
+			xmax = 160.7
+			text = "对标准化。"
+		intervals [17]:
+			xmin = 162.13
+			xmax = 176.65
+			text = "然后餐饮业属于第三产业，随着一个国家的经济发展，社会进步，现代化程度的不断提高，由此可见餐饮业的发展潜力巨大，设施设备将不断现代化。"
+		intervals [18]:
+			xmin = 177.05
+			xmax = 180.06
+			text = "经营管理也将日益科学化、专业化。"
+		intervals [19]:
+			xmin = 183.57
+			xmax = 191.12
+			text = "自从我国实行改革开放政策以来，我国的经济就得以迅速发展，餐饮业也随之蓬勃兴旺。"
+		intervals [20]:
+			xmin = 192.14
+			xmax = 199.26
+			text = "特别是我国加入了世贸贸世界贸易组织之后，然后我国餐饮业面对营销。"
+		intervals [21]:
+			xmin = 201.27
+			xmax = 202.61
+			text = "营销政策。"
+		intervals [22]:
+			xmin = 204.36
+			xmax = 211.82
+			text = "营销国际竞争，同时又为我国餐饮业的发展创造了前所未有的良好机遇。"
+		intervals [23]:
+			xmin = 220.02
+			xmax = 220.32
+			text = "对。"
+		intervals [24]:
+			xmin = 223.91
+			xmax = 224.29
+			text = "好。"
+		intervals [25]:
+			xmin = 249.5
+			xmax = 255.08
+			text = "那你就说一下招聘运营副总，他的工作职责和任职要求吧。"
+		intervals [26]:
+			xmin = 285.84
+			xmax = 286.27
+			text = "对。"
+		intervals [27]:
+			xmin = 346.89
+			xmax = 347.39
+			text = "嗯。"
+		intervals [28]:
+			xmin = 370.5
+			xmax = 375.94
+			text = "对，我觉得海底捞就可以，就是我们就可以借鉴他们的这种。"
+		intervals [29]:
+			xmin = 377.86
+			xmax = 385.63
+			text = "对特点，因为他们的服务行业就很好嘛，大家去海底捞就可能就是为了体验他这个服务。"
+		intervals [30]:
+			xmin = 387.61
+			xmax = 391.21
+			text = "对，我觉得我们也可以借鉴他们的学习。"
+		intervals [31]:
+			xmin = 406.5
+			xmax = 406.83
+			text = "对。"
+		intervals [32]:
+			xmin = 414.65
+			xmax = 417.83
+			text = "对，我们会有各项福利。"
+		intervals [33]:
+			xmin = 419.59
+			xmax = 422.35
+			text = "五险一金啊什么的，保险金。"
+		intervals [34]:
+			xmin = 453.07
+			xmax = 456.87
+			text = "对年终奖，还有住房的那些补贴。"
+		intervals [35]:
+			xmin = 458.21
+			xmax = 459.41
+			text = "然后工作餐。"
+		intervals [36]:
+			xmin = 466.02
+			xmax = 466.98
+			text = "对培训。"
+		intervals [37]:
+			xmin = 473.08
+			xmax = 473.48
+			text = "对。"
+		intervals [38]:
+			xmin = 477.1
+			xmax = 478.66
+			text = "对来带他们啊。"
+		intervals [39]:
+			xmin = 492.35
+			xmax = 506.23
+			text = "对我们得推广我们的招聘信息，就需要像比如说现在就有很多那种招聘的网站嘛，比如说什么赶集网五八同城boss直聘上面，我们都可以在上面。"
+		intervals [40]:
+			xmin = 507.32
+			xmax = 515.16
+			text = "对猎聘我们都可以在上面发布我们这些的我们招聘的岗位信息和相关要求等。"
+		intervals [41]:
+			xmin = 516.39
+			xmax = 520.68
+			text = "然后让他们自己登录网站，可以就可以看到我们的信息。"
+		intervals [42]:
+			xmin = 532.59
+			xmax = 533.26
+			text = "对对对。"
+		intervals [43]:
+			xmin = 535.28
+			xmax = 535.98
+			text = "就比如说"
+		intervals [44]:
+			xmin = 542.99
+			xmax = 557.13
+			text = "对，然后还有抖音，抖音现在不是很火吗？大家都在玩抖音，然后就可以在抖音上发布我们的广告，然后大家刷抖音的时候就可以刷到我们的广告，啊就可以通过这个。"
+		intervals [45]:
+			xmin = 561.53
+			xmax = 562.83
+			text = "对吸引力。"
+		intervals [46]:
+			xmin = 572.55
+			xmax = 573.03
+			text = "对。"
+		intervals [47]:
+			xmin = 580.54
+			xmax = 595.06
+			text = "还有就是发传单我觉得也可以，推广我们的招聘信息，就在传单上面印上我们的相关要求，然后印上二维码他们就可以扫二维码来来投简历之类的。"
+		intervals [48]:
+			xmin = 597.21
+			xmax = 597.82
+			text = "对。"
+		intervals [49]:
+			xmin = 610.07
+			xmax = 610.57
+			text = "对。"
+		intervals [50]:
+			xmin = 631.24
+			xmax = 641.22
+			text = "那对那我们就定运营副总找两个，营销部经理也招两个，市场部经理。"
+		intervals [51]:
+			xmin = 643.86
+			xmax = 646.18
+			text = "对市场这么大，对。"
+		intervals [52]:
+			xmin = 648.66
+			xmax = 650.86
+			text = "对就比较大，就招的多一点。"
+		intervals [53]:
+			xmin = 651.82
+			xmax = 652.73
+			text = "招五个吧。"
+		intervals [54]:
+			xmin = 657.82
+			xmax = 660.1
+			text = "物流部呢，物流部也可以招。"
+		intervals [55]:
+			xmin = 662.36
+			xmax = 663.36
+			text = "多招几个。"
+		intervals [56]:
+			xmin = 666.22
+			xmax = 671.76
+			text = "对，物流部管的东西太多了，他那些食材运输什么都是物流部在管。"
+		intervals [57]:
+			xmin = 674.47
+			xmax = 674.97
+			text = "对。"
+		intervals [58]:
+			xmin = 697.73
+			xmax = 698.51
+			text = "现现。"
+		intervals [59]:
+			xmin = 699.73
+			xmax = 700.75
+			text = "线上报名。"
+		intervals [60]:
+			xmin = 705.45
+			xmax = 705.91
+			text = "对。"
+		intervals [61]:
+			xmin = 722.45
+			xmax = 722.76
+			text = "对。"
+		intervals [62]:
+			xmin = 737.53
+			xmax = 739.04
+			text = "对个人简历，等他们。"
+		intervals [63]:
+			xmin = 740.06
+			xmax = 742.14
+			text = "对，报名的时候他们就可以投。"
+		intervals [64]:
+			xmin = 749.83
+			xmax = 756.42
+			text = "地点，那我们就定在商会大厦二十层二零四三吧。"
+		intervals [65]:
+			xmin = 761.72
+			xmax = 772.77
+			text = "对四月二十号到四月三十号让他们报名嘛，因为每个人看到这个广告的时时间都不一样，就留的长一点给他们报名，有个时间可以报名。"
+		intervals [66]:
+			xmin = 774.2
+			xmax = 774.73
+			text = "然后。"
+		intervals [67]:
+			xmin = 778.04
+			xmax = 790.92
+			text = "对我们先通过筛选，把符对符合要求的人，然后通知五月一号到五月四号就陆续通知那些被筛选上的人，而。"
+		intervals [68]:
+			xmin = 795.08
+			xmax = 795.68
+			text = "对来。"
+		intervals [69]:
+			xmin = 796.89
+			xmax = 799.37
+			text = "对，就来这里面试。"
+		intervals [70]:
+			xmin = 803.48
+			xmax = 808.52
+			text = "就忙不过来，对人太多了的话就效率就不高。"
+		intervals [71]:
+			xmin = 817.27
+			xmax = 818.1
+			text = "我觉得。"
+		intervals [72]:
+			xmin = 827.15
+			xmax = 827.38
+			text = "还有。"
+		intervals [73]:
+			xmin = 831.29
+			xmax = 838.09
+			text = "我觉得我们招聘这些经理也得给他们定一个他们的工作职责，他们应该干些什么东西？"
+		intervals [74]:
+			xmin = 839.61
+			xmax = 845.46
+			text = "对，比如说营销部经理的话，我觉得他们就需要规划企业的市场战略与竞争嘛。"
+		intervals [75]:
+			xmin = 846.81
+			xmax = 860.3
+			text = "然后就实现市场发展目标，他们还得组织并策划各类市场营销活动方案，因为现在肯定都跟市场接轨了嘛，就有很多活动需要他们来策划一下。"
+		intervals [76]:
+			xmin = 860.88
+			xmax = 863.74
+			text = "才能推广我们这家餐饮企业。"
+		intervals [77]:
+			xmin = 864.85
+			xmax = 872.11
+			text = "对嗯，然后负责也也得负责公司对外对外的宣传活动和公司品牌形象的策划。"
+		intervals [78]:
+			xmin = 878.17
+			xmax = 879.89
+			text = "对，确实。"
+		intervals [79]:
+			xmin = 890.84
+			xmax = 891.81
+			text = "嗯对对对。"
+		intervals [80]:
+			xmin = 912.17
+			xmax = 912.61
+			text = "嗯。"
+		intervals [81]:
+			xmin = 921.99
+			xmax = 922.56
+			text = "对对对。"
+		intervals [82]:
+			xmin = 923.33
+			xmax = 924.34
+			text = "试用期。"
+		intervals [83]:
+			xmin = 926.59
+			xmax = 931.95
+			text = "一个月为试用期，试用期那他们工资就会低一点。"
+		intervals [84]:
+			xmin = 935.5
+			xmax = 935.91
+			text = "对。"
+		intervals [85]:
+			xmin = 937.56
+			xmax = 939.87
+			text = "两千两个月。"
+		intervals [86]:
+			xmin = 944.47
+			xmax = 944.99
+			text = "两千。"
+		intervals [87]:
+			xmin = 946.27
+			xmax = 950.46
+			text = "四千五没有这么高吧，四千五不是都。"
+		intervals [88]:
+			xmin = 953.6
+			xmax = 954.72
+			text = "三千五吧。"
+		intervals [89]:
+			xmin = 961.5
+			xmax = 963.68
+			text = "就看他们表现转正。"
+		intervals [90]:
+			xmin = 968.68
+			xmax = 969.65
+			text = "对，我觉得他们。"
+		intervals [91]:
+			xmin = 979.8
+			xmax = 988.21
+			text = "对，然后他们我觉得他们公司也可以有个底薪，然后再根据他们的表现然后在往上加，对增薪。"
+		intervals [92]:
+			xmin = 989.5
+			xmax = 990.03
+			text = "对。"
+		intervals [93]:
+			xmin = 991.27
+			xmax = 991.67
+			text = "这可以。"
+		intervals [94]:
+			xmin = 1010.6
+			xmax = 1011.01
+			text = "对。"
+		intervals [95]:
+			xmin = 1012.09
+			xmax = 1023.66
+			text = "他们那个，我觉得营销部经理和市场部经理最好是大学学的是那种营销专业，对市场营销嘛。"
+		intervals [96]:
+			xmin = 1030.79
+			xmax = 1031.6
+			text = "对对对。"
+		intervals [97]:
+			xmin = 1033.15
+			xmax = 1038.46
+			text = "对，我们也可以进进行线下招聘，然后去他们学校里面宣传。"
+		intervals [98]:
+			xmin = 1041.72
+			xmax = 1042.21
+			text = "对。"
+		intervals [99]:
+			xmin = 1059.74
+			xmax = 1060.51
+			text = "那他们。"
+		intervals [100]:
+			xmin = 1062.03
+			xmax = 1066.39
+			text = "我们给他们一个机会嘛，那他们要是想来我们这里的话。"
+		intervals [101]:
+			xmin = 1068.25
+			xmax = 1075.2
+			text = "这得经过培训，对我们还得找相关的培训人员来帮我们带他们。"
+		intervals [102]:
+			xmin = 1080.96
+			xmax = 1081.28
+			text = "对。"
+		intervals [103]:
+			xmin = 1082.61
+			xmax = 1087.06
+			text = "这可以树立一个我们我们这个专业的形象。"
+		intervals [104]:
+			xmin = 1090.47
+			xmax = 1090.84
+			text = "对。"
+		intervals [105]:
+			xmin = 1094.09
+			xmax = 1094.52
+			text = "对。"
+		intervals [106]:
+			xmin = 1102.49
+			xmax = 1105.89
+			text = "实习，培训的话。"
+		intervals [107]:
+			xmin = 1113.7
+			xmax = 1114.91
+			text = "两个星期。"
+		intervals [108]:
+			xmin = 1116.85
+			xmax = 1117.59
+			text = "差不多。"
+		intervals [109]:
+			xmin = 1119.67
+			xmax = 1120.66
+			text = "那我觉得。"
+		intervals [110]:
+			xmin = 1131.0
+			xmax = 1131.57
+			text = "对。"
+		intervals [111]:
+			xmin = 1133.78
+			xmax = 1134.29
+			text = "可以。"
+		intervals [112]:
+			xmin = 1137.78
+			xmax = 1141.2
+			text = "但我觉得还是得看他们学习东西的能力吧。"
+		intervals [113]:
+			xmin = 1146.21
+			xmax = 1147.24
+			text = "对对对，可以啊。"
+		intervals [114]:
+			xmin = 1158.75
+			xmax = 1160.49
+			text = "对然后。"
+		intervals [115]:
+			xmin = 1161.96
+			xmax = 1162.97
+			text = "我觉得。"
+		intervals [116]:
+			xmin = 1170.8
+			xmax = 1171.24
+			text = "是吗？"
+		intervals [117]:
+			xmin = 1176.88
+			xmax = 1181.87
+			text = "啊可以可以，那我觉得就跟发传单差不多嘛，那我们还得。"
+		intervals [118]:
+			xmin = 1183.48
+			xmax = 1183.97
+			text = "对。"
+		intervals [119]:
+			xmin = 1188.83
+			xmax = 1190.4
+			text = "嗯对对对，学校。"
+		intervals [120]:
+			xmin = 1192.89
+			xmax = 1195.36
+			text = "对学校就可以帮我们宣传。"
+		intervals [121]:
+			xmin = 1196.38
+			xmax = 1199.57
+			text = "因为学校的人脉也比较广嘛，学生这么多。"
+		intervals [122]:
+			xmin = 1201.13
+			xmax = 1201.56
+			text = "对。"
+		intervals [123]:
+			xmin = 1205.8
+			xmax = 1215.87
+			text = "对，就特别是那些大三的啊，就是职业学校大三的毕业生嘛，就找工作就业压力就很大就很难找。"
+		intervals [124]:
+			xmin = 1217.19
+			xmax = 1221.49
+			text = "对稀缺这种人才，我们就给他提供这个。"
+		intervals [125]:
+			xmin = 1223.44
+			xmax = 1224.51
+			text = "对这个机会。"
+		intervals [126]:
+			xmin = 1226.59
+			xmax = 1227.82
+			text = "对，然后的话。"
+		intervals [127]:
+			xmin = 1239.87
+			xmax = 1245.31
+			text = "对销售量，那还是得做好相关人员的。"
+		intervals [128]:
+			xmin = 1246.92
+			xmax = 1247.81
+			text = "我们的员。"
+		intervals [129]:
+			xmin = 1251.71
+			xmax = 1252.23
+			text = "对。"
+		intervals [130]:
+			xmin = 1253.9
+			xmax = 1255.22
+			text = "我觉得人员还。"
+		intervals [131]:
+			xmin = 1259.69
+			xmax = 1263.23
+			text = "对，我们得提高员工的积极性。"
+		intervals [132]:
+			xmin = 1271.27
+			xmax = 1279.73
+			text = "这还最近不是有些部门的员工就比较做事就比较怠慢嘛，我觉得就可以先警告一下他们。"
+		intervals [133]:
+			xmin = 1280.6
+			xmax = 1281.42
+			text = "然后。"
+		intervals [134]:
+			xmin = 1290.21
+			xmax = 1290.72
+			text = "对。"
+		intervals [135]:
+			xmin = 1291.72
+			xmax = 1292.6
+			text = "对如果他们。"
+		intervals [136]:
+			xmin = 1300.0
+			xmax = 1300.52
+			text = "对啊。"
+		intervals [137]:
+			xmin = 1303.19
+			xmax = 1305.43
+			text = "餐饮行业不容易呀。"
+		intervals [138]:
+			xmin = 1312.9
+			xmax = 1313.06
+			text = "对。"
+		intervals [139]:
+			xmin = 1314.8
+			xmax = 1315.99
+			text = "我觉得。"
+		intervals [140]:
+			xmin = 1327.5
+			xmax = 1327.92
+			text = "对。"
+		intervals [141]:
+			xmin = 1332.89
+			xmax = 1336.55
+			text = "对对对，给员工提供休息的地方啊。"
+		intervals [142]:
+			xmin = 1342.23
+			xmax = 1348.67
+			text = "哦比如说那个阿里阿里巴巴园区，他们我觉得他们里面就挺好的弄的。"
+		intervals [143]:
+			xmin = 1352.59
+			xmax = 1355.21
+			text = "对还，对对对，还有什么。"
+		intervals [144]:
+			xmin = 1356.88
+			xmax = 1359.99
+			text = "开了很多店，店开在里面。"
+		intervals [145]:
+			xmin = 1361.09
+			xmax = 1361.52
+			text = "对。"
+		intervals [146]:
+			xmin = 1362.71
+			xmax = 1363.2
+			text = "哦新。"
+		intervals [147]:
+			xmin = 1364.01
+			xmax = 1364.37
+			text = "对。"
+		intervals [148]:
+			xmin = 1365.9
+			xmax = 1373.32
+			text = "我觉得我们公司也可以借鉴一下他们，这样才会吸引更多的人来我们这里面试。"
+		intervals [149]:
+			xmin = 1384.28
+			xmax = 1385.26
+			text = "对这些。"
+		intervals [150]:
+			xmin = 1391.44
+			xmax = 1391.86
+			text = "对。"
+		intervals [151]:
+			xmin = 1394.68
+			xmax = 1404.84
+			text = "对，我们也可以在我们的官网上面，然后放我们的相关要求之类，他们就可以点击进去。"
+		intervals [152]:
+			xmin = 1405.97
+			xmax = 1407.23
+			text = "自己看一下嘛。"
+		intervals [153]:
+			xmin = 1414.42
+			xmax = 1415.18
+			text = "监督。"
+		intervals [154]:
+			xmin = 1423.64
+			xmax = 1423.99
+			text = "对。"
+		intervals [155]:
+			xmin = 1435.94
+			xmax = 1445.11
+			text = "我觉得我觉得我们可以让他们跟我们提出他们自己的诉求，就因为每个人想要的东西都不太一样吗。"
+		intervals [156]:
+			xmin = 1446.57
+			xmax = 1446.97
+			text = "对。"
+		intervals [157]:
+			xmin = 1454.61
+			xmax = 1455.03
+			text = "对。"
+		intervals [158]:
+			xmin = 1456.5
+			xmax = 1457.21
+			text = "然后我们。"
+		intervals [159]:
+			xmin = 1458.96
+			xmax = 1465.25
+			text = "然后我们就尽量满足他们嘛，这样又可以树练树立我们公司的形象。"
+		intervals [160]:
+			xmin = 1466.29
+			xmax = 1472.16
+			text = "就比较亲民就对员工就很好，嗯就能吸引更多的人才过来。"
+		intervals [161]:
+			xmin = 1474.57
+			xmax = 1476.79
+			text = "这餐饮真的太难做了。"
+		intervals [162]:
+			xmin = 1480.69
+			xmax = 1482.85
+			text = "餐饮对啊餐。"
+		intervals [163]:
+			xmin = 1489.98
+			xmax = 1490.52
+			text = "还是。"
+		intervals [164]:
+			xmin = 1497.17
+			xmax = 1497.61
+			text = "嗯。"
+		intervals [165]:
+			xmin = 1499.3
+			xmax = 1500.85
+			text = "物流部经理。"
+		intervals [166]:
+			xmin = 1509.47
+			xmax = 1509.9
+			text = "对。"
+		intervals [167]:
+			xmin = 1513.3
+			xmax = 1515.57
+			text = "我们想扩招我们的。"
+		intervals [168]:
+			xmin = 1516.66
+			xmax = 1519.8
+			text = "门店就想做得更大吗？"
+		intervals [169]:
+			xmin = 1523.67
+			xmax = 1524.09
+			text = "对。"
+		intervals [170]:
+			xmin = 1527.49
+			xmax = 1528.03
+			text = "嗯。"
+		intervals [171]:
+			xmin = 1536.95
+			xmax = 1537.46
+			text = "对。"
+		intervals [172]:
+			xmin = 1545.78
+			xmax = 1546.94
+			text = "销售员。"
+		intervals [173]:
+			xmin = 1547.98
+			xmax = 1549.29
+			text = "还有那种。"
+		intervals [174]:
+			xmin = 1551.26
+			xmax = 1553.59
+			text = "销售员厨师。"
+		intervals [175]:
+			xmin = 1559.16
+			xmax = 1559.53
+			text = "嗯。"
+		intervals [176]:
+			xmin = 1560.4
+			xmax = 1560.89
+			text = "对。"
+		intervals [177]:
+			xmin = 1565.29
+			xmax = 1567.39
+			text = "因为他们待遇好吧应该。"
+		intervals [178]:
+			xmin = 1568.65
+			xmax = 1569.0
+			text = "对。"
+		intervals [179]:
+			xmin = 1578.9
+			xmax = 1579.41
+			text = "嗯。"
+		intervals [180]:
+			xmin = 1584.01
+			xmax = 1584.44
+			text = "对。"
+		intervals [181]:
+			xmin = 1589.94
+			xmax = 1590.31
+			text = "对。"
+		intervals [182]:
+			xmin = 1591.77
+			xmax = 1597.36
+			text = "我觉得我们的员我们招聘进来的人就得热情一点。"
+		intervals [183]:
+			xmin = 1598.54
+			xmax = 1598.91
+			text = "对。"
+		intervals [184]:
+			xmin = 1612.32
+			xmax = 1612.63
+			text = "嗯。"
+		intervals [185]:
+			xmin = 1613.79
+			xmax = 1615.93
+			text = "对我们也可以借鉴吗。"
+		intervals [186]:
+			xmin = 1616.34
+			xmax = 1616.79
+			text = "因为。"
+		intervals [187]:
+			xmin = 1639.74
+			xmax = 1640.65
+			text = "我觉得。"
+		intervals [188]:
+			xmin = 1660.22
+			xmax = 1669.73
+			text = "不是，但我感觉如果按那个学历来分工资的话有点有点阶级化，因为你如果大专学历。"
+		intervals [189]:
+			xmin = 1671.89
+			xmax = 1681.78
+			text = "但我觉得如果大专学历的比本科学历的要是劳动的多，那他们工资又比本科的少，这会不会有点不太公平。"
+		intervals [190]:
+			xmin = 1684.37
+			xmax = 1685.74
+			text = "对一千一。"
+		intervals [191]:
+			xmin = 1693.21
+			xmax = 1698.14
+			text = "对包吃，对我们会给他们提供员工宿舍嘛。"
+		intervals [192]:
+			xmin = 1702.4
+			xmax = 1703.1
+			text = "确实。"
+		intervals [193]:
+			xmin = 1714.37
+			xmax = 1714.94
+			text = "对。"
+		intervals [194]:
+			xmin = 1728.77
+			xmax = 1733.07
+			text = "对我我觉得我们还得想一个我们公司的理念。"
+		intervals [195]:
+			xmin = 1734.58
+			xmax = 1736.83
+			text = "对，公司的经营理念嘛。"
+		intervals [196]:
+			xmin = 1740.15
+			xmax = 1740.57
+			text = "对。"
+		intervals [197]:
+			xmin = 1751.33
+			xmax = 1751.89
+			text = "那。"
+		intervals [198]:
+			xmin = 1760.04
+			xmax = 1760.97
+			text = "那也可以。"
+		intervals [199]:
+			xmin = 1763.57
+			xmax = 1764.11
+			text = "嗯。"
+		intervals [200]:
+			xmin = 1771.42
+			xmax = 1783.26
+			text = "对，我觉得我们也可以这样子，让他们进来都先当这种服务员，然后再慢慢提升嘛再慢慢当上经理什么的。"
+		intervals [201]:
+			xmin = 1783.93
+			xmax = 1790.39
+			text = "这样他们积极性也比较高，就因为每个人都想往上爬嘛。"
+		intervals [202]:
+			xmin = 1792.18
+			xmax = 1792.63
+			text = "对。"
+		intervals [203]:
+			xmin = 1801.91
+			xmax = 1802.47
+			text = "对。"
+		intervals [204]:
+			xmin = 1819.82
+			xmax = 1820.42
+			text = "嗯。"
+		intervals [205]:
+			xmin = 1840.35
+			xmax = 1854.08
+			text = "说不定前期的话，我们自己我觉得如果要宣传推广的话，发传单嘛，你不就得印一点传单，然后设计那个，对设计广告再。"
+		intervals [206]:
+			xmin = 1855.44
+			xmax = 1858.33
+			text = "对，我们还得买那个抖音推广。"
+		intervals [207]:
+			xmin = 1862.96
+			xmax = 1863.44
+			text = "嗯。"
+		intervals [208]:
+			xmin = 1867.26
+			xmax = 1867.62
+			text = "对。"
+		intervals [209]:
+			xmin = 1874.31
+			xmax = 1875.09
+			text = "我觉得。"
+		intervals [210]:
+			xmin = 1876.4
+			xmax = 1886.47
+			text = "对我觉得工资是不是也得印在上面，因为现在很多人找找工作都，对找工作他们都先看工资嘛。嗯对。"
+		intervals [211]:
+			xmin = 1887.64
+			xmax = 1894.51
+			text = "然后工资加提成，提成就等他们来，做了之后我们再跟他们讲这件事情。"
+		intervals [212]:
+			xmin = 1910.26
+			xmax = 1913.64
+			text = "对那种小讲座样的那种，对。"
+		intervals [213]:
+			xmin = 1918.71
+			xmax = 1919.29
+			text = "嗯。"
+		intervals [214]:
+			xmin = 1923.29
+			xmax = 1923.65
+			text = "对。"
+		intervals [215]:
+			xmin = 1924.65
+			xmax = 1927.89
+			text = "然后这样子可以体现我们公司的亲和力。"
+		intervals [216]:
+			xmin = 1932.34
+			xmax = 1933.01
+			text = "对。"
+		intervals [217]:
+			xmin = 1940.42
+			xmax = 1953.23
+			text = "对而且，然后开这种讲座的话，就可以直接每个人座位上发一张我们的传单，像就人力就就不用那么多人去发传单。"
+		intervals [218]:
+			xmin = 1955.82
+			xmax = 1956.21
+			text = "对。"
+		intervals [219]:
+			xmin = 1963.36
+			xmax = 1966.32
+			text = "嗯，内部推荐也可以，就推荐你身边的人。"
+		intervals [220]:
+			xmin = 1971.27
+			xmax = 1971.62
+			text = "对。"
+		intervals [221]:
+			xmin = 1978.29
+			xmax = 1978.87
+			text = "确实。"
+		intervals [222]:
+			xmin = 1986.22
+			xmax = 1986.61
+			text = "对。"
+		intervals [223]:
+			xmin = 1987.9
+			xmax = 1991.4
+			text = "报纸，我觉得现在是没什么人看报纸。"
+		intervals [224]:
+			xmin = 1992.76
+			xmax = 1993.19
+			text = "对。"
+		intervals [225]:
+			xmin = 1996.44
+			xmax = 1996.99
+			text = "确实。"
+		intervals [226]:
+			xmin = 1999.19
+			xmax = 1999.91
+			text = "老人。"
+		intervals [227]:
+			xmin = 2009.65
+			xmax = 2010.14
+			text = "对。"
+		intervals [228]:
+			xmin = 2011.78
+			xmax = 2015.43
+			text = "这我想到一个问题，就是我们招聘要求。"
+		intervals [229]:
+			xmin = 2018.88
+			xmax = 2022.94
+			text = "对我们招聘要求是不是还得规定一下年龄限制啊。"
+		intervals [230]:
+			xmin = 2025.29
+			xmax = 2033.75
+			text = "对啊，我们就规定，额，二十一岁到五十五岁吧，可以吗？"
+		intervals [231]:
+			xmin = 2034.89
+			xmax = 2042.9
+			text = "二十一到五十五岁这样子，那些未成年什么的，就不会来来来提交。"
+		intervals [232]:
+			xmin = 2045.58
+			xmax = 2047.48
+			text = "对，身份证登记嘛。"
+		intervals [233]:
+			xmin = 2055.9
+			xmax = 2056.31
+			text = "嗯。"
+		intervals [234]:
+			xmin = 2065.73
+			xmax = 2079.41
+			text = "我觉得我们得实事求是，就不能哭夸张的说我们公司怎么样怎么样，就我们是怎么样我们，对不要夸张化，要不然就会有点欺欺骗他们的感觉。"
+		intervals [235]:
+			xmin = 2085.15
+			xmax = 2085.61
+			text = "对。"
+		intervals [236]:
+			xmin = 2092.0
+			xmax = 2092.52
+			text = "对。"
+		intervals [237]:
+			xmin = 2095.17
+			xmax = 2102.97
+			text = "嗯，还有要杜绝这种贿赂的行为，贿赂高层啊然后直接让你来，这样就不行。"
+		intervals [238]:
+			xmin = 2104.42
+			xmax = 2108.52
+			text = "对，如果发现的话就有一定的惩罚制度。"
+		intervals [239]:
+			xmin = 2113.18
+			xmax = 2113.74
+			text = "嗯。"
+		intervals [240]:
+			xmin = 2123.89
+			xmax = 2137.19
+			text = "对我然后我觉得，我们现在也可以扩大我们的行业规模，就可以做多方面的饮食，不仅仅是局限于我们这一个方面，比如说什么小吃街。"
+		intervals [241]:
+			xmin = 2138.04
+			xmax = 2146.63
+			text = "美食广场，我感觉我们都可以扩张。对因为现在年轻人啊，就很喜欢吃东西。"
+		intervals [242]:
+			xmin = 2152.61
+			xmax = 2154.27
+			text = "对，品牌形象得树立好。"
+		intervals [243]:
+			xmin = 2165.28
+			xmax = 2165.87
+			text = "嗯。"
+		intervals [244]:
+			xmin = 2172.29
+			xmax = 2172.69
+			text = "对。"
+		intervals [245]:
+			xmin = 2174.03
+			xmax = 2185.97
+			text = "我感觉也可以，给他们给过来招给过来面试的人，试吃我们公司的产品，这样他们就可能对我们公司就更感兴趣了嘛。"
+		intervals [246]:
+			xmin = 2192.31
+			xmax = 2192.82
+			text = "对。"
+		intervals [247]:
+			xmin = 2195.48
+			xmax = 2203.51
+			text = "对评价，对评价我们公司，这样我们自己也能就是改正我们的不足。"
+		intervals [248]:
+			xmin = 2205.72
+			xmax = 2206.15
+			text = "对。"
+		intervals [249]:
+			xmin = 2212.47
+			xmax = 2212.72
+			text = "嗯。"
+		intervals [250]:
+			xmin = 2214.36
+			xmax = 2214.75
+			text = "对。"
+		intervals [251]:
+			xmin = 2218.3
+			xmax = 2220.66
+			text = "然后我们单子也得印好。"
+		intervals [252]:
+			xmin = 2233.69
+			xmax = 2234.92
+			text = "好好。"
+	item [2]:
+		class = "IntervalTier"
+		name = "N_SPK8048"
+		xmin = 0
+		xmax = 2235.5
+		intervals: size = 239
+		intervals [1]:
+			xmin = 26.15
+			xmax = 32.38
+			text = "是的是的，看对这个势头是一直都比较明显的。"
+		intervals [2]:
+			xmin = 48.24
+			xmax = 54.98
+			text = "嗯，那我们这个餐饮市场的前景真的是可观呢。"
+		intervals [3]:
+			xmin = 57.06
+			xmax = 57.37
+			text = "对。"
+		intervals [4]:
+			xmin = 80.88
+			xmax = 91.21
+			text = "嗯，我觉得我们这个餐饮行业，我们觉得我们企业也应该像连锁经营这些连锁化和现代化，这是方向迈进。"
+		intervals [5]:
+			xmin = 94.14
+			xmax = 96.34
+			text = "对这方面需要做一点改变。"
+		intervals [6]:
+			xmin = 114.69
+			xmax = 115.35
+			text = "是的是的。"
+		intervals [7]:
+			xmin = 128.08
+			xmax = 128.34
+			text = "嗯。"
+		intervals [8]:
+			xmin = 134.11
+			xmax = 140.09
+			text = "那这样子看我们需要为这个餐饮，我们企业的品牌树立一个良好的形象。"
+		intervals [9]:
+			xmin = 141.67
+			xmax = 142.51
+			text = "嗯，对对对。"
+		intervals [10]:
+			xmin = 156.08
+			xmax = 160.19
+			text = "嗯，都要注重一下这个餐饮的营养。"
+		intervals [11]:
+			xmin = 180.18
+			xmax = 181.46
+			text = "嗯，没错。"
+		intervals [12]:
+			xmin = 213.41
+			xmax = 219.45
+			text = "嗯，这个加入世界贸易组织对我们餐饮业有好有坏。"
+		intervals [13]:
+			xmin = 224.92
+			xmax = 238.38
+			text = "可以可以，那我们主要是招聘一些运营，我们主要招聘运营的副总，然后营销部经理，市场部经理跟物流部经理这些。"
+		intervals [14]:
+			xmin = 240.59
+			xmax = 249.42
+			text = "主要招聘的，他们的要求呢也学历要求是要有的，学历大概在大专或及以上的学历。"
+		intervals [15]:
+			xmin = 256.0
+			xmax = 268.83
+			text = "啊，他的工作职责的话，运营副总主要负责管理跟追踪各门店的日常运营的管理工作及结果，完成各门店的各项经营管理指标。"
+		intervals [16]:
+			xmin = 268.83
+			xmax = 273.54
+			text = "发现督导各门店问题跟管理工作改善。"
+		intervals [17]:
+			xmin = 274.62
+			xmax = 285.4
+			text = "改予以改善，然后进度追踪，要及时的反馈市场信息，予以分析，做出相应的调整措施，你们觉得呢？"
+		intervals [18]:
+			xmin = 297.24
+			xmax = 297.7
+			text = "嗯。"
+		intervals [19]:
+			xmin = 306.48
+			xmax = 321.06
+			text = "嗯，呃还有一个要求，他必须要有餐饮行业工作经验要六年以上，至少要三年以上的餐饮营运职位的管理经验，这样子才能更加有效的管理我们这个餐饮的行业。"
+		intervals [20]:
+			xmin = 325.46
+			xmax = 331.66
+			text = "对对对，然后对餐饮行业的特点，趋势定位要有清晰的把握和判断。"
+		intervals [21]:
+			xmin = 333.43
+			xmax = 346.48
+			text = "嗯，下面是关于营销部经理，他的主要职责呢是规划企业的市场战略与策略，推进实施实现市场发展的目标。"
+		intervals [22]:
+			xmin = 347.91
+			xmax = 361.79
+			text = "嗯，然后研究一下行业的竞争环境，提出我们预期的市场需求给我们公司一个合理化建议主要负责所在部门人员的考核跟培训。"
+		intervals [23]:
+			xmin = 386.9
+			xmax = 388.12
+			text = "嗯，是。"
+		intervals [24]:
+			xmin = 395.02
+			xmax = 404.51
+			text = "对我们招聘的话，招聘的话，主要是要吸引到那些寻求工作人的那个，对对对。"
+		intervals [25]:
+			xmin = 408.54
+			xmax = 413.31
+			text = "要能够吸引他们的眼球，我们的招聘条件需要。需要很好。"
+		intervals [26]:
+			xmin = 435.94
+			xmax = 442.57
+			text = "招聘的待遇，我们可以根据应聘人员的资质水平来那个确定。"
+		intervals [27]:
+			xmin = 457.36
+			xmax = 457.9
+			text = "嗯嗯。"
+		intervals [28]:
+			xmin = 466.05
+			xmax = 466.73
+			text = "对对对。"
+		intervals [29]:
+			xmin = 468.88
+			xmax = 470.16
+			text = "可以请。"
+		intervals [30]:
+			xmin = 471.56
+			xmax = 479.33
+			text = "可以请那个专业的那个营销人员什么各各部门的，对对对。"
+		intervals [31]:
+			xmin = 479.33
+			xmax = 488.44
+			text = "给他们学习培训让他们更加，这个主要招聘的话我们该招聘该怎么招聘呢？就是。"
+		intervals [32]:
+			xmin = 489.73
+			xmax = 493.29
+			text = "如何让我们这个招聘信息更好的让大家知道？"
+		intervals [33]:
+			xmin = 495.59
+			xmax = 496.22
+			text = "对对对。"
+		intervals [34]:
+			xmin = 500.36
+			xmax = 500.81
+			text = "嗯。"
+		intervals [35]:
+			xmin = 505.3
+			xmax = 507.38
+			text = "还有，对对对，还有猎聘。"
+		intervals [36]:
+			xmin = 515.08
+			xmax = 515.45
+			text = "对。"
+		intervals [37]:
+			xmin = 520.75
+			xmax = 534.55
+			text = "对，然后我们就要在各个各个平台上面发布一下我们的招聘信息，让他们知道从哪里可以进到这个网站公众号上面。"
+		intervals [38]:
+			xmin = 543.12
+			xmax = 543.54
+			text = "对。"
+		intervals [39]:
+			xmin = 546.5
+			xmax = 547.94
+			text = "嗯嗯，是的是的。"
+		intervals [40]:
+			xmin = 564.73
+			xmax = 574.36
+			text = "主要是我们还要就好好的拟一下我们这个招聘信息，就该怎么怎么样发布我们的招聘信息。"
+		intervals [41]:
+			xmin = 574.36
+			xmax = 579.58
+			text = "让他们嗯就是来到我们这个公司。"
+		intervals [42]:
+			xmin = 595.37
+			xmax = 595.91
+			text = "嗯。"
+		intervals [43]:
+			xmin = 611.27
+			xmax = 623.36
+			text = "嗯，主要是我们的招聘那个条件也得写清楚招聘的条件信息，招聘之后的福利什么的。"
+		intervals [44]:
+			xmin = 624.53
+			xmax = 628.61
+			text = "都得写一写，然后招聘职位的总人数也得要求一下。"
+		intervals [45]:
+			xmin = 636.46
+			xmax = 636.91
+			text = "嗯。"
+		intervals [46]:
+			xmin = 639.88
+			xmax = 648.77
+			text = "营销委市场部经理需要多一点嘛，毕竟现在是对对对，现在餐饮业市场比较火火爆嘛。"
+		intervals [47]:
+			xmin = 650.86
+			xmax = 651.3
+			text = "嗯。"
+		intervals [48]:
+			xmin = 653.42
+			xmax = 657.12
+			text = "可以可以，那就市场部经理的话那就五个。"
+		intervals [49]:
+			xmin = 659.39
+			xmax = 660.57
+			text = "物流部。"
+		intervals [50]:
+			xmin = 662.59
+			xmax = 668.78
+			text = "对物流部的那个工作，嗯工作任务工作量可能比较大吧。"
+		intervals [51]:
+			xmin = 670.96
+			xmax = 671.62
+			text = "对对对。"
+		intervals [52]:
+			xmin = 674.56
+			xmax = 675.4
+			text = "嗯对。"
+		intervals [53]:
+			xmin = 681.67
+			xmax = 695.28
+			text = "对，其实这个，其实这个招聘的面试，我们可以采取线下面试或者和线上面试都可以嘛，有些人线如果说线下不方便的话也可以线上。"
+		intervals [54]:
+			xmin = 703.04
+			xmax = 703.43
+			text = "嗯。"
+		intervals [55]:
+			xmin = 708.9
+			xmax = 717.72
+			text = "可以可以，就是就担心有的人因为路途过于遥远，就面试的时候可能赶不过来也可以。"
+		intervals [56]:
+			xmin = 719.66
+			xmax = 722.18
+			text = "网上的事了先了解一下。"
+		intervals [57]:
+			xmin = 728.46
+			xmax = 728.74
+			text = "对。"
+		intervals [58]:
+			xmin = 729.99
+			xmax = 735.64
+			text = "嗯他们，还有需要那些应聘人员需要提供一下他们的个人简历。"
+		intervals [59]:
+			xmin = 742.93
+			xmax = 750.3
+			text = "对对对，还要注明一下我们这个这个面试的地点跟时间，差不多是。"
+		intervals [60]:
+			xmin = 753.86
+			xmax = 763.67
+			text = "嗯二零四三吧，可以可以，那招聘的时间的话，招聘时间就长一点吧，毕竟可能嗯。"
+		intervals [61]:
+			xmin = 767.31
+			xmax = 769.34
+			text = "时间都不一样，对。"
+		intervals [62]:
+			xmin = 777.89
+			xmax = 779.12
+			text = "嗯可以。"
+		intervals [63]:
+			xmin = 780.78
+			xmax = 784.28
+			text = "先先筛选一部分的人，不然对对对。"
+		intervals [64]:
+			xmin = 790.38
+			xmax = 796.7
+			text = "嗯，对通知他们在五月五号到五月十号这这几天可以陆续的赶过来面试。"
+		intervals [65]:
+			xmin = 798.21
+			xmax = 803.59
+			text = "如果说一次性通知他们过来的话，那就可能会。"
+		intervals [66]:
+			xmin = 804.89
+			xmax = 805.59
+			text = "对对对。"
+		intervals [67]:
+			xmin = 808.8
+			xmax = 808.99
+			text = "对。"
+		intervals [68]:
+			xmin = 817.28
+			xmax = 817.68
+			text = "嗯。"
+		intervals [69]:
+			xmin = 838.69
+			xmax = 839.44
+			text = "对对对。"
+		intervals [70]:
+			xmin = 845.81
+			xmax = 846.28
+			text = "嗯。"
+		intervals [71]:
+			xmin = 864.07
+			xmax = 864.72
+			text = "嗯。"
+		intervals [72]:
+			xmin = 872.63
+			xmax = 879.47
+			text = "那这个这个对文凭也有点要求吧，需要大专跟以上大专及以上的文化程度吧。"
+		intervals [73]:
+			xmin = 880.71
+			xmax = 891.36
+			text = "然后嗯说到这个对外交接的话，对外条件他的音质条件要好的普通话要标准，口齿也要清楚一点。"
+		intervals [74]:
+			xmin = 892.5
+			xmax = 895.73
+			text = "语言表达能力和沟通和沟通能力要强。"
+		intervals [75]:
+			xmin = 916.47
+			xmax = 921.36
+			text = "嗯，我觉得他们如果面试成功的话，还需要一个试用期吧。"
+		intervals [76]:
+			xmin = 922.97
+			xmax = 928.86
+			text = "试用期得看看他们，嗯，试用期得看看他们的表现怎么样。"
+		intervals [77]:
+			xmin = 932.13
+			xmax = 938.66
+			text = "试用期也给他们定一个基本工资吧，试用期就嗯两个月吧。"
+		intervals [78]:
+			xmin = 940.07
+			xmax = 943.62
+			text = "嗯，试用期为两个月嘛，一个月工资。"
+		intervals [79]:
+			xmin = 944.62
+			xmax = 946.08
+			text = "四千五吧。"
+		intervals [80]:
+			xmin = 952.5
+			xmax = 960.78
+			text = "那嗯可以可以，那试用期的基本工资就三千吧，但是啊然后四试用期满了之后我们得。"
+		intervals [81]:
+			xmin = 961.91
+			xmax = 962.31
+			text = "叫。"
+		intervals [82]:
+			xmin = 963.71
+			xmax = 964.28
+			text = "对对对。"
+		intervals [83]:
+			xmin = 968.99
+			xmax = 975.23
+			text = "转正之后得给他们弄那个五险一金吧，这每个公司都必须。"
+		intervals [84]:
+			xmin = 978.41
+			xmax = 979.36
+			text = "对对对对。"
+		intervals [85]:
+			xmin = 991.18
+			xmax = 991.64
+			text = "嗯。"
+		intervals [86]:
+			xmin = 993.3
+			xmax = 1004.21
+			text = "那基本的这些什么招聘的要求，招聘人数跟岗位职责，什么工资待遇什么都差不多了。"
+		intervals [87]:
+			xmin = 1013.53
+			xmax = 1014.2
+			text = "嗯。"
+		intervals [88]:
+			xmin = 1022.96
+			xmax = 1032.01
+			text = "嗯嗯嗯，这这种我觉得我们可以去那种专业的职业技术学院去进行招聘。"
+		intervals [89]:
+			xmin = 1036.78
+			xmax = 1042.66
+			text = "对对对，去他们学校里面宣传一下我们这个餐饮企业的这个福利什么的。"
+		intervals [90]:
+			xmin = 1051.49
+			xmax = 1058.4
+			text = "就选他们这个餐饮这些管理啊，什么这个专业嘛，啊他们肯定都有。"
+		intervals [91]:
+			xmin = 1059.53
+			xmax = 1062.97
+			text = "管理过，所以说他们需要经过实习期才能转正。"
+		intervals [92]:
+			xmin = 1064.2
+			xmax = 1064.62
+			text = "嗯。"
+		intervals [93]:
+			xmin = 1065.99
+			xmax = 1066.3
+			text = "对。"
+		intervals [94]:
+			xmin = 1069.8
+			xmax = 1070.55
+			text = "嗯嗯嗯。"
+		intervals [95]:
+			xmin = 1075.67
+			xmax = 1085.16
+			text = "对这也这样子也可以增加一下我们这个企业的这个在，在这个城市或者是对对对。"
+		intervals [96]:
+			xmin = 1087.15
+			xmax = 1090.2
+			text = "对，树一下我们企业的形象。"
+		intervals [97]:
+			xmin = 1093.07
+			xmax = 1093.58
+			text = "嗯。"
+		intervals [98]:
+			xmin = 1102.48
+			xmax = 1103.01
+			text = "嗯。"
+		intervals [99]:
+			xmin = 1104.42
+			xmax = 1110.67
+			text = "培训期限的话就，培训期限也不能太长，也不能太短。"
+		intervals [100]:
+			xmin = 1111.8
+			xmax = 1113.89
+			text = "培训期限多长时间？"
+		intervals [101]:
+			xmin = 1115.47
+			xmax = 1116.59
+			text = "两个星期。"
+		intervals [102]:
+			xmin = 1117.55
+			xmax = 1117.93
+			text = "嗯。"
+		intervals [103]:
+			xmin = 1119.83
+			xmax = 1130.99
+			text = "但我们但我们这个我们这个开现在这个市场行业就是太太紧张了，对对对，太稀缺了。"
+		intervals [104]:
+			xmin = 1137.09
+			xmax = 1137.51
+			text = "嗯。"
+		intervals [105]:
+			xmin = 1141.45
+			xmax = 1141.78
+			text = "对。"
+		intervals [106]:
+			xmin = 1146.96
+			xmax = 1154.45
+			text = "嗯这个可以，这个考核跟打分也能让他们能让他们在后面的竞争中就更加。"
+		intervals [107]:
+			xmin = 1155.82
+			xmax = 1156.13
+			text = "嗯。"
+		intervals [108]:
+			xmin = 1164.9
+			xmax = 1170.26
+			text = "还有我们这个招聘的话要搞那个吗？"
+		intervals [109]:
+			xmin = 1171.7
+			xmax = 1178.65
+			text = "搞那个就是招聘启示贴纸贴在马路公告栏上那些。"
+		intervals [110]:
+			xmin = 1181.09
+			xmax = 1181.55
+			text = "对。"
+		intervals [111]:
+			xmin = 1183.17
+			xmax = 1188.19
+			text = "我们可以诶我们可以那个就是跟校方合作。"
+		intervals [112]:
+			xmin = 1195.46
+			xmax = 1195.88
+			text = "嗯。"
+		intervals [113]:
+			xmin = 1199.58
+			xmax = 1200.21
+			text = "对对对。"
+		intervals [114]:
+			xmin = 1206.01
+			xmax = 1206.86
+			text = "嗯，对。"
+		intervals [115]:
+			xmin = 1212.07
+			xmax = 1213.48
+			text = "对他们可能就为了。"
+		intervals [116]:
+			xmin = 1215.13
+			xmax = 1215.9
+			text = "是的是的。"
+		intervals [117]:
+			xmin = 1224.67
+			xmax = 1225.15
+			text = "嗯。"
+		intervals [118]:
+			xmin = 1229.25
+			xmax = 1230.33
+			text = "然后。"
+		intervals [119]:
+			xmin = 1231.4
+			xmax = 1232.38
+			text = "嗯。"
+		intervals [120]:
+			xmin = 1236.26
+			xmax = 1238.21
+			text = "销售的话是。"
+		intervals [121]:
+			xmin = 1246.97
+			xmax = 1251.2
+			text = "主要是选，主要是选人吧我觉得，选人是最重要的。"
+		intervals [122]:
+			xmin = 1254.18
+			xmax = 1254.74
+			text = "嗯。"
+		intervals [123]:
+			xmin = 1264.6
+			xmax = 1268.14
+			text = "对对对，那就嗯。"
+		intervals [124]:
+			xmin = 1270.62
+			xmax = 1271.09
+			text = "是的。"
+		intervals [125]:
+			xmin = 1276.57
+			xmax = 1276.99
+			text = "嗯。"
+		intervals [126]:
+			xmin = 1282.27
+			xmax = 1290.37
+			text = "就如果说公司要那个嗯招聘新人员的话，就可以激励那些老员工。"
+		intervals [127]:
+			xmin = 1296.29
+			xmax = 1299.26
+			text = "主要是想要招聘一些新的人才对吧？"
+		intervals [128]:
+			xmin = 1300.57
+			xmax = 1302.1
+			text = "因为开连锁嘛。"
+		intervals [129]:
+			xmin = 1303.09
+			xmax = 1304.23
+			text = "就需需。"
+		intervals [130]:
+			xmin = 1305.56
+			xmax = 1311.88
+			text = "是的呀，就需要招需要招聘一下更多的这方面的人才。"
+		intervals [131]:
+			xmin = 1316.52
+			xmax = 1317.2
+			text = "嗯。"
+		intervals [132]:
+			xmin = 1319.9
+			xmax = 1325.64
+			text = "我觉得我们公司的那个设备也得改善一下就。"
+		intervals [133]:
+			xmin = 1326.78
+			xmax = 1339.24
+			text = "对，需要公司，我们的这个公司里面要有一个员工俱乐部，这些什么让员工休息的地方，这样子就能更加吸引那个。"
+		intervals [134]:
+			xmin = 1340.27
+			xmax = 1342.15
+			text = "那个外来人员。"
+		intervals [135]:
+			xmin = 1345.53
+			xmax = 1346.07
+			text = "对。"
+		intervals [136]:
+			xmin = 1349.15
+			xmax = 1359.01
+			text = "对的对的，他们里面有那个休息室，母婴室什么的，还有图书馆，这些都可以免费开放，对。"
+		intervals [137]:
+			xmin = 1360.06
+			xmax = 1360.56
+			text = "嗯。"
+		intervals [138]:
+			xmin = 1364.83
+			xmax = 1366.48
+			text = "对，哦。"
+		intervals [139]:
+			xmin = 1369.03
+			xmax = 1369.34
+			text = "对。"
+		intervals [140]:
+			xmin = 1373.48
+			xmax = 1383.45
+			text = "是的是的，那公司我觉得那个招聘信息上得写一下吧，那个什么全勤奖啊，竞赛奖啊，年终奖，工龄补贴这些东西。"
+		intervals [141]:
+			xmin = 1384.51
+			xmax = 1395.4
+			text = "啊这些这些就附附在那个招聘信息文的后面吧，就他们如果想要了解的可以去点进去看一下。"
+		intervals [142]:
+			xmin = 1399.34
+			xmax = 1399.76
+			text = "嗯。"
+		intervals [143]:
+			xmin = 1402.57
+			xmax = 1403.32
+			text = "对对对。"
+		intervals [144]:
+			xmin = 1404.87
+			xmax = 1405.49
+			text = "嗯。"
+		intervals [145]:
+			xmin = 1408.78
+			xmax = 1409.52
+			text = "嗯，也。"
+		intervals [146]:
+			xmin = 1414.44
+			xmax = 1427.47
+			text = "主主要主要他们他们正式录用之后，我们得需我们也可以为他们量身定制一下这个职业生涯规划，然后陪到培养一下多技能。"
+		intervals [147]:
+			xmin = 1427.47
+			xmax = 1434.13
+			text = "这主要是培养多技能工吧，然后经过自我学校的培养。"
+		intervals [148]:
+			xmin = 1465.67
+			xmax = 1466.38
+			text = "嗯。"
+		intervals [149]:
+			xmin = 1473.45
+			xmax = 1474.04
+			text = "对。"
+		intervals [150]:
+			xmin = 1477.46
+			xmax = 1480.4
+			text = "对餐饮就是诶竞争也激烈。"
+		intervals [151]:
+			xmin = 1484.62
+			xmax = 1487.67
+			text = "这主要是这样子嘛。"
+		intervals [152]:
+			xmin = 1492.54
+			xmax = 1492.9
+			text = "嗯。"
+		intervals [153]:
+			xmin = 1498.65
+			xmax = 1499.04
+			text = "对。"
+		intervals [154]:
+			xmin = 1500.22
+			xmax = 1508.19
+			text = "对我们我们现在就公司拥有的职工也就也才四百多个人。"
+		intervals [155]:
+			xmin = 1517.45
+			xmax = 1527.07
+			text = "对对对，就是更多的就更多的业务部门嘛，更多的业务部门，他们这急需人才。"
+		intervals [156]:
+			xmin = 1528.87
+			xmax = 1536.73
+			text = "所以需要向向社会各界各大高校招聘一下那个人才。"
+		intervals [157]:
+			xmin = 1539.0
+			xmax = 1540.5
+			text = "我感觉这个销售。"
+		intervals [158]:
+			xmin = 1541.57
+			xmax = 1542.87
+			text = "这个销售员。"
+		intervals [159]:
+			xmin = 1543.92
+			xmax = 1545.14
+			text = "销售员得招聘。"
+		intervals [160]:
+			xmin = 1547.2
+			xmax = 1547.47
+			text = "对。"
+		intervals [161]:
+			xmin = 1559.16
+			xmax = 1563.38
+			text = "嗯，对对对对我们不，嗯。"
+		intervals [162]:
+			xmin = 1565.6
+			xmax = 1569.57
+			text = "他们他们应该是员工福利比较好，对。"
+		intervals [163]:
+			xmin = 1579.56
+			xmax = 1580.39
+			text = "哦。"
+		intervals [164]:
+			xmin = 1592.63
+			xmax = 1592.98
+			text = "嗯。"
+		intervals [165]:
+			xmin = 1597.6
+			xmax = 1607.11
+			text = "对对对，对那嗯主要有形形象也比要好一点，要有爱心也能吃苦耐劳吧。"
+		intervals [166]:
+			xmin = 1613.25
+			xmax = 1613.72
+			text = "哦。"
+		intervals [167]:
+			xmin = 1616.23
+			xmax = 1616.67
+			text = "对。"
+		intervals [168]:
+			xmin = 1622.52
+			xmax = 1623.03
+			text = "嗯。"
+		intervals [169]:
+			xmin = 1625.39
+			xmax = 1632.22
+			text = "我觉得吧是这样子，大专学历的话一千一的底薪再加提成。"
+		intervals [170]:
+			xmin = 1633.47
+			xmax = 1637.62
+			text = "然后本科学历的话是一千三的底薪再加提成。"
+		intervals [171]:
+			xmin = 1639.73
+			xmax = 1653.02
+			text = "转正，转正之后的话跟公司签订劳动合同然后购买社保之后，就可以晋升为事业部的经理或者公司的营销总监。"
+		intervals [172]:
+			xmin = 1653.02
+			xmax = 1659.54
+			text = "嗯营销那个试销售员的试用期大概到一到三个月吧。"
+		intervals [173]:
+			xmin = 1684.88
+			xmax = 1685.45
+			text = "嗯。"
+		intervals [174]:
+			xmin = 1692.89
+			xmax = 1696.89
+			text = "这个包吃包住我们也可以对对对。"
+		intervals [175]:
+			xmin = 1698.07
+			xmax = 1702.35
+			text = "对我们也可以提供，这个这个这个是这个是应该提供的我觉得。"
+		intervals [176]:
+			xmin = 1707.97
+			xmax = 1708.46
+			text = "嗯。"
+		intervals [177]:
+			xmin = 1710.99
+			xmax = 1711.4
+			text = "主要。"
+		intervals [178]:
+			xmin = 1714.45
+			xmax = 1718.66
+			text = "主要是他，主要是他能够胜任这份工作。"
+		intervals [179]:
+			xmin = 1727.71
+			xmax = 1728.44
+			text = "嗯。"
+		intervals [180]:
+			xmin = 1736.97
+			xmax = 1737.57
+			text = "嗯。"
+		intervals [181]:
+			xmin = 1742.02
+			xmax = 1742.76
+			text = "嗯。"
+		intervals [182]:
+			xmin = 1751.26
+			xmax = 1752.15
+			text = "这个样子的。"
+		intervals [183]:
+			xmin = 1773.43
+			xmax = 1773.98
+			text = "这。"
+		intervals [184]:
+			xmin = 1775.2
+			xmax = 1775.7
+			text = "嗯。"
+		intervals [185]:
+			xmin = 1784.28
+			xmax = 1784.96
+			text = "是的。"
+		intervals [186]:
+			xmin = 1790.83
+			xmax = 1791.29
+			text = "嗯。"
+		intervals [187]:
+			xmin = 1794.32
+			xmax = 1802.69
+			text = "我觉得在他们就是试用期的时候就得跟他们讲一讲公司的规章制度什么的，让他们先提前适应一下。"
+		intervals [188]:
+			xmin = 1820.43
+			xmax = 1821.2
+			text = "嗯对。"
+		intervals [189]:
+			xmin = 1827.01
+			xmax = 1829.23
+			text = "嗯就那我们。"
+		intervals [190]:
+			xmin = 1833.35
+			xmax = 1839.79
+			text = "嗯是的是的，嗯那我们这个招聘前期，我们自己需要准备一些什么东西呢？"
+		intervals [191]:
+			xmin = 1858.54
+			xmax = 1866.8
+			text = "嗯嗯嗯，我觉得我们需要确定一下这个人员的需求对吧，然后要清楚我们要招聘什么样子的人。"
+		intervals [192]:
+			xmin = 1868.51
+			xmax = 1876.09
+			text = "什么硬件软件这这这各各个方面都需要，都需要那个，去那个一下。"
+		intervals [193]:
+			xmin = 1885.11
+			xmax = 1885.76
+			text = "嗯嗯。"
+		intervals [194]:
+			xmin = 1894.85
+			xmax = 1906.99
+			text = "对对对，这种我们招聘，我们招聘渠道是有好多吧，我们可以网上招聘，现场招聘会。"
+		intervals [195]:
+			xmin = 1906.99
+			xmax = 1909.93
+			text = "现场招聘会我们可以举办一个。"
+		intervals [196]:
+			xmin = 1910.96
+			xmax = 1922.79
+			text = "那个，对对对，小讲座一样的，然后就是给他们现场的时候发一点小礼物小那个，然后让他们就能更加了解一下。"
+		intervals [197]:
+			xmin = 1927.85
+			xmax = 1941.33
+			text = "对对对，这样子只要直接面对嘛，效率比较高一点，就然后这样的费用也比较低时效性，时效性的话，对对对，时效性也比较高。"
+		intervals [198]:
+			xmin = 1947.9
+			xmax = 1948.37
+			text = "对。"
+		intervals [199]:
+			xmin = 1955.08
+			xmax = 1955.38
+			text = "对。"
+		intervals [200]:
+			xmin = 1959.85
+			xmax = 1963.04
+			text = "嗯其实还可以那个嘛，内部推荐嘛对吧。"
+		intervals [201]:
+			xmin = 1974.82
+			xmax = 1977.43
+			text = "嗯这样子的话，针对性比较强对吧。"
+		intervals [202]:
+			xmin = 1979.91
+			xmax = 1988.58
+			text = "然后嗯校园招聘嘛也可以，校园招聘也是很好的，那报纸招聘报纸。"
+		intervals [203]:
+			xmin = 1991.61
+			xmax = 1997.62
+			text = "嗯，主要是我觉得，报纸可能覆盖的人群面比较广一点，就是。"
+		intervals [204]:
+			xmin = 2000.29
+			xmax = 2000.8
+			text = "嗯。"
+		intervals [205]:
+			xmin = 2003.63
+			xmax = 2004.78
+			text = "嗯，是的是的。"
+		intervals [206]:
+			xmin = 2009.65
+			xmax = 2010.17
+			text = "嗯。"
+		intervals [207]:
+			xmin = 2011.59
+			xmax = 2012.06
+			text = "嗯。"
+		intervals [208]:
+			xmin = 2016.02
+			xmax = 2016.4
+			text = "嗯。"
+		intervals [209]:
+			xmin = 2023.48
+			xmax = 2024.43
+			text = "啊是。"
+		intervals [210]:
+			xmin = 2033.2
+			xmax = 2034.21
+			text = "嗯可以。"
+		intervals [211]:
+			xmin = 2043.36
+			xmax = 2043.82
+			text = "嗯。"
+		intervals [212]:
+			xmin = 2050.86
+			xmax = 2057.08
+			text = "啊我们先，我们得先制定一个有效的那个招聘原则啊和标准。"
+		intervals [213]:
+			xmin = 2059.31
+			xmax = 2064.59
+			text = "对我们，我们要因事择人知事识人。"
+		intervals [214]:
+			xmin = 2068.09
+			xmax = 2068.6
+			text = "对对对。"
+		intervals [215]:
+			xmin = 2071.31
+			xmax = 2072.58
+			text = "嗯对。"
+		intervals [216]:
+			xmin = 2074.69
+			xmax = 2075.04
+			text = "对。"
+		intervals [217]:
+			xmin = 2076.14
+			xmax = 2076.68
+			text = "我。"
+		intervals [218]:
+			xmin = 2080.33
+			xmax = 2091.68
+			text = "就人员招聘的时候，我们也不能说走后门什么的，不能凭一个人的喜好，以及自身对事物的理解，哦对人员进行选择和评价。"
+		intervals [219]:
+			xmin = 2092.81
+			xmax = 2096.2
+			text = "要根据他们的实嗯实力跟水平来。"
+		intervals [220]:
+			xmin = 2098.86
+			xmax = 2099.65
+			text = "嗯嗯。"
+		intervals [221]:
+			xmin = 2101.46
+			xmax = 2104.45
+			text = "对对对，要公平对待每个人。"
+		intervals [222]:
+			xmin = 2108.74
+			xmax = 2109.31
+			text = "嗯。"
+		intervals [223]:
+			xmin = 2110.45
+			xmax = 2116.24
+			text = "啊也不能宁缺毋滥吧，就不能为招人而招人要。"
+		intervals [224]:
+			xmin = 2117.46
+			xmax = 2122.4
+			text = "一定要选择标准对，一定要选择标准的人员，进行那个。"
+		intervals [225]:
+			xmin = 2131.3
+			xmax = 2131.74
+			text = "嗯。"
+		intervals [226]:
+			xmin = 2139.49
+			xmax = 2139.84
+			text = "嗯。"
+		intervals [227]:
+			xmin = 2142.57
+			xmax = 2143.23
+			text = "可以可以。"
+		intervals [228]:
+			xmin = 2146.96
+			xmax = 2149.61
+			text = "嗯呃我们。"
+		intervals [229]:
+			xmin = 2156.52
+			xmax = 2170.14
+			text = "哎我们还可以确立一下招聘过程，中那个访谈流程啊，内容跟相关测试题什么的，就避免我们这样子随便发问，他们答不上来。"
+		intervals [230]:
+			xmin = 2170.14
+			xmax = 2173.13
+			text = "这样子就很尴尬让他们。"
+		intervals [231]:
+			xmin = 2179.74
+			xmax = 2180.16
+			text = "嗯。"
+		intervals [232]:
+			xmin = 2182.61
+			xmax = 2182.87
+			text = "对。"
+		intervals [233]:
+			xmin = 2185.77
+			xmax = 2197.17
+			text = "对对对，可以让他们现场，现场那个解说一下销售现场对我对我们销售那个，我们公司对餐饮我们。"
+		intervals [234]:
+			xmin = 2199.39
+			xmax = 2199.7
+			text = "对。"
+		intervals [235]:
+			xmin = 2203.81
+			xmax = 2204.47
+			text = "对对对。"
+		intervals [236]:
+			xmin = 2205.63
+			xmax = 2217.3
+			text = "嗯，然后招聘的话我们准备一些东西吧，只要准备一下好那个企业的宣传手册，然后相关的宣传物料。"
+		intervals [237]:
+			xmin = 2217.3
+			xmax = 2226.11
+			text = "就展架呀POP呀什么的对对对，然后什么名片啊，应聘表测试题都得准备一下。"
+		intervals [238]:
+			xmin = 2229.89
+			xmax = 2233.48
+			text = "啊那那这个讨论会就差不多可以结束了吧。"
+		intervals [239]:
+			xmin = 2234.67
+			xmax = 2235.49
+			text = "啊，好的好的。"
+	item [3]:
+		class = "IntervalTier"
+		name = "N_SPK8049"
+		xmin = 0
+		xmax = 2235.5
+		intervals: size = 241
+		intervals [1]:
+			xmin = 2.13
+			xmax = 8.44
+			text = "下面我们来探讨一下餐饮嗯企业招聘的会议。"
+		intervals [2]:
+			xmin = 27.0
+			xmax = 27.46
+			text = "是的。"
+		intervals [3]:
+			xmin = 29.19
+			xmax = 29.94
+			text = "就是从。"
+		intervals [4]:
+			xmin = 48.87
+			xmax = 49.45
+			text = "餐饮。"
+		intervals [5]:
+			xmin = 55.02
+			xmax = 56.75
+			text = "嗯，潜力也比较大了。"
+		intervals [6]:
+			xmin = 76.01
+			xmax = 76.43
+			text = "嗯。"
+		intervals [7]:
+			xmin = 85.03
+			xmax = 85.41
+			text = "嗯。"
+		intervals [8]:
+			xmin = 90.44
+			xmax = 92.32
+			text = "嗯，进行什么卖出？"
+		intervals [9]:
+			xmin = 93.86
+			xmax = 95.56
+			text = "多家连锁跟。"
+		intervals [10]:
+			xmin = 96.65
+			xmax = 97.24
+			text = "改进。"
+		intervals [11]:
+			xmin = 116.77
+			xmax = 117.3
+			text = "嗯。"
+		intervals [12]:
+			xmin = 121.78
+			xmax = 123.0
+			text = "没错，是的。"
+		intervals [13]:
+			xmin = 139.74
+			xmax = 144.32
+			text = "没错，竞争比较强烈，企业竞争比较大。"
+		intervals [14]:
+			xmin = 151.22
+			xmax = 152.89
+			text = "嗯作为一个标志哎。"
+		intervals [15]:
+			xmin = 156.31
+			xmax = 157.31
+			text = "嗯标准化。"
+		intervals [16]:
+			xmin = 158.31
+			xmax = 159.14
+			text = "标准化。"
+		intervals [17]:
+			xmin = 171.98
+			xmax = 172.42
+			text = "嗯。"
+		intervals [18]:
+			xmin = 180.52
+			xmax = 182.38
+			text = "好嗯，是的，没错。"
+		intervals [19]:
+			xmin = 191.5
+			xmax = 191.94
+			text = "嗯。"
+		intervals [20]:
+			xmin = 202.62
+			xmax = 203.06
+			text = "嗯。"
+		intervals [21]:
+			xmin = 212.03
+			xmax = 215.51
+			text = "嗯，是的，不错，嗯我们现在。"
+		intervals [22]:
+			xmin = 219.86
+			xmax = 222.82
+			text = "李雪我们接下来聊聊招聘吧。"
+		intervals [23]:
+			xmin = 225.0
+			xmax = 226.1
+			text = "嗯。"
+		intervals [24]:
+			xmin = 240.27
+			xmax = 240.87
+			text = "嗯招。"
+		intervals [25]:
+			xmin = 263.52
+			xmax = 264.0
+			text = "嗯。"
+		intervals [26]:
+			xmin = 285.65
+			xmax = 296.44
+			text = "嗯，我觉得不错的，招聘条件的话，有亲和力，有良好的应变能力，交谈能力，做事认真细心。"
+		intervals [27]:
+			xmin = 297.46
+			xmax = 306.21
+			text = "善于学习新鲜事物，执行力强，主动积极，有团队意识和强烈的进攻心，好吧。"
+		intervals [28]:
+			xmin = 312.69
+			xmax = 313.11
+			text = "嗯。"
+		intervals [29]:
+			xmin = 321.22
+			xmax = 321.59
+			text = "对。"
+		intervals [30]:
+			xmin = 322.41
+			xmax = 324.79
+			text = "嗯提升提升那个吧。"
+		intervals [31]:
+			xmin = 332.21
+			xmax = 332.62
+			text = "对。"
+		intervals [32]:
+			xmin = 346.7
+			xmax = 347.19
+			text = "嗯。"
+		intervals [33]:
+			xmin = 363.06
+			xmax = 370.64
+			text = "嗯我觉得我们可以了解下其他公司招聘的一种细节跟特点。"
+		intervals [34]:
+			xmin = 376.5
+			xmax = 378.72
+			text = "招聘的特点跟。"
+		intervals [35]:
+			xmin = 386.4
+			xmax = 386.67
+			text = "嗯。"
+		intervals [36]:
+			xmin = 390.23
+			xmax = 393.82
+			text = "服务可能也是一块吧，那个福利也挺不错。"
+		intervals [37]:
+			xmin = 395.23
+			xmax = 397.0
+			text = "公司给员工的福利也不错。"
+		intervals [38]:
+			xmin = 402.91
+			xmax = 405.0
+			text = "有能力的，然后寻求工作的。"
+		intervals [39]:
+			xmin = 416.23
+			xmax = 416.89
+			text = "嗯。"
+		intervals [40]:
+			xmin = 425.51
+			xmax = 426.68
+			text = "嗯。"
+		intervals [41]:
+			xmin = 427.83
+			xmax = 434.32
+			text = "我觉得我们招招聘的待遇也需要提升好吧，有待提升。"
+		intervals [42]:
+			xmin = 443.72
+			xmax = 447.97
+			text = "对可以提升底金啊，销售金啊跟。"
+		intervals [43]:
+			xmin = 449.94
+			xmax = 452.27
+			text = "嗯奖金吧，就年终奖吧。"
+		intervals [44]:
+			xmin = 456.97
+			xmax = 458.54
+			text = "对补，住房补贴。"
+		intervals [45]:
+			xmin = 460.37
+			xmax = 467.27
+			text = "然后员员工刚进来的话，都需要那个培训吧，培训跟学习。"
+		intervals [46]:
+			xmin = 469.27
+			xmax = 471.37
+			text = "提升员工的能力吧。"
+		intervals [47]:
+			xmin = 489.9
+			xmax = 491.09
+			text = "有更好的待遇。"
+		intervals [48]:
+			xmin = 503.48
+			xmax = 503.97
+			text = "嗯。"
+		intervals [49]:
+			xmin = 508.95
+			xmax = 509.45
+			text = "嗯嗯。"
+		intervals [50]:
+			xmin = 520.74
+			xmax = 521.24
+			text = "嗯。"
+		intervals [51]:
+			xmin = 533.03
+			xmax = 533.47
+			text = "对。"
+		intervals [52]:
+			xmin = 534.96
+			xmax = 539.07
+			text = "嗯我们可以创公众号嘛，然后在那个。"
+		intervals [53]:
+			xmin = 539.95
+			xmax = 542.21
+			text = "提交简历发邮件。"
+		intervals [54]:
+			xmin = 556.88
+			xmax = 561.01
+			text = "我们也要提高嗯嗯就吸引力吧。"
+		intervals [55]:
+			xmin = 578.69
+			xmax = 580.02
+			text = "更啊对。"
+		intervals [56]:
+			xmin = 596.24
+			xmax = 597.43
+			text = "没错，嗯。"
+		intervals [57]:
+			xmin = 598.62
+			xmax = 609.82
+			text = "可以多加点假期，比如说带薪休假呀，节日假呀，慰问啊家庭给他们那种保障什么的。"
+		intervals [58]:
+			xmin = 612.77
+			xmax = 614.0
+			text = "都都是不错的。"
+		intervals [59]:
+			xmin = 629.06
+			xmax = 631.89
+			text = "嗯，可以借鉴嘛。"
+		intervals [60]:
+			xmin = 648.76
+			xmax = 649.33
+			text = "嗯。"
+		intervals [61]:
+			xmin = 659.57
+			xmax = 662.35
+			text = "嗯，物流部也不错，可以多招几个吧。"
+		intervals [62]:
+			xmin = 668.79
+			xmax = 669.14
+			text = "那。"
+		intervals [63]:
+			xmin = 671.2
+			xmax = 674.1
+			text = "我觉得招聘可以招一些有经验的啊。"
+		intervals [64]:
+			xmin = 675.74
+			xmax = 683.04
+			text = "性格开朗的，然后搞嗯灵活灵活一点啦，有上进心的嘛。"
+		intervals [65]:
+			xmin = 690.64
+			xmax = 691.6
+			text = "线上提交吗？"
+		intervals [66]:
+			xmin = 693.71
+			xmax = 706.74
+			text = "我觉得可以先线上面试之后，然后再不线线下面试，线线下了解，先报名了解，然后再线下面试最后筛选之后。"
+		intervals [67]:
+			xmin = 718.47
+			xmax = 719.18
+			text = "对对对。"
+		intervals [68]:
+			xmin = 723.65
+			xmax = 727.06
+			text = "有好的那个职业发展嘛，职业发展方向嘛。"
+		intervals [69]:
+			xmin = 728.99
+			xmax = 729.46
+			text = "嗯。"
+		intervals [70]:
+			xmin = 737.32
+			xmax = 740.07
+			text = "这个嗯投那个公众号嘛。"
+		intervals [71]:
+			xmin = 741.6
+			xmax = 742.51
+			text = "要么发邮件嘛。"
+		intervals [72]:
+			xmin = 748.72
+			xmax = 749.32
+			text = "啊。"
+		intervals [73]:
+			xmin = 757.41
+			xmax = 758.26
+			text = "啊嗯。"
+		intervals [74]:
+			xmin = 759.67
+			xmax = 761.56
+			text = "四月二十号到四月三十号嘛。"
+		intervals [75]:
+			xmin = 774.57
+			xmax = 778.33
+			text = "面试的话五月五号到五月十号吧，面试。"
+		intervals [76]:
+			xmin = 780.4
+			xmax = 781.62
+			text = "然后进行面试吧。"
+		intervals [77]:
+			xmin = 787.91
+			xmax = 789.0
+			text = "对对对对对对。"
+		intervals [78]:
+			xmin = 802.68
+			xmax = 804.27
+			text = "嗯嗯嗯。"
+		intervals [79]:
+			xmin = 809.17
+			xmax = 816.05
+			text = "我觉得选员工可以找一些有经验的，那种餐饮管理做过的先优先吧。"
+		intervals [80]:
+			xmin = 817.7
+			xmax = 829.66
+			text = "然后和本地媒体有过合作的，是吧？然后会建设品牌的宣传推广工作的，是吧？有极具洞察力跟判断力的。"
+		intervals [81]:
+			xmin = 845.97
+			xmax = 846.33
+			text = "对。"
+		intervals [82]:
+			xmin = 864.72
+			xmax = 865.16
+			text = "嗯。"
+		intervals [83]:
+			xmin = 879.76
+			xmax = 881.89
+			text = "嗯，我们可以嗯。"
+		intervals [84]:
+			xmin = 897.06
+			xmax = 909.01
+			text = "我觉得负责店铺租赁的商务洽谈，商务商业合作，熟悉店面开发的重点环节与关键。"
+		intervals [85]:
+			xmin = 910.58
+			xmax = 911.76
+			text = "关键信息嘛。"
+		intervals [86]:
+			xmin = 912.99
+			xmax = 915.84
+			text = "这些都是需要有能力的人来完成的嘛。"
+		intervals [87]:
+			xmin = 922.46
+			xmax = 923.46
+			text = "对试用期。"
+		intervals [88]:
+			xmin = 924.4
+			xmax = 925.17
+			text = "一个月吧。"
+		intervals [89]:
+			xmin = 951.72
+			xmax = 953.22
+			text = "三千吧三千五吧。"
+		intervals [90]:
+			xmin = 963.88
+			xmax = 968.81
+			text = "转正可以，可以正可以提，这个可以谈后面可以提。"
+		intervals [91]:
+			xmin = 970.27
+			xmax = 972.45
+			text = "有能力的都可以提，嗯。"
+		intervals [92]:
+			xmin = 974.5
+			xmax = 978.07
+			text = "嗯，待遇都得可以的，假期都得放的。"
+		intervals [93]:
+			xmin = 982.99
+			xmax = 983.23
+			text = "嗯。"
+		intervals [94]:
+			xmin = 985.11
+			xmax = 989.31
+			text = "嗯然后进行增薪唉跟加薪。"
+		intervals [95]:
+			xmin = 993.92
+			xmax = 994.29
+			text = "跟。"
+		intervals [96]:
+			xmin = 1002.46
+			xmax = 1003.23
+			text = "嗯嗯。"
+		intervals [97]:
+			xmin = 1005.52
+			xmax = 1011.85
+			text = "更我觉得我们应该更细节细分一点，他们那个定位。"
+		intervals [98]:
+			xmin = 1020.68
+			xmax = 1024.34
+			text = "对，要有经验的那一种，不是说就小白吧。"
+		intervals [99]:
+			xmin = 1028.88
+			xmax = 1031.23
+			text = "挖人挖人，让他们跳槽。"
+		intervals [100]:
+			xmin = 1041.59
+			xmax = 1051.07
+			text = "我觉得学生不一定就那个学过这一行吧，学过这一方面吧，去试就这一方面不一定会。"
+		intervals [101]:
+			xmin = 1055.6
+			xmax = 1059.14
+			text = "嗯但有些没有管理过吧，就是。"
+		intervals [102]:
+			xmin = 1064.79
+			xmax = 1065.12
+			text = "嗯。"
+		intervals [103]:
+			xmin = 1066.28
+			xmax = 1071.79
+			text = "但是直接上不行，这个肯定需要对培训嘛，得需要一个培训。"
+		intervals [104]:
+			xmin = 1075.18
+			xmax = 1078.54
+			text = "嗯，对对对对，这样是挺重要的。"
+		intervals [105]:
+			xmin = 1087.04
+			xmax = 1089.1
+			text = "对我觉得实实战嗯。"
+		intervals [106]:
+			xmin = 1090.73
+			xmax = 1092.45
+			text = "实战挺挺重要的，实战。"
+		intervals [107]:
+			xmin = 1095.29
+			xmax = 1101.16
+			text = "培训跟实习的话，我觉得总总是要有个期限的吧。"
+		intervals [108]:
+			xmin = 1116.87
+			xmax = 1119.16
+			text = "有些人一年的也有，半年的也有。"
+		intervals [109]:
+			xmin = 1128.38
+			xmax = 1130.91
+			text = "稀缺是吗？稀缺比较稀缺。"
+		intervals [110]:
+			xmin = 1132.0
+			xmax = 1133.46
+			text = "开个三个月要不。"
+		intervals [111]:
+			xmin = 1134.67
+			xmax = 1136.84
+			text = "三个月的培训跟实习。"
+		intervals [112]:
+			xmin = 1139.24
+			xmax = 1146.08
+			text = "我觉得我我觉得嗯培训期间还可以进行考核跟打分嘛。"
+		intervals [113]:
+			xmin = 1150.74
+			xmax = 1151.7
+			text = "就能。"
+		intervals [114]:
+			xmin = 1152.68
+			xmax = 1153.47
+			text = "看得出来。"
+		intervals [115]:
+			xmin = 1154.85
+			xmax = 1155.19
+			text = "对。"
+		intervals [116]:
+			xmin = 1170.53
+			xmax = 1170.89
+			text = "嗯。"
+		intervals [117]:
+			xmin = 1174.33
+			xmax = 1174.96
+			text = "嗯。"
+		intervals [118]:
+			xmin = 1181.5
+			xmax = 1184.16
+			text = "我感觉发传单快一点就。"
+		intervals [119]:
+			xmin = 1188.36
+			xmax = 1192.83
+			text = "嗯对校方合作，跟职业的校方合作。"
+		intervals [120]:
+			xmin = 1199.89
+			xmax = 1206.77
+			text = "这也是一个方法，可以直接让学生去我们那那个培训跟实习嘛进行。"
+		intervals [121]:
+			xmin = 1211.02
+			xmax = 1212.32
+			text = "嗯嗯。"
+		intervals [122]:
+			xmin = 1215.03
+			xmax = 1217.59
+			text = "就业压力也很大，刚好我们这边也稀缺。"
+		intervals [123]:
+			xmin = 1219.84
+			xmax = 1220.32
+			text = "嗯。"
+		intervals [124]:
+			xmin = 1221.67
+			xmax = 1223.56
+			text = "提供这个需要嘛是吧？"
+		intervals [125]:
+			xmin = 1232.45
+			xmax = 1236.43
+			text = "然后我觉得销售最近也是挺重要的感觉。"
+		intervals [126]:
+			xmin = 1237.64
+			xmax = 1239.75
+			text = "销售量最近有点低吧就。"
+		intervals [127]:
+			xmin = 1246.11
+			xmax = 1246.68
+			text = "那个。"
+		intervals [128]:
+			xmin = 1249.67
+			xmax = 1252.27
+			text = "就一个，对对对对。"
+		intervals [129]:
+			xmin = 1254.5
+			xmax = 1259.39
+			text = "需需要那种挑战高薪的意意志跟行动力吧。"
+		intervals [130]:
+			xmin = 1263.15
+			xmax = 1269.57
+			text = "嗯提高员工对对对，要有一定的规划跟想法吧，管理好一个门店嘛。"
+		intervals [131]:
+			xmin = 1276.57
+			xmax = 1277.21
+			text = "嗯。"
+		intervals [132]:
+			xmin = 1290.71
+			xmax = 1295.2
+			text = "对激励老员工，对可以用福利来激励老员工或者奖金。"
+		intervals [133]:
+			xmin = 1299.14
+			xmax = 1299.91
+			text = "嗯。"
+		intervals [134]:
+			xmin = 1312.81
+			xmax = 1313.33
+			text = "对。"
+		intervals [135]:
+			xmin = 1319.85
+			xmax = 1320.64
+			text = "嗯。"
+		intervals [136]:
+			xmin = 1325.16
+			xmax = 1326.65
+			text = "改善公司的呗，对吧？"
+		intervals [137]:
+			xmin = 1332.35
+			xmax = 1333.12
+			text = "嗯对。"
+		intervals [138]:
+			xmin = 1340.24
+			xmax = 1340.85
+			text = "嗯。"
+		intervals [139]:
+			xmin = 1348.22
+			xmax = 1348.74
+			text = "嗯。"
+		intervals [140]:
+			xmin = 1350.28
+			xmax = 1350.88
+			text = "借鉴。"
+		intervals [141]:
+			xmin = 1353.74
+			xmax = 1355.15
+			text = "嗯对呀。"
+		intervals [142]:
+			xmin = 1359.96
+			xmax = 1363.94
+			text = "嗯便利店啊，咖啡店啊，然后员工食堂。"
+		intervals [143]:
+			xmin = 1368.86
+			xmax = 1369.79
+			text = "嗯嗯。"
+		intervals [144]:
+			xmin = 1376.09
+			xmax = 1376.41
+			text = "嗯。"
+		intervals [145]:
+			xmin = 1379.32
+			xmax = 1379.81
+			text = "嗯。"
+		intervals [146]:
+			xmin = 1380.79
+			xmax = 1381.07
+			text = "嗯。"
+		intervals [147]:
+			xmin = 1383.68
+			xmax = 1384.11
+			text = "嗯。"
+		intervals [148]:
+			xmin = 1392.07
+			xmax = 1395.28
+			text = "就附议在后面嘛，对对，了解一下。"
+		intervals [149]:
+			xmin = 1406.61
+			xmax = 1412.54
+			text = "嗯提升，我觉得下面门店还是需要监督跟那个的就。"
+		intervals [150]:
+			xmin = 1414.49
+			xmax = 1415.68
+			text = "对对比啦。"
+		intervals [151]:
+			xmin = 1422.98
+			xmax = 1423.59
+			text = "对对对。"
+		intervals [152]:
+			xmin = 1434.89
+			xmax = 1435.22
+			text = "好。"
+		intervals [153]:
+			xmin = 1437.43
+			xmax = 1439.2
+			text = "嗯嗯。"
+		intervals [154]:
+			xmin = 1445.04
+			xmax = 1452.61
+			text = "对都不太一样，嗯，可以让员工说出自己的想要的待遇，比如说公司的不足啊。"
+		intervals [155]:
+			xmin = 1453.62
+			xmax = 1457.93
+			text = "嗯缺需啊，然后员工的需求啊。"
+		intervals [156]:
+			xmin = 1461.49
+			xmax = 1462.65
+			text = "尽量满足员工。"
+		intervals [157]:
+			xmin = 1485.97
+			xmax = 1496.66
+			text = "我觉得招聘的话，那个岗位问题还是需要监督的跟管理的，不是说做上去有些就那个飘飘然的。"
+		intervals [158]:
+			xmin = 1504.2
+			xmax = 1505.0
+			text = "我们需要执。"
+		intervals [159]:
+			xmin = 1509.38
+			xmax = 1512.71
+			text = "需要执行力强的，服从上级领导的。"
+		intervals [160]:
+			xmin = 1517.82
+			xmax = 1518.41
+			text = "嗯。"
+		intervals [161]:
+			xmin = 1520.65
+			xmax = 1521.53
+			text = "增加门店。"
+		intervals [162]:
+			xmin = 1522.58
+			xmax = 1523.11
+			text = "嗯。"
+		intervals [163]:
+			xmin = 1539.89
+			xmax = 1540.41
+			text = "嗯。"
+		intervals [164]:
+			xmin = 1542.59
+			xmax = 1543.95
+			text = "嗯。"
+		intervals [165]:
+			xmin = 1554.75
+			xmax = 1560.08
+			text = "我看他们海底捞是这样的，一天工作十二到十四个小时是很累的。"
+		intervals [166]:
+			xmin = 1561.29
+			xmax = 1566.11
+			text = "但是我感觉他们就去的人还是挺多的，你们觉得呢？"
+		intervals [167]:
+			xmin = 1568.84
+			xmax = 1577.93
+			text = "嗯我看他们是这样的一个培训师，带你了解店店面嘛，设备全部通过一遍了解了之后，然后再进行分配。"
+		intervals [168]:
+			xmin = 1579.29
+			xmax = 1583.48
+			text = "有分前堂和后堂的，一般都是男孩子后堂。"
+		intervals [169]:
+			xmin = 1585.01
+			xmax = 1585.58
+			text = "是吧。"
+		intervals [170]:
+			xmin = 1586.61
+			xmax = 1589.54
+			text = "一般都是女孩子前堂男孩子往后堂。"
+		intervals [171]:
+			xmin = 1604.82
+			xmax = 1613.77
+			text = "他们是实践，他们是实践工资制的吧，多劳多得的那一种，入职门店后。"
+		intervals [172]:
+			xmin = 1616.19
+			xmax = 1619.17
+			text = "对他们也有根据那个。"
+		intervals [173]:
+			xmin = 1620.7
+			xmax = 1625.6
+			text = "那个学历来分的嘛比如初中啊高中啊高级员工的。"
+		intervals [174]:
+			xmin = 1661.55
+			xmax = 1662.14
+			text = "嗯。"
+		intervals [175]:
+			xmin = 1664.66
+			xmax = 1664.99
+			text = "嗯。"
+		intervals [176]:
+			xmin = 1668.52
+			xmax = 1673.35
+			text = "这个就需要阶级化阶阶级化的吧，然后我看我。"
+		intervals [177]:
+			xmin = 1681.58
+			xmax = 1683.35
+			text = "我觉得我们工资开低了。"
+		intervals [178]:
+			xmin = 1684.37
+			xmax = 1685.02
+			text = "他们。"
+		intervals [179]:
+			xmin = 1686.07
+			xmax = 1691.66
+			text = "海底捞普通员工一个月最高可以拿到一W还包吃包住的。"
+		intervals [180]:
+			xmin = 1702.33
+			xmax = 1714.19
+			text = "而且我觉得我们招聘的话需要有一个很明确的价值观，就公司的价值观，比如说双手改变命运啊这种价值观，传递的很明显的那种。"
+		intervals [181]:
+			xmin = 1719.08
+			xmax = 1724.1
+			text = "要有正确的方向感嘛，公司给员工应该有个正确方向感确定。"
+		intervals [182]:
+			xmin = 1724.99
+			xmax = 1726.91
+			text = "这个晋升的通道吧。"
+		intervals [183]:
+			xmin = 1737.97
+			xmax = 1739.52
+			text = "嗯，这也是需要的。"
+		intervals [184]:
+			xmin = 1741.75
+			xmax = 1749.01
+			text = "我看他们的晋升通道是从管理线，技术线后三勤三线晋升那种。"
+		intervals [185]:
+			xmin = 1751.84
+			xmax = 1763.56
+			text = "他们管理层好像都是从服务员做起的吧，公平精神吧就是一个机会均等的这种一种情况，让所有员工都感觉到公平了吧我觉得。"
+		intervals [186]:
+			xmin = 1764.5
+			xmax = 1771.12
+			text = "机制应该是有的，但是公平性还是需要的，都是一个服务员的开始好吧。"
+		intervals [187]:
+			xmin = 1781.58
+			xmax = 1783.93
+			text = "对对对对对嗯。"
+		intervals [188]:
+			xmin = 1790.6
+			xmax = 1791.96
+			text = "嗯，对对对对。"
+		intervals [189]:
+			xmin = 1797.7
+			xmax = 1798.21
+			text = "嗯。"
+		intervals [190]:
+			xmin = 1802.73
+			xmax = 1811.38
+			text = "对我觉得客户的需求有的挺重要的，有的时候客户，任何问题都可以向海底捞员工服务员提出请求的时候。"
+		intervals [191]:
+			xmin = 1812.51
+			xmax = 1819.5
+			text = "海底捞服务员需要在第一时间答应下来吧，这是挺挺不错的一个那个。"
+		intervals [192]:
+			xmin = 1821.63
+			xmax = 1826.48
+			text = "就可以尝试解决，带给客反馈给客客户嘛。"
+		intervals [193]:
+			xmin = 1828.46
+			xmax = 1832.74
+			text = "不能让客户感觉服务员是在搪塞嘛，就随便糊弄一下的。"
+		intervals [194]:
+			xmin = 1851.55
+			xmax = 1852.46
+			text = "设计广告。"
+		intervals [195]:
+			xmin = 1853.49
+			xmax = 1855.18
+			text = "一个很好的广告词。"
+		intervals [196]:
+			xmin = 1858.11
+			xmax = 1858.42
+			text = "嗯。"
+		intervals [197]:
+			xmin = 1876.88
+			xmax = 1877.37
+			text = "嗯。"
+		intervals [198]:
+			xmin = 1880.3
+			xmax = 1882.35
+			text = "的确，服务需要那个。"
+		intervals [199]:
+			xmin = 1883.74
+			xmax = 1885.8
+			text = "还是不能太低了是吧。"
+		intervals [200]:
+			xmin = 1889.35
+			xmax = 1890.25
+			text = "嗯对对对。"
+		intervals [201]:
+			xmin = 1896.18
+			xmax = 1896.53
+			text = "对。"
+		intervals [202]:
+			xmin = 1903.9
+			xmax = 1904.35
+			text = "嗯。"
+		intervals [203]:
+			xmin = 1910.63
+			xmax = 1913.1
+			text = "嗯，小讲座一样的。"
+		intervals [204]:
+			xmin = 1932.68
+			xmax = 1933.19
+			text = "是。"
+		intervals [205]:
+			xmin = 1938.45
+			xmax = 1939.68
+			text = "时效性会比较高。"
+		intervals [206]:
+			xmin = 1951.22
+			xmax = 1954.84
+			text = "嗯，我觉得免费服务应该也比较增加吧。"
+		intervals [207]:
+			xmin = 1955.72
+			xmax = 1958.59
+			text = "就能让人就完全体验一遍吧。"
+		intervals [208]:
+			xmin = 1959.7
+			xmax = 1960.39
+			text = "然后。"
+		intervals [209]:
+			xmin = 1964.32
+			xmax = 1966.28
+			text = "对，比如说员员工。"
+		intervals [210]:
+			xmin = 1967.2
+			xmax = 1974.54
+			text = "可以拉几个人过来吃饭，然后提成的那一种，就激励的吧那种，多劳多得激励的。"
+		intervals [211]:
+			xmin = 1977.11
+			xmax = 1978.49
+			text = "对，针对性比较强。"
+		intervals [212]:
+			xmin = 1988.09
+			xmax = 1988.59
+			text = "嗯。"
+		intervals [213]:
+			xmin = 1996.91
+			xmax = 2011.03
+			text = "这一方面都是老，比如说电视上面那种，都是老年老年人喜欢相信的吧，就愿意相信的一个，我感觉现在年轻人，就不太愿意相信广告上，就那种电视上面的。"
+		intervals [214]:
+			xmin = 2013.96
+			xmax = 2019.39
+			text = "还是需要树立，还是需要树立口碑跟品牌形象的吧。"
+		intervals [215]:
+			xmin = 2023.14
+			xmax = 2025.32
+			text = "呃对，年龄现在还是得规定一下子。"
+		intervals [216]:
+			xmin = 2042.3
+			xmax = 2045.49
+			text = "这个都是需要身份证的那种。"
+		intervals [217]:
+			xmin = 2047.49
+			xmax = 2049.89
+			text = "这个，都是可以的。"
+		intervals [218]:
+			xmin = 2056.1
+			xmax = 2060.89
+			text = "嗯对原则，原则挺重要的，不能打破国家的原则是吧。"
+		intervals [219]:
+			xmin = 2064.92
+			xmax = 2065.44
+			text = "嗯。"
+		intervals [220]:
+			xmin = 2072.53
+			xmax = 2074.33
+			text = "对，不要太夸张化。"
+		intervals [221]:
+			xmin = 2082.77
+			xmax = 2083.18
+			text = "嗯。"
+		intervals [222]:
+			xmin = 2085.82
+			xmax = 2088.31
+			text = "没有说走后门，要公平竞争。"
+		intervals [223]:
+			xmin = 2092.42
+			xmax = 2094.72
+			text = "嗯公平竞争还是挺需要的。"
+		intervals [224]:
+			xmin = 2099.16
+			xmax = 2099.55
+			text = "对。"
+		intervals [225]:
+			xmin = 2100.66
+			xmax = 2101.4
+			text = "贿赂者。"
+		intervals [226]:
+			xmin = 2110.81
+			xmax = 2111.26
+			text = "嗯。"
+		intervals [227]:
+			xmin = 2118.06
+			xmax = 2120.13
+			text = "精挑细选嘛，细细。"
+		intervals [228]:
+			xmin = 2120.96
+			xmax = 2121.81
+			text = "细细细。"
+		intervals [229]:
+			xmin = 2124.55
+			xmax = 2125.14
+			text = "嗯。"
+		intervals [230]:
+			xmin = 2137.97
+			xmax = 2138.55
+			text = "嗯。"
+		intervals [231]:
+			xmin = 2142.04
+			xmax = 2142.54
+			text = "嗯。"
+		intervals [232]:
+			xmin = 2149.14
+			xmax = 2155.49
+			text = "还是树立好自己的品牌形象的，是需要也不能太那个啥。"
+		intervals [233]:
+			xmin = 2170.24
+			xmax = 2170.71
+			text = "嗯。"
+		intervals [234]:
+			xmin = 2173.64
+			xmax = 2174.16
+			text = "嗯。"
+		intervals [235]:
+			xmin = 2188.53
+			xmax = 2189.05
+			text = "嗯。"
+		intervals [236]:
+			xmin = 2195.93
+			xmax = 2196.48
+			text = "嗯。"
+		intervals [237]:
+			xmin = 2199.73
+			xmax = 2200.17
+			text = "对。"
+		intervals [238]:
+			xmin = 2203.84
+			xmax = 2205.46
+			text = "对改善自己不足。"
+		intervals [239]:
+			xmin = 2218.82
+			xmax = 2219.19
+			text = "嗯。"
+		intervals [240]:
+			xmin = 2226.07
+			xmax = 2229.33
+			text = "嗯我觉得都挺不错的，那面试就这样吧。"
+		intervals [241]:
+			xmin = 2233.69
+			xmax = 2234.52
+			text = "就结束吧。"

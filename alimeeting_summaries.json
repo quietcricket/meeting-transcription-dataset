@@ -1,0 +1,1159 @@
+[
+  {
+    "meetingId": "R8003_M8001",
+    "participants": [
+      "N_SPK8001",
+      "N_SPK8002",
+      "N_SPK8003",
+      "N_SPK8004"
+    ],
+    "participant_stats": {
+      "N_SPK8003": {
+        "turn_count": 81,
+        "char_count": 3007
+      },
+      "N_SPK8004": {
+        "turn_count": 89,
+        "char_count": 2896
+      },
+      "N_SPK8002": {
+        "turn_count": 95,
+        "char_count": 2239
+      },
+      "N_SPK8001": {
+        "turn_count": 56,
+        "char_count": 1681
+      }
+    },
+    "summary": "The meeting was about planning Teacher's Day gifts for teachers, discussing appropriate gift types, presentation methods, and addressing concerns about teacher comfort and potential awkwardness.",
+    "participant_views": {
+      "N_SPK8003": [
+        "Suggested practical gifts like neck massagers, eye massagers, or desk lamps",
+        "Emphasized the need to get teacher's address for mailing gifts to avoid awkwardness",
+        "Proposed small gifts like chocolates or flowers if mailing isn't possible"
+      ],
+      "N_SPK8004": [
+        "Advocated for group class gifts to avoid individual gift embarrassment",
+        "Suggested home delivery to prevent teacher discomfort and colleague awkwardness",
+        "Recommended eye-care lamps as thoughtful and appropriate gifts"
+      ],
+      "N_SPK8002": [
+        "Supported dual gifts - child's handmade item plus parent's purchased gift",
+        "Suggested practical gifts like保温杯 (thermos cups) or snacks",
+        "Emphasized considering child's input when selecting gifts",
+        "Proposed mailing gifts as the preferred delivery method"
+      ],
+      "N_SPK8001": [
+        "Believed older students should give gifts while younger ones might not need to",
+        "Suggested children could draw pictures as gifts",
+        "Favored mailing gifts to teacher's home as the best solution"
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Gift types",
+        "details": "Practical gifts like massagers, lamps, thermos cups, or chocolates are appropriate",
+        "participants": [
+          "N_SPK8003",
+          "N_SPK8004",
+          "N_SPK8002"
+        ]
+      },
+      {
+        "topic": "Child involvement",
+        "details": "Children should create handmade items like drawings or cards as part of the gift",
+        "participants": [
+          "N_SPK8003",
+          "N_SPK8004",
+          "N_SPK8002",
+          "N_SPK8001"
+        ]
+      },
+      {
+        "topic": "Delivery method preference",
+        "details": "Mailing gifts to teacher's home is the preferred option to avoid awkwardness",
+        "participants": [
+          "N_SPK8003",
+          "N_SPK8004",
+          "N_SPK8002",
+          "N_SPK8001"
+        ]
+      },
+      {
+        "topic": "Teacher communication",
+        "details": "Need to ask teachers for their addresses for gift delivery",
+        "participants": [
+          "N_SPK8003",
+          "N_SPK8004",
+          "N_SPK8002",
+          "N_SPK8001"
+        ]
+      },
+      {
+        "topic": "Gift value",
+        "details": "Gifts should be moderate in value (around 100-200 yuan)",
+        "participants": [
+          "N_SPK8002",
+          "N_SPK8003"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Individual vs group gifts",
+        "details": "Whether individual students should give separate gifts or the class should give a collective gift",
+        "participants": [
+          "N_SPK8004",
+          "N_SPK8002"
+        ]
+      },
+      {
+        "topic": "Gift timing",
+        "details": "Whether gifts should be delivered on Teacher's Day or before/after",
+        "participants": [
+          "N_SPK8001",
+          "N_SPK8002"
+        ]
+      },
+      {
+        "topic": "Teacher address privacy",
+        "details": "Whether asking for teacher's home address is appropriate or intrusive",
+        "participants": [
+          "N_SPK8003",
+          "N_SPK8004"
+        ]
+      },
+      {
+        "topic": "Gift necessity",
+        "details": "Whether younger students (1st-2nd grade) should participate in gift-giving",
+        "participants": [
+          "N_SPK8001",
+          "N_SPK8002"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Gift delivery method and teacher comfort",
+      "reason": "The discussion extensively explored various delivery options (mailing, in-person, through colleagues) and their potential impact on teacher comfort and avoiding awkwardness with colleagues, with significant debate about the practicality and appropriateness of each approach."
+    }
+  },
+  {
+    "meetingId": "R8001_M8004",
+    "participants": [
+      "N_SPK8013",
+      "N_SPK8014",
+      "N_SPK8015",
+      "N_SPK8016"
+    ],
+    "participant_stats": {
+      "N_SPK8013": {
+        "turn_count": 123,
+        "char_count": 3904
+      },
+      "N_SPK8014": {
+        "turn_count": 63,
+        "char_count": 2908
+      },
+      "N_SPK8015": {
+        "turn_count": 67,
+        "char_count": 2083
+      },
+      "N_SPK8016": {
+        "turn_count": 59,
+        "char_count": 1475
+      }
+    },
+    "summary": "The meeting was a workshop to discuss the launch strategy for a new smartphone product, focusing on target audience identification, marketing approaches, promotional tactics, and product features.",
+    "participant_views": {
+      "N_SPK8013": [
+        "Moderated discussions and set deadlines for action plans",
+        "Focused on young demographic as primary target",
+        "Advocated for promotional bundles and celebrity endorsements",
+        "Emphasized need for timely product launch",
+        "Stressed importance of departmental coordination"
+      ],
+      "N_SPK8014": [
+        "Suggested broad target audience including fashion-conscious elderly",
+        "Proposed bundling with telecom operators",
+        "Recommended multi-platform live streaming",
+        "Advocated for diverse gift options with company branding",
+        "Highlighted cost concerns with celebrity endorsements"
+      ],
+      "N_SPK8015": [
+        "Argued for targeted marketing to 18-45 age group",
+        "Suggested bank partnerships for installment plans",
+        "Proposed offline-to-online promotion integration",
+        "Emphasized product quality over cheap gifts",
+        "Recommended selecting appropriate influencers"
+      ],
+      "N_SPK8016": [
+        "Suggested targeting 18-45 year olds initially",
+        "Proposed market share growth through price discounts",
+        "Recommended mainstream e-commerce platforms",
+        "Suggested gift options under 50 yuan",
+        "Emphasized importance of color variety in product design"
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Target Audience",
+        "details": "Primary focus on 18-45 year olds with broader appeal",
+        "participants": [
+          "N_SPK8013",
+          "N_SPK8014",
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      },
+      {
+        "topic": "Marketing Channels",
+        "details": "Utilize major e-commerce platforms and live streaming",
+        "participants": [
+          "N_SPK8013",
+          "N_SPK8014",
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      },
+      {
+        "topic": "Promotional Timeline",
+        "details": "Launch before Double Eleven shopping festival",
+        "participants": [
+          "N_SPK8013",
+          "N_SPK8014",
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      },
+      {
+        "topic": "Gift Strategy",
+        "details": "Create multiple gift package options with company branding",
+        "participants": [
+          "N_SPK8013",
+          "N_SPK8014",
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      },
+      {
+        "topic": "Product Colors",
+        "details": "Offer multiple vibrant color options targeting younger demographics",
+        "participants": [
+          "N_SPK8013",
+          "N_SPK8014",
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      },
+      {
+        "topic": "Action Plan Deadline",
+        "details": "Finalize detailed plans by next Tuesday",
+        "participants": [
+          "N_SPK8013",
+          "N_SPK8014",
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Target Audience Specificity",
+        "details": "Broad appeal vs. specific age targeting",
+        "participants": [
+          "N_SPK8014",
+          "N_SPK8015"
+        ]
+      },
+      {
+        "topic": "Celebrity Endorsement",
+        "details": "High-impact single influencer vs. multiple platforms",
+        "participants": [
+          "N_SPK8014",
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      },
+      {
+        "topic": "Gift Value",
+        "details": "Premium branded items vs. affordable options",
+        "participants": [
+          "N_SPK8014",
+          "N_SPK8015"
+        ]
+      },
+      {
+        "topic": "Color Strategy",
+        "details": "Multiple vibrant colors vs. more conservative options",
+        "participants": [
+          "N_SPK8014",
+          "N_SPK8016"
+        ]
+      },
+      {
+        "topic": "Sales Approach",
+        "details": "Online focus vs. integrated online-offline strategy",
+        "participants": [
+          "N_SPK8015",
+          "N_SPK8016"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Target audience identification and marketing strategy",
+      "reason": "Extended debate about whether to target specific age groups versus broader demographics, with multiple participants expressing different views on product positioning and marketing approaches"
+    }
+  },
+  {
+    "meetingId": "R8007_M8011",
+    "participants": [
+      "N_SPK8066",
+      "N_SPK8067",
+      "N_SPK8068",
+      "N_SPK8069"
+    ],
+    "participant_stats": {
+      "N_SPK8066": {
+        "turn_count": 125,
+        "char_count": 3512
+      },
+      "N_SPK8068": {
+        "turn_count": 125,
+        "char_count": 3806
+      },
+      "N_SPK8069": {
+        "turn_count": 121,
+        "char_count": 1522
+      },
+      "N_SPK8067": {
+        "turn_count": 99,
+        "char_count": 2019
+      }
+    },
+    "summary": "The meeting was a discussion about the impact and user experience of short video apps, focusing on their benefits and problems. Participants shared their usage patterns, needs, and concerns about content quality and regulation.",
+    "participant_views": {
+      "N_SPK8066": [
+        "Short videos provide emotional, funny, educational, social and skill-based content",
+        "Platforms need better backend monitoring and innovative features",
+        "Users and platforms should both work to improve content quality",
+        "Content classification would make apps more user-friendly"
+      ],
+      "N_SPK8068": [
+        "Primarily uses short videos for shopping and entertainment",
+        "Content creators should maintain integrity and not sell out for money",
+        "Platforms need better content verification and user reporting systems",
+        "Duplicate content and fake information are major problems"
+      ],
+      "N_SPK8067": [
+        "Values technical and educational content",
+        "Trusts主播带货 for saving time on product selection",
+        "Believes platforms need to address inappropriate content",
+        "Sees short videos as beneficial for learning and sharing"
+      ],
+      "N_SPK8069": [
+        "Family members watch different types of content (mother watches lifestyle videos)",
+        "Concerned about misleading content affecting elderly users",
+        "Supports real-name verification for content creators",
+        "Wants platforms to handle user reports more effectively"
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Content classification",
+        "details": "Agreed that categorizing content would improve user experience",
+        "participants": [
+          "N_SPK8066",
+          "N_SPK8068"
+        ]
+      },
+      {
+        "topic": "Platform responsibility",
+        "details": "Platforms need better backend monitoring and content regulation",
+        "participants": [
+          "N_SPK8066",
+          "N_SPK8067",
+          "N_SPK8068",
+          "N_SPK8069"
+        ]
+      },
+      {
+        "topic": "User reporting system",
+        "details": "Platforms should improve how they handle user reports and feedback",
+        "participants": [
+          "N_SPK8068",
+          "N_SPK8066",
+          "N_SPK8067"
+        ]
+      },
+      {
+        "topic": "Content creator verification",
+        "details": "Support real-name verification for content creators to reduce fake information",
+        "participants": [
+          "N_SPK8068",
+          "N_SPK8069"
+        ]
+      },
+      {
+        "topic": "Educational benefits",
+        "details": "Short videos provide learning opportunities and skill development",
+        "participants": [
+          "N_SPK8066",
+          "N_SPK8067",
+          "N_SPK8069"
+        ]
+      },
+      {
+        "topic": "Social shopping",
+        "details": "主播带货 saves time and provides curated product recommendations",
+        "participants": [
+          "N_SPK8067",
+          "N_SPK8066"
+        ]
+      },
+      {
+        "topic": "User responsibility",
+        "details": "Users need to develop better content discernment skills",
+        "participants": [
+          "N_SPK8066",
+          "N_SPK8068",
+          "N_SPK8069"
+        ]
+      },
+      {
+        "topic": "Platform improvement",
+        "details": "Platforms should innovate and improve services based on user feedback",
+        "participants": [
+          "N_SPK8066",
+          "N_SPK8067",
+          "N_SPK8068",
+          "N_SPK8069"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Comparison with traditional e-commerce",
+        "details": "Disagreement about whether short video shopping is different from traditional platforms like Taobao",
+        "participants": [
+          "N_SPK8066",
+          "N_SPK8067"
+        ]
+      },
+      {
+        "topic": "Content regulation effectiveness",
+        "details": "Disagreement about how well platforms currently handle content regulation and user reports",
+        "participants": [
+          "N_SPK8068",
+          "N_SPK8066"
+        ]
+      },
+      {
+        "topic": "Content impact on children",
+        "details": "Concerns about inappropriate content affecting children's development",
+        "participants": [
+          "N_SPK8068",
+          "N_SPK8067"
+        ]
+      },
+      {
+        "topic": "Content originality",
+        "details": "Discussion about repetitive content and lack of originality",
+        "participants": [
+          "N_SPK8068",
+          "N_SPK8066"
+        ]
+      },
+      {
+        "topic": "Fake information spread",
+        "details": "Concerns about misinformation spreading rapidly, especially among elderly users",
+        "participants": [
+          "N_SPK8069",
+          "N_SPK8066"
+        ]
+      },
+      {
+        "topic": "Content monetization ethics",
+        "details": "Debate about content creators prioritizing money over quality and authenticity",
+        "participants": [
+          "N_SPK8068",
+          "N_SPK8069"
+        ]
+      },
+      {
+        "topic": "Platform responsiveness",
+        "details": "Frustration with platforms not adequately addressing user reports and feedback",
+        "participants": [
+          "N_SPK8068",
+          "N_SPK8066"
+        ]
+      },
+      {
+        "topic": "Content categorization implementation",
+        "details": "Discussion about how effectively content categorization could be implemented",
+        "participants": [
+          "N_SPK8066",
+          "N_SPK8068"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Content quality and regulation issues",
+      "reason": "The discussion spent significant time addressing problems with fake information, inappropriate content, platform monitoring failures, and the need for better content verification and user reporting systems"
+    }
+  },
+  {
+    "meetingId": "R8008_M8013",
+    "participants": [
+      "N_SPK8047",
+      "N_SPK8048",
+      "N_SPK8049"
+    ],
+    "participant_stats": {
+      "N_SPK8049": {
+        "turn_count": 141,
+        "char_count": 2297
+      },
+      "N_SPK8047": {
+        "turn_count": 135,
+        "char_count": 3034
+      },
+      "N_SPK8048": {
+        "turn_count": 134,
+        "char_count": 3233
+      }
+    },
+    "summary": "The meeting focused on discussing recruitment strategies for a restaurant company, analyzing industry trends, and planning a hiring process for various positions including operations managers, sales staff, and logistics personnel.",
+    "participant_views": {
+      "N_SPK8047": [
+        "Emphasized the importance of employee benefits like insurance, bonuses, and housing subsidies to attract talent",
+        "Suggested recruiting from vocational colleges to provide opportunities to graduates",
+        "Advocated for considering candidates' learning ability over experience",
+        "Proposed providing rest areas for employees to improve satisfaction",
+        "Recommended using internal referrals for targeted recruitment"
+      ],
+      "N_SPK8048": [
+        "Highlighted the need for scientific and professional management in the restaurant industry",
+        "Stated that operations managers need at least 6 years of restaurant industry experience",
+        "Suggested implementing tiered salary structures based on education level",
+        "Emphasized the importance of fair recruitment practices without favoritism",
+        "Recommended preparing promotional materials for recruitment events"
+      ],
+      "N_SPK8049": [
+        "Advocated for prioritizing experienced candidates in restaurant management",
+        "Proposed a multi-stage interview process starting online",
+        "Suggested offering competitive benefits like paid leave and family support",
+        "Recommended establishing clear company values to attract motivated employees",
+        "Emphasized the importance of practical experience over formal education"
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Recruitment Process",
+        "details": "Implement a two-stage interview process with initial screening followed by in-person interviews",
+        "participants": [
+          "N_SPK8047",
+          "N_SPK8048",
+          "N_SPK8049"
+        ]
+      },
+      {
+        "topic": "Employee Benefits",
+        "details": "Offer comprehensive benefits including insurance, bonuses, housing subsidies, and paid leave",
+        "participants": [
+          "N_SPK8047",
+          "N_SPK8048",
+          "N_SPK8049"
+        ]
+      },
+      {
+        "topic": "Recruitment Channels",
+        "details": "Use multiple channels including online platforms, vocational colleges, and internal referrals",
+        "participants": [
+          "N_SPK8047",
+          "N_SPK8048",
+          "N_SPK8049"
+        ]
+      },
+      {
+        "topic": "Fair Hiring Practices",
+        "details": "Ensure fair recruitment without favoritism or bribery",
+        "participants": [
+          "N_SPK8047",
+          "N_SPK8048"
+        ]
+      },
+      {
+        "topic": "Company Values",
+        "details": "Establish clear company values to attract motivated employees",
+        "participants": [
+          "N_SPK8049"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Candidate Experience vs. Education",
+        "details": "Disagreement on whether to prioritize practical experience or formal education in recruitment",
+        "participants": [
+          "N_SPK8048",
+          "N_SPK8049"
+        ]
+      },
+      {
+        "topic": "Recruitment Source",
+        "details": "Debate about focusing on vocational colleges versus experienced professionals",
+        "participants": [
+          "N_SPK8047",
+          "N_SPK8049"
+        ]
+      },
+      {
+        "topic": "Salary Structure",
+        "details": "Different views on implementing tiered salary based on education level",
+        "participants": [
+          "N_SPK8048",
+          "N_SPK8049"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Recruitment Strategy and Process Planning",
+      "reason": "The discussion extensively covered various aspects of recruitment including job requirements, candidate selection criteria, interview processes, salary structures, and promotional methods, with multiple participants contributing different perspectives and suggestions."
+    }
+  },
+  {
+    "meetingId": "R8009_M8018",
+    "participants": [
+      "N_SPK8021",
+      "N_SPK8022"
+    ],
+    "participant_stats": {
+      "N_SPK8021": {
+        "turn_count": 161,
+        "char_count": 4747
+      },
+      "N_SPK8022": {
+        "turn_count": 141,
+        "char_count": 3442
+      }
+    },
+    "summary": "The meeting was about discussing social insurance (five insurances and one housing fund) policies for new employees at a company opening a new supermarket next month. The main purpose was to clarify the company's plan to provide mandatory social insurance coverage, including details on contribution percentages, eligibility timing, and addressing employee concerns about benefits and costs.",
+    "participant_views": {
+      "N_SPK8021": [
+        "Advocated for providing comprehensive social insurance benefits to reduce employee turnover and address their concerns.",
+        "Suggested providing training to help employees understand how to use their social insurance benefits.",
+        "Questioned whether male employees need maternity insurance and asked about coverage for dependents.",
+        "Expressed interest in exploring commercial insurance options like accident insurance for additional employee benefits.",
+        "Emphasized that social insurance is mandatory by law regardless of employee preferences."
+      ],
+      "N_SPK8022": [
+        "Explained the company's plan to contribute at the minimum 60% rate for social insurance.",
+        "Clarified that employees become eligible for social insurance after 30 days of employment upon confirmation.",
+        "Noted that housing fund contributions are optional but could help retain younger employees.",
+        "Mentioned that some older employees may prefer not to participate due to cost concerns.",
+        "Stated that the company would handle social insurance transfers if employees are relocated."
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Social insurance eligibility",
+        "details": "New employees become eligible for social insurance after 30 days of employment upon confirmation.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      },
+      {
+        "topic": "Contribution percentages",
+        "details": "Company will contribute at minimum 60% rate, with employees responsible for the remaining portion.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      },
+      {
+        "topic": "Housing fund",
+        "details": "Housing fund contributions are optional but could help retain younger employees.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      },
+      {
+        "topic": "Maternity leave policy",
+        "details": "Company will follow national standard of 150 days maternity leave with basic salary payment.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      },
+      {
+        "topic": "Employee notification",
+        "details": "Employees will be informed how to check their social insurance contributions through platforms like Alipay or Tianfu Citizen Cloud.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Older employee participation",
+        "details": "Some older employees prefer not to participate in social insurance due to cost concerns, while management believes it's mandatory and beneficial.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      },
+      {
+        "topic": "Commercial insurance",
+        "details": "Management is considering optional commercial insurance like accident insurance, while some employees may have different preferences.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      },
+      {
+        "topic": "Housing fund usage",
+        "details": "Discussion about whether housing fund can be used for rental expenses versus only for purchasing property.",
+        "participants": [
+          "N_SPK8021",
+          "N_SPK8022"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Social insurance contribution details and eligibility",
+      "reason": "The discussion extensively covered contribution percentages, timing of eligibility, cost calculations, and employee concerns about participation, particularly for older workers."
+    }
+  },
+  {
+    "meetingId": "R8009_M8019",
+    "participants": [
+      "N_SPK8023",
+      "N_SPK8024"
+    ],
+    "participant_stats": {
+      "N_SPK8024": {
+        "turn_count": 125,
+        "char_count": 3609
+      },
+      "N_SPK8023": {
+        "turn_count": 127,
+        "char_count": 4699
+      }
+    },
+    "summary": "The meeting was about planning a student exchange event for international students, focusing on cultural exchange during the Mid-Autumn Festival. The main purpose was to organize activities that would help foreign students better understand Chinese culture and traditions.",
+    "participant_views": {
+      "N_SPK8024": [
+        "Preferred the theme 'Let You Better Understand Me' over 'World as One Family' for being more focused on cultural understanding",
+        "Suggested holding the event on Mid-Autumn Festival day instead of weekend for better attendance",
+        "Proposed combining the exchange event with the Mid-Autumn Festival celebration",
+        "Suggested having foreign students introduce their own countries' cultures during the event",
+        "Recommended organizing dumpling-making activities in the afternoon as part of the cultural experience"
+      ],
+      "N_SPK8023": [
+        "Agreed that the theme should help foreign students better understand Chinese culture",
+        "Suggested incorporating distinctive Chinese cultural elements into the event",
+        "Recommended Teacher Xiao Song as a translator for the event",
+        "Preferred holding the event at school rather than in society for better organization",
+        "Emphasized the importance of mutual cultural understanding between Chinese and foreign students"
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Event Theme",
+        "details": "Agreed to use 'Let You Better Understand Me' as the main theme for the exchange event",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Event Date",
+        "details": "Decided to hold the event on Mid-Autumn Festival day instead of weekend",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Event Location",
+        "details": "Agreed to hold the event at school (specifically the playground) rather than in society",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Cultural Activities",
+        "details": "Agreed to include poetry recitation and dumpling-making activities",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Translation Support",
+        "details": "Agreed to have Teacher Xiao Song assist with translation",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Event Combination",
+        "details": "Decided to combine the exchange event with the Mid-Autumn Festival celebration",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Food Arrangements",
+        "details": "Agreed to provide mooncakes and organize dumpling-making activities",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Event Promotion",
+        "details": "Agreed to use school broadcasting and promotion channels to announce the event",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Event Theme Preference",
+        "details": "N_SPK8024 preferred 'Let You Better Understand Me' while N_SPK8023 initially mentioned 'World as One Family'",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Event Location",
+        "details": "N_SPK8024 suggested considering both school and society locations while N_SPK8023 strongly preferred school",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Pre-event Activities",
+        "details": "N_SPK8024 suggested a Chinese dinner while N_SPK8023 later agreed to dumpling-making instead",
+        "participants": [
+          "N_SPK8024",
+          "N_SPK8023"
+        ]
+      },
+      {
+        "topic": "Accommodation for Foreign Students",
+        "details": "N_SPK8024 suggested asking students' preference between hotel and school accommodation",
+        "participants": [
+          "N_SPK8024"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Event Planning and Logistics",
+      "reason": "The discussion extensively covered various aspects of event planning including theme selection, date, location, activities, translation, food arrangements, and promotion, with multiple back-and-forth exchanges about each element."
+    }
+  },
+  {
+    "meetingId": "R8007_M8010",
+    "participants": [
+      "N_SPK8050",
+      "N_SPK8054",
+      "N_SPK8055",
+      "N_SPK8056"
+    ],
+    "participant_stats": {
+      "N_SPK8056": {
+        "turn_count": 161,
+        "char_count": 3691
+      },
+      "N_SPK8054": {
+        "turn_count": 202,
+        "char_count": 5171
+      },
+      "N_SPK8055": {
+        "turn_count": 142,
+        "char_count": 3416
+      },
+      "N_SPK8050": {
+        "turn_count": 148,
+        "char_count": 1743
+      }
+    },
+    "summary": "The meeting was about discussing the relocation of the company's office, focusing on selecting a new location, transportation options, budget considerations, and moving logistics. The main purpose was to gather input from department heads and plan the upcoming move within a one-month timeframe.",
+    "participant_views": {
+      "N_SPK8056": [
+        "Need to discuss new location selection and commuting requirements",
+        "Departments should provide their space requirements",
+        "Moving should be completed within 2-3 days",
+        "Need to hire a cleaning staff",
+        "Budget must be established for the move"
+      ],
+      "N_SPK8054": [
+        "Location must have convenient transportation (subway/bus)",
+        "East side location could work if it has good transport and favorable terms",
+        "Need dedicated restrooms for employees",
+        "Professional moving company should be hired to protect equipment",
+        "Should aim to secure at least 10 parking spaces"
+      ],
+      "N_SPK8055": [
+        "Multiple location options should be considered",
+        "Someone should visit potential buildings to compare options",
+        "Moving should ideally happen on weekends",
+        "Need to protect valuable items like computers during the move",
+        "Limited parking will be available, employees will need to find their own spots"
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Location Criteria",
+        "details": "New office should be within the 3rd Ring Road with convenient public transportation",
+        "participants": [
+          "N_SPK8054",
+          "N_SPK8050",
+          "N_SPK8055"
+        ]
+      },
+      {
+        "topic": "Moving Timeline",
+        "details": "Move should be completed within 2-3 days",
+        "participants": [
+          "N_SPK8050",
+          "N_SPK8055"
+        ]
+      },
+      {
+        "topic": "Moving Company",
+        "details": "Professional moving company should be hired to protect equipment",
+        "participants": [
+          "N_SPK8054",
+          "N_SPK8055"
+        ]
+      },
+      {
+        "topic": "Parking",
+        "details": "Should try to secure at least 10 parking spaces for department heads",
+        "participants": [
+          "N_SPK8054",
+          "N_SPK8050"
+        ]
+      },
+      {
+        "topic": "Moving Schedule",
+        "details": "Moving should ideally happen on weekends to minimize disruption",
+        "participants": [
+          "N_SPK8055",
+          "N_SPK8054"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Location Feasibility",
+        "details": "N_SPK8055 expressed doubt about finding suitable locations within the 3rd Ring Road",
+        "participants": [
+          "N_SPK8055"
+        ]
+      },
+      {
+        "topic": "Parking Availability",
+        "details": "Concerns about limited parking spaces for employees who drive",
+        "participants": [
+          "N_SPK8055"
+        ]
+      },
+      {
+        "topic": "Moving Cost",
+        "details": "Discussion about budget constraints for hiring professional movers versus cheaper options",
+        "participants": [
+          "N_SPK8054",
+          "N_SPK8055"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Location selection criteria and transportation options",
+      "reason": "The discussion extensively covered the need for convenient public transportation (subway/bus), location within the 3rd Ring Road, and commuting requirements for employees, with multiple participants expressing different preferences and constraints."
+    }
+  },
+  {
+    "meetingId": "R8009_M8020",
+    "participants": [
+      "N_SPK8025",
+      "N_SPK8026"
+    ],
+    "participant_stats": {
+      "N_SPK8026": {
+        "turn_count": 134,
+        "char_count": 4018
+      },
+      "N_SPK8025": {
+        "turn_count": 112,
+        "char_count": 4338
+      }
+    },
+    "summary": "The meeting was about planning a matchmaking event for the company's website, with discussions on venue selection, activities, pricing, and logistics. The main purpose was to finalize the event plan for 222 participants.",
+    "participant_views": {
+      "N_SPK8026": [
+        "Suggested two evening venues: international大厦 and 草原, later proposing 杜甫草堂",
+        "Recommended wearing masks to reduce visual bias during initial interactions",
+        "Proposed a 4-hour evening event (5-9 PM) on Saturday to control costs",
+        "Suggested activities including dancing, painting, and bringing small gifts",
+        "Offered a membership system for unlimited matches beyond the initial three"
+      ],
+      "N_SPK8025": [
+        "Preferred outdoor venues like 双流区's 江家艺苑 with natural settings",
+        "Emphasized the need for romantic atmosphere with彩灯 lighting",
+        "Suggested static activities like泛舟游湖, 赏花, and 喝茶 for deeper connections",
+        "Expressed concerns about swimming activities potentially being inappropriate",
+        "Recommended comprehensive registration including personal preferences and views on love"
+      ]
+    },
+    "agreements": [
+      {
+        "topic": "Venue",
+        "details": "Selected 双流区's 江家艺苑 for its natural setting and public visibility",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Event Structure",
+        "details": "Daytime activities (骑马, 射靶) and evening romantic setting with彩灯",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Pricing",
+        "details": "Fixed fee of 150 RMB per person including three matches and meal",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Membership",
+        "details": "500 RMB membership for unlimited matches beyond initial three",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Gifts",
+        "details": "Participants bring small gifts; successful pairs receive special prizes",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Registration",
+        "details": "Both online and paper registration to accommodate all age groups",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Schedule",
+        "details": "Weekend events (9 AM-11 PM), Wednesday-Sunday availability",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Activities",
+        "details": "Combination of dynamic (骑马, 射靶) and static (泛舟游湖, 赏花, 喝茶) activities",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      }
+    ],
+    "disagreements": [
+      {
+        "topic": "Event Duration",
+        "details": "N_SPK8026 preferred single evening event to control costs; N_SPK8025 suggested weekend availability",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Swimming Activity",
+        "details": "N_SPK8026 proposed swimming areas; N_SPK8025 expressed concerns about appropriateness",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Mask Usage",
+        "details": "N_SPK8026 recommended mandatory masks; N_SPK8025 suggested optional participation",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Budget",
+        "details": "N_SPK8026 noted high costs of international大厦 venue; N_SPK8025 prioritized natural settings",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Meals",
+        "details": "N_SPK8026 suggested only dinner; N_SPK8025 wanted comprehensive meal service",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Activity Selection",
+        "details": "Debate between swimming vs.射箭 as appropriate first-date activities",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Time Allocation",
+        "details": "Disagreement on whether to limit interaction time per match or allow flexibility",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      },
+      {
+        "topic": "Venue Features",
+        "details": "N_SPK8026 emphasized草地空间; N_SPK8025 prioritized湖水和花景",
+        "participants": [
+          "N_SPK8025",
+          "N_SPK8026"
+        ]
+      }
+    ],
+    "most_time_consuming": {
+      "topic": "Venue Selection",
+      "reason": "Extended discussion comparing multiple options (international大厦, 草原, 杜甫草堂, 双流区江家艺苑) with considerations of budget, atmosphere, and practicality"
+    }
+  }
+]

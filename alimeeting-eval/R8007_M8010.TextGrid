@@ -1,0 +1,4756 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1853.911
+tiers? <exists>
+size = 4
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "N_SPK8050"
+		xmin = 0
+		xmax = 1853.911
+		intervals: size = 340
+		intervals [1]:
+			xmin = 28.02
+			xmax = 28.38
+			text = "对。"
+		intervals [2]:
+			xmin = 29.95
+			xmax = 32.04
+			text = "有没有备选方案？还是。"
+		intervals [3]:
+			xmin = 34.51
+			xmax = 36.83
+			text = "嗯场地租金嗯。"
+		intervals [4]:
+			xmin = 40.47
+			xmax = 41.64
+			text = "嗯空勤。"
+		intervals [5]:
+			xmin = 43.51
+			xmax = 45.94
+			text = "交通哎嗯。"
+		intervals [6]:
+			xmin = 48.37
+			xmax = 49.22
+			text = "嗯公交。"
+		intervals [7]:
+			xmin = 51.75
+			xmax = 52.16
+			text = "啊有。"
+		intervals [8]:
+			xmin = 56.38
+			xmax = 58.4
+			text = "三环以里房租还贵嗯。"
+		intervals [9]:
+			xmin = 60.31
+			xmax = 62.19
+			text = "嗯嗯太贵房租。"
+		intervals [10]:
+			xmin = 64.14
+			xmax = 64.53
+			text = "嗯。"
+		intervals [11]:
+			xmin = 66.31
+			xmax = 66.63
+			text = "不跟。"
+		intervals [12]:
+			xmin = 67.69
+			xmax = 67.95
+			text = "对。"
+		intervals [13]:
+			xmin = 71.34
+			xmax = 79.41
+			text = "然为了公司长远考虑，贵点也没事儿你知道不，大家公交通啊很方便啥的嗯。"
+		intervals [14]:
+			xmin = 80.27
+			xmax = 80.56
+			text = "嗯。"
+		intervals [15]:
+			xmin = 89.62
+			xmax = 90.69
+			text = "嗯对。"
+		intervals [16]:
+			xmin = 92.94
+			xmax = 94.13
+			text = "对对对对对。"
+		intervals [17]:
+			xmin = 96.71
+			xmax = 99.46
+			text = "肯定选一些比较比较合理的。"
+		intervals [18]:
+			xmin = 103.12
+			xmax = 103.92
+			text = "嗯。"
+		intervals [19]:
+			xmin = 108.4
+			xmax = 108.74
+			text = "行。"
+		intervals [20]:
+			xmin = 109.71
+			xmax = 114.33
+			text = "对对对对，搭地铁公交都挺方便那块儿嗯。"
+		intervals [21]:
+			xmin = 116.58
+			xmax = 117.14
+			text = "嗯。"
+		intervals [22]:
+			xmin = 127.15
+			xmax = 128.47
+			text = "可以可以可以。"
+		intervals [23]:
+			xmin = 130.59
+			xmax = 139.15
+			text = "嗯可以对对，对对行嗯呃是大大家的交通方便也也挺便利嗯。"
+		intervals [24]:
+			xmin = 144.62
+			xmax = 146.5
+			text = "嗯嗯对，对对对。"
+		intervals [25]:
+			xmin = 149.95
+			xmax = 150.18
+			text = "嗯。"
+		intervals [26]:
+			xmin = 156.57
+			xmax = 157.64
+			text = "嗯对你。"
+		intervals [27]:
+			xmin = 158.62
+			xmax = 159.36
+			text = "对嗯。"
+		intervals [28]:
+			xmin = 160.99
+			xmax = 161.38
+			text = "啊对。"
+		intervals [29]:
+			xmin = 163.03
+			xmax = 163.72
+			text = "对对对。"
+		intervals [30]:
+			xmin = 165.92
+			xmax = 166.48
+			text = "嗯啊。"
+		intervals [31]:
+			xmin = 167.67
+			xmax = 168.64
+			text = "挑对对。"
+		intervals [32]:
+			xmin = 173.11
+			xmax = 173.63
+			text = "嗯。"
+		intervals [33]:
+			xmin = 180.54
+			xmax = 182.3
+			text = "对对，调查选址呃。"
+		intervals [34]:
+			xmin = 184.18
+			xmax = 186.93
+			text = "东边儿东边儿行，东边儿交通方便。"
+		intervals [35]:
+			xmin = 189.99
+			xmax = 191.58
+			text = "啊嗯。"
+		intervals [36]:
+			xmin = 194.03
+			xmax = 195.22
+			text = "对三环以里。"
+		intervals [37]:
+			xmin = 198.36
+			xmax = 198.65
+			text = "嗯。"
+		intervals [38]:
+			xmin = 206.13
+			xmax = 206.35
+			text = "啊。"
+		intervals [39]:
+			xmin = 208.14
+			xmax = 208.66
+			text = "对对。"
+		intervals [40]:
+			xmin = 215.86
+			xmax = 216.74
+			text = "啊嗯嗯。"
+		intervals [41]:
+			xmin = 218.97
+			xmax = 219.28
+			text = "啊。"
+		intervals [42]:
+			xmin = 225.09
+			xmax = 228.33
+			text = "看看大伙儿有啥有啥意见没有嗯。"
+		intervals [43]:
+			xmin = 229.65
+			xmax = 231.53
+			text = "哇他那个空间。"
+		intervals [44]:
+			xmin = 233.4
+			xmax = 233.7
+			text = "对。"
+		intervals [45]:
+			xmin = 239.42
+			xmax = 239.73
+			text = "啊。"
+		intervals [46]:
+			xmin = 240.69
+			xmax = 241.33
+			text = "工位。"
+		intervals [47]:
+			xmin = 242.88
+			xmax = 243.08
+			text = "对。"
+		intervals [48]:
+			xmin = 245.24
+			xmax = 245.7
+			text = "啊五。"
+		intervals [49]:
+			xmin = 249.03
+			xmax = 251.07
+			text = "对五十个工位嗯。"
+		intervals [50]:
+			xmin = 252.83
+			xmax = 253.56
+			text = "会议室。"
+		intervals [51]:
+			xmin = 255.61
+			xmax = 256.18
+			text = "嗯哪。"
+		intervals [52]:
+			xmin = 258.23
+			xmax = 258.54
+			text = "对。"
+		intervals [53]:
+			xmin = 259.89
+			xmax = 261.17
+			text = "大会议室有一个就够。"
+		intervals [54]:
+			xmin = 262.32
+			xmax = 264.76
+			text = "小小小会议室有俩就够。"
+		intervals [55]:
+			xmin = 270.4
+			xmax = 271.74
+			text = "对，一间教室那么大就行。"
+		intervals [56]:
+			xmin = 275.24
+			xmax = 276.3
+			text = "啊对先考察。"
+		intervals [57]:
+			xmin = 277.21
+			xmax = 277.54
+			text = "嗯。"
+		intervals [58]:
+			xmin = 279.88
+			xmax = 281.5
+			text = "根据实际情况嗯。"
+		intervals [59]:
+			xmin = 283.76
+			xmax = 284.01
+			text = "对。"
+		intervals [60]:
+			xmin = 286.81
+			xmax = 287.22
+			text = "嗯。"
+		intervals [61]:
+			xmin = 292.28
+			xmax = 293.36
+			text = "办公室。"
+		intervals [62]:
+			xmin = 295.82
+			xmax = 296.41
+			text = "哦。"
+		intervals [63]:
+			xmin = 298.3
+			xmax = 298.72
+			text = "嗯。"
+		intervals [64]:
+			xmin = 300.86
+			xmax = 303.13
+			text = "啊对，四个小办公室主要是。"
+		intervals [65]:
+			xmin = 304.17
+			xmax = 304.79
+			text = "对对。"
+		intervals [66]:
+			xmin = 306.99
+			xmax = 308.61
+			text = "嗯嗯嗯。"
+		intervals [67]:
+			xmin = 312.53
+			xmax = 314.46
+			text = "五个五个六个都行。"
+		intervals [68]:
+			xmin = 321.44
+			xmax = 321.78
+			text = "嗯。"
+		intervals [69]:
+			xmin = 322.7
+			xmax = 323.24
+			text = "嗯。"
+		intervals [70]:
+			xmin = 325.9
+			xmax = 326.7
+			text = "啊定下来呗。"
+		intervals [71]:
+			xmin = 332.43
+			xmax = 335.2
+			text = "洗手间储物间啊。"
+		intervals [72]:
+			xmin = 339.45
+			xmax = 339.93
+			text = "对。"
+		intervals [73]:
+			xmin = 343.35
+			xmax = 345.77
+			text = "对对自己人儿用，嗯嗯。"
+		intervals [74]:
+			xmin = 346.97
+			xmax = 347.67
+			text = "嗯。"
+		intervals [75]:
+			xmin = 349.53
+			xmax = 349.97
+			text = "嗯。"
+		intervals [76]:
+			xmin = 350.97
+			xmax = 351.46
+			text = "对对。"
+		intervals [77]:
+			xmin = 353.15
+			xmax = 353.39
+			text = "嗯。"
+		intervals [78]:
+			xmin = 361.44
+			xmax = 361.74
+			text = "对。"
+		intervals [79]:
+			xmin = 368.07
+			xmax = 369.0
+			text = "那是用人。"
+		intervals [80]:
+			xmin = 372.62
+			xmax = 373.94
+			text = "嗯嗯。"
+		intervals [81]:
+			xmin = 377.08
+			xmax = 378.15
+			text = "哦。"
+		intervals [82]:
+			xmin = 379.53
+			xmax = 380.17
+			text = "你这。"
+		intervals [83]:
+			xmin = 385.95
+			xmax = 391.61
+			text = "得这得招一个保洁员我估计那嗯，招个保洁员嗯。"
+		intervals [84]:
+			xmin = 393.19
+			xmax = 396.14
+			text = "嗯招个保洁员最少得用一个人儿嗯。"
+		intervals [85]:
+			xmin = 397.05
+			xmax = 397.48
+			text = "嗯。"
+		intervals [86]:
+			xmin = 399.59
+			xmax = 400.1
+			text = "嗯。"
+		intervals [87]:
+			xmin = 402.6
+			xmax = 403.02
+			text = "嗯。"
+		intervals [88]:
+			xmin = 406.23
+			xmax = 406.38
+			text = "嗯。"
+		intervals [89]:
+			xmin = 410.64
+			xmax = 410.94
+			text = "对。"
+		intervals [90]:
+			xmin = 412.7
+			xmax = 413.07
+			text = "对。"
+		intervals [91]:
+			xmin = 417.79
+			xmax = 418.7
+			text = "茶水间。"
+		intervals [92]:
+			xmin = 422.69
+			xmax = 424.23
+			text = "嗯嗯。"
+		intervals [93]:
+			xmin = 426.9
+			xmax = 431.18
+			text = "吸烟室能能整啥的，嗯啊啊。"
+		intervals [94]:
+			xmin = 432.69
+			xmax = 434.23
+			text = "啊嗯嗯。"
+		intervals [95]:
+			xmin = 435.39
+			xmax = 437.25
+			text = "嗯嗯。"
+		intervals [96]:
+			xmin = 446.45
+			xmax = 447.97
+			text = "饮水机对。"
+		intervals [97]:
+			xmin = 451.71
+			xmax = 452.12
+			text = "嗯。"
+		intervals [98]:
+			xmin = 460.24
+			xmax = 460.58
+			text = "嗯。"
+		intervals [99]:
+			xmin = 466.23
+			xmax = 466.56
+			text = "一间。"
+		intervals [100]:
+			xmin = 468.56
+			xmax = 468.81
+			text = "就。"
+		intervals [101]:
+			xmin = 470.0
+			xmax = 474.49
+			text = "一小隔间儿呗嗯，对员工一个小隔间儿。"
+		intervals [102]:
+			xmin = 483.37
+			xmax = 483.83
+			text = "嗯。"
+		intervals [103]:
+			xmin = 491.39
+			xmax = 496.4
+			text = "最好是小隔间儿的，现在啊咱有会议室这这。"
+		intervals [104]:
+			xmin = 503.62
+			xmax = 505.35
+			text = "嗯地板砖。"
+		intervals [105]:
+			xmin = 511.66
+			xmax = 513.78
+			text = "地毯安静，对对对整地毯行。"
+		intervals [106]:
+			xmin = 515.44
+			xmax = 515.65
+			text = "这。"
+		intervals [107]:
+			xmin = 516.69
+			xmax = 517.0
+			text = "啊。"
+		intervals [108]:
+			xmin = 518.37
+			xmax = 519.35
+			text = "嗯啊。"
+		intervals [109]:
+			xmin = 528.34
+			xmax = 529.03
+			text = "刷漆呗。"
+		intervals [110]:
+			xmin = 529.95
+			xmax = 535.53
+			text = "刷漆，嗯白色的，呃乳乳胶漆，刷刷白色就行。"
+		intervals [111]:
+			xmin = 538.59
+			xmax = 538.92
+			text = "嗯。"
+		intervals [112]:
+			xmin = 539.92
+			xmax = 540.23
+			text = "啊。"
+		intervals [113]:
+			xmin = 543.93
+			xmax = 545.03
+			text = "对对对啊。"
+		intervals [114]:
+			xmin = 551.84
+			xmax = 553.66
+			text = "刮一下仿啊刮一下仿瓷就行。"
+		intervals [115]:
+			xmin = 555.28
+			xmax = 555.6
+			text = "嗯。"
+		intervals [116]:
+			xmin = 559.14
+			xmax = 559.31
+			text = "嗯。"
+		intervals [117]:
+			xmin = 560.29
+			xmax = 560.55
+			text = "对。"
+		intervals [118]:
+			xmin = 561.42
+			xmax = 563.01
+			text = "干净，嗯。"
+		intervals [119]:
+			xmin = 570.45
+			xmax = 571.01
+			text = "装修。"
+		intervals [120]:
+			xmin = 571.94
+			xmax = 572.34
+			text = "对。"
+		intervals [121]:
+			xmin = 581.3
+			xmax = 582.94
+			text = "什么时候可以收拾东西？"
+		intervals [122]:
+			xmin = 590.04
+			xmax = 590.34
+			text = "对。"
+		intervals [123]:
+			xmin = 595.15
+			xmax = 596.44
+			text = "房子租好了这。"
+		intervals [124]:
+			xmin = 597.3
+			xmax = 597.78
+			text = "办公。"
+		intervals [125]:
+			xmin = 604.41
+			xmax = 605.59
+			text = "时搬过去的时间。"
+		intervals [126]:
+			xmin = 614.85
+			xmax = 619.23
+			text = "又也就两三天差不多儿了嗯，嗯有两三天嗯。"
+		intervals [127]:
+			xmin = 620.86
+			xmax = 621.34
+			text = "啊。"
+		intervals [128]:
+			xmin = 628.45
+			xmax = 633.38
+			text = "对，规划好了嗯怎怎么搬？有没有。"
+		intervals [129]:
+			xmin = 634.45
+			xmax = 637.97
+			text = "呃有没有大件儿了小件儿啥的是吧？嗯。"
+		intervals [130]:
+			xmin = 643.25
+			xmax = 643.96
+			text = "嗯嗯。"
+		intervals [131]:
+			xmin = 644.9
+			xmax = 645.51
+			text = "具体嗯。"
+		intervals [132]:
+			xmin = 647.22
+			xmax = 648.38
+			text = "这嗯。"
+		intervals [133]:
+			xmin = 654.7
+			xmax = 655.09
+			text = "嗯。"
+		intervals [134]:
+			xmin = 656.01
+			xmax = 656.58
+			text = "货拉拉。"
+		intervals [135]:
+			xmin = 659.19
+			xmax = 660.67
+			text = "嗯得得三天。"
+		intervals [136]:
+			xmin = 667.23
+			xmax = 667.82
+			text = "嗯。"
+		intervals [137]:
+			xmin = 672.49
+			xmax = 673.14
+			text = "预算。"
+		intervals [138]:
+			xmin = 674.16
+			xmax = 674.85
+			text = "必须有预算。"
+		intervals [139]:
+			xmin = 685.97
+			xmax = 686.22
+			text = "对。"
+		intervals [140]:
+			xmin = 696.54
+			xmax = 696.71
+			text = "嗯。"
+		intervals [141]:
+			xmin = 701.16
+			xmax = 708.66
+			text = "有部门我有我的部门儿挺快，我部门快，我部门东西少，那有部门东西多。"
+		intervals [142]:
+			xmin = 709.64
+			xmax = 710.16
+			text = "嗯。"
+		intervals [143]:
+			xmin = 712.54
+			xmax = 713.24
+			text = "啊我。"
+		intervals [144]:
+			xmin = 717.41
+			xmax = 720.22
+			text = "大伙帮助帮助呗，嗯帮助你们搬。"
+		intervals [145]:
+			xmin = 721.64
+			xmax = 722.07
+			text = "呃。"
+		intervals [146]:
+			xmin = 723.29
+			xmax = 729.66
+			text = "对，你们部门人呃东西多，我其它部门可以协助你去搬家啊。"
+		intervals [147]:
+			xmin = 735.17
+			xmax = 738.64
+			text = "没事儿，那就呃由我由我们来帮助你。"
+		intervals [148]:
+			xmin = 741.57
+			xmax = 742.47
+			text = "嗯嗯。"
+		intervals [149]:
+			xmin = 743.87
+			xmax = 744.23
+			text = "对。"
+		intervals [150]:
+			xmin = 748.36
+			xmax = 750.7
+			text = "档案专人儿管。"
+		intervals [151]:
+			xmin = 752.73
+			xmax = 753.28
+			text = "嗯。"
+		intervals [152]:
+			xmin = 756.5
+			xmax = 756.93
+			text = "嗯。"
+		intervals [153]:
+			xmin = 762.49
+			xmax = 765.36
+			text = "这都没事儿，咱各部门咱协调一下子就嗯。"
+		intervals [154]:
+			xmin = 766.52
+			xmax = 767.06
+			text = "哎呦。"
+		intervals [155]:
+			xmin = 773.37
+			xmax = 775.45
+			text = "差不多差不多嗯。"
+		intervals [156]:
+			xmin = 779.26
+			xmax = 782.28
+			text = "呃那个提提前个四五天儿就行。"
+		intervals [157]:
+			xmin = 787.54
+			xmax = 787.72
+			text = "哦。"
+		intervals [158]:
+			xmin = 793.65
+			xmax = 796.15
+			text = "嗯有时间有时间嗯。"
+		intervals [159]:
+			xmin = 798.5
+			xmax = 799.01
+			text = "啊嗯。"
+		intervals [160]:
+			xmin = 801.65
+			xmax = 803.17
+			text = "对，大车不让进嗯。"
+		intervals [161]:
+			xmin = 804.49
+			xmax = 804.87
+			text = "嗯。"
+		intervals [162]:
+			xmin = 806.75
+			xmax = 807.37
+			text = "嗯。"
+		intervals [163]:
+			xmin = 809.16
+			xmax = 809.62
+			text = "不让进。"
+		intervals [164]:
+			xmin = 810.96
+			xmax = 811.2
+			text = "这。"
+		intervals [165]:
+			xmin = 812.1
+			xmax = 816.11
+			text = "对大车是晚上十点，嗯不让进嗯。"
+		intervals [166]:
+			xmin = 830.52
+			xmax = 831.9
+			text = "大车用不着现在。"
+		intervals [167]:
+			xmin = 832.83
+			xmax = 833.31
+			text = "现在。"
+		intervals [168]:
+			xmin = 844.78
+			xmax = 845.1
+			text = "没事。"
+		intervals [169]:
+			xmin = 846.25
+			xmax = 846.71
+			text = "想法儿。"
+		intervals [170]:
+			xmin = 849.4
+			xmax = 850.14
+			text = "嗯嗯。"
+		intervals [171]:
+			xmin = 854.51
+			xmax = 855.04
+			text = "嗯对对。"
+		intervals [172]:
+			xmin = 857.1
+			xmax = 859.24
+			text = "搬家别影响别的呃工作日。"
+		intervals [173]:
+			xmin = 862.84
+			xmax = 865.29
+			text = "嗯对对休息时加个班儿嗯。"
+		intervals [174]:
+			xmin = 872.33
+			xmax = 873.09
+			text = "对对对对。"
+		intervals [175]:
+			xmin = 874.44
+			xmax = 874.68
+			text = "嗯。"
+		intervals [176]:
+			xmin = 881.54
+			xmax = 888.77
+			text = "那就周六周日吧，嗯平时大家都挺嗯都工作都挺忙，嗯周六周六大伙儿加个班儿。"
+		intervals [177]:
+			xmin = 889.74
+			xmax = 890.17
+			text = "嗯嗯。"
+		intervals [178]:
+			xmin = 891.58
+			xmax = 891.93
+			text = "嗯。"
+		intervals [179]:
+			xmin = 902.39
+			xmax = 903.44
+			text = "不不用不用。"
+		intervals [180]:
+			xmin = 904.99
+			xmax = 906.43
+			text = "有一个人儿跟车就行。"
+		intervals [181]:
+			xmin = 907.68
+			xmax = 913.43
+			text = "嗯大车大车不让进，白天好像找中国邮政差不多。"
+		intervals [182]:
+			xmin = 914.52
+			xmax = 923.0
+			text = "中国邮政的车好像国家能能让进，嗯嗯不是，邮政国家可能让进。"
+		intervals [183]:
+			xmin = 925.62
+			xmax = 928.58
+			text = "不行咱就找中国邮政的车嗯。"
+		intervals [184]:
+			xmin = 934.23
+			xmax = 935.59
+			text = "最少得五三四个人儿。"
+		intervals [185]:
+			xmin = 936.91
+			xmax = 940.49
+			text = "对看东西啥的，呃咱东西呃呃东西。"
+		intervals [186]:
+			xmin = 941.81
+			xmax = 943.69
+			text = "坏了啥的得不得看着点儿。"
+		intervals [187]:
+			xmin = 945.35
+			xmax = 947.57
+			text = "呃就怕磕碰啥的嗯。"
+		intervals [188]:
+			xmin = 956.08
+			xmax = 956.36
+			text = "对。"
+		intervals [189]:
+			xmin = 958.8
+			xmax = 963.67
+			text = "哦对，多找几家货比三家，嗯给个报价儿。"
+		intervals [190]:
+			xmin = 966.58
+			xmax = 967.31
+			text = "嗯对。"
+		intervals [191]:
+			xmin = 970.2
+			xmax = 975.41
+			text = "嗯行，现现在搬家公司就货拉拉货拉拉车多嗯。"
+		intervals [192]:
+			xmin = 976.84
+			xmax = 977.25
+			text = "啊。"
+		intervals [193]:
+			xmin = 979.06
+			xmax = 987.84
+			text = "对小件儿啥的用货拉拉，大件儿啥东西装不了的用咱找着呃找着邮政，嗯中国邮政。"
+		intervals [194]:
+			xmin = 992.79
+			xmax = 994.63
+			text = "毕竟专业的哎货。"
+		intervals [195]:
+			xmin = 997.14
+			xmax = 1001.75
+			text = "专业的专业的就跟跟快递似的，它都给你包装好喽嗯。"
+		intervals [196]:
+			xmin = 1005.88
+			xmax = 1006.34
+			text = "我。"
+		intervals [197]:
+			xmin = 1008.59
+			xmax = 1009.0
+			text = "嗯。"
+		intervals [198]:
+			xmin = 1010.75
+			xmax = 1014.65
+			text = "嗯得得个对对对对，得个人儿看着得。"
+		intervals [199]:
+			xmin = 1021.25
+			xmax = 1022.13
+			text = "对主要是咱。"
+		intervals [200]:
+			xmin = 1023.05
+			xmax = 1024.41
+			text = "咱电脑啥的也得嗯。"
+		intervals [201]:
+			xmin = 1027.33
+			xmax = 1027.62
+			text = "嗯。"
+		intervals [202]:
+			xmin = 1030.7
+			xmax = 1033.39
+			text = "你像电脑了是比较贵重物品嗯。"
+		intervals [203]:
+			xmin = 1036.87
+			xmax = 1038.18
+			text = "要不开车时候给。"
+		intervals [204]:
+			xmin = 1039.82
+			xmax = 1040.02
+			text = "都。"
+		intervals [205]:
+			xmin = 1045.74
+			xmax = 1052.43
+			text = "我我我我一个公司一个部门儿，电脑又又十多台，人哦。"
+		intervals [206]:
+			xmin = 1054.08
+			xmax = 1054.72
+			text = "嗯。"
+		intervals [207]:
+			xmin = 1063.08
+			xmax = 1063.53
+			text = "对对。"
+		intervals [208]:
+			xmin = 1064.85
+			xmax = 1066.36
+			text = "咱咱也跟搬家公司。"
+		intervals [209]:
+			xmin = 1067.87
+			xmax = 1071.15
+			text = "跟家搬家之前各种物品是吧有多少件儿？"
+		intervals [210]:
+			xmin = 1071.99
+			xmax = 1072.37
+			text = "是啊。"
+		intervals [211]:
+			xmin = 1076.89
+			xmax = 1077.27
+			text = "呃。"
+		intervals [212]:
+			xmin = 1078.84
+			xmax = 1079.47
+			text = "嗯。"
+		intervals [213]:
+			xmin = 1080.84
+			xmax = 1081.14
+			text = "对。"
+		intervals [214]:
+			xmin = 1082.46
+			xmax = 1085.88
+			text = "那大车大车桌子椅子。"
+		intervals [215]:
+			xmin = 1087.09
+			xmax = 1087.57
+			text = "嗯。"
+		intervals [216]:
+			xmin = 1088.57
+			xmax = 1090.23
+			text = "专业专业大车那就是。"
+		intervals [217]:
+			xmin = 1093.48
+			xmax = 1096.24
+			text = "邮政差不多，邮政邮政那。"
+		intervals [218]:
+			xmin = 1098.29
+			xmax = 1100.1
+			text = "不是，邮政车让进。"
+		intervals [219]:
+			xmin = 1101.57
+			xmax = 1102.3
+			text = "白天让进。"
+		intervals [220]:
+			xmin = 1104.28
+			xmax = 1104.66
+			text = "嗯。"
+		intervals [221]:
+			xmin = 1107.82
+			xmax = 1108.53
+			text = "呃对对。"
+		intervals [222]:
+			xmin = 1109.81
+			xmax = 1110.77
+			text = "哦嗯。"
+		intervals [223]:
+			xmin = 1111.91
+			xmax = 1112.21
+			text = "对。"
+		intervals [224]:
+			xmin = 1113.09
+			xmax = 1119.21
+			text = "嗯嗯，得得打包啥的准备工作，准备工作得做一天两天。"
+		intervals [225]:
+			xmin = 1120.16
+			xmax = 1120.41
+			text = "嗯。"
+		intervals [226]:
+			xmin = 1127.08
+			xmax = 1130.76
+			text = "大车得得雇雇，大车雇一台两台咱们得？"
+		intervals [227]:
+			xmin = 1133.0
+			xmax = 1133.42
+			text = "大车。"
+		intervals [228]:
+			xmin = 1135.32
+			xmax = 1138.67
+			text = "邮政呢都是八米以上的嗯。"
+		intervals [229]:
+			xmin = 1145.36
+			xmax = 1149.11
+			text = "那小车儿小车儿也得用用几台，小车儿。"
+		intervals [230]:
+			xmin = 1153.48
+			xmax = 1156.24
+			text = "那大车主要桌椅了，电脑电脑桌儿啥的。"
+		intervals [231]:
+			xmin = 1158.7
+			xmax = 1159.04
+			text = "哦。"
+		intervals [232]:
+			xmin = 1162.51
+			xmax = 1163.72
+			text = "夜里不行夜里不行。"
+		intervals [233]:
+			xmin = 1170.16
+			xmax = 1171.82
+			text = "主要是白天，夜里。"
+		intervals [234]:
+			xmin = 1172.86
+			xmax = 1174.37
+			text = "嗯夜里不行，不方便。"
+		intervals [235]:
+			xmin = 1178.35
+			xmax = 1180.58
+			text = "对，三十号儿之前呢？"
+		intervals [236]:
+			xmin = 1182.49
+			xmax = 1185.99
+			text = "嗯那咱准备两天三天差不多嗯。"
+		intervals [237]:
+			xmin = 1192.3
+			xmax = 1196.0
+			text = "对对主先把主要东西先嗯拉走，嗯。"
+		intervals [238]:
+			xmin = 1196.96
+			xmax = 1197.34
+			text = "嗯。"
+		intervals [239]:
+			xmin = 1200.5
+			xmax = 1201.05
+			text = "押金。"
+		intervals [240]:
+			xmin = 1210.89
+			xmax = 1211.96
+			text = "对对那。"
+		intervals [241]:
+			xmin = 1215.48
+			xmax = 1216.23
+			text = "说说说。"
+		intervals [242]:
+			xmin = 1220.76
+			xmax = 1221.66
+			text = "损坏有押金。"
+		intervals [243]:
+			xmin = 1222.86
+			xmax = 1225.81
+			text = "那得跟搬家公司得说好了是不？"
+		intervals [244]:
+			xmin = 1228.16
+			xmax = 1228.68
+			text = "啊。"
+		intervals [245]:
+			xmin = 1234.9
+			xmax = 1235.24
+			text = "呃。"
+		intervals [246]:
+			xmin = 1239.49
+			xmax = 1239.81
+			text = "好吧。"
+		intervals [247]:
+			xmin = 1248.4
+			xmax = 1249.21
+			text = "离地铁。"
+		intervals [248]:
+			xmin = 1250.84
+			xmax = 1251.55
+			text = "公交呢？"
+		intervals [249]:
+			xmin = 1255.79
+			xmax = 1256.43
+			text = "嗯公交。"
+		intervals [250]:
+			xmin = 1259.67
+			xmax = 1260.0
+			text = "对。"
+		intervals [251]:
+			xmin = 1261.58
+			xmax = 1264.98
+			text = "都写字楼，公应该公交地铁都比较方便。"
+		intervals [252]:
+			xmin = 1271.1
+			xmax = 1271.4
+			text = "嗯。"
+		intervals [253]:
+			xmin = 1273.17
+			xmax = 1277.49
+			text = "你正常应该公交比较方便，地铁也就整啊只能走一条线。"
+		intervals [254]:
+			xmin = 1278.34
+			xmax = 1279.23
+			text = "啊啊对。"
+		intervals [255]:
+			xmin = 1284.01
+			xmax = 1284.25
+			text = "嗯。"
+		intervals [256]:
+			xmin = 1291.23
+			xmax = 1291.61
+			text = "呃。"
+		intervals [257]:
+			xmin = 1292.71
+			xmax = 1296.71
+			text = "呃那就方便了呗呃嗯。q。"
+		intervals [258]:
+			xmin = 1299.07
+			xmax = 1299.83
+			text = "对对。"
+		intervals [259]:
+			xmin = 1305.48
+			xmax = 1308.04
+			text = "嗯，那得那得那得预约了嗯。"
+		intervals [260]:
+			xmin = 1309.38
+			xmax = 1310.23
+			text = "呃。"
+		intervals [261]:
+			xmin = 1312.18
+			xmax = 1312.81
+			text = "收费。"
+		intervals [262]:
+			xmin = 1317.13
+			xmax = 1320.56
+			text = "都有多少人能开车是不？啊统一下吧得。"
+		intervals [263]:
+			xmin = 1324.59
+			xmax = 1325.74
+			text = "啊二十多台。"
+		intervals [264]:
+			xmin = 1327.66
+			xmax = 1331.02
+			text = "嗯那停车位比较紧张这北京，是。"
+		intervals [265]:
+			xmin = 1331.92
+			xmax = 1332.53
+			text = "你不。"
+		intervals [266]:
+			xmin = 1338.39
+			xmax = 1338.62
+			text = "嗯。"
+		intervals [267]:
+			xmin = 1339.86
+			xmax = 1340.48
+			text = "去看看。"
+		intervals [268]:
+			xmin = 1344.23
+			xmax = 1344.9
+			text = "停车位。"
+		intervals [269]:
+			xmin = 1355.38
+			xmax = 1356.57
+			text = "货公。"
+		intervals [270]:
+			xmin = 1362.82
+			xmax = 1365.56
+			text = "我那部门儿十多个人儿，得有十多个人儿开车。"
+		intervals [271]:
+			xmin = 1366.67
+			xmax = 1366.93
+			text = "得。"
+		intervals [272]:
+			xmin = 1368.29
+			xmax = 1369.88
+			text = "差不多有。"
+		intervals [273]:
+			xmin = 1373.0
+			xmax = 1374.49
+			text = "哦哦。"
+		intervals [274]:
+			xmin = 1376.39
+			xmax = 1377.38
+			text = "行那行那行。"
+		intervals [275]:
+			xmin = 1379.86
+			xmax = 1380.41
+			text = "嗯。"
+		intervals [276]:
+			xmin = 1382.66
+			xmax = 1388.11
+			text = "那行，你要不让他们尽量少坐自己车，坐坐多坐公交地铁。"
+		intervals [277]:
+			xmin = 1393.07
+			xmax = 1394.75
+			text = "各部负各部门儿负责人哎。"
+		intervals [278]:
+			xmin = 1396.86
+			xmax = 1398.27
+			text = "对销售啥的嗯。"
+		intervals [279]:
+			xmin = 1399.62
+			xmax = 1399.98
+			text = "嗯。"
+		intervals [280]:
+			xmin = 1405.59
+			xmax = 1406.45
+			text = "共。"
+		intervals [281]:
+			xmin = 1413.75
+			xmax = 1415.07
+			text = "嗯嗯嗯。"
+		intervals [282]:
+			xmin = 1417.34
+			xmax = 1419.8
+			text = "那车位车位好好解决。"
+		intervals [283]:
+			xmin = 1420.72
+			xmax = 1421.18
+			text = "嗯。"
+		intervals [284]:
+			xmin = 1428.39
+			xmax = 1431.21
+			text = "哦那尽量尽量体谅一下子吧。"
+		intervals [285]:
+			xmin = 1438.2
+			xmax = 1439.45
+			text = "各部门儿的领导。"
+		intervals [286]:
+			xmin = 1442.98
+			xmax = 1443.76
+			text = "嗯。"
+		intervals [287]:
+			xmin = 1448.04
+			xmax = 1458.15
+			text = "跑外勤的也得考虑到里头，销售啥的嗯对，他们时间没有固定点，你看跑外勤还有跑销售的。"
+		intervals [288]:
+			xmin = 1466.37
+			xmax = 1467.4
+			text = "十个差不多。"
+		intervals [289]:
+			xmin = 1468.3
+			xmax = 1468.79
+			text = "啊。"
+		intervals [290]:
+			xmin = 1470.88
+			xmax = 1471.32
+			text = "对对。"
+		intervals [291]:
+			xmin = 1477.92
+			xmax = 1478.31
+			text = "看在。"
+		intervals [292]:
+			xmin = 1480.26
+			xmax = 1482.97
+			text = "看它这停车场位大不大呗是不是？"
+		intervals [293]:
+			xmin = 1486.0
+			xmax = 1487.95
+			text = "尽量争取多多争取一个车位。"
+		intervals [294]:
+			xmin = 1491.23
+			xmax = 1492.82
+			text = "啊啊。"
+		intervals [295]:
+			xmin = 1507.43
+			xmax = 1508.2
+			text = "哦住宿。"
+		intervals [296]:
+			xmin = 1510.95
+			xmax = 1512.49
+			text = "住住宿好像够呛。"
+		intervals [297]:
+			xmin = 1514.14
+			xmax = 1516.46
+			text = "没呃那对对。"
+		intervals [298]:
+			xmin = 1520.57
+			xmax = 1523.4
+			text = "不是沙沙发，还有那个酒店。"
+		intervals [299]:
+			xmin = 1524.77
+			xmax = 1529.43
+			text = "咱那地毯呐躺地下咱能将就一宿，地毯这装修地毯。"
+		intervals [300]:
+			xmin = 1536.75
+			xmax = 1537.9
+			text = "宿舍呃。"
+		intervals [301]:
+			xmin = 1539.78
+			xmax = 1540.47
+			text = "住人可。"
+		intervals [302]:
+			xmin = 1543.62
+			xmax = 1544.0
+			text = "哦。"
+		intervals [303]:
+			xmin = 1544.94
+			xmax = 1545.35
+			text = "嗯。"
+		intervals [304]:
+			xmin = 1553.68
+			xmax = 1559.23
+			text = "有会议室有沙发是吧？啊室会议也有沙发，加班儿啥的啊。"
+		intervals [305]:
+			xmin = 1560.22
+			xmax = 1565.62
+			text = "啊啊吃的可以叫外卖，是不是加班的啊呃啊。"
+		intervals [306]:
+			xmin = 1568.06
+			xmax = 1568.73
+			text = "老板。"
+		intervals [307]:
+			xmin = 1569.77
+			xmax = 1570.87
+			text = "呃老。"
+		intervals [308]:
+			xmin = 1574.62
+			xmax = 1576.77
+			text = "对主要是员工加班儿，哎有。"
+		intervals [309]:
+			xmin = 1595.3
+			xmax = 1599.35
+			text = "呃加班儿的加班儿这个应该给以。"
+		intervals [310]:
+			xmin = 1601.69
+			xmax = 1601.94
+			text = "这这。"
+		intervals [311]:
+			xmin = 1603.74
+			xmax = 1606.68
+			text = "不是加班吧，他把车费应该给报点儿。"
+		intervals [312]:
+			xmin = 1608.42
+			xmax = 1612.22
+			text = "对加班儿晚了没呃公交了地铁都没有了。"
+		intervals [313]:
+			xmin = 1614.98
+			xmax = 1619.24
+			text = "嗯对九点以后加班儿，加到九点十点嗯。"
+		intervals [314]:
+			xmin = 1620.15
+			xmax = 1621.78
+			text = "地公交没有了。"
+		intervals [315]:
+			xmin = 1628.08
+			xmax = 1632.49
+			text = "对对加班儿晚了九点十点，应该给报点儿。"
+		intervals [316]:
+			xmin = 1640.77
+			xmax = 1641.02
+			text = "哦。"
+		intervals [317]:
+			xmin = 1642.8
+			xmax = 1644.1
+			text = "呃租房。"
+		intervals [318]:
+			xmin = 1646.37
+			xmax = 1646.54
+			text = "嗯。"
+		intervals [319]:
+			xmin = 1658.71
+			xmax = 1659.8
+			text = "呃这这个行。"
+		intervals [320]:
+			xmin = 1668.96
+			xmax = 1669.76
+			text = "北边儿。"
+		intervals [321]:
+			xmin = 1672.79
+			xmax = 1673.21
+			text = "啊。"
+		intervals [322]:
+			xmin = 1686.12
+			xmax = 1686.77
+			text = "嗯。"
+		intervals [323]:
+			xmin = 1703.09
+			xmax = 1703.4
+			text = "那。"
+		intervals [324]:
+			xmin = 1713.64
+			xmax = 1716.23
+			text = "嗯对离咱们近点儿还是比较方便还是。"
+		intervals [325]:
+			xmin = 1724.13
+			xmax = 1725.32
+			text = "对对对对。"
+		intervals [326]:
+			xmin = 1728.83
+			xmax = 1729.4
+			text = "嗯。"
+		intervals [327]:
+			xmin = 1737.84
+			xmax = 1738.57
+			text = "样子。"
+		intervals [328]:
+			xmin = 1739.83
+			xmax = 1740.13
+			text = "咱。"
+		intervals [329]:
+			xmin = 1745.31
+			xmax = 1747.28
+			text = "你你说一下子，那那你说说。"
+		intervals [330]:
+			xmin = 1751.61
+			xmax = 1752.09
+			text = "嗯。"
+		intervals [331]:
+			xmin = 1763.08
+			xmax = 1764.45
+			text = "哦那那行那行。"
+		intervals [332]:
+			xmin = 1765.31
+			xmax = 1765.6
+			text = "嗯。"
+		intervals [333]:
+			xmin = 1772.37
+			xmax = 1774.02
+			text = "装修简单装修就行。"
+		intervals [334]:
+			xmin = 1775.67
+			xmax = 1776.91
+			text = "对很好。"
+		intervals [335]:
+			xmin = 1778.03
+			xmax = 1778.25
+			text = "对。"
+		intervals [336]:
+			xmin = 1783.33
+			xmax = 1785.05
+			text = "装修就简单明了就行。"
+		intervals [337]:
+			xmin = 1791.63
+			xmax = 1792.06
+			text = "嗯。"
+		intervals [338]:
+			xmin = 1799.21
+			xmax = 1799.79
+			text = "行行。"
+		intervals [339]:
+			xmin = 1808.11
+			xmax = 1809.75
+			text = "看一下看一下定一下时间。"
+		intervals [340]:
+			xmin = 1841.04
+			xmax = 1841.24
+			text = "好。"
+	item [2]:
+		class = "IntervalTier"
+		name = "N_SPK8054"
+		xmin = 0
+		xmax = 1853.911
+		intervals: size = 262
+		intervals [1]:
+			xmin = 25.74
+			xmax = 27.21
+			text = "新地铁站准备搬哪去啊？"
+		intervals [2]:
+			xmin = 28.26
+			xmax = 30.7
+			text = "完了，看看那个。"
+		intervals [3]:
+			xmin = 31.93
+			xmax = 32.35
+			text = "交通。"
+		intervals [4]:
+			xmin = 33.47
+			xmax = 37.49
+			text = "呃，地铁和那个，场地啥的，呃。"
+		intervals [5]:
+			xmin = 40.61
+			xmax = 49.96
+			text = "但是又得看看，主要是，交通必须方便，地铁呀，或者说是，公交啊！大伙儿方便一子。"
+		intervals [6]:
+			xmin = 51.36
+			xmax = 51.93
+			text = "三三。"
+		intervals [7]:
+			xmin = 53.29
+			xmax = 55.48
+			text = "三环，三环以里好像是？"
+		intervals [8]:
+			xmin = 56.66
+			xmax = 60.97
+			text = "那嘎达是堵车。啊那嘎达还有有点儿，嗯。"
+		intervals [9]:
+			xmin = 62.69
+			xmax = 63.78
+			text = "三环以里。"
+		intervals [10]:
+			xmin = 64.76
+			xmax = 65.56
+			text = "租金贵啊。"
+		intervals [11]:
+			xmin = 67.52
+			xmax = 68.05
+			text = "嗯。"
+		intervals [12]:
+			xmin = 69.11
+			xmax = 73.11
+			text = "完了，三环以里，公交吧它也是，啊。"
+		intervals [13]:
+			xmin = 75.77
+			xmax = 84.93
+			text = "但是说是，但是说三环以里交通不方便，它堵车呀！你四环五环那块它交通特别方便，就是堵车的时候少。"
+		intervals [14]:
+			xmin = 85.84
+			xmax = 89.49
+			text = "你要三环以里，特别堵车，大伙儿怕到不了。"
+		intervals [15]:
+			xmin = 91.27
+			xmax = 95.05
+			text = "对，你看看地方啥样儿，嗯，大伙儿就。"
+		intervals [16]:
+			xmin = 96.3
+			xmax = 100.08
+			text = "学一下子大伙。再看看啥情况？嗯。"
+		intervals [17]:
+			xmin = 102.05
+			xmax = 102.99
+			text = "完了你。"
+		intervals [18]:
+			xmin = 104.57
+			xmax = 107.92
+			text = "三环是四环了，反正就是，主要是交通方便。"
+		intervals [19]:
+			xmin = 109.06
+			xmax = 114.88
+			text = "可以，那倒可以，那交通方便主要是别，不堵车，交通地铁方便一些，还。"
+		intervals [20]:
+			xmin = 115.42
+			xmax = 118.92
+			text = "大伙儿上下班好，就是能快一些，得劲儿。"
+		intervals [21]:
+			xmin = 124.11
+			xmax = 129.69
+			text = "东三环和四环之间，可以，可以可以。可以可以，对。"
+		intervals [22]:
+			xmin = 131.03
+			xmax = 131.95
+			text = "这个还可以。"
+		intervals [23]:
+			xmin = 133.61
+			xmax = 141.42
+			text = "那个，对对对，那边那个房子还有一个，还好找不错。大伙还方便。交通还特别得劲儿。"
+		intervals [24]:
+			xmin = 142.24
+			xmax = 142.87
+			text = "你来回。"
+		intervals [25]:
+			xmin = 144.58
+			xmax = 151.02
+			text = "是，离我们近了，是有点儿，啊，在那儿，交通特别方便，嗯。"
+		intervals [26]:
+			xmin = 154.25
+			xmax = 154.55
+			text = "嗯。"
+		intervals [27]:
+			xmin = 156.03
+			xmax = 162.09
+			text = "是，你把这条儿记下来，完了大伙说哪嘎达，大伙在一通过不就ok了吗？啊。"
+		intervals [28]:
+			xmin = 163.41
+			xmax = 165.87
+			text = "呃，考察一下也行，嗯。"
+		intervals [29]:
+			xmin = 167.32
+			xmax = 170.84
+			text = "对，大伙儿完了统一，大伙儿就是从那样说的都可以了吧？"
+		intervals [30]:
+			xmin = 171.69
+			xmax = 172.13
+			text = "嗯。"
+		intervals [31]:
+			xmin = 173.94
+			xmax = 176.74
+			text = "呃，对对，这个就是大伙都同意。"
+		intervals [32]:
+			xmin = 180.06
+			xmax = 191.25
+			text = "对对，调查一下子完了大伙儿，呃，东边可以，交通方便，房子啥优惠都可以，西边吧他也不是说不方便，交通方便。"
+		intervals [33]:
+			xmin = 192.19
+			xmax = 199.4
+			text = "交通特别方便，对对对，地铁嘛特别快，要三环以里吧，那公交车特别堵，哦。"
+		intervals [34]:
+			xmin = 200.92
+			xmax = 205.28
+			text = "嗯，敲定对，这个就可以，告一段落，嗯。"
+		intervals [35]:
+			xmin = 206.38
+			xmax = 210.08
+			text = "东边人多，西边大伙就这可以了，啊。"
+		intervals [36]:
+			xmin = 213.68
+			xmax = 214.57
+			text = "呃，可以。"
+		intervals [37]:
+			xmin = 217.35
+			xmax = 222.65
+			text = "嗯，那就看咱们就是，嗯，比例了吧？怎么怎么弄。"
+		intervals [38]:
+			xmin = 225.39
+			xmax = 228.68
+			text = "那得看看空间大小都得瞅，嗯。"
+		intervals [39]:
+			xmin = 232.51
+			xmax = 238.76
+			text = "在招人的话，你就得，空间就得大一点，太小了的话，咱们就是，空间它也不方便。"
+		intervals [40]:
+			xmin = 240.2
+			xmax = 241.46
+			text = "嗯，对对对。"
+		intervals [41]:
+			xmin = 247.57
+			xmax = 247.87
+			text = "啊。"
+		intervals [42]:
+			xmin = 249.16
+			xmax = 251.7
+			text = "对对对，五十个的有，完了那个。"
+		intervals [43]:
+			xmin = 253.09
+			xmax = 256.7
+			text = "会议室啥完了，办公室还有员工那都可以。"
+		intervals [44]:
+			xmin = 259.87
+			xmax = 261.72
+			text = "那也，对对对。"
+		intervals [45]:
+			xmin = 264.06
+			xmax = 266.04
+			text = "开会时候方便点儿，会议室。"
+		intervals [46]:
+			xmin = 269.88
+			xmax = 270.36
+			text = "可以。"
+		intervals [47]:
+			xmin = 271.2
+			xmax = 282.01
+			text = "就是那个，就看着定吧，因为咱们本人不去考察吗？考察，大伙儿就是，嗯，考察是，对对，跟着他们实际情况，咱们互相。"
+		intervals [48]:
+			xmin = 283.07
+			xmax = 285.86
+			text = "瞅一下子，看一下子，嗯。"
+		intervals [49]:
+			xmin = 291.56
+			xmax = 292.35
+			text = "这个可以。"
+		intervals [50]:
+			xmin = 295.23
+			xmax = 299.68
+			text = "几个部门，你都把这几个部门就是归纳好选择好，嗯。"
+		intervals [51]:
+			xmin = 302.57
+			xmax = 308.49
+			text = "归纳好，选择好，别那个，到时候，空间不够了，这不就是有点。"
+		intervals [52]:
+			xmin = 310.01
+			xmax = 314.03
+			text = "办事效率不也是高一些嘛！嗯，这样的不也可以。"
+		intervals [53]:
+			xmin = 316.42
+			xmax = 323.64
+			text = "嗯，就是考察时候吧，必须得把这实际情况调查好了，到那再去一考察，就能定下来这个房子的房子。"
+		intervals [54]:
+			xmin = 324.59
+			xmax = 328.01
+			text = "嗯，这个就定下来了，嗯，对对。"
+		intervals [55]:
+			xmin = 333.96
+			xmax = 337.38
+			text = "装修这个是，必须得要洗手间，洗手间是。"
+		intervals [56]:
+			xmin = 339.49
+			xmax = 339.98
+			text = "对对。"
+		intervals [57]:
+			xmin = 340.9
+			xmax = 345.0
+			text = "洗手间咱们，咱们自己的公司必须咱们自己使，自己的员工。"
+		intervals [58]:
+			xmin = 345.93
+			xmax = 352.56
+			text = "自己员工用，最好是不要说谁逮谁上的那种，哦，啊，对对。"
+		intervals [59]:
+			xmin = 355.58
+			xmax = 363.17
+			text = "这个吧，就是咱员工本身人多，你有，那个那个自己的洗手间了，还得有专门儿打扫。"
+		intervals [60]:
+			xmin = 364.02
+			xmax = 365.87
+			text = "咱们目前好像缺个保洁吧？"
+		intervals [61]:
+			xmin = 367.24
+			xmax = 381.17
+			text = "呃，这个是，这个咱们搬，搬去之后了，就是在考虑这个问题，找个固定的，完了给咱们好好弄弄是不是？完了对对，咱们那个咋说呢，员工咱也算个福利吧还好。"
+		intervals [62]:
+			xmin = 381.73
+			xmax = 382.82
+			text = "卫生间很重要。"
+		intervals [63]:
+			xmin = 386.18
+			xmax = 397.28
+			text = "这个一个人做不了，因为人，人太多了，他不是说咱们五十个人你说，一个人做的不行，最少得有一个人，嗯，这就是考虑范围之内吧。"
+		intervals [64]:
+			xmin = 398.61
+			xmax = 404.23
+			text = "呃，是，咱们就写上完了，应该有，应该有这个预算，嗯。"
+		intervals [65]:
+			xmin = 406.42
+			xmax = 412.9
+			text = "花钱少呀，但是说这是一个大方面儿啊，咱这个吃喝拉撒还得主要，就是主要的，啊。"
+		intervals [66]:
+			xmin = 417.98
+			xmax = 418.89
+			text = "茶水间。"
+		intervals [67]:
+			xmin = 423.48
+			xmax = 426.45
+			text = "呃，这个也对，得有个。"
+		intervals [68]:
+			xmin = 428.43
+			xmax = 430.38
+			text = "最好是有一个，那个热水器。"
+		intervals [69]:
+			xmin = 431.67
+			xmax = 434.36
+			text = "热水器啥都得有，嗯，那。"
+		intervals [70]:
+			xmin = 436.83
+			xmax = 444.12
+			text = "啊，是这个，就是大伙儿的统一的意见，就是考虑一下，让领导给，让领导考虑一下子。"
+		intervals [71]:
+			xmin = 444.75
+			xmax = 449.16
+			text = "嗯，饮水机那好弄，主要是，主要是男士得抽烟。"
+		intervals [72]:
+			xmin = 450.78
+			xmax = 451.43
+			text = "嗯，那。"
+		intervals [73]:
+			xmin = 452.5
+			xmax = 453.82
+			text = "对，这个是，嗯，这个。"
+		intervals [74]:
+			xmin = 454.66
+			xmax = 456.9
+			text = "你就是，订一下子吧！"
+		intervals [75]:
+			xmin = 465.88
+			xmax = 466.21
+			text = "啊！"
+		intervals [76]:
+			xmin = 467.14
+			xmax = 474.92
+			text = "装修这方面主要是做电，呃，小隔间儿，一人一个特别方便，哦，多得劲儿。"
+		intervals [77]:
+			xmin = 478.5
+			xmax = 486.98
+			text = "这个咋说呢？这就是看具体的，就是空间了，去研究这个事儿，你要空间小的话。一人一隔间，也隔不开呀，你。"
+		intervals [78]:
+			xmin = 488.74
+			xmax = 492.03
+			text = "开会咱不有，咱不有会议室吗？嗯。"
+		intervals [79]:
+			xmin = 493.61
+			xmax = 496.43
+			text = "要是空间够用的话，咱们可以会议室。"
+		intervals [80]:
+			xmin = 498.33
+			xmax = 498.83
+			text = "嗯。"
+		intervals [81]:
+			xmin = 502.5
+			xmax = 513.26
+			text = "这个吧就没啥要求，只要说得亮堂的，瞅着特别，特别舒服，温馨的那种，完了员工干活儿，工作了就特别得劲儿，嗯。"
+		intervals [82]:
+			xmin = 513.82
+			xmax = 524.76
+			text = "对，现在好像都是，那就买吸尘器了，地毯就吸尘器特别方便了，欻欻就能整完，但是说是，地毯吗？咱们温习一下的就是说，嗯。"
+		intervals [83]:
+			xmin = 529.97
+			xmax = 539.41
+			text = "就白色的，就是白色的对，这个没啥要求，大伙温馨一下子，呃就跟自己家似的工作也舒心。"
+		intervals [84]:
+			xmin = 542.12
+			xmax = 546.38
+			text = "对，只要看场地完装修也也给个提议也给个建议了吗？不是。"
+		intervals [85]:
+			xmin = 549.49
+			xmax = 562.66
+			text = "咱们就刮一下仿瓷就可以了，刮一仿瓷好就可以了，还能节，节约点，完了，另外吧，瞅着干净利索大方，瞅着大气一些，公司嘛必须说温馨，干净。"
+		intervals [86]:
+			xmin = 563.29
+			xmax = 569.21
+			text = "瞅着工，员工就说的工作吧，也也有上进心，瞅着，舒服，嗯。"
+		intervals [87]:
+			xmin = 570.79
+			xmax = 571.34
+			text = "嗯。"
+		intervals [88]:
+			xmin = 576.78
+			xmax = 581.38
+			text = "到期，那咱们就是抓，抓紧去抓紧去。"
+		intervals [89]:
+			xmin = 582.67
+			xmax = 583.13
+			text = "嗯。"
+		intervals [90]:
+			xmin = 586.46
+			xmax = 589.63
+			text = "那就抓紧去找人去看房子，对。"
+		intervals [91]:
+			xmin = 592.96
+			xmax = 605.29
+			text = "但前提得把房子看好房，房看好的话，装修完之后咱们说搬家一鼓作气就走了，因为有搬家公司，嗯。必须得毛坯房不得抓紧装修吗？嗯。"
+		intervals [92]:
+			xmin = 612.08
+			xmax = 612.72
+			text = "呃。"
+		intervals [93]:
+			xmin = 615.4
+			xmax = 625.76
+			text = "有有两三天就完事儿了，这个应该是没啥问题，完了搬家公司来了，直接上车你讲话一鼓作气，不就过去了吗？这个就是挺方便，嗯。"
+		intervals [94]:
+			xmin = 626.73
+			xmax = 632.5
+			text = "对，完事儿之前咱们指定得把那边儿先装修好了，到那嘎达一安排不就完事了吗？"
+		intervals [95]:
+			xmin = 634.09
+			xmax = 634.62
+			text = "嗯。"
+		intervals [96]:
+			xmin = 635.42
+			xmax = 636.18
+			text = "装修是。"
+		intervals [97]:
+			xmin = 638.3
+			xmax = 639.97
+			text = "房子安排好了，这样就走了。"
+		intervals [98]:
+			xmin = 642.13
+			xmax = 642.73
+			text = "嗯嗯。"
+		intervals [99]:
+			xmin = 643.55
+			xmax = 645.37
+			text = "行行，行，可。"
+		intervals [100]:
+			xmin = 646.41
+			xmax = 646.77
+			text = "嗯。"
+		intervals [101]:
+			xmin = 653.86
+			xmax = 667.7
+			text = "对，完还得，还得说，车大点儿拉的东西多点儿，别比一趟两趟整不过去的那种，啊，咱们最好是一趟能拉过去，完了，就就省心一点，省心一些了吗？嗯。"
+		intervals [102]:
+			xmin = 670.56
+			xmax = 670.88
+			text = "是。"
+		intervals [103]:
+			xmin = 672.88
+			xmax = 674.28
+			text = "这是必须得有预算的。"
+		intervals [104]:
+			xmin = 675.36
+			xmax = 686.86
+			text = "你那个，时间那边装修好了之后，通知我们，我们这嘎达是提前打提前那样。把这东西都弄好，这不就是，直接到时候就可以搬了嘛？不能说是。"
+		intervals [105]:
+			xmin = 687.18
+			xmax = 697.24
+			text = "你那边整完了，这边不告诉我们，我们你说，除非那傻等了，你们那边完事，对吗？直接告诉我说明天或者后天完事儿了，咱们就是这面一收拾，咱们就可以走了。"
+		intervals [106]:
+			xmin = 698.04
+			xmax = 698.43
+			text = "你。"
+		intervals [107]:
+			xmin = 700.03
+			xmax = 703.74
+			text = "人太多了，咋说呢？自己收拾自己的不就完事儿了吗？"
+		intervals [108]:
+			xmin = 705.58
+			xmax = 706.48
+			text = "哦。"
+		intervals [109]:
+			xmin = 708.73
+			xmax = 709.16
+			text = "嗯。"
+		intervals [110]:
+			xmin = 712.98
+			xmax = 720.07
+			text = "呃的话，那就得，大伙儿大伙儿帮弄吧，那怎么办呢？要不然？呃。"
+		intervals [111]:
+			xmin = 722.78
+			xmax = 730.86
+			text = "呃，看看东西就得帮着收拾一下呗，嗯。完了把它那个，给他打包一下，那不就，好好弄弄。"
+		intervals [112]:
+			xmin = 734.26
+			xmax = 738.76
+			text = "对对，把这个，打包完了。搬还得劲，必须搬。"
+		intervals [113]:
+			xmin = 739.95
+			xmax = 742.36
+			text = "我们这边人多少的就可以去。"
+		intervals [114]:
+			xmin = 747.39
+			xmax = 757.3
+			text = "啊，当然，当然他有专人管，主要是桌椅或者咱们电脑什么的，不就是说提前可以拿过去啊，或者说得，专门儿一个车拉。"
+		intervals [115]:
+			xmin = 758.21
+			xmax = 762.68
+			text = "嗯，啊。东西咱们必须得看住咱们自己的东西，不。"
+		intervals [116]:
+			xmin = 764.42
+			xmax = 766.59
+			text = "呃，各部门看好各门的东西。"
+		intervals [117]:
+			xmin = 769.65
+			xmax = 770.14
+			text = "嗯。"
+		intervals [118]:
+			xmin = 771.92
+			xmax = 774.91
+			text = "差不多应该，应该没问题。"
+		intervals [119]:
+			xmin = 776.08
+			xmax = 776.78
+			text = "嗯。"
+		intervals [120]:
+			xmin = 777.73
+			xmax = 787.19
+			text = "他不是到那个月末吗？提前个四五天，嗯嗯嗯。哦到时候咱们还得就是说，搬过去都整完了，自己还得归拢自己的东西吗？"
+		intervals [121]:
+			xmin = 791.08
+			xmax = 791.54
+			text = "啊。"
+		intervals [122]:
+			xmin = 793.63
+			xmax = 797.26
+			text = "嗯对对对，可以可以可以，就是。"
+		intervals [123]:
+			xmin = 802.01
+			xmax = 808.34
+			text = "那就找一个那个能进的那种，呃完了，别太小了，就是封闭的那种。"
+		intervals [124]:
+			xmin = 809.24
+			xmax = 809.8
+			text = "呃。"
+		intervals [125]:
+			xmin = 814.92
+			xmax = 815.38
+			text = "嗯。"
+		intervals [126]:
+			xmin = 816.59
+			xmax = 823.25
+			text = "其实搬家车还好，还好吧？这个你就提前，提前提前咱们问一下。"
+		intervals [127]:
+			xmin = 825.13
+			xmax = 834.16
+			text = "哦，咱们，咱们这地方还可以，轻易，呃，咱们，咱们不就是研究到四五环。"
+		intervals [128]:
+			xmin = 835.76
+			xmax = 836.26
+			text = "嗯。"
+		intervals [129]:
+			xmin = 842.21
+			xmax = 846.83
+			text = "对对，到点儿了它能进来时候，完了搬一下子两边安排一下人嘛！"
+		intervals [130]:
+			xmin = 854.21
+			xmax = 869.26
+			text = "对，咱休息日也行，就是咋说呢？咱们也不能说总搬家，就搬家这一次，大伙就是互相体谅点儿吧，那个，休息日，大伙就是呃，加个班儿吧！把，都把这个公司搬完之后，咱们大伙都。"
+		intervals [131]:
+			xmin = 869.26
+			xmax = 873.79
+			text = "消停了这不就好了嘛，工作环境啥也不也都好了嘛，是吧？"
+		intervals [132]:
+			xmin = 879.37
+			xmax = 879.96
+			text = "西。"
+		intervals [133]:
+			xmin = 882.35
+			xmax = 889.93
+			text = "行，大伙儿大伙儿大伙儿那个什么玩了？尽量吧！尽量吧，因为以大伙儿也能该理解这个事儿。"
+		intervals [134]:
+			xmin = 891.02
+			xmax = 899.3
+			text = "是不是，咱们公司也不是说总搬家，搬这一次给大家找个好环境儿，嗯，大伙儿应该也都可以愿意的，嗯。"
+		intervals [135]:
+			xmin = 902.1
+			xmax = 913.01
+			text = "咱们这老些人呢，咋地咋地？这个人肯定能拿的，一个车上搁两个人儿，搁两个人儿，有的时候，那些人少的，咱搭个搭把手偶的。"
+		intervals [136]:
+			xmin = 914.56
+			xmax = 914.89
+			text = "嗯。"
+		intervals [137]:
+			xmin = 917.76
+			xmax = 921.18
+			text = "嗯，邮政都不属于那什么好像大公司嘛，也行。"
+		intervals [138]:
+			xmin = 927.37
+			xmax = 928.11
+			text = "那个。"
+		intervals [139]:
+			xmin = 931.66
+			xmax = 935.39
+			text = "其他地方也得，也得派一个三四个人儿，得三四个人儿。"
+		intervals [140]:
+			xmin = 936.38
+			xmax = 948.95
+			text = "三四个人儿，人员要是看过来了话吧，多派几个人也可以，到那嘎达，东西咱们也得看着，他来回得搬的时候，也得加小心，磕碰啥的，他不也得，也得看一眼。"
+		intervals [141]:
+			xmin = 949.89
+			xmax = 950.28
+			text = "嗯。"
+		intervals [142]:
+			xmin = 960.15
+			xmax = 961.46
+			text = "呃，嗯嗯。"
+		intervals [143]:
+			xmin = 963.47
+			xmax = 966.97
+			text = "是，咱们安排人了吗？不是，我让他看一眼。"
+		intervals [144]:
+			xmin = 968.82
+			xmax = 972.78
+			text = "都差不多，就看哪个好，靠谱，就可以了。"
+		intervals [145]:
+			xmin = 975.96
+			xmax = 980.04
+			text = "要拉快，但是说邮政比较稳当嘛，他就是。"
+		intervals [146]:
+			xmin = 981.18
+			xmax = 994.14
+			text = "大公司嘛！嗯，就像咱们那个，不是桌椅板凳不是什么贵重品，但是如果说电脑啥都不能给他们在是碰喽啊。咱主要是用那个东西，哦，必须专业一点儿的。"
+		intervals [147]:
+			xmin = 995.11
+			xmax = 1000.94
+			text = "对对对，他能给咱们加小一点儿注意，嗯，对对，不注意这是不行了。"
+		intervals [148]:
+			xmin = 1004.56
+			xmax = 1017.09
+			text = "对，那边儿要是人员够的话，多派几个人行，搬家之后直接搬进去得看一眼，呃，主要是咱们电脑啥，别别别那个什么出问题，注意板凳吧！就都没啥事儿啊。"
+		intervals [149]:
+			xmin = 1021.0
+			xmax = 1022.93
+			text = "这不用搬家公司应该都有。"
+		intervals [150]:
+			xmin = 1024.02
+			xmax = 1025.99
+			text = "没有吗？搬家公司。"
+		intervals [151]:
+			xmin = 1027.02
+			xmax = 1027.61
+			text = "哦。"
+		intervals [152]:
+			xmin = 1029.31
+			xmax = 1036.68
+			text = "嗯，那行那也可以走，都都装好了之后，电上电脑啥的别别给咱，给咱碰喽。"
+		intervals [153]:
+			xmin = 1037.37
+			xmax = 1037.82
+			text = "嗯。"
+		intervals [154]:
+			xmin = 1040.33
+			xmax = 1041.8
+			text = "这都得打预算之内的。"
+		intervals [155]:
+			xmin = 1045.06
+			xmax = 1048.6
+			text = "那就得回去统计一下子了，回去统计一下子。"
+		intervals [156]:
+			xmin = 1052.45
+			xmax = 1055.52
+			text = "这这，必须得装箱了，他都是易损品。"
+		intervals [157]:
+			xmin = 1062.87
+			xmax = 1072.42
+			text = "车，这个这个，就是咋说呢？都得都有个专门去研究，去调查一下子，就是说看看东西，大伙儿都，统计一下子，算一下子。"
+		intervals [158]:
+			xmin = 1075.81
+			xmax = 1080.57
+			text = "小车咱那不行，那个不行，那太小人家搬十趟你就。"
+		intervals [159]:
+			xmin = 1082.19
+			xmax = 1084.39
+			text = "太，那得搬的时间太多了。"
+		intervals [160]:
+			xmin = 1085.31
+			xmax = 1085.73
+			text = "呃。"
+		intervals [161]:
+			xmin = 1088.16
+			xmax = 1093.41
+			text = "找专业一点儿的吧，你像花了也也，多花，也花不了多少钱。"
+		intervals [162]:
+			xmin = 1095.66
+			xmax = 1097.92
+			text = "邮政就是咋着它给破损了，他给赔。"
+		intervals [163]:
+			xmin = 1098.93
+			xmax = 1108.81
+			text = "你不要说，说小车儿吧！没法儿没法儿整，给整完之后你说你，假如说人家说也没挣多少钱，你说，呃，必须得稳当一点儿，打包提前，嗯。"
+		intervals [164]:
+			xmin = 1110.53
+			xmax = 1111.16
+			text = "那不行。"
+		intervals [165]:
+			xmin = 1112.52
+			xmax = 1125.27
+			text = "得提前个两天三天的，嗯，因为咱们就多，不让说是，你要是三个十个八个的，你一天就完事了，咱那个二三十呢？是不是。咱还预算，还有还得提前的嘛还得。"
+		intervals [166]:
+			xmin = 1128.46
+			xmax = 1130.54
+			text = "大车应该没事儿，我看。"
+		intervals [167]:
+			xmin = 1132.68
+			xmax = 1134.9
+			text = "应该没事吧，白天的件。"
+		intervals [168]:
+			xmin = 1138.62
+			xmax = 1151.91
+			text = "这事儿不归你，搁不归你那什么了吗？你就去看一下子，完了那个，看看白天，最好是白，白天能进城，咱们能搬走了。晚上吧！咋地不方便黑天火，黑天瞎火的他没有灯。"
+		intervals [169]:
+			xmin = 1152.27
+			xmax = 1160.63
+			text = "往往外搬不也不得劲儿嘛，看的我也不清楚，哦，是你就，就是你，这事儿归你管了，你就，你研究了。"
+		intervals [170]:
+			xmin = 1161.28
+			xmax = 1172.23
+			text = "就你研究了，嗯。呃，看看车因为他主要是他不让进吗，看看大小的，完了，张么适度咱们，完了你就可以。可以定，最好是白天。"
+		intervals [171]:
+			xmin = 1173.58
+			xmax = 1176.31
+			text = "晚上还是黑灯瞎火还是不行。"
+		intervals [172]:
+			xmin = 1183.92
+			xmax = 1196.71
+			text = "呃，可以，因为后续嘛！插小件啥的，咱们就是慢儿慢儿归拢一下子，个个小时就能拉走了，主要是把咱们用的东西得拿过去，把主要的东西落拉走。"
+		intervals [173]:
+			xmin = 1200.86
+			xmax = 1204.48
+			text = "呃，这都得财政部，财政部贯贯彻。"
+		intervals [174]:
+			xmin = 1207.12
+			xmax = 1213.04
+			text = "那不可能了吧？他既然说通知你了，到时候他也都得丢人有人交接嘛！应该。"
+		intervals [175]:
+			xmin = 1214.35
+			xmax = 1217.22
+			text = "嗯，应该，应该是有人交接。"
+		intervals [176]:
+			xmin = 1222.37
+			xmax = 1224.23
+			text = "是大伙儿都得，都加点儿小心。"
+		intervals [177]:
+			xmin = 1225.5
+			xmax = 1234.14
+			text = "不是咱说，咱们现在，现在自己打包的东西，咱们说要走了，他们，他们那个楼不予不准备要搬迁嘛，所以说是。"
+		intervals [178]:
+			xmin = 1235.33
+			xmax = 1237.04
+			text = "他们也不可能说给，给咱们。"
+		intervals [179]:
+			xmin = 1240.34
+			xmax = 1240.83
+			text = "啊！"
+		intervals [180]:
+			xmin = 1246.74
+			xmax = 1250.07
+			text = "那个地方儿应该，地铁近点儿。"
+		intervals [181]:
+			xmin = 1251.92
+			xmax = 1260.83
+			text = "地铁和公交都近一些，完特别方便，你不要说是，要是远了下车就再走个，十分二十分钟吧，有有的时候不得。"
+		intervals [182]:
+			xmin = 1262.79
+			xmax = 1265.33
+			text = "哎写字楼应该离地铁和公交都特别近。"
+		intervals [183]:
+			xmin = 1269.34
+			xmax = 1272.77
+			text = "嗯，可以吧，他们倒，倒先倒的。"
+		intervals [184]:
+			xmin = 1273.92
+			xmax = 1275.78
+			text = "嗯，有最好是公斤。"
+		intervals [185]:
+			xmin = 1276.98
+			xmax = 1289.44
+			text = "地铁也可以，他可以导线，因为导线和地铁它方便，方便在哪儿呢？他就是说得不用出那个地铁站，里头就能换乘，就有换乘站点儿，不像那个汽车似的。"
+		intervals [186]:
+			xmin = 1293.23
+			xmax = 1299.42
+			text = "他应该配那，那那，他就特别方便了，换乘他也特别方便啊！哦，对。"
+		intervals [187]:
+			xmin = 1305.58
+			xmax = 1311.82
+			text = "那个应该是，那就是你们去啊，也得派专人去去研究一下的了。"
+		intervals [188]:
+			xmin = 1314.96
+			xmax = 1315.73
+			text = "应该。"
+		intervals [189]:
+			xmin = 1318.02
+			xmax = 1324.26
+			text = "应该，应该不是特别贵，那个地方，那应该也不错，他们四五环应该不错。"
+		intervals [190]:
+			xmin = 1326.82
+			xmax = 1334.49
+			text = "因为早上大伙儿都提前到，停车位应该，应该那啥没问题，你要是晚喽啊那就，说不好了。"
+		intervals [191]:
+			xmin = 1337.95
+			xmax = 1342.87
+			text = "嗯，大伙儿都得去看看去，你不看看也不行，都都得，对。"
+		intervals [192]:
+			xmin = 1343.94
+			xmax = 1357.57
+			text = "这些事儿都得，就是啥也算是，也算那个预算之内的吧？这员工也算一个那个，挺重要的一个工具呢，地铁啥解决了？你车你得给解决了？没地方放。你上班儿上不了啊！是不是啊！"
+		intervals [193]:
+			xmin = 1360.71
+			xmax = 1363.77
+			text = "你们你们那个部门有多些人，坐开车的？"
+		intervals [194]:
+			xmin = 1365.78
+			xmax = 1366.71
+			text = "有那些人嘛！"
+		intervals [195]:
+			xmin = 1367.83
+			xmax = 1379.05
+			text = "你没有，没有，有的你再去看看去，他们离家近，你知道吗？最好都让他们坐地铁，这不方便吗？或者坐公交，三站五站的你说，你让他开车干啥呀？"
+		intervals [196]:
+			xmin = 1379.71
+			xmax = 1383.05
+			text = "指定是，你不可能说开车，不是说都能开车。"
+		intervals [197]:
+			xmin = 1385.8
+			xmax = 1388.68
+			text = "啊，弄完得得劲点吗？不是吗？"
+		intervals [198]:
+			xmin = 1391.9
+			xmax = 1392.87
+			text = "啊，对对对。"
+		intervals [199]:
+			xmin = 1397.64
+			xmax = 1407.21
+			text = "那可不，这车都不能不能那什么了，他要是说那个怕没有车位，他就得提前走，早点儿来到那嘎达我估计车位，不是说特别紧张。"
+		intervals [200]:
+			xmin = 1407.58
+			xmax = 1420.61
+			text = "但你要是晚了，你一整就十点了，那就十点来钟九点来钟了，那没车位都是正常的，你上班不也迟到了吗？不都是，嗯对。车位你要太多，咱解决不了你知道吗？"
+		intervals [201]:
+			xmin = 1421.15
+			xmax = 1422.91
+			text = "车位太多，咱解决不了。"
+		intervals [202]:
+			xmin = 1425.14
+			xmax = 1429.99
+			text = "呃，五十个人，三十个车位你说你上哪儿去，去讨那些车位去啊。"
+		intervals [203]:
+			xmin = 1430.75
+			xmax = 1440.09
+			text = "嗯，那个车位吧！只能说是，领导了或者说地，就是说需要就是各部门儿，就是那个那叫什么。刚才那个哥说着怎么说来的。"
+		intervals [204]:
+			xmin = 1440.63
+			xmax = 1449.91
+			text = "那那那个，跑外勤的了，就是经常必须开车的他可以，就像员工的话，你你管不了，管不了那么多。"
+		intervals [205]:
+			xmin = 1453.44
+			xmax = 1455.79
+			text = "你就是不员工管不了那么多车。"
+		intervals [206]:
+			xmin = 1457.09
+			xmax = 1464.22
+			text = "所以他们想开车去，他们只能自己找车位，只能说抓紧了，他早点儿去能有车位，是不是啊！"
+		intervals [207]:
+			xmin = 1465.71
+			xmax = 1469.41
+			text = "十个，十十个差不多，嗯。"
+		intervals [208]:
+			xmin = 1470.66
+			xmax = 1477.98
+			text = "对对，这多争取一下也可以，但是说是，实在没有，最少咱得争取十个，啊。"
+		intervals [209]:
+			xmin = 1479.54
+			xmax = 1482.4
+			text = "对对对对，方便一些嘛，主要是。"
+		intervals [210]:
+			xmin = 1483.78
+			xmax = 1494.52
+			text = "主要是，尽量争取，但是说这，争取不了那些最少咱得争取十个左右，因为这是必须用的车吗？这车站这不用不行了嘛。"
+		intervals [211]:
+			xmin = 1502.83
+			xmax = 1503.25
+			text = "呃。"
+		intervals [212]:
+			xmin = 1504.19
+			xmax = 1504.6
+			text = "不对。"
+		intervals [213]:
+			xmin = 1505.82
+			xmax = 1506.63
+			text = "周五。"
+		intervals [214]:
+			xmin = 1508.03
+			xmax = 1516.63
+			text = "去，这个好像是，咱们还是没到那个规模，哦，都。"
+		intervals [215]:
+			xmin = 1519.42
+			xmax = 1522.25
+			text = "不是那个呀，对对对，那那倒是。"
+		intervals [216]:
+			xmin = 1524.19
+			xmax = 1528.15
+			text = "但是你要说的人太多了，也不行，嗯。"
+		intervals [217]:
+			xmin = 1531.89
+			xmax = 1532.41
+			text = "嗯。"
+		intervals [218]:
+			xmin = 1535.06
+			xmax = 1538.33
+			text = "要是少，那个人不是特别多，嗯。"
+		intervals [219]:
+			xmin = 1539.57
+			xmax = 1542.31
+			text = "那你就是，那你就预计太大了，啊。"
+		intervals [220]:
+			xmin = 1543.38
+			xmax = 1543.57
+			text = "啊。"
+		intervals [221]:
+			xmin = 1544.59
+			xmax = 1556.32
+			text = "是，你留的那个。那你的预算开支就更大了，这个东西吧，你就说简单，有个三四个人暂时休息地方儿，还可以，你要说十个二十个的，这个指定是不行了嘛。"
+		intervals [222]:
+			xmin = 1557.46
+			xmax = 1565.46
+			text = "对，沙发，对，沙发凑合凑合就可以了，因为这咋的，也不像自己家没有那么嗯。"
+		intervals [223]:
+			xmin = 1566.74
+			xmax = 1577.45
+			text = "老板加班儿，老板他自己决定了，那咱自己，咱管不了了，因为啥，他那屋有老板椅或者说是，他那个椅子整个沙发床一打开就可以住了，主要是员工。"
+		intervals [224]:
+			xmin = 1577.77
+			xmax = 1582.69
+			text = "人老板可以出血，人人家随意了，开车就可以走了，但是让员工不行啊。"
+		intervals [225]:
+			xmin = 1589.13
+			xmax = 1591.24
+			text = "实在是一是，嗯。"
+		intervals [226]:
+			xmin = 1594.26
+			xmax = 1597.45
+			text = "这个吧？你就得看看他们那个。"
+		intervals [227]:
+			xmin = 1602.11
+			xmax = 1606.89
+			text = "那晚上你就，那咱必须得走一个三四个人的可以走的。"
+		intervals [228]:
+			xmin = 1608.07
+			xmax = 1619.92
+			text = "但是要是说的，打车要是那么远的话，你可以就是考虑一样的。这样的就是说有些方面的情况下，让他上这边来，呃，住，租房子呀，或者怎么地啊！"
+		intervals [229]:
+			xmin = 1621.58
+			xmax = 1623.28
+			text = "要是说特别远滴滴话。"
+		intervals [230]:
+			xmin = 1629.03
+			xmax = 1642.02
+			text = "但是，但是这个事儿吧，有，咱不有人事吗？让他去，跟那个就是员工，协商一下子，看看能不能说的。咱们搬的新那个地方让他从这个地方租房，因为现在都是租房的吗？"
+		intervals [231]:
+			xmin = 1642.35
+			xmax = 1655.36
+			text = "他不是说固定的，要是自己的房子咱就不用说了，都是不是固定的，看当地的房子什么价，完了，看看他们就是有没有，就就是说的也到期了，或者说滴。"
+		intervals [232]:
+			xmin = 1655.36
+			xmax = 1660.13
+			text = "时间短的，可以上这边来住来，上在这面租个房子不也方便吗？"
+		intervals [233]:
+			xmin = 1668.18
+			xmax = 1671.7
+			text = "北边，北边也也可以。"
+		intervals [234]:
+			xmin = 1673.95
+			xmax = 1685.95
+			text = "东边，就北，咱就是东南西北这一方，这几个面吧，就是，去考察那个人去看一些子，因为他就公司的具体方法不都得考虑一下的吗？呃，哪边？"
+		intervals [235]:
+			xmin = 1686.35
+			xmax = 1690.09
+			text = "多，咱上哪边儿去，因为啥地铁和公交车。"
+		intervals [236]:
+			xmin = 1697.42
+			xmax = 1699.44
+			text = "那个还，还行。"
+		intervals [237]:
+			xmin = 1702.11
+			xmax = 1711.29
+			text = "那就得，那就得，就是咋说了，现在现看，现订吧！你不能说咱们说吧光说的也不行，你得去看去考察去。"
+		intervals [238]:
+			xmin = 1714.77
+			xmax = 1717.68
+			text = "方便方便些，这都在考虑范围之内吗？"
+		intervals [239]:
+			xmin = 1724.2
+			xmax = 1726.72
+			text = "对对对，这这这，这是个，这是个问题。"
+		intervals [240]:
+			xmin = 1727.51
+			xmax = 1729.79
+			text = "你说说，这个是得考虑一下子。"
+		intervals [241]:
+			xmin = 1736.85
+			xmax = 1743.18
+			text = "他这样子，这不没啥需要，主要是空间了，或者咱们就是，安排的够就行。"
+		intervals [242]:
+			xmin = 1745.77
+			xmax = 1753.3
+			text = "再再一个是，他那个，那个不说那什么，离那个客户近一些也可以，但是来回跑时间多。"
+		intervals [243]:
+			xmin = 1753.62
+			xmax = 1759.45
+			text = "这北京太大了，这头跑到那头，就是说太拖累的话时间也挺长，嗯。"
+		intervals [244]:
+			xmin = 1762.79
+			xmax = 1765.26
+			text = "哦，那还可以，那还可以。"
+		intervals [245]:
+			xmin = 1766.44
+			xmax = 1767.41
+			text = "还可以还可以。"
+		intervals [246]:
+			xmin = 1772.27
+			xmax = 1773.03
+			text = "对对对。"
+		intervals [247]:
+			xmin = 1774.27
+			xmax = 1774.95
+			text = "简单。"
+		intervals [248]:
+			xmin = 1775.85
+			xmax = 1780.31
+			text = "因为咱是办公，不是说跟家就简单一点儿，就可以，嗯。"
+		intervals [249]:
+			xmin = 1782.63
+			xmax = 1782.92
+			text = "啊。"
+		intervals [250]:
+			xmin = 1785.3
+			xmax = 1785.67
+			text = "嗯。"
+		intervals [251]:
+			xmin = 1787.68
+			xmax = 1793.11
+			text = "嗯，反正咱就讨论这些事儿，你订你订一下子，完了看一下子。嗯。"
+		intervals [252]:
+			xmin = 1798.76
+			xmax = 1800.49
+			text = "行行可以可以。"
+		intervals [253]:
+			xmin = 1803.13
+			xmax = 1803.69
+			text = "嗯。"
+		intervals [254]:
+			xmin = 1805.04
+			xmax = 1807.46
+			text = "行，都划上日程了就完事了，嗯。"
+		intervals [255]:
+			xmin = 1810.61
+			xmax = 1819.15
+			text = "对，派人下去自己负责自己的完了，咱们不也就是，一一一一收拾，要是搬家公司来，咱可以搬家了。"
+		intervals [256]:
+			xmin = 1822.45
+			xmax = 1822.6
+			text = "嗯。"
+		intervals [257]:
+			xmin = 1828.69
+			xmax = 1828.83
+			text = "好。"
+		intervals [258]:
+			xmin = 1832.33
+			xmax = 1832.71
+			text = "好嘞。"
+		intervals [259]:
+			xmin = 1839.51
+			xmax = 1839.67
+			text = "好。"
+		intervals [260]:
+			xmin = 1841.22
+			xmax = 1850.33
+			text = "行行，就是就是打打出了一个那个什么了，呃日程，完完大伙儿再看一下哪嘎达修改一下就可以了，嗯。"
+		intervals [261]:
+			xmin = 1851.25
+			xmax = 1851.48
+			text = "好。"
+		intervals [262]:
+			xmin = 1852.35
+			xmax = 1853.33
+			text = "好，嗯。"
+	item [3]:
+		class = "IntervalTier"
+		name = "N_SPK8055"
+		xmin = 0
+		xmax = 1853.911
+		intervals: size = 269
+		intervals [1]:
+			xmin = 28.1
+			xmax = 31.07
+			text = "有没有备选的这个几个地点。"
+		intervals [2]:
+			xmin = 44.2
+			xmax = 45.81
+			text = "三环里可能够呛吧。"
+		intervals [3]:
+			xmin = 47.83
+			xmax = 48.21
+			text = "嗯。"
+		intervals [4]:
+			xmin = 55.77
+			xmax = 58.49
+			text = "三环以里估计领导过通过不了。"
+		intervals [5]:
+			xmin = 59.72
+			xmax = 60.92
+			text = "估计通过不了。"
+		intervals [6]:
+			xmin = 63.54
+			xmax = 69.79
+			text = "贵啊，那那咱们现在咱们现在三环外还是要便宜一点儿，你到三环里更贵了啊。"
+		intervals [7]:
+			xmin = 76.38
+			xmax = 76.85
+			text = "嗯。"
+		intervals [8]:
+			xmin = 84.01
+			xmax = 84.15
+			text = "他。"
+		intervals [9]:
+			xmin = 87.68
+			xmax = 98.52
+			text = "我觉得最好定一个大的方向吧，就是我们先先在东南西北四个地方先选一个大的方位，完了之后呢，再根据大家住的地方，取一个折中的地儿。"
+		intervals [10]:
+			xmin = 107.25
+			xmax = 110.8
+			text = "大望路可以啊，嗯，交通挺方便的。"
+		intervals [11]:
+			xmin = 112.81
+			xmax = 114.66
+			text = "地铁公交都还不错嗯。"
+		intervals [12]:
+			xmin = 125.73
+			xmax = 126.91
+			text = "可以，嗯。"
+		intervals [13]:
+			xmin = 128.75
+			xmax = 129.58
+			text = "嗯。"
+		intervals [14]:
+			xmin = 131.13
+			xmax = 134.94
+			text = "那边写字楼也挺多的，可挑选的余地也大是吧。"
+		intervals [15]:
+			xmin = 136.62
+			xmax = 137.14
+			text = "嗯。"
+		intervals [16]:
+			xmin = 140.29
+			xmax = 146.75
+			text = "嗯，唉您不是最最近搬东边去了吗，正好嗯。是啊。"
+		intervals [17]:
+			xmin = 148.36
+			xmax = 148.73
+			text = "嗯。"
+		intervals [18]:
+			xmin = 150.65
+			xmax = 151.19
+			text = "嗯。"
+		intervals [19]:
+			xmin = 161.13
+			xmax = 172.85
+			text = "咱们就定一个人去去那什么呗，去那个去去那边先考察一下，就是先挑几个楼，挑几个写字楼出来，完了之后呢，我们在综合比较一下再报给领导呗。"
+		intervals [20]:
+			xmin = 181.68
+			xmax = 187.5
+			text = "嗯，那就是定在东边儿了呗是吧，定在东边儿有没有有没有住西边儿的同事。"
+		intervals [21]:
+			xmin = 189.05
+			xmax = 196.12
+			text = "西边儿可能有几个住西边儿的，啊坐六号线六号线对，六号线基本上直达嗯。"
+		intervals [22]:
+			xmin = 198.46
+			xmax = 199.11
+			text = "嗯。"
+		intervals [23]:
+			xmin = 200.71
+			xmax = 200.94
+			text = "那。"
+		intervals [24]:
+			xmin = 202.44
+			xmax = 203.12
+			text = "那还是。"
+		intervals [25]:
+			xmin = 204.02
+			xmax = 206.19
+			text = "还是愿意东边儿的人多还。"
+		intervals [26]:
+			xmin = 213.3
+			xmax = 213.51
+			text = "是。"
+		intervals [27]:
+			xmin = 217.32
+			xmax = 217.54
+			text = "嗯。"
+		intervals [28]:
+			xmin = 220.87
+			xmax = 223.2
+			text = "咱们现在公司多少人啊，也有。"
+		intervals [29]:
+			xmin = 224.59
+			xmax = 225.72
+			text = "三十多人。"
+		intervals [30]:
+			xmin = 230.49
+			xmax = 232.23
+			text = "过一段时间不是还要招人嘛。"
+		intervals [31]:
+			xmin = 233.38
+			xmax = 240.95
+			text = "再招人至少得十几个，咱们得预备着，得五十个左右我估计，工位啊啊。"
+		intervals [32]:
+			xmin = 247.3
+			xmax = 250.1
+			text = "五十个工位吧，啊对差不多。"
+		intervals [33]:
+			xmin = 251.78
+			xmax = 252.57
+			text = "会议室。"
+		intervals [34]:
+			xmin = 254.42
+			xmax = 261.62
+			text = "会议室我觉得会议室其实可以小会议室多点儿，大会议室有一间就够了是吧，嗯。"
+		intervals [35]:
+			xmin = 269.76
+			xmax = 271.81
+			text = "那那有点儿，嗯。"
+		intervals [36]:
+			xmin = 273.31
+			xmax = 274.86
+			text = "嗯那有点大吧。"
+		intervals [37]:
+			xmin = 277.31
+			xmax = 279.95
+			text = "对也得根据他那个实际情况啊。"
+		intervals [38]:
+			xmin = 281.72
+			xmax = 283.49
+			text = "咱们可以到时候再改也行。"
+		intervals [39]:
+			xmin = 290.02
+			xmax = 290.36
+			text = "嗯。"
+		intervals [40]:
+			xmin = 297.88
+			xmax = 301.2
+			text = "现在咱们现在是四个吧，四个小办公室。"
+		intervals [41]:
+			xmin = 306.78
+			xmax = 312.6
+			text = "如果加上到时候招聘的几个部门的话，估计得四到五个四到五个啊。"
+		intervals [42]:
+			xmin = 317.84
+			xmax = 318.36
+			text = "嗯。"
+		intervals [43]:
+			xmin = 331.63
+			xmax = 332.36
+			text = "洗手间。"
+		intervals [44]:
+			xmin = 333.43
+			xmax = 340.05
+			text = "唉对对对，洗洗洗手间我觉得就是最好别找那种就是往外公用的那种，最好是。"
+		intervals [45]:
+			xmin = 342.81
+			xmax = 346.02
+			text = "对就在进在公司里头这种洗手间比较好。"
+		intervals [46]:
+			xmin = 347.44
+			xmax = 352.12
+			text = "要不然你就就，老上那种公用的也觉得不太方便啊。"
+		intervals [47]:
+			xmin = 368.21
+			xmax = 368.66
+			text = "嗯。"
+		intervals [48]:
+			xmin = 371.12
+			xmax = 374.23
+			text = "咱们就找个固定的保洁了呗，对吧他一天。"
+		intervals [49]:
+			xmin = 375.13
+			xmax = 377.96
+			text = "一天来几个小时就都都完了嗯。"
+		intervals [50]:
+			xmin = 387.09
+			xmax = 388.84
+			text = "呃一个人够呛，嗯。"
+		intervals [51]:
+			xmin = 389.68
+			xmax = 390.14
+			text = "嗯。"
+		intervals [52]:
+			xmin = 391.36
+			xmax = 394.01
+			text = "得得专门至少得一个吧，嗯。"
+		intervals [53]:
+			xmin = 395.19
+			xmax = 395.56
+			text = "嗯。"
+		intervals [54]:
+			xmin = 400.21
+			xmax = 402.99
+			text = "应该有这个预算吧，一一般公司都有啊。"
+		intervals [55]:
+			xmin = 411.82
+			xmax = 426.31
+			text = "它那个面积像这个茶水间啊什么的应该能能能做出来吧，咱们现在就没有一个茶水间，那大家有时候中午吃饭啊什么的，热点儿饭菜啊什么都不太方便，是吧弄个冰箱。"
+		intervals [56]:
+			xmin = 426.62
+			xmax = 429.4
+			text = "弄个微波炉什么的，啊。"
+		intervals [57]:
+			xmin = 431.91
+			xmax = 433.54
+			text = "吸烟就只能上厕所了。"
+		intervals [58]:
+			xmin = 438.27
+			xmax = 438.75
+			text = "嗯。"
+		intervals [59]:
+			xmin = 441.97
+			xmax = 442.35
+			text = "现在。"
+		intervals [60]:
+			xmin = 444.35
+			xmax = 444.7
+			text = "对。"
+		intervals [61]:
+			xmin = 450.01
+			xmax = 452.58
+			text = "下楼下吧那就下楼下抽吧，嗯。"
+		intervals [62]:
+			xmin = 460.4
+			xmax = 461.19
+			text = "嗯。"
+		intervals [63]:
+			xmin = 467.92
+			xmax = 471.66
+			text = "是要那种小隔间儿还是那个一一个一个通。"
+		intervals [64]:
+			xmin = 473.84
+			xmax = 479.13
+			text = "但是其实那种，那种那种开通的那种也挺好的其实小隔间儿。"
+		intervals [65]:
+			xmin = 483.01
+			xmax = 489.43
+			text = "嗯，其实因为有时候有时候你开会的话，有个小隔间反而不方便，有时候开会说一声开会。"
+		intervals [66]:
+			xmin = 490.48
+			xmax = 497.18
+			text = "不一定非得到会议室，有的时候有的时候你，聊点简单的事儿，不用去会议室啊。"
+		intervals [67]:
+			xmin = 505.39
+			xmax = 509.43
+			text = "地毯吧，还是地毯好一点儿，地毯比较安静一点儿。"
+		intervals [68]:
+			xmin = 511.14
+			xmax = 514.67
+			text = "地毯就是保洁就是保洁费劲一点儿啊。"
+		intervals [69]:
+			xmin = 516.96
+			xmax = 517.39
+			text = "啊。"
+		intervals [70]:
+			xmin = 518.58
+			xmax = 519.02
+			text = "嗯。"
+		intervals [71]:
+			xmin = 520.3
+			xmax = 520.71
+			text = "对。"
+		intervals [72]:
+			xmin = 530.55
+			xmax = 533.72
+			text = "这个倒无所谓啊，啊无所谓。"
+		intervals [73]:
+			xmin = 538.26
+			xmax = 545.32
+			text = "反正看看他们到时候这个具体的这个地点，他们有没有装修，没准儿有的人家那个现成装修挺好的。"
+		intervals [74]:
+			xmin = 551.33
+			xmax = 552.34
+			text = "啊装。"
+		intervals [75]:
+			xmin = 560.97
+			xmax = 561.92
+			text = "装修。"
+		intervals [76]:
+			xmin = 565.12
+			xmax = 565.8
+			text = "嗯。"
+		intervals [77]:
+			xmin = 567.51
+			xmax = 569.55
+			text = "行吧，那那也可以嗯。"
+		intervals [78]:
+			xmin = 576.9
+			xmax = 577.32
+			text = "嗯。"
+		intervals [79]:
+			xmin = 579.55
+			xmax = 581.54
+			text = "什么时候开始收拾东西呀那。"
+		intervals [80]:
+			xmin = 585.84
+			xmax = 593.55
+			text = "对，主要这这主要是就是定好哪天搬，最重要，就是定好哪天搬我们就往前推日子，什么时候收拾东西。"
+		intervals [81]:
+			xmin = 594.94
+			xmax = 595.32
+			text = "嗯。"
+		intervals [82]:
+			xmin = 599.12
+			xmax = 603.93
+			text = "房子是这两天就能定了，这两天嗯这两天就能定嗯。"
+		intervals [83]:
+			xmin = 611.63
+			xmax = 612.07
+			text = "嗯。"
+		intervals [84]:
+			xmin = 614.34
+			xmax = 621.38
+			text = "我估计有个两三天两三天差不多了，嗯咱们咱们东西也不算特别多啊。"
+		intervals [85]:
+			xmin = 625.37
+			xmax = 626.01
+			text = "嗯。"
+		intervals [86]:
+			xmin = 629.11
+			xmax = 635.3
+			text = "我觉得这个呃可能有个两天两三天应该能搬完了吧，是吧。"
+		intervals [87]:
+			xmin = 640.62
+			xmax = 650.52
+			text = "嗯，我去吧我去吧，我来落实这个吧，嗯嗯，因为我是就是上次我们家搬家也是用的那个一个搬家公司，我觉得还挺好的嗯。"
+		intervals [88]:
+			xmin = 652.6
+			xmax = 653.24
+			text = "对对对。"
+		intervals [89]:
+			xmin = 654.68
+			xmax = 655.16
+			text = "嗯。"
+		intervals [90]:
+			xmin = 657.1
+			xmax = 663.99
+			text = "咱们啊，我估计咱们这个三个车，三个三个三个大车可能差不多，嗯三个大车。"
+		intervals [91]:
+			xmin = 666.89
+			xmax = 667.78
+			text = "啊可以可以。"
+		intervals [92]:
+			xmin = 669.87
+			xmax = 672.14
+			text = "行吧，我到时候出一个预算吧嗯。"
+		intervals [93]:
+			xmin = 676.69
+			xmax = 677.51
+			text = "嗯。"
+		intervals [94]:
+			xmin = 685.21
+			xmax = 685.93
+			text = "唉。"
+		intervals [95]:
+			xmin = 695.75
+			xmax = 705.51
+			text = "但是我们部门这边儿呃可能没那么快人太多了，我们部门我们部门，七七八个还有在外头出差的没回来的呢。"
+		intervals [96]:
+			xmin = 708.03
+			xmax = 713.26
+			text = "我们我们现在七八个人现在就剩两三个人在这儿，那那东西还挺多。"
+		intervals [97]:
+			xmin = 714.83
+			xmax = 715.6
+			text = "那怎么办啊。"
+		intervals [98]:
+			xmin = 719.01
+			xmax = 724.92
+			text = "他们反正有的肯定这几天都回不来，那还得帮他们收拾东西，啊。"
+		intervals [99]:
+			xmin = 726.96
+			xmax = 738.34
+			text = "或者我们就这样分一下就是呃像文件类的，然后资料柜呀什么的是谁谁来负责盯这一块儿打包，然后呢像那个电脑电器。"
+		intervals [100]:
+			xmin = 738.94
+			xmax = 743.57
+			text = "然后还有那个桌椅再找一个人，桌椅估计的这一个人不够。"
+		intervals [101]:
+			xmin = 754.04
+			xmax = 758.83
+			text = "像公司这些固定资产的东西，到时候也不能搬个家就丢了。"
+		intervals [102]:
+			xmin = 761.89
+			xmax = 762.31
+			text = "嗯。"
+		intervals [103]:
+			xmin = 772.47
+			xmax = 776.17
+			text = "二十号往往后挪两天吧，富裕一点儿吧。"
+		intervals [104]:
+			xmin = 777.7
+			xmax = 779.09
+			text = "再再挪挪几天吧。"
+		intervals [105]:
+			xmin = 782.92
+			xmax = 783.32
+			text = "嗯。"
+		intervals [106]:
+			xmin = 784.91
+			xmax = 786.69
+			text = "二十三二十三四号。"
+		intervals [107]:
+			xmin = 794.18
+			xmax = 805.05
+			text = "周六日，唉对还有那个那个大车啊，它进城是有限制的，它不是说想进来就进来的，咱们得规划好这个时间对。"
+		intervals [108]:
+			xmin = 806.12
+			xmax = 813.31
+			text = "对他那大车他有的是要要什么呃早上几点钟之前，或者晚上几点钟之后，才能进城。"
+		intervals [109]:
+			xmin = 814.39
+			xmax = 818.37
+			text = "对这个别到时候咱们收拾好了在这等半天。"
+		intervals [110]:
+			xmin = 819.82
+			xmax = 824.73
+			text = "嗯不那进不了进不了不是车进不来呀，这交规交规管着呢。"
+		intervals [111]:
+			xmin = 826.0
+			xmax = 826.48
+			text = "对。"
+		intervals [112]:
+			xmin = 829.38
+			xmax = 831.86
+			text = "你只要是城里头大车进来就费劲。"
+		intervals [113]:
+			xmin = 833.08
+			xmax = 833.3
+			text = "它。"
+		intervals [114]:
+			xmin = 842.76
+			xmax = 843.01
+			text = "嗯。"
+		intervals [115]:
+			xmin = 844.06
+			xmax = 857.73
+			text = "对还有一个就是上次咱们这边儿物业那个那个那个人还跟我说，他说咱们这个搬家可能尽量别放在工作日，也影响咱们楼别的这个，这个这个公司影响他们营业啊。"
+		intervals [116]:
+			xmin = 859.92
+			xmax = 860.41
+			text = "嗯。"
+		intervals [117]:
+			xmin = 862.64
+			xmax = 863.27
+			text = "嗯。"
+		intervals [118]:
+			xmin = 868.35
+			xmax = 869.78
+			text = "嗯，对。"
+		intervals [119]:
+			xmin = 877.41
+			xmax = 877.99
+			text = "嗯。"
+		intervals [120]:
+			xmin = 884.88
+			xmax = 889.99
+			text = "尽量放在周六周日，对啊嗯。"
+		intervals [121]:
+			xmin = 893.43
+			xmax = 894.1
+			text = "唉。"
+		intervals [122]:
+			xmin = 895.92
+			xmax = 901.25
+			text = "如果是三到四辆车的话每个车也得有咱们的人跟车吧。"
+		intervals [123]:
+			xmin = 903.36
+			xmax = 907.38
+			text = "每个每个部门每个部门出一两个人啊，应该。"
+		intervals [124]:
+			xmin = 908.52
+			xmax = 908.74
+			text = "对。"
+		intervals [125]:
+			xmin = 913.73
+			xmax = 914.4
+			text = "嗯。"
+		intervals [126]:
+			xmin = 920.61
+			xmax = 927.0
+			text = "那新公司那边谁谁负负责去那个，就在那边清清点场地啊。"
+		intervals [127]:
+			xmin = 930.98
+			xmax = 934.57
+			text = "那边儿至少得安排三四个人，是吧。"
+		intervals [128]:
+			xmin = 938.63
+			xmax = 939.04
+			text = "对。"
+		intervals [129]:
+			xmin = 944.87
+			xmax = 945.58
+			text = "嗯。"
+		intervals [130]:
+			xmin = 955.34
+			xmax = 955.96
+			text = "嗯。"
+		intervals [131]:
+			xmin = 958.11
+			xmax = 971.31
+			text = "我比较一下吧我多找几家对多找几家，然后给个报价，咱们反正看领导批哪个呗，不过这价格反正基本上也比较透明，主要是主要是就是靠谱一点儿的。"
+		intervals [132]:
+			xmin = 971.72
+			xmax = 978.06
+			text = "是吧，你到时候便宜的给你搬搬完了之后，给你丢这丢那你还不够这个折腾的是吧。"
+		intervals [133]:
+			xmin = 980.8
+			xmax = 984.8
+			text = "尤其是咱们这个合同啊档案什么的，到时候丢了更麻烦。"
+		intervals [134]:
+			xmin = 986.44
+			xmax = 987.09
+			text = "嗯。"
+		intervals [135]:
+			xmin = 991.64
+			xmax = 1003.89
+			text = "对专业一点的公司它就搬这些东西，它它能那什么一点儿，它能注意它知道哪些东西不能磕不能碰那不专业的给你瞎往那一扔，到时候搬个家再坏坏不少东西。"
+		intervals [136]:
+			xmin = 1007.55
+			xmax = 1010.59
+			text = "有有三四个人差不多了，嗯。"
+		intervals [137]:
+			xmin = 1014.5
+			xmax = 1022.38
+			text = "所以说这个打包特别重要，就是那个纸箱，咱们得找个人去买买一下吧统一统一买吧。"
+		intervals [138]:
+			xmin = 1023.59
+			xmax = 1027.11
+			text = "有吗，它们那个贵着呢它们那个贵着呢。"
+		intervals [139]:
+			xmin = 1027.63
+			xmax = 1029.61
+			text = "咱们打包还是自己打包比较好。"
+		intervals [140]:
+			xmin = 1031.31
+			xmax = 1034.61
+			text = "对，就就那种就那种我看。"
+		intervals [141]:
+			xmin = 1036.63
+			xmax = 1039.24
+			text = "那那种大纸箱可能也得十几块钱一个呢。"
+		intervals [142]:
+			xmin = 1040.28
+			xmax = 1046.9
+			text = "那这样那大家可能报一下你们各各自都需要多少这种纸箱，然后然后。"
+		intervals [143]:
+			xmin = 1050.67
+			xmax = 1054.95
+			text = "对电脑肯定都得装箱，你直接这么搬的话。"
+		intervals [144]:
+			xmin = 1056.01
+			xmax = 1057.1
+			text = "都容易磕坏了。"
+		intervals [145]:
+			xmin = 1062.98
+			xmax = 1063.54
+			text = "嗯。"
+		intervals [146]:
+			xmin = 1066.92
+			xmax = 1067.53
+			text = "嗯。"
+		intervals [147]:
+			xmin = 1070.78
+			xmax = 1071.15
+			text = "嗯。"
+		intervals [148]:
+			xmin = 1076.87
+			xmax = 1089.37
+			text = "那个不行那肯定那那搬不那得那得多少辆车，那那肯定不行，那个倒是便宜但是这不太保险，还是找专业一点的这个搬家公司。"
+		intervals [149]:
+			xmin = 1098.19
+			xmax = 1098.62
+			text = "嗯。"
+		intervals [150]:
+			xmin = 1100.49
+			xmax = 1101.01
+			text = "嗯。"
+		intervals [151]:
+			xmin = 1103.81
+			xmax = 1113.26
+			text = "那反正不管怎么样吧，就是咱们肯定是打包得提前，别等着这个搬家前一天，才急急忙忙打包，就到时候人车来了，你都来不及，是吧。"
+		intervals [152]:
+			xmin = 1117.45
+			xmax = 1117.99
+			text = "嗯。"
+		intervals [153]:
+			xmin = 1120.15
+			xmax = 1121.01
+			text = "嗯。"
+		intervals [154]:
+			xmin = 1122.17
+			xmax = 1122.61
+			text = "嗯。"
+		intervals [155]:
+			xmin = 1128.56
+			xmax = 1130.24
+			text = "大车得那个。"
+		intervals [156]:
+			xmin = 1131.33
+			xmax = 1135.68
+			text = "八米的六米的，六米六米长的六米长的车。"
+		intervals [157]:
+			xmin = 1137.63
+			xmax = 1143.17
+			text = "八米以上的，四个四个车，四个车应该可以，嗯。"
+		intervals [158]:
+			xmin = 1145.85
+			xmax = 1146.37
+			text = "嗯。"
+		intervals [159]:
+			xmin = 1148.43
+			xmax = 1149.03
+			text = "啊。"
+		intervals [160]:
+			xmin = 1151.45
+			xmax = 1151.93
+			text = "嗯。"
+		intervals [161]:
+			xmin = 1155.83
+			xmax = 1161.83
+			text = "那肯定是白天搬啊，不能不能搞到夜里去了搞到夜里没法弄，嗯。"
+		intervals [162]:
+			xmin = 1166.72
+			xmax = 1168.26
+			text = "是嗯嗯嗯。"
+		intervals [163]:
+			xmin = 1172.94
+			xmax = 1178.89
+			text = "唉，唉唉，咱咱们这边通知了什么时候之前必须得全搬搬搬干净吗？"
+		intervals [164]:
+			xmin = 1180.46
+			xmax = 1182.98
+			text = "三十号之前那应那应该来得及吧。"
+		intervals [165]:
+			xmin = 1184.32
+			xmax = 1185.09
+			text = "来的及嗯。"
+		intervals [166]:
+			xmin = 1186.03
+			xmax = 1187.25
+			text = "那可能来得及。"
+		intervals [167]:
+			xmin = 1188.61
+			xmax = 1189.36
+			text = "嗯。"
+		intervals [168]:
+			xmin = 1191.43
+			xmax = 1192.14
+			text = "嗯。"
+		intervals [169]:
+			xmin = 1196.58
+			xmax = 1200.08
+			text = "唉咱咱们这边的那个押金是谁去交的呀原来。"
+		intervals [170]:
+			xmin = 1203.6
+			xmax = 1207.27
+			text = "押金到时候还得别别到时候搬走了押金都没退。"
+		intervals [171]:
+			xmin = 1210.76
+			xmax = 1222.05
+			text = "可能也得也得也得跟那个，跟大家各部门的大家都说一下收拾东西呀，别别把别把他们这原来的这些东西给损坏了，到时候扣咱们钱什么的。"
+		intervals [172]:
+			xmin = 1225.16
+			xmax = 1233.12
+			text = "嗯，咱们自己打包咱们自己打包的时候，咱们自己的员工别别把这些物品损坏啊什么的。"
+		intervals [173]:
+			xmin = 1235.42
+			xmax = 1235.88
+			text = "嗯。"
+		intervals [174]:
+			xmin = 1238.93
+			xmax = 1239.38
+			text = "哎呀。"
+		intervals [175]:
+			xmin = 1247.4
+			xmax = 1248.6
+			text = "离地铁有多远啊。"
+		intervals [176]:
+			xmin = 1253.04
+			xmax = 1254.98
+			text = "那还可以那还可以。"
+		intervals [177]:
+			xmin = 1256.81
+			xmax = 1257.29
+			text = "嗯。"
+		intervals [178]:
+			xmin = 1258.24
+			xmax = 1258.93
+			text = "啊。"
+		intervals [179]:
+			xmin = 1260.14
+			xmax = 1260.5
+			text = "嗯。"
+		intervals [180]:
+			xmin = 1264.15
+			xmax = 1273.78
+			text = "唉或者是或者是我觉得那个，多条地铁的比较方便，比方说那个那个站有好几好几好几条线的那种，这就大家更方便一点。"
+		intervals [181]:
+			xmin = 1277.65
+			xmax = 1281.38
+			text = "六号像六号线跟十号线啊这个，这个。"
+		intervals [182]:
+			xmin = 1285.38
+			xmax = 1286.0
+			text = "啊。"
+		intervals [183]:
+			xmin = 1289.48
+			xmax = 1289.99
+			text = "嗯。"
+		intervals [184]:
+			xmin = 1295.13
+			xmax = 1295.79
+			text = "嗯。"
+		intervals [185]:
+			xmin = 1297.13
+			xmax = 1300.4
+			text = "就就换乘线少一点了可以直接一趟地铁。"
+		intervals [186]:
+			xmin = 1309.05
+			xmax = 1311.69
+			text = "他这个停车费他们那边收的贵吗？"
+		intervals [187]:
+			xmin = 1317.17
+			xmax = 1317.95
+			text = "嗯。"
+		intervals [188]:
+			xmin = 1320.35
+			xmax = 1324.63
+			text = "现在现在咱们这边儿开车的就有至少有十几二十个吧。"
+		intervals [189]:
+			xmin = 1325.71
+			xmax = 1327.04
+			text = "有五六个啊。"
+		intervals [190]:
+			xmin = 1330.39
+			xmax = 1331.18
+			text = "嗯。"
+		intervals [191]:
+			xmin = 1333.58
+			xmax = 1343.36
+			text = "那那这个可能只有各部门负责人能能够这个有有车位了，其他的可能你要就自己解决了，只能自己解决了。"
+		intervals [192]:
+			xmin = 1346.37
+			xmax = 1346.82
+			text = "嗯。"
+		intervals [193]:
+			xmin = 1350.62
+			xmax = 1350.95
+			text = "嗯。"
+		intervals [194]:
+			xmin = 1354.87
+			xmax = 1355.31
+			text = "嗯。"
+		intervals [195]:
+			xmin = 1373.29
+			xmax = 1382.46
+			text = "对，对尽量坐地铁，嗯因为那边儿车位肯定是有限的，不可能不可能有车的都开车去上班儿。"
+		intervals [196]:
+			xmin = 1386.32
+			xmax = 1386.97
+			text = "嗯。"
+		intervals [197]:
+			xmin = 1388.07
+			xmax = 1397.7
+			text = "反正公司公司能保证的肯定就是就是老板的，然后剩下几个负责人的，然后再有一些经常跑外勤的是吧，还有公司自己的几台车。"
+		intervals [198]:
+			xmin = 1398.21
+			xmax = 1401.49
+			text = "那就差不多了没没有没有太多的这个富裕了。"
+		intervals [199]:
+			xmin = 1404.19
+			xmax = 1404.88
+			text = "嗯。"
+		intervals [200]:
+			xmin = 1409.99
+			xmax = 1410.8
+			text = "嗯。"
+		intervals [201]:
+			xmin = 1414.01
+			xmax = 1425.28
+			text = "反正不富裕的人那就自己解决车位了，自己你要你要没地儿停就自己坐公交坐地铁只能是这样啊，那公司包不了这么这么多，保证不了。"
+		intervals [202]:
+			xmin = 1427.42
+			xmax = 1430.19
+			text = "嗯那没法弄，嗯。"
+		intervals [203]:
+			xmin = 1431.43
+			xmax = 1431.95
+			text = "嗯。"
+		intervals [204]:
+			xmin = 1434.46
+			xmax = 1434.81
+			text = "嗯。"
+		intervals [205]:
+			xmin = 1442.13
+			xmax = 1443.95
+			text = "各部门负责人对。"
+		intervals [206]:
+			xmin = 1446.57
+			xmax = 1455.59
+			text = "跑外勤咱们现在有三三台车吧，三台车，对呀他们的这个车位必须得保证，嗯。"
+		intervals [207]:
+			xmin = 1457.38
+			xmax = 1457.96
+			text = "嗯。"
+		intervals [208]:
+			xmin = 1461.24
+			xmax = 1461.74
+			text = "嗯。"
+		intervals [209]:
+			xmin = 1467.32
+			xmax = 1477.49
+			text = "嗯但是我觉得也可以争取一下吧多争取一下，因为咱们租的那场地大，他们这个他们这个楼，应该给咱们多争取一点儿车位。"
+		intervals [210]:
+			xmin = 1478.97
+			xmax = 1479.44
+			text = "嗯。"
+		intervals [211]:
+			xmin = 1481.39
+			xmax = 1481.84
+			text = "对呀。"
+		intervals [212]:
+			xmin = 1484.43
+			xmax = 1485.38
+			text = "尽量争取吧。"
+		intervals [213]:
+			xmin = 1486.7
+			xmax = 1487.35
+			text = "嗯。"
+		intervals [214]:
+			xmin = 1490.35
+			xmax = 1490.6
+			text = "嗯。"
+		intervals [215]:
+			xmin = 1500.31
+			xmax = 1500.64
+			text = "嗯。"
+		intervals [216]:
+			xmin = 1510.39
+			xmax = 1520.84
+			text = "宿舍，可能可能够呛，他们那楼让住人嘛，一般可能可能让住人的少，有个别加班儿的那无所谓了，就沙发上凑合一晚上呗。"
+		intervals [217]:
+			xmin = 1522.23
+			xmax = 1522.67
+			text = "嗯。"
+		intervals [218]:
+			xmin = 1537.18
+			xmax = 1545.12
+			text = "那那你要住人的话那那个你洗手间，那个淋浴间都得有，你过夜不得不得洗澡嘛，是吧。"
+		intervals [219]:
+			xmin = 1549.68
+			xmax = 1550.33
+			text = "嗯。"
+		intervals [220]:
+			xmin = 1556.52
+			xmax = 1560.87
+			text = "对有偶尔有加班儿的就沙发上凑合凑合吧，只能这样了。"
+		intervals [221]:
+			xmin = 1562.62
+			xmax = 1566.15
+			text = "嗯，老板要加班那就给他开房吧只能。"
+		intervals [222]:
+			xmin = 1568.98
+			xmax = 1569.43
+			text = "嗯。"
+		intervals [223]:
+			xmin = 1571.06
+			xmax = 1571.36
+			text = "嗯。"
+		intervals [224]:
+			xmin = 1572.58
+			xmax = 1573.08
+			text = "嗯。"
+		intervals [225]:
+			xmin = 1576.32
+			xmax = 1576.63
+			text = "嗯。"
+		intervals [226]:
+			xmin = 1578.8
+			xmax = 1579.04
+			text = "但。"
+		intervals [227]:
+			xmin = 1581.63
+			xmax = 1595.2
+			text = "但是我们但唉但是，在咱们这个这个这个办公地点啊，有有也得有考虑，有的实，住的实在是远的话，他们上次好些员工就提要求说这个报车费的事儿，你要不然你这个开支也挺大的。"
+		intervals [228]:
+			xmin = 1595.2
+			xmax = 1604.88
+			text = "唉一晚上晚上打个车，晚上打个车就得七八十八九十一小一百，有的有的人人工资少的一天都白干了，嗯。"
+		intervals [229]:
+			xmin = 1607.99
+			xmax = 1608.48
+			text = "所以说。"
+		intervals [230]:
+			xmin = 1609.56
+			xmax = 1610.02
+			text = "嗯。"
+		intervals [231]:
+			xmin = 1611.93
+			xmax = 1619.69
+			text = "七点到九点，九点钟以后的应该是，全部报报这个出租车费吧啊。"
+		intervals [232]:
+			xmin = 1625.83
+			xmax = 1629.21
+			text = "你九九点以后肯定得报吧，九点以后的啊。"
+		intervals [233]:
+			xmin = 1635.03
+			xmax = 1635.72
+			text = "所以说。"
+		intervals [234]:
+			xmin = 1637.21
+			xmax = 1639.49
+			text = "所以说我觉得这个地点也还是要。"
+		intervals [235]:
+			xmin = 1640.72
+			xmax = 1641.15
+			text = "嗯。"
+		intervals [236]:
+			xmin = 1643.65
+			xmax = 1644.05
+			text = "嗯。"
+		intervals [237]:
+			xmin = 1646.7
+			xmax = 1646.99
+			text = "啊。"
+		intervals [238]:
+			xmin = 1654.29
+			xmax = 1654.54
+			text = "嗯。"
+		intervals [239]:
+			xmin = 1657.67
+			xmax = 1663.59
+			text = "嗯，唉那那边那边，那边那个咱们的业务公司合作公司是不是不太多呀。"
+		intervals [240]:
+			xmin = 1664.66
+			xmax = 1667.62
+			text = "咱们合作的几个公司好像在北边儿的多一点儿。"
+		intervals [241]:
+			xmin = 1669.82
+			xmax = 1677.28
+			text = "对呀那个起码有七八家都在北边儿，东边儿东边儿倒是有东边儿有三四家。"
+		intervals [242]:
+			xmin = 1679.41
+			xmax = 1679.89
+			text = "嗯。"
+		intervals [243]:
+			xmin = 1683.97
+			xmax = 1687.47
+			text = "那我估计是不是可能还不能不能太往东边儿了。"
+		intervals [244]:
+			xmin = 1709.65
+			xmax = 1714.4
+			text = "但是我觉得还是这个这个，离离甲方近一点儿还是方便一些。"
+		intervals [245]:
+			xmin = 1715.78
+			xmax = 1725.4
+			text = "你看我们有时候跑业务的，他他们来回来的一一天跑十几趟，你太远了都耽误在路上了是吧，像像有的。"
+		intervals [246]:
+			xmin = 1728.04
+			xmax = 1728.68
+			text = "嗯。"
+		intervals [247]:
+			xmin = 1741.15
+			xmax = 1743.09
+			text = "其实我觉得他这装修还行吧。"
+		intervals [248]:
+			xmin = 1744.33
+			xmax = 1745.41
+			text = "他这个装修。"
+		intervals [249]:
+			xmin = 1750.97
+			xmax = 1751.47
+			text = "嗯。"
+		intervals [250]:
+			xmin = 1764.86
+			xmax = 1765.11
+			text = "他。"
+		intervals [251]:
+			xmin = 1767.59
+			xmax = 1781.72
+			text = "我觉得他这装修能用的就尽量用吧，我们可能也不需要大改，嗯，主要就是主要就是划分几块区域我们特别必须必须有保证的几块区域，茶水间呀，卫生间啊。"
+		intervals [252]:
+			xmin = 1782.27
+			xmax = 1782.7
+			text = "这些。"
+		intervals [253]:
+			xmin = 1788.89
+			xmax = 1789.25
+			text = "对。"
+		intervals [254]:
+			xmin = 1790.3
+			xmax = 1792.49
+			text = "别搞得太复杂了装修啊。"
+		intervals [255]:
+			xmin = 1795.24
+			xmax = 1795.84
+			text = "嗯。"
+		intervals [256]:
+			xmin = 1798.78
+			xmax = 1799.37
+			text = "嗯。"
+		intervals [257]:
+			xmin = 1804.95
+			xmax = 1805.43
+			text = "嗯。"
+		intervals [258]:
+			xmin = 1807.36
+			xmax = 1810.89
+			text = "那就自己负责自己各片吧嗯。"
+		intervals [259]:
+			xmin = 1817.37
+			xmax = 1817.79
+			text = "嗯。"
+		intervals [260]:
+			xmin = 1822.25
+			xmax = 1822.74
+			text = "嗯。"
+		intervals [261]:
+			xmin = 1826.57
+			xmax = 1826.87
+			text = "可以。"
+		intervals [262]:
+			xmin = 1827.88
+			xmax = 1828.23
+			text = "嗯。"
+		intervals [263]:
+			xmin = 1831.79
+			xmax = 1832.48
+			text = "嗯行。"
+		intervals [264]:
+			xmin = 1836.46
+			xmax = 1836.68
+			text = "嗯。"
+		intervals [265]:
+			xmin = 1838.33
+			xmax = 1838.66
+			text = "嗯。"
+		intervals [266]:
+			xmin = 1841.46
+			xmax = 1841.82
+			text = "嗯。"
+		intervals [267]:
+			xmin = 1844.46
+			xmax = 1844.79
+			text = "嗯。"
+		intervals [268]:
+			xmin = 1849.96
+			xmax = 1850.2
+			text = "嗯。"
+		intervals [269]:
+			xmin = 1852.23
+			xmax = 1853.55
+			text = "行好嗯。"
+	item [4]:
+		class = "IntervalTier"
+		name = "N_SPK8056"
+		xmin = 0
+		xmax = 1853.911
+		intervals: size = 310
+		intervals [1]:
+			xmin = 0.48
+			xmax = 8.91
+			text = "哎好现在就是今天大家过来开这么一个会啊，就是各部门的负责人主要讨论一下，就是咱们公司尼尔公司搬家的这个事儿。"
+		intervals [2]:
+			xmin = 9.27
+			xmax = 19.57
+			text = "然后呢因为这个地方现在是十一号嘛，然后未来一个月它可能就要让我们搬走，这个地方要占，然后呢具体大家对于自己就是。"
+		intervals [3]:
+			xmin = 20.12
+			xmax = 28.42
+			text = "新地点的选择还有说通勤啊在各方面的有什么要求大家，先讨论一下就是。"
+		intervals [4]:
+			xmin = 31.69
+			xmax = 34.11
+			text = "呃交通的话就是说。"
+		intervals [5]:
+			xmin = 36.22
+			xmax = 42.83
+			text = "呃现在主要的是先大家在这个，就三环以里然后去大概选一个地方然后。"
+		intervals [6]:
+			xmin = 45.36
+			xmax = 45.68
+			text = "啊。"
+		intervals [7]:
+			xmin = 49.58
+			xmax = 53.76
+			text = "啊就是就是说，大家先讨论一下主要就是各自。"
+		intervals [8]:
+			xmin = 58.73
+			xmax = 59.11
+			text = "啊。"
+		intervals [9]:
+			xmin = 61.42
+			xmax = 62.32
+			text = "为啥呀这个。"
+		intervals [10]:
+			xmin = 64.46
+			xmax = 66.22
+			text = "嗯，不是不是租金。"
+		intervals [11]:
+			xmin = 66.88
+			xmax = 67.06
+			text = "哎。"
+		intervals [12]:
+			xmin = 68.03
+			xmax = 70.2
+			text = "啊，哎现在的话啊。"
+		intervals [13]:
+			xmin = 74.89
+			xmax = 76.47
+			text = "就是现在这个位置的话。"
+		intervals [14]:
+			xmin = 78.93
+			xmax = 79.96
+			text = "呃咱们现。"
+		intervals [15]:
+			xmin = 80.81
+			xmax = 81.88
+			text = "咱们现在呀。"
+		intervals [16]:
+			xmin = 83.64
+			xmax = 84.01
+			text = "啊。"
+		intervals [17]:
+			xmin = 85.33
+			xmax = 86.59
+			text = "那您给提一个。"
+		intervals [18]:
+			xmin = 89.67
+			xmax = 90.01
+			text = "啊。"
+		intervals [19]:
+			xmin = 98.96
+			xmax = 109.8
+			text = "那我们就是我之前也向领导问过意见啊，就是说大概是到那个，就是大王路啊到那个四惠之间那块儿然后呢。"
+		intervals [20]:
+			xmin = 111.23
+			xmax = 111.6
+			text = "啊。"
+		intervals [21]:
+			xmin = 116.72
+			xmax = 117.16
+			text = "就是说。"
+		intervals [22]:
+			xmin = 118.44
+			xmax = 131.07
+			text = "那我们现在就是先敲定一下，就是各个负责人来说，这个在东三环和东四环之间，然后呢这往往北一点儿这块儿，就是大家觉得这个可以不可以。"
+		intervals [23]:
+			xmin = 132.9
+			xmax = 133.23
+			text = "啊。"
+		intervals [24]:
+			xmin = 140.22
+			xmax = 140.63
+			text = "然后。"
+		intervals [25]:
+			xmin = 141.55
+			xmax = 141.93
+			text = "嗯。"
+		intervals [26]:
+			xmin = 147.78
+			xmax = 148.61
+			text = "啊就是说。"
+		intervals [27]:
+			xmin = 150.62
+			xmax = 157.99
+			text = "那大家可以把这个事情就是说，在那个群里面跟就是其他的员工去商量一下，说这个新地点。"
+		intervals [28]:
+			xmin = 160.81
+			xmax = 162.76
+			text = "行，那我们现在啊。"
+		intervals [29]:
+			xmin = 166.33
+			xmax = 166.63
+			text = "啊。"
+		intervals [30]:
+			xmin = 168.79
+			xmax = 169.06
+			text = "啊。"
+		intervals [31]:
+			xmin = 171.88
+			xmax = 174.32
+			text = "好这个这个这个后续的话。"
+		intervals [32]:
+			xmin = 175.28
+			xmax = 181.25
+			text = "就是我们讨论的这个范围，大家后边儿会有人去安排去那边儿调查，然后呢。"
+		intervals [33]:
+			xmin = 183.65
+			xmax = 183.97
+			text = "啊。"
+		intervals [34]:
+			xmin = 191.61
+			xmax = 192.01
+			text = "啊。"
+		intervals [35]:
+			xmin = 198.5
+			xmax = 204.01
+			text = "好，那就是大概的范围我们现在敲定了，然后然后就是嗯。"
+		intervals [36]:
+			xmin = 209.25
+			xmax = 219.09
+			text = "然后那个现在的话就是地点的话，大概到时候去调查调查之后，然后我们会里面比如说有多层空间呀或者其它的区域啊，就是说我们会。"
+		intervals [37]:
+			xmin = 222.41
+			xmax = 226.15
+			text = "反正现在大概也就三十多人吧，然后空间的话。"
+		intervals [38]:
+			xmin = 227.92
+			xmax = 231.17
+			text = "就各部门儿的对空间的大小不知道有什么要求就是说。"
+		intervals [39]:
+			xmin = 232.52
+			xmax = 232.85
+			text = "嗯。"
+		intervals [40]:
+			xmin = 236.0
+			xmax = 236.38
+			text = "啊。"
+		intervals [41]:
+			xmin = 238.07
+			xmax = 249.68
+			text = "嗯，觉得就是工位的话大概要那么多是吧，就是那就先咱们暂定，然后到报报给领导的话，就是暂定先要五十个左右的工位是吧？"
+		intervals [42]:
+			xmin = 250.98
+			xmax = 251.48
+			text = "然后。"
+		intervals [43]:
+			xmin = 252.48
+			xmax = 252.87
+			text = "啊。"
+		intervals [44]:
+			xmin = 255.02
+			xmax = 256.25
+			text = "我们要，呃。"
+		intervals [45]:
+			xmin = 258.14
+			xmax = 258.87
+			text = "对到时候。"
+		intervals [46]:
+			xmin = 261.99
+			xmax = 270.82
+			text = "嗯到时候开会的话，就是会议室你觉得大概有，就是所有人都能容纳那种会议室是吧，那就类似一间教室那么大呗，然后。"
+		intervals [47]:
+			xmin = 273.96
+			xmax = 274.39
+			text = "啊。"
+		intervals [48]:
+			xmin = 276.78
+			xmax = 277.13
+			text = "啊。"
+		intervals [49]:
+			xmin = 280.94
+			xmax = 282.13
+			text = "那那那个就是。"
+		intervals [50]:
+			xmin = 283.89
+			xmax = 295.74
+			text = "会议室就是说大概这么大，然后我们可以先定就是能容纳所有人开会呗，然后就是说办公室的问题，办公室就是一共现在就这么咱们几个部门嘛然后。"
+		intervals [51]:
+			xmin = 299.81
+			xmax = 300.14
+			text = "啊。"
+		intervals [52]:
+			xmin = 307.01
+			xmax = 307.33
+			text = "好。"
+		intervals [53]:
+			xmin = 311.49
+			xmax = 312.71
+			text = "可以那就是说。"
+		intervals [54]:
+			xmin = 314.97
+			xmax = 317.88
+			text = "那就是这些，大概的这些数目，这个意见我先。"
+		intervals [55]:
+			xmin = 319.11
+			xmax = 319.45
+			text = "啊。"
+		intervals [56]:
+			xmin = 324.16
+			xmax = 334.77
+			text = "好，那就先把这个这个先暂定一下儿，然后就是说里边儿有没有什么储物间呀或比如大家要立个柜子呀什么的洗手间，哦。"
+		intervals [57]:
+			xmin = 336.57
+			xmax = 336.91
+			text = "对。"
+		intervals [58]:
+			xmin = 338.86
+			xmax = 341.46
+			text = "哦那那就是说比如说我们有一个楼层。"
+		intervals [59]:
+			xmin = 343.38
+			xmax = 344.4
+			text = "呃呃呃，啊。"
+		intervals [60]:
+			xmin = 346.51
+			xmax = 347.64
+			text = "呃呃，好好。"
+		intervals [61]:
+			xmin = 349.01
+			xmax = 349.63
+			text = "这个。"
+		intervals [62]:
+			xmin = 350.42
+			xmax = 350.72
+			text = "行。"
+		intervals [63]:
+			xmin = 351.8
+			xmax = 356.19
+			text = "这个到时候看情况，我给上边儿提一下建议这个呃。"
+		intervals [64]:
+			xmin = 358.49
+			xmax = 358.85
+			text = "嗯。"
+		intervals [65]:
+			xmin = 361.07
+			xmax = 361.53
+			text = "啊。"
+		intervals [66]:
+			xmin = 366.69
+			xmax = 368.62
+			text = "对应该是没有就是。"
+		intervals [67]:
+			xmin = 371.95
+			xmax = 372.6
+			text = "现在。"
+		intervals [68]:
+			xmin = 373.51
+			xmax = 376.35
+			text = "现在不就是这这个。"
+		intervals [69]:
+			xmin = 378.67
+			xmax = 378.89
+			text = "啊。"
+		intervals [70]:
+			xmin = 379.61
+			xmax = 386.94
+			text = "这个还好吧，我觉得就是谁早晨，这个就是谁早晨到谁先把它去做一下呗这个问题啊。"
+		intervals [71]:
+			xmin = 389.42
+			xmax = 389.83
+			text = "啊。"
+		intervals [72]:
+			xmin = 390.84
+			xmax = 391.52
+			text = "比如现在。"
+		intervals [73]:
+			xmin = 395.25
+			xmax = 406.93
+			text = "那这个这个还得这问题还得问一下领导，到时候看他怎么考虑这个事儿，你说雇雇咱就几啊，就这么几个人的话，咱雇那保洁得花钱是吧？就是说。"
+		intervals [74]:
+			xmin = 407.87
+			xmax = 408.12
+			text = "嗯。"
+		intervals [75]:
+			xmin = 409.21
+			xmax = 409.72
+			text = "好那。"
+		intervals [76]:
+			xmin = 411.72
+			xmax = 412.1
+			text = "行。"
+		intervals [77]:
+			xmin = 417.12
+			xmax = 418.1
+			text = "茶水间。"
+		intervals [78]:
+			xmin = 419.76
+			xmax = 420.14
+			text = "行。"
+		intervals [79]:
+			xmin = 421.26
+			xmax = 422.57
+			text = "就只有一个饮水机是吧？"
+		intervals [80]:
+			xmin = 423.83
+			xmax = 424.36
+			text = "啊行。"
+		intervals [81]:
+			xmin = 425.66
+			xmax = 427.63
+			text = "那那到时候这个这个问题的话。"
+		intervals [82]:
+			xmin = 429.26
+			xmax = 432.67
+			text = "吸烟室啊这个，行我到时候对这这些建议我先。"
+		intervals [83]:
+			xmin = 433.64
+			xmax = 437.89
+			text = "啊先把它记下来，这厕所也不让抽这个问题是啊，就是。"
+		intervals [84]:
+			xmin = 438.9
+			xmax = 440.75
+			text = "到时候就是说可以考虑比如说。"
+		intervals [85]:
+			xmin = 441.8
+			xmax = 445.1
+			text = "设个饮水机啊微波炉啊这些东西啊。"
+		intervals [86]:
+			xmin = 447.24
+			xmax = 447.54
+			text = "嗯。"
+		intervals [87]:
+			xmin = 450.21
+			xmax = 450.8
+			text = "啊。"
+		intervals [88]:
+			xmin = 452.25
+			xmax = 466.96
+			text = "行，这个问题到时候我再报一下，然后就是说大家对装修啊，比如现在电脑到时候肯定都得搬过去，然后呢装修的话就是一个人一个写字台这种吧，还是说对于灯啊或者说那个环境啊。"
+		intervals [89]:
+			xmin = 472.98
+			xmax = 473.91
+			text = "那行那就是。"
+		intervals [90]:
+			xmin = 478.53
+			xmax = 478.76
+			text = "啊。"
+		intervals [91]:
+			xmin = 489.24
+			xmax = 490.94
+			text = "啊啊对到时候。"
+		intervals [92]:
+			xmin = 495.29
+			xmax = 495.55
+			text = "好。"
+		intervals [93]:
+			xmin = 496.51
+			xmax = 503.61
+			text = "到时候那个装修的这个风格的话，你觉得就是有什么是陶瓷呀，还是说这个地板啊墙啊。"
+		intervals [94]:
+			xmin = 504.79
+			xmax = 505.57
+			text = "没啥要求。"
+		intervals [95]:
+			xmin = 509.12
+			xmax = 510.74
+			text = "呃舒服温馨。"
+		intervals [96]:
+			xmin = 512.94
+			xmax = 513.52
+			text = "那就是。"
+		intervals [97]:
+			xmin = 514.14
+			xmax = 514.36
+			text = "就。"
+		intervals [98]:
+			xmin = 517.07
+			xmax = 517.4
+			text = "好的。"
+		intervals [99]:
+			xmin = 518.06
+			xmax = 519.2
+			text = "那就是说我们。"
+		intervals [100]:
+			xmin = 523.64
+			xmax = 528.21
+			text = "大家觉得那个墙的话，是要贴纸还是说直接刷漆的这种？"
+		intervals [101]:
+			xmin = 529.32
+			xmax = 529.7
+			text = "啊。"
+		intervals [102]:
+			xmin = 531.55
+			xmax = 532.65
+			text = "就白墙就行啊。"
+		intervals [103]:
+			xmin = 535.16
+			xmax = 535.47
+			text = "行。"
+		intervals [104]:
+			xmin = 540.81
+			xmax = 541.16
+			text = "啊。"
+		intervals [105]:
+			xmin = 543.31
+			xmax = 551.71
+			text = "可以可以，它它应该到时候到那个到一个地方应该是毛坯的都是新的，然后我们找也主要是找这种地方啊。"
+		intervals [106]:
+			xmin = 556.32
+			xmax = 556.67
+			text = "啊。"
+		intervals [107]:
+			xmin = 559.73
+			xmax = 560.18
+			text = "可以。"
+		intervals [108]:
+			xmin = 563.18
+			xmax = 563.93
+			text = "那我们。"
+		intervals [109]:
+			xmin = 565.45
+			xmax = 565.82
+			text = "啊。"
+		intervals [110]:
+			xmin = 568.36
+			xmax = 577.31
+			text = "您您这个想法挺好就是说，那我们就是大概的话大概的话就是这个十一月的月底，我们这个地方要到期了，然后到时候。"
+		intervals [111]:
+			xmin = 577.93
+			xmax = 580.19
+			text = "嗯嗯各部门儿啊。"
+		intervals [112]:
+			xmin = 581.71
+			xmax = 586.89
+			text = "我觉得我觉得再过两个星期吧，然后大家可以先规划一下就是各部门儿。"
+		intervals [113]:
+			xmin = 587.4
+			xmax = 587.7
+			text = "呃。"
+		intervals [114]:
+			xmin = 589.76
+			xmax = 590.12
+			text = "啊。"
+		intervals [115]:
+			xmin = 592.19
+			xmax = 592.55
+			text = "嗯。"
+		intervals [116]:
+			xmin = 593.97
+			xmax = 594.36
+			text = "就是。"
+		intervals [117]:
+			xmin = 596.51
+			xmax = 596.9
+			text = "房子。"
+		intervals [118]:
+			xmin = 597.97
+			xmax = 604.66
+			text = "啊就是现在咱们说一个就是另外一个事情，就是说就是关于搬家这个事儿啊。"
+		intervals [119]:
+			xmin = 605.91
+			xmax = 614.0
+			text = "它一个最重要一个事儿就是说，你们要统计各部门儿有多少东西，然后呢然后统计自己大概要多少天，不知道你们大概多少天能把它归置完这个事儿。"
+		intervals [120]:
+			xmin = 616.88
+			xmax = 618.18
+			text = "两三天就差不多。"
+		intervals [121]:
+			xmin = 620.06
+			xmax = 620.57
+			text = "那行。"
+		intervals [122]:
+			xmin = 623.23
+			xmax = 628.5
+			text = "到时候二十号左右的话我们会搬，就是大家可以先规划一下，然后。"
+		intervals [123]:
+			xmin = 630.0
+			xmax = 630.35
+			text = "啊。"
+		intervals [124]:
+			xmin = 631.71
+			xmax = 632.65
+			text = "呃那。"
+		intervals [125]:
+			xmin = 634.31
+			xmax = 635.72
+			text = "那你们各位就是谁。"
+		intervals [126]:
+			xmin = 637.3
+			xmax = 641.96
+			text = "啊你们几位到时候谁去联系一下？到时候哪个搬家公司呀还有。"
+		intervals [127]:
+			xmin = 643.46
+			xmax = 647.08
+			text = "啊可以到时候，等看一看哪，哈。"
+		intervals [128]:
+			xmin = 649.31
+			xmax = 657.31
+			text = "行那就看一下到时候哪个公司比较优惠啊，然后到时候可以去做做一个预算因为。"
+		intervals [129]:
+			xmin = 658.35
+			xmax = 658.63
+			text = "啊。"
+		intervals [130]:
+			xmin = 663.37
+			xmax = 670.76
+			text = "那那这个这个事儿就交就就完完全，完全由您负责，嗯到时候跟那个预算部门再报一下，然后。"
+		intervals [131]:
+			xmin = 672.05
+			xmax = 672.83
+			text = "对啊我们这个。"
+		intervals [132]:
+			xmin = 678.84
+			xmax = 679.2
+			text = "啊。"
+		intervals [133]:
+			xmin = 686.31
+			xmax = 686.69
+			text = "啊。"
+		intervals [134]:
+			xmin = 696.73
+			xmax = 697.25
+			text = "你们。"
+		intervals [135]:
+			xmin = 700.09
+			xmax = 702.62
+			text = "你们那边儿现在有大概。"
+		intervals [136]:
+			xmin = 705.35
+			xmax = 706.22
+			text = "哦对那他们。"
+		intervals [137]:
+			xmin = 711.09
+			xmax = 718.43
+			text = "嘶，那那这这个出差的话这个是一个问题，那就是你们那边儿出差的话，跑外勤大概多长时间能回来？"
+		intervals [138]:
+			xmin = 728.94
+			xmax = 729.41
+			text = "啊。"
+		intervals [139]:
+			xmin = 732.73
+			xmax = 733.57
+			text = "文件资料。"
+		intervals [140]:
+			xmin = 735.8
+			xmax = 736.15
+			text = "因为这儿。"
+		intervals [141]:
+			xmin = 740.88
+			xmax = 741.29
+			text = "啊。"
+		intervals [142]:
+			xmin = 743.57
+			xmax = 747.92
+			text = "像这些事儿他就可以有档案的那些部门去管，然后。"
+		intervals [143]:
+			xmin = 750.28
+			xmax = 752.24
+			text = "是有专人管啊。"
+		intervals [144]:
+			xmin = 762.27
+			xmax = 762.65
+			text = "嗯。"
+		intervals [145]:
+			xmin = 765.03
+			xmax = 775.04
+			text = "不是就是现在关于那个刚才说的那个时间的问题，就是大概在二十号左右搬的话，你觉得各个员员工的话大家有没有什么。"
+		intervals [146]:
+			xmin = 776.86
+			xmax = 777.48
+			text = "富裕点儿。"
+		intervals [147]:
+			xmin = 781.2
+			xmax = 783.53
+			text = "行那就那就大概。"
+		intervals [148]:
+			xmin = 787.2
+			xmax = 796.3
+			text = "因为因为咱们就是大概周一到周五都要营业嘛，就是可以看一下就是周六日的话大家有没有时间能来，到时候搬一下就是把这个事儿。"
+		intervals [149]:
+			xmin = 800.48
+			xmax = 801.36
+			text = "哦那就是说。"
+		intervals [150]:
+			xmin = 804.93
+			xmax = 806.81
+			text = "就那种搬家的那种货车是吧？"
+		intervals [151]:
+			xmin = 815.22
+			xmax = 815.99
+			text = "那到时候。"
+		intervals [152]:
+			xmin = 829.41
+			xmax = 830.02
+			text = "那到时候。"
+		intervals [153]:
+			xmin = 831.02
+			xmax = 843.06
+			text = "对现在现在啊，他他说这个是这个问题是应该是存在，就是说他白天可能不让进，到时候我们就应该规划白天把它就是都收好，然后收到一个箱子里面，然后呢到时候。"
+		intervals [154]:
+			xmin = 845.06
+			xmax = 845.45
+			text = "啊。"
+		intervals [155]:
+			xmin = 853.94
+			xmax = 854.49
+			text = "哦。"
+		intervals [156]:
+			xmin = 855.74
+			xmax = 856.3
+			text = "是是是。"
+		intervals [157]:
+			xmin = 861.98
+			xmax = 863.09
+			text = "行，那那就是说。"
+		intervals [158]:
+			xmin = 868.02
+			xmax = 868.29
+			text = "行。"
+		intervals [159]:
+			xmin = 870.8
+			xmax = 882.92
+			text = "行那那那这个这个事儿就是说，这个事儿就是说由大家去联系，就是说下属的这些员工啊看他们有没有什么建议啊？比如说有的人说觉得周六不行，周日的这些问题啊。"
+		intervals [160]:
+			xmin = 886.98
+			xmax = 887.38
+			text = "啊。"
+		intervals [161]:
+			xmin = 891.09
+			xmax = 892.14
+			text = "就是嗯。"
+		intervals [162]:
+			xmin = 893.52
+			xmax = 893.82
+			text = "啊。"
+		intervals [163]:
+			xmin = 896.94
+			xmax = 897.25
+			text = "好。"
+		intervals [164]:
+			xmin = 902.04
+			xmax = 903.17
+			text = "对到时候肯定。"
+		intervals [165]:
+			xmin = 906.73
+			xmax = 908.44
+			text = "这个东西啊。"
+		intervals [166]:
+			xmin = 913.89
+			xmax = 916.79
+			text = "到时候到时候它那个。"
+		intervals [167]:
+			xmin = 921.14
+			xmax = 922.48
+			text = "啊啊不是这个。"
+		intervals [168]:
+			xmin = 927.44
+			xmax = 931.26
+			text = "这个就是说咱们看看哪一位到时候去那个新的地方。"
+		intervals [169]:
+			xmin = 932.27
+			xmax = 932.56
+			text = "是吧。"
+		intervals [170]:
+			xmin = 934.35
+			xmax = 934.63
+			text = "啊。"
+		intervals [171]:
+			xmin = 935.64
+			xmax = 938.15
+			text = "就是这边儿这边儿得有人往那边儿去搬。"
+		intervals [172]:
+			xmin = 939.69
+			xmax = 940.06
+			text = "啊。"
+		intervals [173]:
+			xmin = 947.51
+			xmax = 959.13
+			text = "还还还有就是这个，刚才就有人说这个搬家公司要提这个邮政这边儿，然后就是说具体这个搬家公司不是交给您了嘛，然后到时候您看看哪一家公司到时候比较优惠呢？我们。"
+		intervals [174]:
+			xmin = 962.28
+			xmax = 964.59
+			text = "啊嗯就是说。"
+		intervals [175]:
+			xmin = 971.3
+			xmax = 971.7
+			text = "啊。"
+		intervals [176]:
+			xmin = 976.05
+			xmax = 976.52
+			text = "就是。"
+		intervals [177]:
+			xmin = 979.27
+			xmax = 979.63
+			text = "啊。"
+		intervals [178]:
+			xmin = 985.02
+			xmax = 987.59
+			text = "这个是到时候得有人跟车啊。"
+		intervals [179]:
+			xmin = 992.25
+			xmax = 992.59
+			text = "啊。"
+		intervals [180]:
+			xmin = 1002.12
+			xmax = 1002.47
+			text = "啊。"
+		intervals [181]:
+			xmin = 1007.71
+			xmax = 1008.17
+			text = "啊。"
+		intervals [182]:
+			xmin = 1017.04
+			xmax = 1017.4
+			text = "啊。"
+		intervals [183]:
+			xmin = 1021.91
+			xmax = 1025.22
+			text = "纸箱的话啊，他到时候应该帮着就给装好啦。"
+		intervals [184]:
+			xmin = 1045.38
+			xmax = 1048.17
+			text = "对到时候我们好统计预算呀什么的。"
+		intervals [185]:
+			xmin = 1053.84
+			xmax = 1062.36
+			text = "对到时候到时候这事儿得还得就是统计一下，到时候有多少东西要搬，到时候这边儿搬家的部门好能知道大概要多少辆车？"
+		intervals [186]:
+			xmin = 1063.36
+			xmax = 1063.81
+			text = "啊。"
+		intervals [187]:
+			xmin = 1068.43
+			xmax = 1068.8
+			text = "该我。"
+		intervals [188]:
+			xmin = 1071.64
+			xmax = 1076.41
+			text = "之前这不是这不是有别的公司也搬过嘛，就是那种小车那种，面的那种然后。"
+		intervals [189]:
+			xmin = 1079.6
+			xmax = 1080.07
+			text = "啊。"
+		intervals [190]:
+			xmin = 1086.3
+			xmax = 1086.65
+			text = "啊。"
+		intervals [191]:
+			xmin = 1089.26
+			xmax = 1093.14
+			text = "我这这这个事儿我还真不知道那大车它让不让让不让进。"
+		intervals [192]:
+			xmin = 1095.63
+			xmax = 1096.03
+			text = "嗯。"
+		intervals [193]:
+			xmin = 1109.46
+			xmax = 1109.85
+			text = "啊。"
+		intervals [194]:
+			xmin = 1112.6
+			xmax = 1113.05
+			text = "这个。"
+		intervals [195]:
+			xmin = 1114.25
+			xmax = 1115.23
+			text = "这倒可以就是说。"
+		intervals [196]:
+			xmin = 1117.15
+			xmax = 1117.85
+			text = "就是说大家。"
+		intervals [197]:
+			xmin = 1118.83
+			xmax = 1119.24
+			text = "啊。"
+		intervals [198]:
+			xmin = 1120.75
+			xmax = 1121.33
+			text = "啊啊。"
+		intervals [199]:
+			xmin = 1122.6
+			xmax = 1123.56
+			text = "现在大家的想法。"
+		intervals [200]:
+			xmin = 1124.57
+			xmax = 1128.23
+			text = "就是大车呗，那大车的话究竟让不让进这是一个问题。"
+		intervals [201]:
+			xmin = 1131.48
+			xmax = 1131.95
+			text = "啊。"
+		intervals [202]:
+			xmin = 1149.68
+			xmax = 1150.06
+			text = "啊。"
+		intervals [203]:
+			xmin = 1162.49
+			xmax = 1164.63
+			text = "就刚才这个就是。"
+		intervals [204]:
+			xmin = 1177.89
+			xmax = 1179.88
+			text = "对就是三十号之前吧。"
+		intervals [205]:
+			xmin = 1181.08
+			xmax = 1182.35
+			text = "这个月三十号之前。"
+		intervals [206]:
+			xmin = 1184.71
+			xmax = 1186.78
+			text = "所以说我们现在就首先讨论这个事儿。"
+		intervals [207]:
+			xmin = 1196.26
+			xmax = 1197.02
+			text = "啊就是。"
+		intervals [208]:
+			xmin = 1238.89
+			xmax = 1248.02
+			text = "就是刚才刚才那个嗯，我跟领导反映了一下，就是我们现在初步定到搬到那个六二线金台路那边儿，不知道大家有没有什么想法啊。"
+		intervals [209]:
+			xmin = 1248.84
+			xmax = 1253.67
+			text = "就就在金台路离地铁有三五百米的样子，那边有一个。"
+		intervals [210]:
+			xmin = 1254.96
+			xmax = 1255.99
+			text = "呃就那边儿。"
+		intervals [211]:
+			xmin = 1258.05
+			xmax = 1258.28
+			text = "是。"
+		intervals [212]:
+			xmin = 1259.39
+			xmax = 1264.25
+			text = "那边儿那边儿有一写字楼嘛，然后主要是大家骑车呀或者开车的话。"
+		intervals [213]:
+			xmin = 1269.75
+			xmax = 1270.35
+			text = "啊啊。"
+		intervals [214]:
+			xmin = 1271.75
+			xmax = 1274.68
+			text = "啊那那那边儿那边儿应该是我刚才看了一下。"
+		intervals [215]:
+			xmin = 1277.78
+			xmax = 1278.12
+			text = "啊。"
+		intervals [216]:
+			xmin = 1282.87
+			xmax = 1283.31
+			text = "啊。"
+		intervals [217]:
+			xmin = 1287.89
+			xmax = 1294.48
+			text = "那边儿我看过，就是应该是说那边儿有十四号线跟那个六号线都有，然后大家都换乘就行了呗。"
+		intervals [218]:
+			xmin = 1295.84
+			xmax = 1296.94
+			text = "啊然后。"
+		intervals [219]:
+			xmin = 1299.21
+			xmax = 1307.32
+			text = "还有就是说我们搬到那个地方，它到时候停车位我们可能也要预预留一下，大概多少不知道有我们有多少员工的话。"
+		intervals [220]:
+			xmin = 1309.7
+			xmax = 1310.09
+			text = "就是说。"
+		intervals [221]:
+			xmin = 1312.23
+			xmax = 1317.96
+			text = "就是说我们公司现在主要是先要调查大概有多少员工，到时候会开着车来然后呢。"
+		intervals [222]:
+			xmin = 1319.34
+			xmax = 1321.16
+			text = "到时候我们会有预预留一下。"
+		intervals [223]:
+			xmin = 1324.0
+			xmax = 1327.25
+			text = "您这边儿部门儿有大概多少人五六个人？"
+		intervals [224]:
+			xmin = 1343.95
+			xmax = 1344.51
+			text = "那到时候。"
+		intervals [225]:
+			xmin = 1345.38
+			xmax = 1345.64
+			text = "嗯。"
+		intervals [226]:
+			xmin = 1351.7
+			xmax = 1352.31
+			text = "现在。"
+		intervals [227]:
+			xmin = 1354.25
+			xmax = 1354.68
+			text = "啊。"
+		intervals [228]:
+			xmin = 1356.72
+			xmax = 1357.9
+			text = "就根据这个。"
+		intervals [229]:
+			xmin = 1359.01
+			xmax = 1361.6
+			text = "根据它这地点，大概就咱先敲定这个地方。"
+		intervals [230]:
+			xmin = 1367.82
+			xmax = 1369.45
+			text = "开车的人十多个人。"
+		intervals [231]:
+			xmin = 1374.93
+			xmax = 1375.35
+			text = "啊。"
+		intervals [232]:
+			xmin = 1380.52
+			xmax = 1381.0
+			text = "就是说。"
+		intervals [233]:
+			xmin = 1384.23
+			xmax = 1384.59
+			text = "嗯。"
+		intervals [234]:
+			xmin = 1393.17
+			xmax = 1393.66
+			text = "啊。"
+		intervals [235]:
+			xmin = 1397.63
+			xmax = 1398.2
+			text = "对刚才。"
+		intervals [236]:
+			xmin = 1403.82
+			xmax = 1404.21
+			text = "啊。"
+		intervals [237]:
+			xmin = 1416.52
+			xmax = 1417.65
+			text = "刚才那个。"
+		intervals [238]:
+			xmin = 1420.94
+			xmax = 1421.44
+			text = "啊。"
+		intervals [239]:
+			xmin = 1422.69
+			xmax = 1423.08
+			text = "就是说。"
+		intervals [240]:
+			xmin = 1423.93
+			xmax = 1426.49
+			text = "现在就关于这件事情主要就统计一下。"
+		intervals [241]:
+			xmin = 1427.95
+			xmax = 1431.88
+			text = "呃主要统计一下我们大概需要多少车位，然后呢我们预留。"
+		intervals [242]:
+			xmin = 1438.78
+			xmax = 1439.19
+			text = "啊。"
+		intervals [243]:
+			xmin = 1442.25
+			xmax = 1442.72
+			text = "就是。"
+		intervals [244]:
+			xmin = 1445.17
+			xmax = 1445.72
+			text = "啊。"
+		intervals [245]:
+			xmin = 1446.67
+			xmax = 1447.29
+			text = "这个可以。"
+		intervals [246]:
+			xmin = 1454.42
+			xmax = 1455.48
+			text = "行我们这个。"
+		intervals [247]:
+			xmin = 1462.46
+			xmax = 1467.04
+			text = "你们大概大概的话，那就定在十个车位左右啊。"
+		intervals [248]:
+			xmin = 1468.43
+			xmax = 1469.01
+			text = "比如说这种。"
+		intervals [249]:
+			xmin = 1471.4
+			xmax = 1472.21
+			text = "行这个。"
+		intervals [250]:
+			xmin = 1476.93
+			xmax = 1480.68
+			text = "就是说争取到这个车位，主要就是说咱们员工到时候停的话能免费。"
+		intervals [251]:
+			xmin = 1482.48
+			xmax = 1482.83
+			text = "啊。"
+		intervals [252]:
+			xmin = 1483.87
+			xmax = 1484.34
+			text = "然后。"
+		intervals [253]:
+			xmin = 1490.7
+			xmax = 1501.65
+			text = "啊就是还有一个问题，就是我们现在搬到这个地方呢，搬到这个地方就是说我们搬家嘛顺便也要做这么一个事儿，就是说领导就是反映跟领导反映过说我们有些员工。"
+		intervals [254]:
+			xmin = 1501.98
+			xmax = 1509.95
+			text = "他就是说回家也不太方便，然后呢可能周一到周五就是这搬一个宿舍，然后大家看有没有多少人要住在这个地方。"
+		intervals [255]:
+			xmin = 1513.22
+			xmax = 1514.05
+			text = "住在这个地方儿。"
+		intervals [256]:
+			xmin = 1515.84
+			xmax = 1516.25
+			text = "啊。"
+		intervals [257]:
+			xmin = 1518.93
+			xmax = 1519.86
+			text = "应该是可以。"
+		intervals [258]:
+			xmin = 1527.32
+			xmax = 1535.56
+			text = "呃就是因为你们那个部门儿不是有对外的业务嘛，到时候就是肯定需要有时差的，你像夜里做，到时候顺便也留个宿舍。"
+		intervals [259]:
+			xmin = 1537.74
+			xmax = 1538.12
+			text = "啊。"
+		intervals [260]:
+			xmin = 1541.16
+			xmax = 1541.81
+			text = "那留个。"
+		intervals [261]:
+			xmin = 1543.13
+			xmax = 1543.56
+			text = "啊。"
+		intervals [262]:
+			xmin = 1545.31
+			xmax = 1546.99
+			text = "是我们我们这个地方。"
+		intervals [263]:
+			xmin = 1548.44
+			xmax = 1549.23
+			text = "嗯我们刚才。"
+		intervals [264]:
+			xmin = 1552.01
+			xmax = 1553.83
+			text = "刚才领导就是说这个地方儿。"
+		intervals [265]:
+			xmin = 1555.56
+			xmax = 1558.89
+			text = "啊我们新搬那个地方应该挺大的啊。"
+		intervals [266]:
+			xmin = 1562.68
+			xmax = 1563.01
+			text = "啊。"
+		intervals [267]:
+			xmin = 1566.63
+			xmax = 1567.24
+			text = "就是我们。"
+		intervals [268]:
+			xmin = 1568.19
+			xmax = 1568.6
+			text = "啊。"
+		intervals [269]:
+			xmin = 1570.67
+			xmax = 1572.36
+			text = "就正好在那个办公。"
+		intervals [270]:
+			xmin = 1593.03
+			xmax = 1593.39
+			text = "啊。"
+		intervals [271]:
+			xmin = 1595.15
+			xmax = 1596.0
+			text = "对其实现在。"
+		intervals [272]:
+			xmin = 1608.02
+			xmax = 1609.56
+			text = "嗯这个想法的话。"
+		intervals [273]:
+			xmin = 1614.87
+			xmax = 1615.62
+			text = "对它这。"
+		intervals [274]:
+			xmin = 1617.86
+			xmax = 1618.73
+			text = "打车费。"
+		intervals [275]:
+			xmin = 1620.34
+			xmax = 1626.99
+			text = "其实打车费的话，现在现在好像是说不给报，但是说可以住宿，因为我们新搬那个地方。"
+		intervals [276]:
+			xmin = 1628.04
+			xmax = 1629.93
+			text = "我们新搬那个地方都挺大的。"
+		intervals [277]:
+			xmin = 1639.81
+			xmax = 1640.28
+			text = "啊。"
+		intervals [278]:
+			xmin = 1642.29
+			xmax = 1643.16
+			text = "行吧到时候。"
+		intervals [279]:
+			xmin = 1644.93
+			xmax = 1647.58
+			text = "我们搬过去之后再联系一下就是说。"
+		intervals [280]:
+			xmin = 1650.03
+			xmax = 1650.37
+			text = "啊。"
+		intervals [281]:
+			xmin = 1656.73
+			xmax = 1659.1
+			text = "啊可以这个问题我再。"
+		intervals [282]:
+			xmin = 1668.26
+			xmax = 1668.83
+			text = "那那。"
+		intervals [283]:
+			xmin = 1672.79
+			xmax = 1677.55
+			text = "呃那还行吧，反正反正这个东西坐地铁应该挺方便的吧。"
+		intervals [284]:
+			xmin = 1684.67
+			xmax = 1685.0
+			text = "我们。"
+		intervals [285]:
+			xmin = 1688.08
+			xmax = 1700.52
+			text = "我们那个地点不是已经敲定了就在哪一块儿嘛，然后现在领导反映说这个地方也挺大的，应该有一部分就之前留的装修，不知道大家就是现在主要是基于之前它的装修的地方去改。"
+		intervals [286]:
+			xmin = 1700.88
+			xmax = 1703.64
+			text = "然后可能能留留出一两间宿舍。"
+		intervals [287]:
+			xmin = 1704.87
+			xmax = 1705.21
+			text = "嗯。"
+		intervals [288]:
+			xmin = 1711.68
+			xmax = 1712.01
+			text = "啊。"
+		intervals [289]:
+			xmin = 1714.49
+			xmax = 1714.83
+			text = "嗯。"
+		intervals [290]:
+			xmin = 1724.28
+			xmax = 1725.8
+			text = "是这个您说这个。"
+		intervals [291]:
+			xmin = 1726.76
+			xmax = 1736.91
+			text = "您说这个东西到时候要考虑一下，然后你们现在要搬的那个地方，主要就是它的装修就是看一下这个图片，主要是这个样子然后呢。"
+		intervals [292]:
+			xmin = 1738.78
+			xmax = 1739.75
+			text = "呃。就是。"
+		intervals [293]:
+			xmin = 1741.54
+			xmax = 1742.19
+			text = "呃有这。"
+		intervals [294]:
+			xmin = 1743.22
+			xmax = 1746.28
+			text = "有这几种参考的，大家不知道对这个有什么改进。"
+		intervals [295]:
+			xmin = 1751.31
+			xmax = 1751.67
+			text = "啊。"
+		intervals [296]:
+			xmin = 1754.61
+			xmax = 1755.55
+			text = "啊这个问题。"
+		intervals [297]:
+			xmin = 1757.24
+			xmax = 1767.15
+			text = "这个我们考虑到了，然后我们领导也看了一下，离那个地方也就十多分钟的样子也不太远，然后就是它里边儿具体装修的话。"
+		intervals [298]:
+			xmin = 1771.58
+			xmax = 1772.53
+			text = "装修的话那。"
+		intervals [299]:
+			xmin = 1775.93
+			xmax = 1776.32
+			text = "啊。"
+		intervals [300]:
+			xmin = 1779.28
+			xmax = 1784.57
+			text = "就是大家现在可以看一下，就是这个里边儿的平面图啊还有还有什么。"
+		intervals [301]:
+			xmin = 1785.51
+			xmax = 1789.21
+			text = "啊简单明了就行是吧，那就把现在的那个。"
+		intervals [302]:
+			xmin = 1792.08
+			xmax = 1800.11
+			text = "行行行就是大家现在可以看一下这个图片儿，然后把里面的东西到时候改一下，后边再有什么事儿的话可以及时反馈一下，那么今天。"
+		intervals [303]:
+			xmin = 1800.82
+			xmax = 1808.81
+			text = "今天就主要就讨论的就这些事儿，我们搬家的这些流程啊就是大概要二十号，对然后我们就定一下排班。"
+		intervals [304]:
+			xmin = 1810.97
+			xmax = 1811.77
+			text = "对到时候。"
+		intervals [305]:
+			xmin = 1815.31
+			xmax = 1815.42
+			text = "行。"
+		intervals [306]:
+			xmin = 1818.85
+			xmax = 1830.77
+			text = "好那那那我们今天就这个会就大概开到这儿先，然后呢就是主要由您来负责后边儿联系搬家公司呀，还有制定预算这些事儿，然后我们地点大概先初步定在这个地方，如果后续有什么意见的话大家再。"
+		intervals [307]:
+			xmin = 1831.08
+			xmax = 1842.21
+			text = "哎及时的反馈，然后人员安排的话就是你们再去看调查一下具体有多少人要停车，然后呢我们搬到个那个地方停车位，然后再看一下然后。"
+		intervals [308]:
+			xmin = 1843.19
+			xmax = 1844.23
+			text = "其它的事儿。"
+		intervals [309]:
+			xmin = 1845.45
+			xmax = 1845.65
+			text = "对。"
+		intervals [310]:
+			xmin = 1848.37
+			xmax = 1853.9
+			text = "后边儿的排班儿也就下来了，基本上就今天就开到这儿这个会，好哎谢谢大家哎。"

@@ -1,0 +1,3516 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0
+xmax = 1907.609
+tiers? <exists>
+size = 2
+item []:
+	item [1]:
+		class = "IntervalTier"
+		name = "N_SPK8025"
+		xmin = 0
+		xmax = 1907.609
+		intervals: size = 509
+		intervals [1]:
+			xmin = 18.42
+			xmax = 19.07
+			text = "好的。"
+		intervals [2]:
+			xmin = 19.5
+			xmax = 21.02
+			text = "你先说一说你的想法呢。"
+		intervals [3]:
+			xmin = 39.59
+			xmax = 40.08
+			text = "嗯。"
+		intervals [4]:
+			xmin = 48.99
+			xmax = 50.17
+			text = "草原。"
+		intervals [5]:
+			xmin = 50.17
+			xmax = 52.85
+			text = "你像，我我我们在成都哈。"
+		intervals [6]:
+			xmin = 54.27
+			xmax = 56.12
+			text = "草原应该是不好找了。"
+		intervals [7]:
+			xmin = 57.3
+			xmax = 58.67
+			text = "之于我我。"
+		intervals [8]:
+			xmin = 62.94
+			xmax = 63.42
+			text = "嗯。"
+		intervals [9]:
+			xmin = 69.36
+			xmax = 73.34
+			text = "杜甫草堂，那边有有那种草地，有湖水那些吗？"
+		intervals [10]:
+			xmin = 76.23
+			xmax = 76.86
+			text = "哦。"
+		intervals [11]:
+			xmin = 80.31
+			xmax = 83.33
+			text = "首先，你第一个哈，就是你说的国际。"
+		intervals [12]:
+			xmin = 83.33
+			xmax = 84.68
+			text = "国际那种。"
+		intervals [13]:
+			xmin = 84.99
+			xmax = 87.04
+			text = "大厦的地方的话，我觉得可能。"
+		intervals [14]:
+			xmin = 87.04
+			xmax = 88.31
+			text = "预算比较高。"
+		intervals [15]:
+			xmin = 89.49
+			xmax = 90.64
+			text = "对，所以我觉得。"
+		intervals [16]:
+			xmin = 90.64
+			xmax = 92.93
+			text = "更倾向于，就是说第二种。"
+		intervals [17]:
+			xmin = 93.69
+			xmax = 96.14
+			text = "但是的话，我我有一个想法就是。"
+		intervals [18]:
+			xmin = 96.66
+			xmax = 97.25
+			text = "因为。"
+		intervals [19]:
+			xmin = 98.04
+			xmax = 99.5
+			text = "双流区那边哈。"
+		intervals [20]:
+			xmin = 99.87
+			xmax = 101.75
+			text = "它比较贴近大自然，那边。"
+		intervals [21]:
+			xmin = 102.51
+			xmax = 104.48
+			text = "嗯，有好几个森林。"
+		intervals [22]:
+			xmin = 104.48
+			xmax = 106.19
+			text = "小森林嘛，小型森林。"
+		intervals [23]:
+			xmin = 106.8
+			xmax = 110.77
+			text = "然后的话，有那个江家艺苑那边哈，有那种草地。"
+		intervals [24]:
+			xmin = 110.77
+			xmax = 112.76
+			text = "很大片大片的草地。"
+		intervals [25]:
+			xmin = 113.43
+			xmax = 115.25
+			text = "啊，我觉得在那边的话。"
+		intervals [26]:
+			xmin = 115.25
+			xmax = 118.42
+			text = "游玩的人也比较多，像周六周末啊。"
+		intervals [27]:
+			xmin = 118.42
+			xmax = 120.58
+			text = "平时啊，下午啊。"
+		intervals [28]:
+			xmin = 120.58
+			xmax = 122.39
+			text = "游玩的人，也是非常多的。"
+		intervals [29]:
+			xmin = 124.41
+			xmax = 124.82
+			text = "嗯。"
+		intervals [30]:
+			xmin = 138.48
+			xmax = 138.97
+			text = "嗯。"
+		intervals [31]:
+			xmin = 157.1
+			xmax = 157.44
+			text = "嗯。"
+		intervals [32]:
+			xmin = 165.96
+			xmax = 168.05
+			text = "可以，这个是，这个是可以的。"
+		intervals [33]:
+			xmin = 169.61
+			xmax = 169.95
+			text = "对。"
+		intervals [34]:
+			xmin = 173.94
+			xmax = 177.38
+			text = "对，双流江家艺苑那个，有个大公园。"
+		intervals [35]:
+			xmin = 178.2
+			xmax = 178.59
+			text = "对。"
+		intervals [36]:
+			xmin = 178.59
+			xmax = 180.29
+			text = "那我想问一下你这个。"
+		intervals [37]:
+			xmin = 181.44
+			xmax = 183.05
+			text = "你海报。"
+		intervals [38]:
+			xmin = 183.39
+			xmax = 185.27
+			text = "海报你那块儿，你是怎么设置的？"
+		intervals [39]:
+			xmin = 197.88
+			xmax = 198.4
+			text = "嗯。"
+		intervals [40]:
+			xmin = 200.37
+			xmax = 200.8
+			text = "对。"
+		intervals [41]:
+			xmin = 201.04
+			xmax = 201.81
+			text = "嗯，我。"
+		intervals [42]:
+			xmin = 202.25
+			xmax = 205.91
+			text = "我建议的哈，就是说，这个海报的话，一定要是。"
+		intervals [43]:
+			xmin = 205.91
+			xmax = 206.66
+			text = "两个人。"
+		intervals [44]:
+			xmin = 206.66
+			xmax = 207.34
+			text = "之间。"
+		intervals [45]:
+			xmin = 207.34
+			xmax = 208.64
+			text = "有那种爱的火花。"
+		intervals [46]:
+			xmin = 209.76
+			xmax = 210.5
+			text = "然后呢。"
+		intervals [47]:
+			xmin = 211.11
+			xmax = 213.96
+			text = "拍出来的照片效果感染力量非常强。"
+		intervals [48]:
+			xmin = 213.96
+			xmax = 215.36
+			text = "就是让人看上去。"
+		intervals [49]:
+			xmin = 215.73
+			xmax = 217.01
+			text = "就相信爱情的。"
+		intervals [50]:
+			xmin = 225.79
+			xmax = 226.2
+			text = "嗯。"
+		intervals [51]:
+			xmin = 231.51
+			xmax = 232.28
+			text = "可以可以。"
+		intervals [52]:
+			xmin = 250.34
+			xmax = 250.76
+			text = "嗯。"
+		intervals [53]:
+			xmin = 258.48
+			xmax = 259.1
+			text = "这样吧。"
+		intervals [54]:
+			xmin = 259.47
+			xmax = 262.0
+			text = "嗯，我发现啊，你这个有一点。"
+		intervals [55]:
+			xmin = 262.0
+			xmax = 263.96
+			text = "那啥，我我来问你吧。"
+		intervals [56]:
+			xmin = 263.96
+			xmax = 266.81
+			text = "好吧，我来问，然后你说说你的这个想法。"
+		intervals [57]:
+			xmin = 267.3
+			xmax = 270.42
+			text = "就是说刚刚我们已经聊到了地点嘛，地点是在。"
+		intervals [58]:
+			xmin = 270.42
+			xmax = 271.38
+			text = "这个。"
+		intervals [59]:
+			xmin = 271.38
+			xmax = 273.67
+			text = "双流区，江家艺苑那边。"
+		intervals [60]:
+			xmin = 273.67
+			xmax = 279.05
+			text = "然后的话，海报的话，就刚刚你说的那种，是吧，只不过说要求的话，就是一定要有感染力。"
+		intervals [61]:
+			xmin = 279.39
+			xmax = 281.51
+			text = "然后的话，主持人你看你那边。"
+		intervals [62]:
+			xmin = 282.03
+			xmax = 283.93
+			text = "你是怎么想的，主持人那块儿。"
+		intervals [63]:
+			xmin = 286.78
+			xmax = 287.17
+			text = "嗯。"
+		intervals [64]:
+			xmin = 289.17
+			xmax = 292.96
+			text = "对，主持人那块儿的话，我就说就必须要是控场力比较强。"
+		intervals [65]:
+			xmin = 292.96
+			xmax = 294.38
+			text = "同时呢，亲和力。"
+		intervals [66]:
+			xmin = 294.38
+			xmax = 297.8
+			text = "哦，就是和大大众互动这块儿亲和力要比较强。"
+		intervals [67]:
+			xmin = 297.8
+			xmax = 299.11
+			text = "同时比较幽默。"
+		intervals [68]:
+			xmin = 300.1
+			xmax = 300.51
+			text = "嗯。"
+		intervals [69]:
+			xmin = 306.9
+			xmax = 307.55
+			text = "行。"
+		intervals [70]:
+			xmin = 307.55
+			xmax = 312.23
+			text = "然后就是说，你这这你那边儿活动时间你是怎么考虑的呢？"
+		intervals [71]:
+			xmin = 312.54
+			xmax = 314.9
+			text = "就是我们的这个工作时间。"
+		intervals [72]:
+			xmin = 315.81
+			xmax = 316.19
+			text = "嗯。"
+		intervals [73]:
+			xmin = 349.88
+			xmax = 350.91
+			text = "嗯，嗯。"
+		intervals [74]:
+			xmin = 375.51
+			xmax = 376.4
+			text = "还有些是。"
+		intervals [75]:
+			xmin = 377.28
+			xmax = 378.53
+			text = "嗯，这样哈。"
+		intervals [76]:
+			xmin = 380.19
+			xmax = 383.27
+			text = "就是说，我刚刚说的，听到你说的那个里面。"
+		intervals [77]:
+			xmin = 384.03
+			xmax = 385.94
+			text = "玫瑰花那个设置呵。"
+		intervals [78]:
+			xmin = 385.94
+			xmax = 387.74
+			text = "我觉得可以是，男士。"
+		intervals [79]:
+			xmin = 388.05
+			xmax = 388.57
+			text = "去领。"
+		intervals [80]:
+			xmin = 388.96
+			xmax = 389.41
+			text = "嗯。"
+		intervals [81]:
+			xmin = 391.5
+			xmax = 393.56
+			text = "嗯，也可以啊，男士女士都可以。"
+		intervals [82]:
+			xmin = 393.9
+			xmax = 394.49
+			text = "就是说。"
+		intervals [83]:
+			xmin = 395.13
+			xmax = 400.13
+			text = "你看你那边是，活动的一个活动时间，我想象的是这。"
+		intervals [84]:
+			xmin = 400.13
+			xmax = 401.6
+			text = "周六周日的话。"
+		intervals [85]:
+			xmin = 402.42
+			xmax = 404.71
+			text = "大家都是比较有时间的是吧。"
+		intervals [86]:
+			xmin = 404.71
+			xmax = 406.43
+			text = "就是上班休息。"
+		intervals [87]:
+			xmin = 407.31
+			xmax = 408.83
+			text = "然后平时的话。"
+		intervals [88]:
+			xmin = 409.14
+			xmax = 412.4
+			text = "因为像我所知道的这个市场情况，就是现在。"
+		intervals [89]:
+			xmin = 412.83
+			xmax = 414.32
+			text = "单身男女非常多。"
+		intervals [90]:
+			xmin = 414.63
+			xmax = 416.99
+			text = "啊，然后对这个市场要求也比较大。"
+		intervals [91]:
+			xmin = 417.51
+			xmax = 418.79
+			text = "像他们。"
+		intervals [92]:
+			xmin = 419.61
+			xmax = 421.01
+			text = "周一到周五。"
+		intervals [93]:
+			xmin = 422.22
+			xmax = 426.11
+			text = "下午就下班以后，他也是可以来进行这个活动的。"
+		intervals [94]:
+			xmin = 426.54
+			xmax = 428.15
+			text = "也可以当作是一个。"
+		intervals [95]:
+			xmin = 428.7
+			xmax = 429.92
+			text = "娱乐消遣。"
+		intervals [96]:
+			xmin = 429.92
+			xmax = 432.23
+			text = "是吧，当成娱乐消遣中，你。"
+		intervals [97]:
+			xmin = 432.23
+			xmax = 434.57
+			text = "也是尽心尽力的去找你的另一半。"
+		intervals [98]:
+			xmin = 435.15
+			xmax = 438.77
+			text = "当然，我我觉得你那个也是说得很好就不用。"
+		intervals [99]:
+			xmin = 439.26
+			xmax = 443.93
+			text = "太过于紧凑，所以我我觉得的话，是周六周日加上三四五。"
+		intervals [100]:
+			xmin = 444.27
+			xmax = 446.15
+			text = "周三，周四，周五，周六，周日。"
+		intervals [101]:
+			xmin = 446.15
+			xmax = 448.43
+			text = "周一，周二，大家就那个休息。"
+		intervals [102]:
+			xmin = 455.16
+			xmax = 458.27
+			text = "啊，所以所以所以你那边是怎么设置这个？"
+		intervals [103]:
+			xmin = 458.82
+			xmax = 460.01
+			text = "设置这个。"
+		intervals [104]:
+			xmin = 460.8
+			xmax = 462.53
+			text = "费用的呢？相关费用。"
+		intervals [105]:
+			xmin = 487.38
+			xmax = 487.81
+			text = "嗯。"
+		intervals [106]:
+			xmin = 489.81
+			xmax = 490.85
+			text = "其其实。"
+		intervals [107]:
+			xmin = 492.63
+			xmax = 495.26
+			text = "其实，其实你这个的话，就有一点。"
+		intervals [108]:
+			xmin = 495.99
+			xmax = 499.0
+			text = "其实你这个的话，就是有一点，稍微有点刻板。"
+		intervals [109]:
+			xmin = 499.0
+			xmax = 499.88
+			text = "是吧，其实。"
+		intervals [110]:
+			xmin = 499.88
+			xmax = 504.44
+			text = "我们不一定说，一定要通过那个报名费，来这来这一点。"
+		intervals [111]:
+			xmin = 504.44
+			xmax = 506.12
+			text = "来这个获得这个。"
+		intervals [112]:
+			xmin = 506.79
+			xmax = 509.51
+			text = "这一点费用是吧，我们可以从其他方式。"
+		intervals [113]:
+			xmin = 509.51
+			xmax = 510.41
+			text = "首先我们。"
+		intervals [114]:
+			xmin = 510.72
+			xmax = 513.86
+			text = "啊，我我是这么觉得的哈，就是首先是我们可以把那个。"
+		intervals [115]:
+			xmin = 514.41
+			xmax = 517.46
+			text = "嗯，报名费适当的减低一点。"
+		intervals [116]:
+			xmin = 522.29
+			xmax = 522.73
+			text = "啊。"
+		intervals [117]:
+			xmin = 530.16
+			xmax = 532.08
+			text = "就是，就是这样一个状态哈。"
+		intervals [118]:
+			xmin = 532.08
+			xmax = 533.18
+			text = "就说我们。"
+		intervals [119]:
+			xmin = 533.18
+			xmax = 536.02
+			text = "就是一百五十块钱每个人嘛，不论男女。"
+		intervals [120]:
+			xmin = 536.02
+			xmax = 538.12
+			text = "一百五十元，每个人。"
+		intervals [121]:
+			xmin = 538.12
+			xmax = 539.6
+			text = "他的这个报名费。"
+		intervals [122]:
+			xmin = 539.91
+			xmax = 543.65
+			text = "然后报名费的呢，我们给他们提供的服务就是。"
+		intervals [123]:
+			xmin = 544.02
+			xmax = 546.53
+			text = "通过我们的恋爱心理学老师。"
+		intervals [124]:
+			xmin = 547.05
+			xmax = 548.42
+			text = "给他匹配的。"
+		intervals [125]:
+			xmin = 548.42
+			xmax = 550.1
+			text = "嗯，另一半，就是你。"
+		intervals [126]:
+			xmin = 550.1
+			xmax = 551.36
+			text = "当天晚上的这个。"
+		intervals [127]:
+			xmin = 551.67
+			xmax = 552.68
+			text = "相亲对象。"
+		intervals [128]:
+			xmin = 552.99
+			xmax = 553.69
+			text = "是吧。"
+		intervals [129]:
+			xmin = 553.69
+			xmax = 555.83
+			text = "嗯，可以有两到三个。"
+		intervals [130]:
+			xmin = 556.38
+			xmax = 557.58
+			text = "一百五十元，就是这个。"
+		intervals [131]:
+			xmin = 558.18
+			xmax = 564.62
+			text = "从这个性格上来说，三观上来说，我们先给他们做一轮这个匹配，然后让他们去交往。"
+		intervals [132]:
+			xmin = 564.62
+			xmax = 569.29
+			text = "同时呢，我们就是就是服务一嘛，就是给他们提供这个对象。"
+		intervals [133]:
+			xmin = 569.29
+			xmax = 570.83
+			text = "服务二就是说。"
+		intervals [134]:
+			xmin = 571.26
+			xmax = 573.47
+			text = "服务二，就是说给他们提供那个。"
+		intervals [135]:
+			xmin = 573.99
+			xmax = 574.76
+			text = "点心。"
+		intervals [136]:
+			xmin = 575.76
+			xmax = 577.97
+			text = "或者说，周周六，周日的话。"
+		intervals [137]:
+			xmin = 577.97
+			xmax = 579.31
+			text = "可以提啊，提。"
+		intervals [138]:
+			xmin = 579.31
+			xmax = 580.61
+			text = "提供一个晚餐。"
+		intervals [139]:
+			xmin = 581.04
+			xmax = 586.33
+			text = "平时的话，提供一个晚餐，周六周日，我们可以给他提供，也可以提供一餐。"
+		intervals [140]:
+			xmin = 586.33
+			xmax = 589.32
+			text = "然后的话，另外一个说，另外一个说的。"
+		intervals [141]:
+			xmin = 589.32
+			xmax = 590.66
+			text = "那个我们要。"
+		intervals [142]:
+			xmin = 591.12
+			xmax = 592.67
+			text = "挣钱的地方就是说。"
+		intervals [143]:
+			xmin = 592.67
+			xmax = 594.71
+			text = "我们可以开设一些活动项目。"
+		intervals [144]:
+			xmin = 595.14
+			xmax = 601.6
+			text = "一些活动项目我们肯定是额外收费的，是吧，那个报名费的话，他费用里面只包含了我们给您介绍的对象。"
+		intervals [145]:
+			xmin = 601.6
+			xmax = 602.74
+			text = "以及这个。"
+		intervals [146]:
+			xmin = 602.74
+			xmax = 604.42
+			text = "这个什么玫瑰花呀。"
+		intervals [147]:
+			xmin = 604.42
+			xmax = 606.61
+			text = "对，一餐费用，是吧。"
+		intervals [148]:
+			xmin = 606.61
+			xmax = 610.06
+			text = "那现在我想问你一下，就是在活动方式。"
+		intervals [149]:
+			xmin = 610.06
+			xmax = 611.98
+			text = "因为毕竟相亲嘛，大家要。"
+		intervals [150]:
+			xmin = 611.98
+			xmax = 614.82
+			text = "通过一些活动，来了解对方，是吧。"
+		intervals [151]:
+			xmin = 614.82
+			xmax = 616.88
+			text = "来了解彼此的性格，一个。"
+		intervals [152]:
+			xmin = 616.88
+			xmax = 620.78
+			text = "三观，一个心理状态，你设置了哪些活动呢？"
+		intervals [153]:
+			xmin = 627.39
+			xmax = 627.86
+			text = "嗯。"
+		intervals [154]:
+			xmin = 632.73
+			xmax = 633.22
+			text = "嗯。"
+		intervals [155]:
+			xmin = 639.18
+			xmax = 639.7
+			text = "嗯。"
+		intervals [156]:
+			xmin = 639.7
+			xmax = 640.49
+			text = "这个很好。"
+		intervals [157]:
+			xmin = 643.76
+			xmax = 644.18
+			text = "嗯。"
+		intervals [158]:
+			xmin = 648.26
+			xmax = 648.72
+			text = "嗯。"
+		intervals [159]:
+			xmin = 654.72
+			xmax = 657.33
+			text = "这面具这个事儿，我就想说一下哈，就是说。"
+		intervals [160]:
+			xmin = 657.75
+			xmax = 659.21
+			text = "嗯，主要是，还是看。"
+		intervals [161]:
+			xmin = 659.73
+			xmax = 662.44
+			text = "因为毕竟，客户他们花了钱。"
+		intervals [162]:
+			xmin = 662.44
+			xmax = 663.09
+			text = "的，对吧。"
+		intervals [163]:
+			xmin = 663.09
+			xmax = 664.4
+			text = "他们如果想要。"
+		intervals [164]:
+			xmin = 664.4
+			xmax = 673.49
+			text = "对，面面具我们也是可以免费提供，对吧，就是看你自己选择，你是想戴面具还是不想戴面具，由他们自己那个意愿去做主，对不对。"
+		intervals [165]:
+			xmin = 673.49
+			xmax = 674.99
+			text = "因为有些人，他可能就。"
+		intervals [166]:
+			xmin = 674.99
+			xmax = 675.86
+			text = "对外貌。"
+		intervals [167]:
+			xmin = 676.26
+			xmax = 680.14
+			text = "有一些要求，有些人就觉得，嗯，不行，我得先看看你的这个。"
+		intervals [168]:
+			xmin = 680.14
+			xmax = 681.25
+			text = "内在，我才。"
+		intervals [169]:
+			xmin = 681.25
+			xmax = 682.32
+			text = "看其他的。"
+		intervals [170]:
+			xmin = 682.32
+			xmax = 683.07
+			text = "就。"
+		intervals [171]:
+			xmin = 683.07
+			xmax = 685.67
+			text = "我觉得话，更，让他们自己做选择更好。"
+		intervals [172]:
+			xmin = 686.16
+			xmax = 687.05
+			text = "是吧，这块儿。"
+		intervals [173]:
+			xmin = 689.16
+			xmax = 689.61
+			text = "嗯。"
+		intervals [174]:
+			xmin = 694.76
+			xmax = 695.29
+			text = "嗯。"
+		intervals [175]:
+			xmin = 698.88
+			xmax = 703.47
+			text = "也可以，可以建议他们，就主要是最终还是以他们的意愿为准，对吧。"
+		intervals [176]:
+			xmin = 703.92
+			xmax = 704.32
+			text = "对。"
+		intervals [177]:
+			xmin = 705.75
+			xmax = 706.21
+			text = "嗯。"
+		intervals [178]:
+			xmin = 719.97
+			xmax = 720.57
+			text = "嗯。"
+		intervals [179]:
+			xmin = 728.13
+			xmax = 729.92
+			text = "可以可以，这个想法非常好。"
+		intervals [180]:
+			xmin = 740.62
+			xmax = 741.21
+			text = "嗯。"
+		intervals [181]:
+			xmin = 747.99
+			xmax = 748.64
+			text = "对。"
+		intervals [182]:
+			xmin = 748.64
+			xmax = 751.16
+			text = "这这些自费的项目的话，就出就。"
+		intervals [183]:
+			xmin = 751.56
+			xmax = 754.13
+			text = "当然就是给我们带来一些收益，是吧。"
+		intervals [184]:
+			xmin = 754.53
+			xmax = 755.36
+			text = "就是说。"
+		intervals [185]:
+			xmin = 755.36
+			xmax = 757.66
+			text = "嗯，除了你刚才说的这个。"
+		intervals [186]:
+			xmin = 757.66
+			xmax = 759.49
+			text = "跳舞，互动。"
+		intervals [187]:
+			xmin = 759.49
+			xmax = 761.2
+			text = "才艺表演，还有这个。"
+		intervals [188]:
+			xmin = 761.2
+			xmax = 763.12
+			text = "骑马以外，还有没有其他的。"
+		intervals [189]:
+			xmin = 763.12
+			xmax = 763.87
+			text = "方式呢？"
+		intervals [190]:
+			xmin = 773.92
+			xmax = 774.61
+			text = "嗯。"
+		intervals [191]:
+			xmin = 784.09
+			xmax = 784.6
+			text = "嗯。"
+		intervals [192]:
+			xmin = 791.52
+			xmax = 791.98
+			text = "嗯。"
+		intervals [193]:
+			xmin = 797.76
+			xmax = 798.62
+			text = "可以，可以。"
+		intervals [194]:
+			xmin = 799.53
+			xmax = 802.04
+			text = "凡是就是能促进两个人，就是。"
+		intervals [195]:
+			xmin = 802.5
+			xmax = 805.25
+			text = "互相了解的，我觉得都是ok的，对吧。"
+		intervals [196]:
+			xmin = 812.74
+			xmax = 813.16
+			text = "嗯。"
+		intervals [197]:
+			xmin = 820.66
+			xmax = 821.17
+			text = "嗯。"
+		intervals [198]:
+			xmin = 822.96
+			xmax = 823.35
+			text = "对。"
+		intervals [199]:
+			xmin = 823.68
+			xmax = 824.29
+			text = "可以。"
+		intervals [200]:
+			xmin = 824.29
+			xmax = 828.01
+			text = "就是说，你刚刚说的那些活动方式，还是。"
+		intervals [201]:
+			xmin = 828.01
+			xmax = 830.72
+			text = "还是不错的，那我这边再做一些补充。"
+		intervals [202]:
+			xmin = 831.45
+			xmax = 834.08
+			text = "就除了你说的那个才艺表演。"
+		intervals [203]:
+			xmin = 834.66
+			xmax = 836.67
+			text = "跳舞，骑马以外。"
+		intervals [204]:
+			xmin = 837.03
+			xmax = 837.74
+			text = "啊，我。"
+		intervals [205]:
+			xmin = 838.23
+			xmax = 839.99
+			text = "我记得，我们那个公园哈。"
+		intervals [206]:
+			xmin = 839.99
+			xmax = 842.8
+			text = "那边是有那种湖的，一个小湖。"
+		intervals [207]:
+			xmin = 842.8
+			xmax = 845.39
+			text = "是吧，这也是可以，可以一个自费的项目。"
+		intervals [208]:
+			xmin = 848.09
+			xmax = 848.56
+			text = "嗯。"
+		intervals [209]:
+			xmin = 849.15
+			xmax = 849.68
+			text = "你。"
+		intervals [210]:
+			xmin = 853.56
+			xmax = 855.41
+			text = "嗯，那个不存在的哈。"
+		intervals [211]:
+			xmin = 857.64
+			xmax = 858.96
+			text = "你你想想看啊。"
+		intervals [212]:
+			xmin = 858.96
+			xmax = 863.74
+			text = "我们是平时的时候，周是五点到十点左右开放。"
+		intervals [213]:
+			xmin = 863.74
+			xmax = 865.16
+			text = "一到晚上的话。"
+		intervals [214]:
+			xmin = 865.16
+			xmax = 868.76
+			text = "嗯，比如说天要黑了的时候，我们可以把彩灯开放。"
+		intervals [215]:
+			xmin = 868.76
+			xmax = 874.04
+			text = "那么那个浪漫的气氛，就向整个世界变亮了一样，那个浪漫气氛就瞬间就。"
+		intervals [216]:
+			xmin = 874.47
+			xmax = 875.15
+			text = "起来了。"
+		intervals [217]:
+			xmin = 878.52
+			xmax = 881.15
+			text = "对，然后就说这个泛舟游湖的话。"
+		intervals [218]:
+			xmin = 881.46
+			xmax = 885.33
+			text = "首先，两个人可以互相了解，聊聊过往，聊聊。"
+		intervals [219]:
+			xmin = 885.33
+			xmax = 887.18
+			text = "工作，聊聊理想，对吧。"
+		intervals [220]:
+			xmin = 887.69
+			xmax = 888.14
+			text = "嗯。"
+		intervals [221]:
+			xmin = 889.23
+			xmax = 889.7
+			text = "嗯。"
+		intervals [222]:
+			xmin = 893.76
+			xmax = 894.53
+			text = "可以。"
+		intervals [223]:
+			xmin = 894.93
+			xmax = 897.14
+			text = "太长了，肯定不利于我们的一个。"
+		intervals [224]:
+			xmin = 897.45
+			xmax = 898.46
+			text = "状态，是吧。"
+		intervals [225]:
+			xmin = 898.77
+			xmax = 901.43
+			text = "嗯，这个这个活动可以把它加进去。"
+		intervals [226]:
+			xmin = 901.43
+			xmax = 903.14
+			text = "另外一个就是因为。"
+		intervals [227]:
+			xmin = 903.75
+			xmax = 907.6
+			text = "双流那边，它是一个，江家艺苑是个公园嘛。"
+		intervals [228]:
+			xmin = 907.6
+			xmax = 909.02
+			text = "那边有很多花儿。"
+		intervals [229]:
+			xmin = 909.75
+			xmax = 911.18
+			text = "可以赏花。"
+		intervals [230]:
+			xmin = 911.61
+			xmax = 913.4
+			text = "聊，那个散步聊天。"
+		intervals [231]:
+			xmin = 916.9
+			xmax = 920.42
+			text = "唉，那个会怎么会不存在啦？我们刚刚不是说了嘛，有彩灯，是吧？"
+		intervals [232]:
+			xmin = 924.0
+			xmax = 925.05
+			text = "他，嗯。"
+		intervals [233]:
+			xmin = 926.06
+			xmax = 926.85
+			text = "啊。"
+		intervals [234]:
+			xmin = 929.08
+			xmax = 929.57
+			text = "嗯。"
+		intervals [235]:
+			xmin = 930.4
+			xmax = 930.77
+			text = "你。"
+		intervals [236]:
+			xmin = 931.11
+			xmax = 932.44
+			text = "你白天赏花。"
+		intervals [237]:
+			xmin = 932.44
+			xmax = 935.27
+			text = "你晚上可以在花丛里面，散步聊天啊。"
+		intervals [238]:
+			xmin = 935.79
+			xmax = 936.35
+			text = "是吧？"
+		intervals [239]:
+			xmin = 937.23
+			xmax = 939.13
+			text = "然后说还有一个，就是。"
+		intervals [240]:
+			xmin = 939.13
+			xmax = 942.44
+			text = "嗯，最简单一个方式嘛，也是就是说这个喝茶。"
+		intervals [241]:
+			xmin = 943.49
+			xmax = 944.84
+			text = "嗯，喝，对。"
+		intervals [242]:
+			xmin = 945.6
+			xmax = 946.22
+			text = "对。"
+		intervals [243]:
+			xmin = 949.22
+			xmax = 949.71
+			text = "嗯。"
+		intervals [244]:
+			xmin = 951.08
+			xmax = 951.58
+			text = "嗯。"
+		intervals [245]:
+			xmin = 957.12
+			xmax = 957.79
+			text = "可以。"
+		intervals [246]:
+			xmin = 957.79
+			xmax = 958.81
+			text = "这个是可以的。"
+		intervals [247]:
+			xmin = 958.81
+			xmax = 963.92
+			text = "晚上的话，提供您把那个灯光一照射是吧，音乐一放起，它就更有氛围。"
+		intervals [248]:
+			xmin = 964.86
+			xmax = 966.67
+			text = "对，这个是很好的。"
+		intervals [249]:
+			xmin = 966.67
+			xmax = 968.18
+			text = "然后的话还有一个，就是。"
+		intervals [250]:
+			xmin = 968.71
+			xmax = 973.59
+			text = "就刚才我们说的话，像赏花，喝茶，泛舟游湖。"
+		intervals [251]:
+			xmin = 973.59
+			xmax = 976.95
+			text = "它都是比较一个静态的，了解对方的一个过程。"
+		intervals [252]:
+			xmin = 976.95
+			xmax = 979.0
+			text = "然后的话，上台唱歌。"
+		intervals [253]:
+			xmin = 979.0
+			xmax = 981.86
+			text = "起码，他是比较动态的一个互动的过程。"
+		intervals [254]:
+			xmin = 981.86
+			xmax = 983.58
+			text = "还有一个比较科学的就是。"
+		intervals [255]:
+			xmin = 983.58
+			xmax = 986.81
+			text = "我们可，我们这边可以给他们提供一些心理测试。"
+		intervals [256]:
+			xmin = 987.39
+			xmax = 988.1
+			text = "题目。"
+		intervals [257]:
+			xmin = 988.1
+			xmax = 991.27
+			text = "他们他们了解起来，可以了解对方的一些性格。"
+		intervals [258]:
+			xmin = 991.27
+			xmax = 992.6
+			text = "个性，三观。"
+		intervals [259]:
+			xmin = 992.6
+			xmax = 994.67
+			text = "是吧，而且也会非常有趣。"
+		intervals [260]:
+			xmin = 994.67
+			xmax = 997.34
+			text = "然后的话，这个心理测试的话，他肯定也是。"
+		intervals [261]:
+			xmin = 998.52
+			xmax = 999.03
+			text = "啊。"
+		intervals [262]:
+			xmin = 1007.97
+			xmax = 1008.43
+			text = "嗯。"
+		intervals [263]:
+			xmin = 1014.53
+			xmax = 1014.97
+			text = "嗯。"
+		intervals [264]:
+			xmin = 1027.0
+			xmax = 1027.48
+			text = "嗯。"
+		intervals [265]:
+			xmin = 1036.02
+			xmax = 1036.84
+			text = "对呀。"
+		intervals [266]:
+			xmin = 1036.84
+			xmax = 1040.06
+			text = "就是刚刚我我们说了的嘛，就是这个什么呢。"
+		intervals [267]:
+			xmin = 1040.64
+			xmax = 1043.62
+			text = "嗯，报名费里面一百五十元，每人嘛。"
+		intervals [268]:
+			xmin = 1043.62
+			xmax = 1045.1
+			text = "然后的话，我们是。"
+		intervals [269]:
+			xmin = 1045.1
+			xmax = 1046.89
+			text = "一开始就对你做。"
+		intervals [270]:
+			xmin = 1046.89
+			xmax = 1049.02
+			text = "征集了你的信息，然后。"
+		intervals [271]:
+			xmin = 1049.02
+			xmax = 1052.03
+			text = "用让心恋爱心理学老师给你做了一个。"
+		intervals [272]:
+			xmin = 1052.34
+			xmax = 1054.12
+			text = "那个匹配的，对吧。"
+		intervals [273]:
+			xmin = 1054.12
+			xmax = 1056.38
+			text = "每一个报名的人，有三个。"
+		intervals [274]:
+			xmin = 1057.11
+			xmax = 1058.06
+			text = "约会对象。"
+		intervals [275]:
+			xmin = 1058.06
+			xmax = 1060.4
+			text = "如果你觉得第一个不行，你可以进入第二个。"
+		intervals [276]:
+			xmin = 1061.4
+			xmax = 1063.67
+			text = "第二个不行，你可以进入到第三个。"
+		intervals [277]:
+			xmin = 1063.67
+			xmax = 1066.52
+			text = "第三个，你都没办法，你就只能下次报名了。"
+		intervals [278]:
+			xmin = 1067.01
+			xmax = 1067.54
+			text = "是吧？"
+		intervals [279]:
+			xmin = 1071.4
+			xmax = 1071.87
+			text = "嗯。"
+		intervals [280]:
+			xmin = 1073.47
+			xmax = 1073.98
+			text = "嗯。"
+		intervals [281]:
+			xmin = 1078.28
+			xmax = 1078.77
+			text = "嗯。"
+		intervals [282]:
+			xmin = 1087.38
+			xmax = 1091.54
+			text = "一百五十块钱，三三个三份资料，是吧？有效资料。"
+		intervals [283]:
+			xmin = 1091.85
+			xmax = 1093.49
+			text = "五百块钱才四份资料。"
+		intervals [284]:
+			xmin = 1096.28
+			xmax = 1096.7
+			text = "啊。"
+		intervals [285]:
+			xmin = 1103.79
+			xmax = 1104.21
+			text = "嗯。"
+		intervals [286]:
+			xmin = 1105.72
+			xmax = 1106.41
+			text = "啊。"
+		intervals [287]:
+			xmin = 1109.28
+			xmax = 1111.37
+			text = "可以可以，我懂你的意思，这个也ok。"
+		intervals [288]:
+			xmin = 1111.95
+			xmax = 1112.33
+			text = "嗯。"
+		intervals [289]:
+			xmin = 1118.52
+			xmax = 1119.03
+			text = "对。"
+		intervals [290]:
+			xmin = 1119.28
+			xmax = 1123.48
+			text = "反正我，总的来说就是我们这边的一些项目啊，那些要做好。"
+		intervals [291]:
+			xmin = 1123.48
+			xmax = 1128.1
+			text = "有静态，也要有动态，同时还要建立在这个科学的基础上，对吧。"
+		intervals [292]:
+			xmin = 1128.1
+			xmax = 1130.28
+			text = "毕竟我们这个公司叫携手网嘛。"
+		intervals [293]:
+			xmin = 1130.28
+			xmax = 1131.74
+			text = "唉，真的是希望。"
+		intervals [294]:
+			xmin = 1131.74
+			xmax = 1132.88
+			text = "别人能够就是。"
+		intervals [295]:
+			xmin = 1133.19
+			xmax = 1135.9
+			text = "找到对的那个人，携手一生的。"
+		intervals [296]:
+			xmin = 1135.9
+			xmax = 1137.35
+			text = "那种状态，对不对。"
+		intervals [297]:
+			xmin = 1141.23
+			xmax = 1141.73
+			text = "嗯。"
+		intervals [298]:
+			xmin = 1147.9
+			xmax = 1148.38
+			text = "嗯。"
+		intervals [299]:
+			xmin = 1157.37
+			xmax = 1158.71
+			text = "游泳的话。"
+		intervals [300]:
+			xmin = 1163.73
+			xmax = 1164.83
+			text = "亲密互动你。"
+		intervals [301]:
+			xmin = 1166.49
+			xmax = 1169.0
+			text = "哦，我我是这个想法啊，两个人。"
+		intervals [302]:
+			xmin = 1170.03
+			xmax = 1172.15
+			text = "会不会，就是说有一些就是。"
+		intervals [303]:
+			xmin = 1172.61
+			xmax = 1174.58
+			text = "素质不是怎么高的男性。"
+		intervals [304]:
+			xmin = 1174.58
+			xmax = 1176.95
+			text = "会对女性做一些不雅的举动呢？"
+		intervals [305]:
+			xmin = 1187.79
+			xmax = 1188.27
+			text = "嗯。"
+		intervals [306]:
+			xmin = 1203.38
+			xmax = 1204.72
+			text = "嗯，就是。"
+		intervals [307]:
+			xmin = 1204.72
+			xmax = 1206.44
+			text = "你把男女分开。"
+		intervals [308]:
+			xmin = 1206.44
+			xmax = 1209.34
+			text = "那我们这个相亲大会它的意义何在呢？"
+		intervals [309]:
+			xmin = 1209.34
+			xmax = 1210.82
+			text = "那不成了姐妹。"
+		intervals [310]:
+			xmin = 1211.73
+			xmax = 1212.77
+			text = "互动环节了。"
+		intervals [311]:
+			xmin = 1214.28
+			xmax = 1218.23
+			text = "这就是这个，我觉得游泳是还是可以的，就是说你设置的。"
+		intervals [312]:
+			xmin = 1219.08
+			xmax = 1222.58
+			text = "能否更科学一些，就主要的围绕的还是围绕着两个人。"
+		intervals [313]:
+			xmin = 1222.58
+			xmax = 1223.9
+			text = "能否互动。"
+		intervals [314]:
+			xmin = 1223.9
+			xmax = 1226.48
+			text = "能否能够促进了解彼此对方。"
+		intervals [315]:
+			xmin = 1230.46
+			xmax = 1230.95
+			text = "嗯。"
+		intervals [316]:
+			xmin = 1245.19
+			xmax = 1245.6
+			text = "嗯。"
+		intervals [317]:
+			xmin = 1259.05
+			xmax = 1259.87
+			text = "嗯。"
+		intervals [318]:
+			xmin = 1270.08
+			xmax = 1272.65
+			text = "啊，你说的这个倒是触动我了，就是。"
+		intervals [319]:
+			xmin = 1272.65
+			xmax = 1275.26
+			text = "游泳的话话，我我我是感觉。"
+		intervals [320]:
+			xmin = 1276.56
+			xmax = 1277.45
+			text = "就是。"
+		intervals [321]:
+			xmin = 1278.87
+			xmax = 1283.48
+			text = "比较亲密，应该他应该是一般处于情侣状态，人家第一次见面就去游泳。"
+		intervals [322]:
+			xmin = 1284.03
+			xmax = 1288.96
+			text = "然后的话，你可能有出于人性哈，男性的话，他肯定是对女性的这个。"
+		intervals [323]:
+			xmin = 1289.58
+			xmax = 1292.09
+			text = "各方面身材他会有一些欲望。"
+		intervals [324]:
+			xmin = 1292.55
+			xmax = 1295.59
+			text = "有有一些欲望，他可能到时候会变的目的不纯。"
+		intervals [325]:
+			xmin = 1295.59
+			xmax = 1299.23
+			text = "是吧，但是刚刚你有一个，说到一个点触发我了，就是说。"
+		intervals [326]:
+			xmin = 1300.05
+			xmax = 1301.21
+			text = "就是说这个。"
+		intervals [327]:
+			xmin = 1302.21
+			xmax = 1303.34
+			text = "嗯，男士。"
+		intervals [328]:
+			xmin = 1303.34
+			xmax = 1304.6
+			text = "男性哈。"
+		intervals [329]:
+			xmin = 1304.6
+			xmax = 1305.51
+			text = "你可以。"
+		intervals [330]:
+			xmin = 1305.51
+			xmax = 1310.33
+			text = "增加一个环节就是，体现男性去保护女性的这样一个活动状态。"
+		intervals [331]:
+			xmin = 1312.02
+			xmax = 1318.61
+			text = "男性能够保护女性，就是男性，变得像一个王子，一个英雄一样能够去保护他的这个。"
+		intervals [332]:
+			xmin = 1318.61
+			xmax = 1319.72
+			text = "相亲女性。"
+		intervals [333]:
+			xmin = 1322.73
+			xmax = 1325.72
+			text = "就像体验那种爱情的感觉，对吧？"
+		intervals [334]:
+			xmin = 1325.72
+			xmax = 1327.07
+			text = "你比如说可以是。"
+		intervals [335]:
+			xmin = 1327.39
+			xmax = 1328.1
+			text = "嗯。"
+		intervals [336]:
+			xmin = 1328.1
+			xmax = 1329.86
+			text = "围起一个那个。"
+		intervals [337]:
+			xmin = 1329.86
+			xmax = 1331.78
+			text = "场地进行射靶。"
+		intervals [338]:
+			xmin = 1332.24
+			xmax = 1333.82
+			text = "你教女孩子射靶。"
+		intervals [339]:
+			xmin = 1334.22
+			xmax = 1337.43
+			text = "嗯，那个射箭对吧，你你在教她的过程当中。"
+		intervals [340]:
+			xmin = 1337.43
+			xmax = 1339.64
+			text = "你握着她的手，她是不是。"
+		intervals [341]:
+			xmin = 1339.64
+			xmax = 1340.71
+			text = "两个人。"
+		intervals [342]:
+			xmin = 1340.71
+			xmax = 1342.34
+			text = "那种心动的感觉就来了嘛。"
+		intervals [343]:
+			xmin = 1343.07
+			xmax = 1344.67
+			text = "是吧，你可以围绕着这个。"
+		intervals [344]:
+			xmin = 1344.67
+			xmax = 1347.91
+			text = "男性保护女性，或者男性教女性的一些。"
+		intervals [345]:
+			xmin = 1347.91
+			xmax = 1349.96
+			text = "这个点来展开一些活动。"
+		intervals [346]:
+			xmin = 1350.42
+			xmax = 1352.15
+			text = "反正我们的活动越多。"
+		intervals [347]:
+			xmin = 1352.15
+			xmax = 1352.9
+			text = "这个。"
+		intervals [348]:
+			xmin = 1355.25
+			xmax = 1355.73
+			text = "嗯。"
+		intervals [349]:
+			xmin = 1359.27
+			xmax = 1362.77
+			text = "对呀，这个是我们已经确定了嘛，就是说还能不能想到更多的吗？"
+		intervals [350]:
+			xmin = 1367.82
+			xmax = 1368.3
+			text = "啊。"
+		intervals [351]:
+			xmin = 1383.58
+			xmax = 1384.35
+			text = "嗯。"
+		intervals [352]:
+			xmin = 1385.46
+			xmax = 1386.32
+			text = "差不多呀。"
+		intervals [353]:
+			xmin = 1386.66
+			xmax = 1387.19
+			text = "对。"
+		intervals [354]:
+			xmin = 1389.27
+			xmax = 1390.19
+			text = "这个倒是。"
+		intervals [355]:
+			xmin = 1399.95
+			xmax = 1400.43
+			text = "嗯。"
+		intervals [356]:
+			xmin = 1401.0
+			xmax = 1404.85
+			text = "对，然后的话，就像你刚刚说的，假如他们牵手成功的话。"
+		intervals [357]:
+			xmin = 1404.85
+			xmax = 1406.33
+			text = "可以就是。"
+		intervals [358]:
+			xmin = 1414.6
+			xmax = 1415.1
+			text = "嗯。"
+		intervals [359]:
+			xmin = 1421.49
+			xmax = 1423.4
+			text = "对，这个可以，这个很有寓意。"
+		intervals [360]:
+			xmin = 1432.35
+			xmax = 1432.85
+			text = "嗯。"
+		intervals [361]:
+			xmin = 1447.65
+			xmax = 1448.13
+			text = "嗯。"
+		intervals [362]:
+			xmin = 1455.77
+			xmax = 1456.21
+			text = "嗯。"
+		intervals [363]:
+			xmin = 1469.91
+			xmax = 1470.3
+			text = "嗯。"
+		intervals [364]:
+			xmin = 1470.99
+			xmax = 1475.93
+			text = "好，就是就基本上整个状态一些活动，我们聊聊得差不多了嘛，就是说。"
+		intervals [365]:
+			xmin = 1475.93
+			xmax = 1477.28
+			text = "还有一个就是。"
+		intervals [366]:
+			xmin = 1478.22
+			xmax = 1482.53
+			text = "嗯，我们怎么样去扩大这个报名的人数呢？有哪些方式。"
+		intervals [367]:
+			xmin = 1487.91
+			xmax = 1488.41
+			text = "对。"
+		intervals [368]:
+			xmin = 1490.81
+			xmax = 1491.29
+			text = "嗯。"
+		intervals [369]:
+			xmin = 1502.04
+			xmax = 1502.49
+			text = "对。"
+		intervals [370]:
+			xmin = 1530.29
+			xmax = 1530.74
+			text = "嗯。"
+		intervals [371]:
+			xmin = 1536.41
+			xmax = 1536.83
+			text = "嗯。"
+		intervals [372]:
+			xmin = 1537.98
+			xmax = 1538.71
+			text = "就是说。"
+		intervals [373]:
+			xmin = 1538.71
+			xmax = 1541.51
+			text = "就是说，总结起来就是说那个。"
+		intervals [374]:
+			xmin = 1541.97
+			xmax = 1543.53
+			text = "当我们在那边儿。"
+		intervals [375]:
+			xmin = 1543.53
+			xmax = 1546.01
+			text = "围围着场地进行这个。"
+		intervals [376]:
+			xmin = 1546.95
+			xmax = 1549.67
+			text = "放一些歌舞啊，那些喧闹的话。"
+		intervals [377]:
+			xmin = 1549.67
+			xmax = 1550.68
+			text = "这些。"
+		intervals [378]:
+			xmin = 1550.68
+			xmax = 1551.89
+			text = "旁边的至。"
+		intervals [379]:
+			xmin = 1557.18
+			xmax = 1560.17
+			text = "对啊，这不是，我的我的那个意思就是说。"
+		intervals [380]:
+			xmin = 1560.17
+			xmax = 1562.02
+			text = "反正有一些深。"
+		intervals [381]:
+			xmin = 1562.02
+			xmax = 1565.03
+			text = "那个我们当时搞活动的那些状态哈。"
+		intervals [382]:
+			xmin = 1565.03
+			xmax = 1565.76
+			text = "这些。"
+		intervals [383]:
+			xmin = 1565.76
+			xmax = 1567.52
+			text = "散步的一些人，他们。"
+		intervals [384]:
+			xmin = 1567.89
+			xmax = 1570.66
+			text = "首先就是做了一个宣传了嘛，现场的宣传。"
+		intervals [385]:
+			xmin = 1570.66
+			xmax = 1574.56
+			text = "其次是我们可以找一部分，小蜜小蜜蜂。"
+		intervals [386]:
+			xmin = 1574.56
+			xmax = 1575.59
+			text = "给他们发。"
+		intervals [387]:
+			xmin = 1575.99
+			xmax = 1577.55
+			text = "发这个传单。"
+		intervals [388]:
+			xmin = 1577.55
+			xmax = 1579.46
+			text = "是吧，知道我们那儿是干什么的。"
+		intervals [389]:
+			xmin = 1579.8
+			xmax = 1582.54
+			text = "因为现在现在需求都很大嘛，像他们身边。"
+		intervals [390]:
+			xmin = 1582.54
+			xmax = 1583.18
+			text = "哪怕。"
+		intervals [391]:
+			xmin = 1583.55
+			xmax = 1585.43
+			text = "哪怕是你儿子女儿结了婚。"
+		intervals [392]:
+			xmin = 1585.43
+			xmax = 1590.26
+			text = "你身边七大姑八大姨，他们可能有儿子女儿没结婚，还还要需要结婚对不对。"
+		intervals [393]:
+			xmin = 1590.69
+			xmax = 1591.55
+			text = "嗯，对。"
+		intervals [394]:
+			xmin = 1593.63
+			xmax = 1596.1
+			text = "对，可，唉，对对对，可以海报。"
+		intervals [395]:
+			xmin = 1596.1
+			xmax = 1598.18
+			text = "海报下面可以放个二维码。"
+		intervals [396]:
+			xmin = 1598.18
+			xmax = 1598.84
+			text = "是吧？"
+		intervals [397]:
+			xmin = 1599.65
+			xmax = 1601.15
+			text = "一个二维码进群。"
+		intervals [398]:
+			xmin = 1602.03
+			xmax = 1602.62
+			text = "对。"
+		intervals [399]:
+			xmin = 1603.47
+			xmax = 1605.68
+			text = "对，然后做一个这个。"
+		intervals [400]:
+			xmin = 1606.05
+			xmax = 1606.76
+			text = "这个什么？"
+		intervals [401]:
+			xmin = 1607.19
+			xmax = 1608.44
+			text = "刚刚说的传单。"
+		intervals [402]:
+			xmin = 1608.9
+			xmax = 1610.33
+			text = "发到他们手里。"
+		intervals [403]:
+			xmin = 1610.33
+			xmax = 1613.12
+			text = "让他们全面的了解我们公司的情况。"
+		intervals [404]:
+			xmin = 1613.91
+			xmax = 1614.46
+			text = "对吧。"
+		intervals [405]:
+			xmin = 1614.46
+			xmax = 1616.9
+			text = "这些都是这个宣传的方式。"
+		intervals [406]:
+			xmin = 1625.4
+			xmax = 1625.85
+			text = "嗯。"
+		intervals [407]:
+			xmin = 1632.72
+			xmax = 1634.05
+			text = "呃，就是说。"
+		intervals [408]:
+			xmin = 1634.05
+			xmax = 1635.86
+			text = "那个具体的细节哈。"
+		intervals [409]:
+			xmin = 1636.65
+			xmax = 1640.99
+			text = "就是说相亲相亲的人员，他们不是在我们这儿报名吗？"
+		intervals [410]:
+			xmin = 1640.99
+			xmax = 1644.08
+			text = "我们需要给他们一个表，一个科学的表。"
+		intervals [411]:
+			xmin = 1644.78
+			xmax = 1646.68
+			text = "他，你那边是怎么设计的？"
+		intervals [412]:
+			xmin = 1646.68
+			xmax = 1649.03
+			text = "一个科学的表，需要填哪些内容？"
+		intervals [413]:
+			xmin = 1657.88
+			xmax = 1658.34
+			text = "嗯。"
+		intervals [414]:
+			xmin = 1662.72
+			xmax = 1663.21
+			text = "嗯。"
+		intervals [415]:
+			xmin = 1684.35
+			xmax = 1685.72
+			text = "嗯，这个不错的。"
+		intervals [416]:
+			xmin = 1686.87
+			xmax = 1687.32
+			text = "嗯。"
+		intervals [417]:
+			xmin = 1691.59
+			xmax = 1691.92
+			text = "嗯。"
+		intervals [418]:
+			xmin = 1702.58
+			xmax = 1703.06
+			text = "嗯。"
+		intervals [419]:
+			xmin = 1703.58
+			xmax = 1705.6
+			text = "就说总结来说，就是。"
+		intervals [420]:
+			xmin = 1705.6
+			xmax = 1706.02
+			text = "你。"
+		intervals [421]:
+			xmin = 1706.02
+			xmax = 1707.86
+			text = "到时候你们那个设置的话。"
+		intervals [422]:
+			xmin = 1707.86
+			xmax = 1709.15
+			text = "在网上的时候。"
+		intervals [423]:
+			xmin = 1709.15
+			xmax = 1712.57
+			text = "因为他们报名的方式有可能是在网上，也有可能是现场嘛。"
+		intervals [424]:
+			xmin = 1712.57
+			xmax = 1716.68
+			text = "你你不能，你要有一些大大爷大妈，他们搞不来那个网络是吧。"
+		intervals [425]:
+			xmin = 1716.68
+			xmax = 1720.28
+			text = "所以表格和这个网络报名都要，都要处理好。"
+		intervals [426]:
+			xmin = 1721.13
+			xmax = 1723.25
+			text = "啊，叫什么什么姓名啊。"
+		intervals [427]:
+			xmin = 1724.1
+			xmax = 1725.76
+			text = "姓名啊，年龄啊。"
+		intervals [428]:
+			xmin = 1725.76
+			xmax = 1727.15
+			text = "就是兴趣爱好啊。"
+		intervals [429]:
+			xmin = 1727.15
+			xmax = 1728.37
+			text = "还有这个。"
+		intervals [430]:
+			xmin = 1728.37
+			xmax = 1730.72
+			text = "就是对爱情的一个想法哈。"
+		intervals [431]:
+			xmin = 1731.33
+			xmax = 1733.31
+			text = "然后的话，基本上就。"
+		intervals [432]:
+			xmin = 1733.31
+			xmax = 1735.1
+			text = "我们能聊得都差不多了哈。"
+		intervals [433]:
+			xmin = 1735.56
+			xmax = 1739.6
+			text = "就是总结下来，就是说我们这我们公司哈，我们携手网公司。"
+		intervals [434]:
+			xmin = 1740.33
+			xmax = 1741.19
+			text = "人员。"
+		intervals [435]:
+			xmin = 1741.19
+			xmax = 1742.33
+			text = "有五十。"
+		intervals [436]:
+			xmin = 1742.33
+			xmax = 1745.48
+			text = "五十人是吧？我们现在报名的是二二百二十。"
+		intervals [437]:
+			xmin = 1745.48
+			xmax = 1746.59
+			text = "二百二十二个人了。"
+		intervals [438]:
+			xmin = 1747.42
+			xmax = 1747.74
+			text = "两。"
+		intervals [439]:
+			xmin = 1748.76
+			xmax = 1751.75
+			text = "二百二十二个人啊，我们预算的是。"
+		intervals [440]:
+			xmin = 1753.65
+			xmax = 1754.3
+			text = "八万。"
+		intervals [441]:
+			xmin = 1755.24
+			xmax = 1756.91
+			text = "场地租赁还有这个。"
+		intervals [442]:
+			xmin = 1757.31
+			xmax = 1759.34
+			text = "工作人员的工资发放。"
+		intervals [443]:
+			xmin = 1759.68
+			xmax = 1760.18
+			text = "是吧。"
+		intervals [444]:
+			xmin = 1760.18
+			xmax = 1761.79
+			text = "然后我们地点的话，是在。"
+		intervals [445]:
+			xmin = 1761.96
+			xmax = 1762.91
+			text = "这个双流。"
+		intervals [446]:
+			xmin = 1763.37
+			xmax = 1764.71
+			text = "白天的话，就。"
+		intervals [447]:
+			xmin = 1765.11
+			xmax = 1766.06
+			text = "进行一些活。"
+		intervals [448]:
+			xmin = 1766.06
+			xmax = 1767.38
+			text = "进行一些就是。"
+		intervals [449]:
+			xmin = 1767.84
+			xmax = 1769.59
+			text = "嗯，互动性比较强的。"
+		intervals [450]:
+			xmin = 1769.59
+			xmax = 1771.22
+			text = "比如说什么骑马呀。"
+		intervals [451]:
+			xmin = 1771.98
+			xmax = 1772.96
+			text = "然后这个。"
+		intervals [452]:
+			xmin = 1773.9
+			xmax = 1774.61
+			text = "击靶。"
+		intervals [453]:
+			xmin = 1775.34
+			xmax = 1775.92
+			text = "是吧。"
+		intervals [454]:
+			xmin = 1775.92
+			xmax = 1778.92
+			text = "然后晚上的时候的话，我们要把那个场地布置好。"
+		intervals [455]:
+			xmin = 1778.92
+			xmax = 1780.58
+			text = "就是那个彩灯。"
+		intervals [456]:
+			xmin = 1780.58
+			xmax = 1781.44
+			text = "一定要。"
+		intervals [457]:
+			xmin = 1781.44
+			xmax = 1784.12
+			text = "到了那个时间节点，一定要让整个。"
+		intervals [458]:
+			xmin = 1784.46
+			xmax = 1787.72
+			text = "整个场地是非常焕然一新的。"
+		intervals [459]:
+			xmin = 1787.72
+			xmax = 1790.39
+			text = "啊，布置这个彩灯，晚上的话，就比较。"
+		intervals [460]:
+			xmin = 1790.82
+			xmax = 1792.16
+			text = "可以做一些什么。"
+		intervals [461]:
+			xmin = 1792.49
+			xmax = 1793.45
+			text = "嗯。"
+		intervals [462]:
+			xmin = 1794.36
+			xmax = 1795.9
+			text = "就是静态一点的活动。"
+		intervals [463]:
+			xmin = 1795.9
+			xmax = 1798.21
+			text = "大家彼此聊聊自己的心声啊，那种。"
+		intervals [464]:
+			xmin = 1798.21
+			xmax = 1800.77
+			text = "啊，活动方式的话，我总结下来，就是说这个。"
+		intervals [465]:
+			xmin = 1801.14
+			xmax = 1804.58
+			text = "可以唱歌，骑马，泛舟游湖，赏花。"
+		intervals [466]:
+			xmin = 1804.58
+			xmax = 1805.45
+			text = "喝茶。"
+		intervals [467]:
+			xmin = 1806.27
+			xmax = 1807.06
+			text = "然后。"
+		intervals [468]:
+			xmin = 1807.06
+			xmax = 1810.49
+			text = "这个可以做一些心理测试，彼此了解对方。"
+		intervals [469]:
+			xmin = 1810.95
+			xmax = 1812.61
+			text = "然后我们的活动时间。"
+		intervals [470]:
+			xmin = 1812.61
+			xmax = 1814.93
+			text = "周六，周日是全全天开放。"
+		intervals [471]:
+			xmin = 1815.48
+			xmax = 1818.44
+			text = "就是，这个晚上是十一点结束嘛。"
+		intervals [472]:
+			xmin = 1818.9
+			xmax = 1820.27
+			text = "早晨是八点。"
+		intervals [473]:
+			xmin = 1820.7
+			xmax = 1823.2
+			text = "九点，九点到十晚上十一点。"
+		intervals [474]:
+			xmin = 1823.2
+			xmax = 1826.76
+			text = "然后平日的话，是三，周三，周四，周五。"
+		intervals [475]:
+			xmin = 1826.76
+			xmax = 1829.84
+			text = "周一周二的话，我们就我们这边就休息。"
+		intervals [476]:
+			xmin = 1829.84
+			xmax = 1830.47
+			text = "对吧。"
+		intervals [477]:
+			xmin = 1830.47
+			xmax = 1831.91
+			text = "周一周二也是。"
+		intervals [478]:
+			xmin = 1832.45
+			xmax = 1833.21
+			text = "嗯。"
+		intervals [479]:
+			xmin = 1833.21
+			xmax = 1834.27
+			text = "他们比较。"
+		intervals [480]:
+			xmin = 1834.27
+			xmax = 1836.62
+			text = "繁忙的时候，工作比较繁忙的时候。"
+		intervals [481]:
+			xmin = 1836.62
+			xmax = 1838.76
+			text = "然后他们的报名费用的话，是。"
+		intervals [482]:
+			xmin = 1838.76
+			xmax = 1840.26
+			text = "一百五十元每人。"
+		intervals [483]:
+			xmin = 1840.26
+			xmax = 1842.28
+			text = "男女一百五十元，每人。"
+		intervals [484]:
+			xmin = 1842.28
+			xmax = 1847.96
+			text = "但这个报名的费用呢，它包含的服务项目是，一个是我们。"
+		intervals [485]:
+			xmin = 1847.96
+			xmax = 1850.33
+			text = "公司会给他们匹配三个。"
+		intervals [486]:
+			xmin = 1850.79
+			xmax = 1854.62
+			text = "三个有效对象，科学的这个相亲对象。"
+		intervals [487]:
+			xmin = 1855.02
+			xmax = 1856.17
+			text = "其次的话。"
+		intervals [488]:
+			xmin = 1856.17
+			xmax = 1857.44
+			text = "是包括一些。"
+		intervals [489]:
+			xmin = 1859.03
+			xmax = 1859.63
+			text = "餐。"
+		intervals [490]:
+			xmin = 1860.03
+			xmax = 1860.74
+			text = "餐补。"
+		intervals [491]:
+			xmin = 1860.74
+			xmax = 1862.96
+			text = "就是比如说晚餐或者是午餐。"
+		intervals [492]:
+			xmin = 1862.96
+			xmax = 1863.57
+			text = "免的。"
+		intervals [493]:
+			xmin = 1863.57
+			xmax = 1866.78
+			text = "或者说一些点心还有这个茶水，这也是免费的。"
+		intervals [494]:
+			xmin = 1866.78
+			xmax = 1869.17
+			text = "剩下的，像我们刚刚说的那个什么。"
+		intervals [495]:
+			xmin = 1869.6
+			xmax = 1874.21
+			text = "嗯，各种项目哈，什么什么唱歌啊，骑马呀，他们是需要自费的。"
+		intervals [496]:
+			xmin = 1874.67
+			xmax = 1877.06
+			text = "然后除了自费的话，还是需要一个。"
+		intervals [497]:
+			xmin = 1877.06
+			xmax = 1878.56
+			text = "时间限制，对吧？"
+		intervals [498]:
+			xmin = 1878.56
+			xmax = 1880.18
+			text = "如果他们一直坐，那我们。"
+		intervals [499]:
+			xmin = 1880.79
+			xmax = 1882.36
+			text = "剩下的这个，这个。"
+		intervals [500]:
+			xmin = 1882.36
+			xmax = 1883.96
+			text = "客户就没办法。"
+		intervals [501]:
+			xmin = 1885.8
+			xmax = 1887.65
+			text = "嗯，然后，差不多就是这样。"
+		intervals [502]:
+			xmin = 1888.6
+			xmax = 1889.01
+			text = "嗯。"
+		intervals [503]:
+			xmin = 1891.2
+			xmax = 1894.02
+			text = "那我们今天就开会开到，开到这里啊。"
+		intervals [504]:
+			xmin = 1894.02
+			xmax = 1895.26
+			text = "下来有什么不懂。"
+		intervals [505]:
+			xmin = 1895.26
+			xmax = 1896.89
+			text = "还还需要讨论的？"
+		intervals [506]:
+			xmin = 1897.93
+			xmax = 1898.34
+			text = "嗯。"
+		intervals [507]:
+			xmin = 1901.94
+			xmax = 1902.44
+			text = "对。"
+		intervals [508]:
+			xmin = 1904.73
+			xmax = 1905.53
+			text = "可以可以。"
+		intervals [509]:
+			xmin = 1906.83
+			xmax = 1907.6
+			text = "可以可以。"
+	item [2]:
+		class = "IntervalTier"
+		name = "N_SPK8026"
+		xmin = 0
+		xmax = 1907.609
+		intervals: size = 365
+		intervals [1]:
+			xmin = 2.22
+			xmax = 9.83
+			text = "呃，领导我们携手网站，员工大概五十个人，这次在我们的携手网报名的人数有两百。"
+		intervals [2]:
+			xmin = 11.13
+			xmax = 12.07
+			text = "人左右。"
+		intervals [3]:
+			xmin = 12.07
+			xmax = 14.9
+			text = "然后这次我制定了一些方案。"
+		intervals [4]:
+			xmin = 15.25
+			xmax = 17.96
+			text = "最终的方案我们需要讨论一下。"
+		intervals [5]:
+			xmin = 21.12
+			xmax = 21.71
+			text = "好的。"
+		intervals [6]:
+			xmin = 22.2
+			xmax = 24.64
+			text = "开幕式的话，地点我这边。"
+		intervals [7]:
+			xmin = 24.64
+			xmax = 28.48
+			text = "有两个备选，就是第第一个是一个。"
+		intervals [8]:
+			xmin = 28.48
+			xmax = 29.72
+			text = "国际大厦。"
+		intervals [9]:
+			xmin = 30.38
+			xmax = 31.85
+			text = "是在晚上。"
+		intervals [10]:
+			xmin = 31.85
+			xmax = 34.44
+			text = "因为我觉得晚上的人。"
+		intervals [11]:
+			xmin = 34.44
+			xmax = 35.29
+			text = "的时间。"
+		intervals [12]:
+			xmin = 35.52
+			xmax = 38.76
+			text = "比较充裕一点，也比较浪漫，是一个晚会。"
+		intervals [13]:
+			xmin = 39.33
+			xmax = 41.39
+			text = "第二个地点是一个。"
+		intervals [14]:
+			xmin = 41.7
+			xmax = 42.68
+			text = "草原。"
+		intervals [15]:
+			xmin = 42.99
+			xmax = 44.78
+			text = "也可以是在晚上。"
+		intervals [16]:
+			xmin = 45.75
+			xmax = 47.81
+			text = "您觉得这这边怎么样呢？"
+		intervals [17]:
+			xmin = 57.23
+			xmax = 57.78
+			text = "噢。"
+		intervals [18]:
+			xmin = 58.11
+			xmax = 63.04
+			text = "我觉得杜甫草草堂就不错呀，杜甫草堂也挺大的，然后晚上。"
+		intervals [19]:
+			xmin = 63.04
+			xmax = 65.29
+			text = "休息的人也特别的多。"
+		intervals [20]:
+			xmin = 65.29
+			xmax = 69.02
+			text = "这个地方的活跃空间也比较大。"
+		intervals [21]:
+			xmin = 74.55
+			xmax = 75.5
+			text = "是有的。"
+		intervals [22]:
+			xmin = 77.76
+			xmax = 79.46
+			text = "嗯，觉得怎么样呢？"
+		intervals [23]:
+			xmin = 88.62
+			xmax = 89.39
+			text = "呃，是的。"
+		intervals [24]:
+			xmin = 106.23
+			xmax = 106.87
+			text = "嗯。"
+		intervals [25]:
+			xmin = 123.26
+			xmax = 130.22
+			text = "可以，因为我觉得这个开放性也蛮大的，到时候也可以吸引一部分人群来参加我们这个活动。"
+		intervals [26]:
+			xmin = 130.56
+			xmax = 132.97
+			text = "这样的话，我们的。"
+		intervals [27]:
+			xmin = 132.97
+			xmax = 135.38
+			text = "公司的影响力也会。"
+		intervals [28]:
+			xmin = 135.84
+			xmax = 136.75
+			text = "增大嘛。"
+		intervals [29]:
+			xmin = 136.75
+			xmax = 139.21
+			text = "然后我也这边找了相关。"
+		intervals [30]:
+			xmin = 139.21
+			xmax = 140.89
+			text = "有经验的主持人。"
+		intervals [31]:
+			xmin = 140.89
+			xmax = 142.18
+			text = "他是比较有。"
+		intervals [32]:
+			xmin = 142.58
+			xmax = 144.1
+			text = "搞笑气氛，然后能。"
+		intervals [33]:
+			xmin = 144.6
+			xmax = 146.32
+			text = "呃，也有经验的那种。"
+		intervals [34]:
+			xmin = 146.32
+			xmax = 148.68
+			text = "然后我这边还制定了一个会员制。"
+		intervals [35]:
+			xmin = 148.68
+			xmax = 153.13
+			text = "就刚开始报名的话，我们收取的费用是两百个人。"
+		intervals [36]:
+			xmin = 153.13
+			xmax = 155.1
+			text = "一个，呃，两百块钱一个人。"
+		intervals [37]:
+			xmin = 155.45
+			xmax = 159.51
+			text = "但会员的话是要首先充五百块钱。"
+		intervals [38]:
+			xmin = 159.8
+			xmax = 165.92
+			text = "然后最后如果牵手成功的话，我们这边可以赠送双人机票，去三亚的这种。"
+		intervals [39]:
+			xmin = 168.54
+			xmax = 169.04
+			text = "好的。"
+		intervals [40]:
+			xmin = 169.04
+			xmax = 174.47
+			text = "那我们开幕式的话就定一个草地吗？是双流的那边一个草地，是吗？"
+		intervals [41]:
+			xmin = 177.69
+			xmax = 178.97
+			text = "好，可以。"
+		intervals [42]:
+			xmin = 181.68
+			xmax = 182.72
+			text = "嗯？你说。"
+		intervals [43]:
+			xmin = 185.76
+			xmax = 187.6
+			text = "海报的话。"
+		intervals [44]:
+			xmin = 187.6
+			xmax = 189.65
+			text = "呃，我这边有。"
+		intervals [45]:
+			xmin = 189.65
+			xmax = 191.81
+			text = "找相关的模特。"
+		intervals [46]:
+			xmin = 191.81
+			xmax = 195.59
+			text = "就是男女模特拍的一组。"
+		intervals [47]:
+			xmin = 195.59
+			xmax = 197.9
+			text = "比较浪漫的照片。"
+		intervals [48]:
+			xmin = 198.69
+			xmax = 200.36
+			text = "啊，有这样的一个封面。"
+		intervals [49]:
+			xmin = 209.43
+			xmax = 210.17
+			text = "可以。"
+		intervals [50]:
+			xmin = 217.23
+			xmax = 224.77
+			text = "嗯，好的，那稍后我会把我，就是已经拍好的照片发送到你的相关邮件里面，你可以查收一下。"
+		intervals [51]:
+			xmin = 224.77
+			xmax = 226.46
+			text = "拍了几组，照片你。"
+		intervals [52]:
+			xmin = 226.46
+			xmax = 227.68
+			text = "这边可以。"
+		intervals [53]:
+			xmin = 227.68
+			xmax = 229.96
+			text = "确定一下，您最终。"
+		intervals [54]:
+			xmin = 229.96
+			xmax = 231.17
+			text = "认可的照片。"
+		intervals [55]:
+			xmin = 232.38
+			xmax = 234.29
+			text = "好的，目的呢，呃，我们。"
+		intervals [56]:
+			xmin = 234.29
+			xmax = 238.94
+			text = "这一次活动的目的是，祝他们的牵手成功。"
+		intervals [57]:
+			xmin = 238.94
+			xmax = 242.9
+			text = "然后我觉得，里面可以有一些小设计，比如说。"
+		intervals [58]:
+			xmin = 243.96
+			xmax = 249.78
+			text = "因为是在晚上嘛，相关场地的话是在晚上，这样的费用也不算太高。"
+		intervals [59]:
+			xmin = 250.03
+			xmax = 251.22
+			text = "草地的晚。"
+		intervals [60]:
+			xmin = 251.46
+			xmax = 252.83
+			text = "然后可以戴面具。"
+		intervals [61]:
+			xmin = 253.32
+			xmax = 254.27
+			text = "这样。"
+		intervals [62]:
+			xmin = 254.91
+			xmax = 256.22
+			text = "这样，怎么说呢？"
+		intervals [63]:
+			xmin = 256.82
+			xmax = 257.82
+			text = "呃。"
+		intervals [64]:
+			xmin = 266.73
+			xmax = 267.26
+			text = "可以。"
+		intervals [65]:
+			xmin = 283.92
+			xmax = 289.31
+			text = "哦，主持人我是有朋友，他有相关经验，也是比较搞笑，能带气氛的一个主持人。"
+		intervals [66]:
+			xmin = 299.64
+			xmax = 303.6
+			text = "嗯，可以可以的，到时候我带他来见一下您，您可以。"
+		intervals [67]:
+			xmin = 303.6
+			xmax = 304.63
+			text = "就是对他。"
+		intervals [68]:
+			xmin = 304.63
+			xmax = 306.95
+			text = "看一下，是否能胜任这个工作。"
+		intervals [69]:
+			xmin = 312.5
+			xmax = 313.04
+			text = "活动。"
+		intervals [70]:
+			xmin = 313.98
+			xmax = 317.83
+			text = "活动时间的话，我觉得物物以稀为贵嘛，如果。"
+		intervals [71]:
+			xmin = 317.83
+			xmax = 321.44
+			text = "星期六星期天的话，他们都有全天的时间，但是我觉得。"
+		intervals [72]:
+			xmin = 321.93
+			xmax = 324.76
+			text = "这样的话就显得我们。"
+		intervals [73]:
+			xmin = 324.76
+			xmax = 327.68
+			text = "的时间特别充裕，但是。"
+		intervals [74]:
+			xmin = 328.26
+			xmax = 335.74
+			text = "但是，费用就比较高了，我觉得可以到，就是晚上我们提供晚餐，他们五点钟进场，然后。"
+		intervals [75]:
+			xmin = 335.74
+			xmax = 338.02
+			text = "呃，陆陆续续的进场这样。"
+		intervals [76]:
+			xmin = 338.02
+			xmax = 339.7
+			text = "但是只有晚上。"
+		intervals [77]:
+			xmin = 339.7
+			xmax = 340.81
+			text = "四个小时。"
+		intervals [78]:
+			xmin = 340.81
+			xmax = 342.2
+			text = "五点到。"
+		intervals [79]:
+			xmin = 342.2
+			xmax = 343.22
+			text = "九点。"
+		intervals [80]:
+			xmin = 343.59
+			xmax = 347.23
+			text = "这样也不会算太晚，然后提供一个自助。"
+		intervals [81]:
+			xmin = 347.23
+			xmax = 348.5
+			text = "餐的形式。"
+		intervals [82]:
+			xmin = 349.41
+			xmax = 353.09
+			text = "每一个人进场都会，手手携一枝玫瑰花。"
+		intervals [83]:
+			xmin = 353.4
+			xmax = 355.01
+			text = "女士就携。"
+		intervals [84]:
+			xmin = 355.01
+			xmax = 356.36
+			text = "白色玫瑰花。"
+		intervals [85]:
+			xmin = 356.94
+			xmax = 358.73
+			text = "男士就红色玫瑰花。"
+		intervals [86]:
+			xmin = 359.64
+			xmax = 362.27
+			text = "然后，就有一些。"
+		intervals [87]:
+			xmin = 363.03
+			xmax = 368.27
+			text = "嗯，那个场地因为有，是草地嘛，然后就有一些椅子啊。"
+		intervals [88]:
+			xmin = 368.27
+			xmax = 369.86
+			text = "还有一些。"
+		intervals [89]:
+			xmin = 370.83
+			xmax = 371.96
+			text = "还有一些。"
+		intervals [90]:
+			xmin = 372.54
+			xmax = 373.79
+			text = "还有一些。"
+		intervals [91]:
+			xmin = 375.46
+			xmax = 377.2
+			text = "还有呃。"
+		intervals [92]:
+			xmin = 380.18
+			xmax = 380.9
+			text = "嗯，您说。"
+		intervals [93]:
+			xmin = 401.57
+			xmax = 402.22
+			text = "嗯。"
+		intervals [94]:
+			xmin = 404.4
+			xmax = 404.93
+			text = "对。"
+		intervals [95]:
+			xmin = 406.44
+			xmax = 406.94
+			text = "对。"
+		intervals [96]:
+			xmin = 414.56
+			xmax = 415.17
+			text = "嗯。"
+		intervals [97]:
+			xmin = 421.6
+			xmax = 422.16
+			text = "嗯。"
+		intervals [98]:
+			xmin = 449.19
+			xmax = 451.11
+			text = "但是我觉得我们的。"
+		intervals [99]:
+			xmin = 451.11
+			xmax = 453.83
+			text = "费用就会比较高。"
+		intervals [100]:
+			xmin = 454.89
+			xmax = 456.07
+			text = "呃，这样的。"
+		intervals [101]:
+			xmin = 462.27
+			xmax = 465.29
+			text = "费用的话，我是觉得我两百个人。"
+		intervals [102]:
+			xmin = 465.69
+			xmax = 467.69
+			text = "一，呃，两两百个人。"
+		intervals [103]:
+			xmin = 467.69
+			xmax = 470.12
+			text = "以一个人收两百块的样子。"
+		intervals [104]:
+			xmin = 470.12
+			xmax = 473.44
+			text = "但是如果这样的话，我们的预算就比较高了。"
+		intervals [105]:
+			xmin = 473.44
+			xmax = 476.02
+			text = "我开始是定的，四个。"
+		intervals [106]:
+			xmin = 476.02
+			xmax = 478.79
+			text = "小时的时间在周六。"
+		intervals [107]:
+			xmin = 479.64
+			xmax = 487.82
+			text = "这样我们的预算就没有那么高，而且我觉得物以稀为贵嘛，就可以把大家都聚在一个时间点的。"
+		intervals [108]:
+			xmin = 488.13
+			xmax = 489.6
+			text = "一个时间点上。"
+		intervals [109]:
+			xmin = 489.6
+			xmax = 492.44
+			text = "如果像像像你这样分散的话。"
+		intervals [110]:
+			xmin = 492.44
+			xmax = 495.8
+			text = "像你这样，你这样分散的话，他们就会错过。"
+		intervals [111]:
+			xmin = 517.71
+			xmax = 522.1
+			text = "但是我觉得这已经算最低的一个预算了，如果说。"
+		intervals [112]:
+			xmin = 522.1
+			xmax = 524.05
+			text = "再低的话，我们的。"
+		intervals [113]:
+			xmin = 524.05
+			xmax = 529.42
+			text = "提供，我们要提供场地，又要提供吃，还要一些其他的节目。"
+		intervals [114]:
+			xmin = 529.42
+			xmax = 531.95
+			text = "就，其实算是很低的。"
+		intervals [115]:
+			xmin = 536.1
+			xmax = 537.2
+			text = "一一百五嘛。"
+		intervals [116]:
+			xmin = 575.83
+			xmax = 576.15
+			text = "地。"
+		intervals [117]:
+			xmin = 603.54
+			xmax = 604.49
+			text = "晚餐的吗？"
+		intervals [118]:
+			xmin = 605.91
+			xmax = 606.65
+			text = "好的。"
+		intervals [119]:
+			xmin = 621.15
+			xmax = 623.97
+			text = "哦，我这边有一些，比如说。"
+		intervals [120]:
+			xmin = 623.97
+			xmax = 626.97
+			text = "啊，一些嘉宾的才艺表演，然后。"
+		intervals [121]:
+			xmin = 626.97
+			xmax = 634.01
+			text = "有半个小时的才艺表演，有一些嘉宾如果愿意的话，可以进行一个才艺表演，也可以吸吸引。"
+		intervals [122]:
+			xmin = 634.74
+			xmax = 640.07
+			text = "异性嘛，然后觉得他这个人的魅力所在，发现这个人的魅力所在，就。"
+		intervals [123]:
+			xmin = 640.38
+			xmax = 640.93
+			text = "对。"
+		intervals [124]:
+			xmin = 640.93
+			xmax = 645.62
+			text = "然后我觉得可以戴面具，因为现在的人都比较。"
+		intervals [125]:
+			xmin = 646.11
+			xmax = 649.1
+			text = "都比较那什么颜控，所以我觉得。"
+		intervals [126]:
+			xmin = 649.1
+			xmax = 651.74
+			text = "可以先戴面具，就没有那么。"
+		intervals [127]:
+			xmin = 651.74
+			xmax = 653.41
+			text = "多的视视感。"
+		intervals [128]:
+			xmin = 653.41
+			xmax = 655.22
+			text = "会影响人的选择。"
+		intervals [129]:
+			xmin = 657.36
+			xmax = 658.19
+			text = "嗯，你说。"
+		intervals [130]:
+			xmin = 663.18
+			xmax = 664.49
+			text = "个人选择吗？"
+		intervals [131]:
+			xmin = 686.96
+			xmax = 687.66
+			text = "嗯。"
+		intervals [132]:
+			xmin = 687.66
+			xmax = 693.17
+			text = "行吧，那我们就不强制，就是说愿意戴面具，其实我更。"
+		intervals [133]:
+			xmin = 693.17
+			xmax = 696.35
+			text = "建议他们戴面具，戴面具的话，会有。"
+		intervals [134]:
+			xmin = 696.35
+			xmax = 698.3
+			text = "一些意想不到的结果。"
+		intervals [135]:
+			xmin = 702.66
+			xmax = 703.4
+			text = "好的。"
+		intervals [136]:
+			xmin = 703.71
+			xmax = 706.9
+			text = "那还有一些跳舞，就是最后。"
+		intervals [137]:
+			xmin = 706.9
+			xmax = 710.42
+			text = "嗯，大概会，就是舞会进行了。"
+		intervals [138]:
+			xmin = 710.76
+			xmax = 717.11
+			text = "一半的时间的时候，我们可以有个十分钟的互动，他们也对自己的对。"
+		intervals [139]:
+			xmin = 717.45
+			xmax = 719.6
+			text = "自己选择的异性有一些了解。"
+		intervals [140]:
+			xmin = 719.6
+			xmax = 723.61
+			text = "然后大概十分钟的华尔兹，就是比较慢的。"
+		intervals [141]:
+			xmin = 723.61
+			xmax = 726.57
+			text = "不会的人也可以跟着节奏来舞动。"
+		intervals [142]:
+			xmin = 726.57
+			xmax = 727.88
+			text = "也没有那么尴尬。"
+		intervals [143]:
+			xmin = 728.19
+			xmax = 729.7
+			text = "呃，这个。"
+		intervals [144]:
+			xmin = 729.7
+			xmax = 732.14
+			text = "对，跟我有一，然后。"
+		intervals [145]:
+			xmin = 732.14
+			xmax = 733.52
+			text = "然后，这边。"
+		intervals [146]:
+			xmin = 733.89
+			xmax = 736.34
+			text = "呃，也有骑马的项目，但是。"
+		intervals [147]:
+			xmin = 736.8
+			xmax = 739.97
+			text = "但是这个骑马的话，肯定是要在白天。"
+		intervals [148]:
+			xmin = 740.67
+			xmax = 747.04
+			text = "这个骑马的项目的话，费用的话可能会有一点高，自费，可能需要他们自费。"
+		intervals [149]:
+			xmin = 747.04
+			xmax = 748.01
+			text = "就这个样子。"
+		intervals [150]:
+			xmin = 764.67
+			xmax = 770.39
+			text = "您刚刚说白天嘛，白天，其实我觉得我们可以做一整整天，也就是星期六。"
+		intervals [151]:
+			xmin = 770.39
+			xmax = 773.25
+			text = "星期六，但是，我们只提供晚餐。"
+		intervals [152]:
+			xmin = 773.25
+			xmax = 773.78
+			text = "早。"
+		intervals [153]:
+			xmin = 774.38
+			xmax = 776.15
+			text = "白天的话只提供。"
+		intervals [154]:
+			xmin = 776.15
+			xmax = 780.38
+			text = "提供饮料，这样，因为白天会口渴嘛，提供饮料，但是。"
+		intervals [155]:
+			xmin = 780.38
+			xmax = 780.81
+			text = "餐。"
+		intervals [156]:
+			xmin = 780.81
+			xmax = 783.84
+			text = "餐补的话就没有了，就是，没有吃的。"
+		intervals [157]:
+			xmin = 783.84
+			xmax = 785.86
+			text = "呃，有有下午茶啊，这种。"
+		intervals [158]:
+			xmin = 785.86
+			xmax = 786.59
+			text = "然后。"
+		intervals [159]:
+			xmin = 786.59
+			xmax = 789.14
+			text = "白天，因为我们是在草地嘛，也可以。"
+		intervals [160]:
+			xmin = 789.51
+			xmax = 790.87
+			text = "摆一些画板。"
+		intervals [161]:
+			xmin = 790.87
+			xmax = 797.6
+			text = "呃，有有一些想画画画画画画的人也可以就是去画画，然后我也觉得这是一个互动。"
+		intervals [162]:
+			xmin = 798.39
+			xmax = 799.55
+			text = "就是这个样子。"
+		intervals [163]:
+			xmin = 803.82
+			xmax = 809.12
+			text = "对，来的时候，其实他们报名的时候可以带一些礼品，就是自己的，觉得。"
+		intervals [164]:
+			xmin = 809.61
+			xmax = 813.14
+			text = "自自己觉得一些好好的小礼物，然后最终。"
+		intervals [165]:
+			xmin = 813.14
+			xmax = 815.66
+			text = "也不是说一定要牵手成功觉得。"
+		intervals [166]:
+			xmin = 815.66
+			xmax = 819.35
+			text = "可以给那个心仪的对象一一些小礼品，你觉得这个。"
+		intervals [167]:
+			xmin = 819.35
+			xmax = 820.54
+			text = "点怎么样呢？"
+		intervals [168]:
+			xmin = 820.54
+			xmax = 822.41
+			text = "他们自己准备的一些小礼品。"
+		intervals [169]:
+			xmin = 830.79
+			xmax = 831.71
+			text = "啊，您说。"
+		intervals [170]:
+			xmin = 834.36
+			xmax = 834.89
+			text = "对。"
+		intervals [171]:
+			xmin = 839.91
+			xmax = 840.39
+			text = "嗯。"
+		intervals [172]:
+			xmin = 842.88
+			xmax = 843.56
+			text = "对。"
+		intervals [173]:
+			xmin = 845.13
+			xmax = 846.82
+			text = "但是游湖的话。"
+		intervals [174]:
+			xmin = 846.82
+			xmax = 848.27
+			text = "但是游湖的话。"
+		intervals [175]:
+			xmin = 848.94
+			xmax = 853.43
+			text = "呃，可能是需要白天，晚上的话，我觉得会有一定的风险性。"
+		intervals [176]:
+			xmin = 853.43
+			xmax = 858.5
+			text = "比如说游游湖嘛，然后肯定是骑马和画板，是在白天。"
+		intervals [177]:
+			xmin = 869.02
+			xmax = 869.44
+			text = "啊。"
+		intervals [178]:
+			xmin = 874.08
+			xmax = 878.48
+			text = "唉，这个想法很不错呀，我如果晚上游湖的话，有别别有风味。"
+		intervals [179]:
+			xmin = 886.71
+			xmax = 891.65
+			text = "那我觉得我们可以定一个时间吧，就游湖的时间不要太长，十分钟怎么样？"
+		intervals [180]:
+			xmin = 891.65
+			xmax = 893.39
+			text = "十分钟的游湖。"
+		intervals [181]:
+			xmin = 893.39
+			xmax = 894.86
+			text = "就太长的话。"
+		intervals [182]:
+			xmin = 894.86
+			xmax = 895.87
+			text = "嗯，很。"
+		intervals [183]:
+			xmin = 897.25
+			xmax = 897.95
+			text = "左右。"
+		intervals [184]:
+			xmin = 898.29
+			xmax = 899.75
+			text = "对，我们的一个收入。"
+		intervals [185]:
+			xmin = 911.55
+			xmax = 914.3
+			text = "嗯，这个可以，白白天的话可以。"
+		intervals [186]:
+			xmin = 914.3
+			xmax = 914.67
+			text = "赏。"
+		intervals [187]:
+			xmin = 914.67
+			xmax = 916.28
+			text = "赏花，但是不允许。"
+		intervals [188]:
+			xmin = 916.83
+			xmax = 917.4
+			text = "摘。"
+		intervals [189]:
+			xmin = 920.49
+			xmax = 927.01
+			text = "但是晚上根本就看不清那个花呀，你怎么去赏花呢？我是觉得白天有画板的时候，你可以。"
+		intervals [190]:
+			xmin = 927.01
+			xmax = 931.91
+			text = "嗯，画一些风景啊，然后刚好有些花，有些花作衬托嘛。"
+		intervals [191]:
+			xmin = 938.19
+			xmax = 938.73
+			text = "好的。"
+		intervals [192]:
+			xmin = 943.23
+			xmax = 947.89
+			text = "呃，我是觉得下午茶，然后这样的费用应该也不会太贵。"
+		intervals [193]:
+			xmin = 947.89
+			xmax = 950.39
+			text = "你定的下午茶，比如说果汁啊，什么的。"
+		intervals [194]:
+			xmin = 950.7
+			xmax = 951.38
+			text = "但是就。"
+		intervals [195]:
+			xmin = 951.69
+			xmax = 952.73
+			text = "白天的话就。"
+		intervals [196]:
+			xmin = 952.73
+			xmax = 954.11
+			text = "尽量不提供。"
+		intervals [197]:
+			xmin = 954.11
+			xmax = 954.71
+			text = "餐。"
+		intervals [198]:
+			xmin = 955.23
+			xmax = 958.64
+			text = "就午餐啊，早餐什么的，只有晚上有餐补。"
+		intervals [199]:
+			xmin = 964.53
+			xmax = 965.75
+			text = "呃，可以。"
+		intervals [200]:
+			xmin = 973.59
+			xmax = 974.03
+			text = "嗯。"
+		intervals [201]:
+			xmin = 994.79
+			xmax = 995.46
+			text = "呃。"
+		intervals [202]:
+			xmin = 996.17
+			xmax = 1001.82
+			text = "我们开始匹配的话，就是依他们在网上的提交的自己的。"
+		intervals [203]:
+			xmin = 1001.82
+			xmax = 1004.47
+			text = "资料，然后性格的相同度，还有。"
+		intervals [204]:
+			xmin = 1004.47
+			xmax = 1007.59
+			text = "兴趣爱好等做一个了一个相关匹配。"
+		intervals [205]:
+			xmin = 1007.59
+			xmax = 1010.29
+			text = "就是说，达到百分之八十以上的人。"
+		intervals [206]:
+			xmin = 1010.29
+			xmax = 1014.04
+			text = "我们才会就是对他们进行一个匹配，如果这这对。"
+		intervals [207]:
+			xmin = 1014.04
+			xmax = 1017.44
+			text = "嗯，就觉得相处不怎么样，可以就在。"
+		intervals [208]:
+			xmin = 1018.05
+			xmax = 1020.82
+			text = "半个小时以内可以换，换换一个人。"
+		intervals [209]:
+			xmin = 1020.82
+			xmax = 1023.02
+			text = "进行一个了解，就这个样子。"
+		intervals [210]:
+			xmin = 1023.02
+			xmax = 1027.85
+			text = "并不是说一天的话就一定要对一个人进行一个了解，这样的话。"
+		intervals [211]:
+			xmin = 1028.61
+			xmax = 1030.51
+			text = "这样的话我觉得，嗯。"
+		intervals [212]:
+			xmin = 1031.1
+			xmax = 1032.71
+			text = "这个，这个。"
+		intervals [213]:
+			xmin = 1032.71
+			xmax = 1038.05
+			text = "这个他们相处的范围就不是特别的大，然后接触的人就不是特别的多。"
+		intervals [214]:
+			xmin = 1043.91
+			xmax = 1044.66
+			text = "一百五。"
+		intervals [215]:
+			xmin = 1046.64
+			xmax = 1047.97
+			text = "那你觉得还有。"
+		intervals [216]:
+			xmin = 1048.83
+			xmax = 1049.16
+			text = "你。"
+		intervals [217]:
+			xmin = 1053.96
+			xmax = 1054.41
+			text = "嗯。"
+		intervals [218]:
+			xmin = 1060.26
+			xmax = 1063.4
+			text = "唉，这个可以，三个的话，有有选择。"
+		intervals [219]:
+			xmin = 1067.4
+			xmax = 1069.8
+			text = "下次报名要重新收费用吗？"
+		intervals [220]:
+			xmin = 1069.8
+			xmax = 1071.86
+			text = "唉，我们这样嘛，不是，我刚刚说。"
+		intervals [221]:
+			xmin = 1071.86
+			xmax = 1074.89
+			text = "有个会员吗？会员就充五百块钱。"
+		intervals [222]:
+			xmin = 1074.89
+			xmax = 1075.8
+			text = "呃。"
+		intervals [223]:
+			xmin = 1075.8
+			xmax = 1077.32
+			text = "五百块钱可以。"
+		intervals [224]:
+			xmin = 1078.08
+			xmax = 1082.01
+			text = "四次，你觉得怎么样？四次还挺划算的，你看的第一一。"
+		intervals [225]:
+			xmin = 1082.01
+			xmax = 1084.31
+			text = "一次报名就一百五，两次的话，就。"
+		intervals [226]:
+			xmin = 1084.62
+			xmax = 1087.71
+			text = "就三百的样子了，然后四次，就是一。"
+		intervals [227]:
+			xmin = 1094.55
+			xmax = 1095.57
+			text = "不是啊，我。"
+		intervals [228]:
+			xmin = 1095.57
+			xmax = 1095.99
+			text = "三。"
+		intervals [229]:
+			xmin = 1095.99
+			xmax = 1101.38
+			text = "三三三个资料的话是在一天的时间了，但是我们这个会员就不限。"
+		intervals [230]:
+			xmin = 1101.38
+			xmax = 1105.19
+			text = "不限场次，我的意思是他可以来四次。"
+		intervals [231]:
+			xmin = 1105.68
+			xmax = 1107.92
+			text = "就相当于三四一十二十二。"
+		intervals [232]:
+			xmin = 1107.92
+			xmax = 1109.84
+			text = "十二十二个人的资料了。"
+		intervals [233]:
+			xmin = 1111.32
+			xmax = 1117.15
+			text = "这样会员的力度就比较大，然后也能激起人们的一个参与活动的。"
+		intervals [234]:
+			xmin = 1117.15
+			xmax = 1118.27
+			text = "一个心态嘛。"
+		intervals [235]:
+			xmin = 1137.96
+			xmax = 1138.52
+			text = "对。"
+		intervals [236]:
+			xmin = 1139.28
+			xmax = 1141.06
+			text = "嗯，然后我觉得。"
+		intervals [237]:
+			xmin = 1141.06
+			xmax = 1142.79
+			text = "还可以。"
+		intervals [238]:
+			xmin = 1142.79
+			xmax = 1147.58
+			text = "有一个，因为现在天气也比较炎热嘛，刚好在六七月份的样子。"
+		intervals [239]:
+			xmin = 1147.58
+			xmax = 1151.42
+			text = "嗯，旁边好像有个游泳馆，也可以提供，但是。"
+		intervals [240]:
+			xmin = 1151.42
+			xmax = 1155.86
+			text = "这个要收取额外的费用，还是说一个免费的提供，你觉得呢？"
+		intervals [241]:
+			xmin = 1157.4
+			xmax = 1158.3
+			text = "游泳。"
+		intervals [242]:
+			xmin = 1158.3
+			xmax = 1163.45
+			text = "对，游泳的话是，也是促进两个人互动的一个环节，亲亲密互动。"
+		intervals [243]:
+			xmin = 1164.66
+			xmax = 1166.6
+			text = "更容易来电啊，你不觉得吗？"
+		intervals [244]:
+			xmin = 1177.1
+			xmax = 1177.9
+			text = "啊。"
+		intervals [245]:
+			xmin = 1177.9
+			xmax = 1180.85
+			text = "这个，我们可以分。"
+		intervals [246]:
+			xmin = 1180.85
+			xmax = 1182.65
+			text = "三个，三个。"
+		intervals [247]:
+			xmin = 1182.65
+			xmax = 1186.07
+			text = "三个广场，第一个就是女性专门。"
+		intervals [248]:
+			xmin = 1186.53
+			xmax = 1191.08
+			text = "游泳的地方，然后第二个就男性，还有个三就是共共。"
+		intervals [249]:
+			xmin = 1191.42
+			xmax = 1192.22
+			text = "共同。"
+		intervals [250]:
+			xmin = 1192.22
+			xmax = 1200.74
+			text = "就是男女都可以进入的，看看自己嘛，是吧，你自己要是愿意去这个共共同场所的话，那肯定是。"
+		intervals [251]:
+			xmin = 1200.74
+			xmax = 1203.23
+			text = "有自己的一个心理承受度啊，是吧。"
+		intervals [252]:
+			xmin = 1213.17
+			xmax = 1214.54
+			text = "呃，我。"
+		intervals [253]:
+			xmin = 1218.96
+			xmax = 1219.76
+			text = "但是。"
+		intervals [254]:
+			xmin = 1226.88
+			xmax = 1230.73
+			text = "那那就干脆弄弄弄成一个场所，然后。"
+		intervals [255]:
+			xmin = 1230.73
+			xmax = 1234.15
+			text = "呃，一个场所，但一边是共同区域。"
+		intervals [256]:
+			xmin = 1234.15
+			xmax = 1235.54
+			text = "然后另一边就。"
+		intervals [257]:
+			xmin = 1237.56
+			xmax = 1243.27
+			text = "呃，贴贴贴贴两个标签嘛，一个是共同公公公共公共区域，另一个就是。"
+		intervals [258]:
+			xmin = 1243.27
+			xmax = 1245.51
+			text = "男女区域，就。"
+		intervals [259]:
+			xmin = 1245.51
+			xmax = 1250.75
+			text = "呃，男女区域也算一个公公共区，就是说他们各有各的，但是并不。"
+		intervals [260]:
+			xmin = 1251.12
+			xmax = 1256.35
+			text = "一定要产生一些互动，但公共区域就要产生一些互动，就是说。"
+		intervals [261]:
+			xmin = 1256.35
+			xmax = 1259.0
+			text = "必须要男女一起有这个意思。"
+		intervals [262]:
+			xmin = 1259.37
+			xmax = 1263.77
+			text = "这个意思可以吗？因为有些人可能游泳也不是那么好，然后。"
+		intervals [263]:
+			xmin = 1263.77
+			xmax = 1264.74
+			text = "呃。"
+		intervals [264]:
+			xmin = 1264.74
+			xmax = 1270.91
+			text = "就就他们各自的区域可以先练一下，然后再去公共区这个样子，你觉得怎么样呢？"
+		intervals [265]:
+			xmin = 1276.44
+			xmax = 1279.07
+			text = "我觉得是比较亲密的一个。"
+		intervals [266]:
+			xmin = 1291.56
+			xmax = 1293.38
+			text = "攀比嘛，什么，还是。"
+		intervals [267]:
+			xmin = 1302.63
+			xmax = 1303.43
+			text = "啊，您说。"
+		intervals [268]:
+			xmin = 1310.58
+			xmax = 1312.12
+			text = "嗯，保护嘛。"
+		intervals [269]:
+			xmin = 1312.12
+			xmax = 1312.6
+			text = "那。"
+		intervals [270]:
+			xmin = 1318.5
+			xmax = 1323.43
+			text = "但我觉得现在都是成年人了，还需要什么保护？现在女生都自立自强了呀。"
+		intervals [271]:
+			xmin = 1323.43
+			xmax = 1324.39
+			text = "然后只是是说。"
+		intervals [272]:
+			xmin = 1330.89
+			xmax = 1331.57
+			text = "呃。"
+		intervals [273]:
+			xmin = 1332.27
+			xmax = 1332.8
+			text = "是。"
+		intervals [274]:
+			xmin = 1334.28
+			xmax = 1335.29
+			text = "啊。"
+		intervals [275]:
+			xmin = 1343.18
+			xmax = 1345.02
+			text = "射把的话。"
+		intervals [276]:
+			xmin = 1351.95
+			xmax = 1357.8
+			text = "我觉得骑马，我觉得骑马就挺挺好的呀，起码就是两个人相互信任嘛，你看。"
+		intervals [277]:
+			xmin = 1357.8
+			xmax = 1358.93
+			text = "如果一个人。"
+		intervals [278]:
+			xmin = 1358.93
+			xmax = 1359.65
+			text = "他。"
+		intervals [279]:
+			xmin = 1363.5
+			xmax = 1364.37
+			text = "嗯。"
+		intervals [280]:
+			xmin = 1364.37
+			xmax = 1373.31
+			text = "我这次因为人数我觉得也还好，两百个两个百，现在目前只有两百个观众进行我们这个报名。"
+		intervals [281]:
+			xmin = 1373.31
+			xmax = 1374.77
+			text = "然后，如果后续。"
+		intervals [282]:
+			xmin = 1375.71
+			xmax = 1379.96
+			text = "觉得这个项目很不错的话，可以拓展一些其他的。"
+		intervals [283]:
+			xmin = 1380.45
+			xmax = 1383.07
+			text = "其他的项目，你觉得怎么样呢？"
+		intervals [284]:
+			xmin = 1383.07
+			xmax = 1385.44
+			text = "就是我觉得目前先定这些吧。"
+		intervals [285]:
+			xmin = 1385.44
+			xmax = 1389.19
+			text = "因为订多了的话，我们的预算也有一点大。"
+		intervals [286]:
+			xmin = 1389.19
+			xmax = 1390.64
+			text = "然后后面的话。"
+		intervals [287]:
+			xmin = 1390.64
+			xmax = 1393.53
+			text = "如果这个办得越来越好的话，可以。"
+		intervals [288]:
+			xmin = 1393.53
+			xmax = 1397.77
+			text = "慢慢的加加加快我们的一些项目，还有。"
+		intervals [289]:
+			xmin = 1397.77
+			xmax = 1400.06
+			text = "一些场景扩大也可以啊。"
+		intervals [290]:
+			xmin = 1407.33
+			xmax = 1412.87
+			text = "嗯，送一些小礼送，我们也可以送，最最终牵手成功，我们可以送。"
+		intervals [291]:
+			xmin = 1413.21
+			xmax = 1415.21
+			text = "一些小礼品嘛，比如说。"
+		intervals [292]:
+			xmin = 1415.21
+			xmax = 1418.55
+			text = "没有参加会员的，我们送一些普通的小礼品。"
+		intervals [293]:
+			xmin = 1418.55
+			xmax = 1421.69
+			text = "比如说一些杯子啊，就一辈子的意思嘛。"
+		intervals [294]:
+			xmin = 1422.32
+			xmax = 1422.94
+			text = "呃。"
+		intervals [295]:
+			xmin = 1423.47
+			xmax = 1426.19
+			text = "对，还还可以写一些，写就是。"
+		intervals [296]:
+			xmin = 1426.59
+			xmax = 1430.12
+			text = "一些小礼品，但是如果会员的话，我们就要。"
+		intervals [297]:
+			xmin = 1430.46
+			xmax = 1434.55
+			text = "扩展一下力度了，然后就说，送机票去三亚。"
+		intervals [298]:
+			xmin = 1434.55
+			xmax = 1437.69
+			text = "然后这个机票其实也可以，然后。"
+		intervals [299]:
+			xmin = 1437.69
+			xmax = 1440.66
+			text = "让他们几日游啊，也也这这样的。"
+		intervals [300]:
+			xmin = 1440.66
+			xmax = 1444.31
+			text = "因为我觉得会会员的话，相比来说还是。"
+		intervals [301]:
+			xmin = 1444.92
+			xmax = 1447.67
+			text = "对他们来说，还是挺划算的。"
+		intervals [302]:
+			xmin = 1447.67
+			xmax = 1448.35
+			text = "因为。"
+		intervals [303]:
+			xmin = 1448.35
+			xmax = 1449.4
+			text = "怎么说呢？"
+		intervals [304]:
+			xmin = 1449.4
+			xmax = 1453.02
+			text = "有些人不可能见一次面，就牵手成功的。"
+		intervals [305]:
+			xmin = 1453.02
+			xmax = 1455.17
+			text = "可能还是要相处几次。"
+		intervals [306]:
+			xmin = 1455.17
+			xmax = 1459.43
+			text = "然后我这边也会尽力的去说服他们参加这个会员制。"
+		intervals [307]:
+			xmin = 1459.43
+			xmax = 1462.17
+			text = "因为会员制，这就算你一次牵手成功了。"
+		intervals [308]:
+			xmin = 1462.17
+			xmax = 1463.04
+			text = "后面送了小。"
+		intervals [309]:
+			xmin = 1463.04
+			xmax = 1464.67
+			text = "送了礼品也可以把你。"
+		intervals [310]:
+			xmin = 1464.67
+			xmax = 1469.93
+			text = "报名的这个费用也给挣回来了，也还是蛮划算的，这个样子。"
+		intervals [311]:
+			xmin = 1483.11
+			xmax = 1484.51
+			text = "呃，我们刚刚选的场。"
+		intervals [312]:
+			xmin = 1484.51
+			xmax = 1490.83
+			text = "场场地就很不错啊，因为我们选的是一个公园嘛，然后公园晚上散步的人也蛮多的。"
+		intervals [313]:
+			xmin = 1490.83
+			xmax = 1492.07
+			text = "到时候。"
+		intervals [314]:
+			xmin = 1492.07
+			xmax = 1493.12
+			text = "各种。"
+		intervals [315]:
+			xmin = 1493.58
+			xmax = 1497.32
+			text = "不同年龄段的人都会过来看到这个。"
+		intervals [316]:
+			xmin = 1497.32
+			xmax = 1500.68
+			text = "一个活动他们也可以进行一个宣传，然后。"
+		intervals [317]:
+			xmin = 1500.68
+			xmax = 1503.23
+			text = "这是一个方面，第二个方面就是说。"
+		intervals [318]:
+			xmin = 1503.23
+			xmax = 1509.33
+			text = "我们可以拍一些纪录片，就是他们的一些互动，以后发到我们的网上。"
+		intervals [319]:
+			xmin = 1509.33
+			xmax = 1509.81
+			text = "携手。"
+		intervals [320]:
+			xmin = 1509.81
+			xmax = 1511.05
+			text = "携手网上去。"
+		intervals [321]:
+			xmin = 1511.05
+			xmax = 1513.13
+			text = "然后也可以进行一个宣传。"
+		intervals [322]:
+			xmin = 1513.5
+			xmax = 1518.06
+			text = "还可以跟这些报名的人来说，可以叫他们身边的朋友。"
+		intervals [323]:
+			xmin = 1518.06
+			xmax = 1519.13
+			text = "也可以。"
+		intervals [324]:
+			xmin = 1519.13
+			xmax = 1524.14
+			text = "因为让他身边朋友进行来一个报名的话，我们也可以送一些小礼品嘛。"
+		intervals [325]:
+			xmin = 1524.45
+			xmax = 1525.31
+			text = "就这个样子。"
+		intervals [326]:
+			xmin = 1525.31
+			xmax = 1529.33
+			text = "这是我觉得可以宣传的三个途径。"
+		intervals [327]:
+			xmin = 1530.12
+			xmax = 1532.41
+			text = "嗯，还有的话。"
+		intervals [328]:
+			xmin = 1532.41
+			xmax = 1535.6
+			text = "呃，目前的话我这边就是这三个了。"
+		intervals [329]:
+			xmin = 1537.5
+			xmax = 1538.31
+			text = "呃，你。"
+		intervals [330]:
+			xmin = 1547.16
+			xmax = 1548.08
+			text = "嗯，你说。"
+		intervals [331]:
+			xmin = 1549.95
+			xmax = 1554.32
+			text = "嗯，也不也也不是说要放一些歌，我觉得一些很慢的。"
+		intervals [332]:
+			xmin = 1554.32
+			xmax = 1556.72
+			text = "轻音乐就可以啊，现在。"
+		intervals [333]:
+			xmin = 1557.24
+			xmax = 1559.18
+			text = "报名的人的话还是。"
+		intervals [334]:
+			xmin = 1590.39
+			xmax = 1596.17
+			text = "嗯，可以，我们可以做一些海报放在那里，如果有人来询问的话，我们可以给他们这个。"
+		intervals [335]:
+			xmin = 1598.88
+			xmax = 1601.95
+			text = "哦，对，然后可以进入我们携携手网。"
+		intervals [336]:
+			xmin = 1601.95
+			xmax = 1603.61
+			text = "然后进行一个报名，也可以。"
+		intervals [337]:
+			xmin = 1608.66
+			xmax = 1611.71
+			text = "对，传单的话，好的，传单我这边记下来了。"
+		intervals [338]:
+			xmin = 1617.27
+			xmax = 1622.02
+			text = "呃，可以的，然后这个这个也不错，我到时候会。"
+		intervals [339]:
+			xmin = 1622.02
+			xmax = 1624.4
+			text = "把这个宣传方式进行一个。"
+		intervals [340]:
+			xmin = 1624.4
+			xmax = 1625.22
+			text = "补录。"
+		intervals [341]:
+			xmin = 1625.22
+			xmax = 1627.79
+			text = "然后，还还还有的话。"
+		intervals [342]:
+			xmin = 1627.79
+			xmax = 1628.85
+			text = "呃。"
+		intervals [343]:
+			xmin = 1628.85
+			xmax = 1632.41
+			text = "还还还有的话，您这边还有什么疑问吗？"
+		intervals [344]:
+			xmin = 1640.47
+			xmax = 1641.13
+			text = "嗯。"
+		intervals [345]:
+			xmin = 1649.55
+			xmax = 1656.01
+			text = "呃，我这边设置了一些问题，在网上他们就进行了个提交，因为现在的网也挺。"
+		intervals [346]:
+			xmin = 1656.01
+			xmax = 1661.15
+			text = "挺比较方便的嘛，然后我设置了一些问题，问他们的兴趣爱好，以及。"
+		intervals [347]:
+			xmin = 1661.15
+			xmax = 1662.67
+			text = "他们的地址。"
+		intervals [348]:
+			xmin = 1662.67
+			xmax = 1666.33
+			text = "呃，还有一些，对于未来的期望值，这个样子。"
+		intervals [349]:
+			xmin = 1666.33
+			xmax = 1668.07
+			text = "然后再做了一些。"
+		intervals [350]:
+			xmin = 1668.07
+			xmax = 1673.52
+			text = "相同的匹配度，他们就自动匹配上了，就这个样子，然后他们进来的时候会拿一些。"
+		intervals [351]:
+			xmin = 1673.52
+			xmax = 1677.29
+			text = "号码，比如说你是几号，然后您对应的。"
+		intervals [352]:
+			xmin = 1677.66
+			xmax = 1680.71
+			text = "会是几号，比如说你是一号，你对应的是。"
+		intervals [353]:
+			xmin = 1680.71
+			xmax = 1682.16
+			text = "三四号选。"
+		intervals [354]:
+			xmin = 1682.16
+			xmax = 1686.85
+			text = "选手，然后你可以跟三号选手先先约个短短暂的会。"
+		intervals [355]:
+			xmin = 1686.85
+			xmax = 1693.4
+			text = "然后你觉得不怎么样的话，你就可以选选四号选手约个短暂的会，一天的话，其实三个人。"
+		intervals [356]:
+			xmin = 1693.89
+			xmax = 1698.11
+			text = "约三个人其实是完全足够的，然后了解一个人，你觉得。"
+		intervals [357]:
+			xmin = 1698.11
+			xmax = 1702.51
+			text = "半个小时，或或者两三个小时都都可以，相处两三个小时。"
+		intervals [358]:
+			xmin = 1703.61
+			xmax = 1703.93
+			text = "这。"
+		intervals [359]:
+			xmin = 1721.21
+			xmax = 1721.82
+			text = "嗯。"
+		intervals [360]:
+			xmin = 1727.13
+			xmax = 1727.72
+			text = "好的。"
+		intervals [361]:
+			xmin = 1730.64
+			xmax = 1731.21
+			text = "好的。"
+		intervals [362]:
+			xmin = 1897.29
+			xmax = 1899.14
+			text = "好的，我这边，嗯。"
+		intervals [363]:
+			xmin = 1899.14
+			xmax = 1901.72
+			text = "到时候做一个详细的规划，然后。"
+		intervals [364]:
+			xmin = 1902.12
+			xmax = 1904.12
+			text = "就发到您的邮件。"
+		intervals [365]:
+			xmin = 1904.52
+			xmax = 1906.52
+			text = "然后，您注意查收一下。"
